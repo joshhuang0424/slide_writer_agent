@@ -1,0 +1,102 @@
+{
+  "slide_id": "13",
+  "section": "Market Analysis",
+  "purpose": "To show the significant drop in new car purchase intent across EU markets after COVID-19 lockdowns.",
+  "narrative_role": "Evidence",
+  "title": "New car purchase intent shows significant drops across all EU markets after the 2nd COVID-19-related lockdowns",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of percentage changes in purchase intent before and after COVID-19 lockdowns across different EU countries.",
+  "data_points": [
+    {
+      "country": "UK",
+      "change": -29
+    },
+    {
+      "country": "Germany",
+      "change": -15
+    },
+    {
+      "country": "France",
+      "change": -9
+    },
+    {
+      "country": "Italy",
+      "change": -36
+    }
+  ],
+  "cta": null,
+  "layout": "Horizontal comparison of bar charts",
+  "layout_type": "grid",
+  "content_zones": {
+    "header": "top",
+    "charts": "middle",
+    "notes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "top-left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "top-center-left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "top-center-right"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "normal"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Purchase intent new cars vs. pre-COVID-19 level",
+    "x_axis_label": "Time periods",
+    "y_axis": [
+      "Percentage points"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional": {
+    "_why_unknown": "The font family is not specified in the image.",
+    "key_visual_elements": "Flags of countries, percentage changes in purchase intent"
+  }
+}

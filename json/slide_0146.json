@@ -1,0 +1,134 @@
+{
+  "slide_id": "8",
+  "section": "Challenges during COVID-19",
+  "purpose": "To highlight the significant challenges faced by working parents during full school closures.",
+  "narrative_role": "Informative",
+  "title": "Working parents in countries with full school closures cite the most significant challenges",
+  "bullets": [
+    {
+      "highlight": "~2X",
+      "text": "Working parents in countries with school closures report more significant challenges than counterparts in countries where schools remain open"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "50% of respondents cite workplace health & safety as a significant challenge during full school closures"
+  ],
+  "cta": null,
+  "layout": "Split",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Text and highlight",
+    "right": "Table and additional text"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Acute challenges include mental health and career progression",
+      "description": "Percentage of respondents considering each factor a significant challenge during COVID-19",
+      "headers": [
+        "",
+        "Full school closures",
+        "Partial school closures",
+        "No school closures"
+      ],
+      "rows": [
+        {
+          "row_label": "Workplace health & safety",
+          "cells": [
+            "50%",
+            "27%",
+            "23%"
+          ]
+        },
+        {
+          "row_label": "Child/family care",
+          "cells": [
+            "51%",
+            "26%",
+            "35%"
+          ]
+        },
+        {
+          "row_label": "Homeschooling",
+          "cells": [
+            "50%",
+            "28%",
+            "37%"
+          ]
+        },
+        {
+          "row_label": "Mental health",
+          "cells": [
+            "45%",
+            "24%",
+            "20%"
+          ]
+        },
+        {
+          "row_label": "Career progression",
+          "cells": [
+            "44%",
+            "25%",
+            "22%"
+          ]
+        },
+        {
+          "row_label": "Workload increases",
+          "cells": [
+            "40%",
+            "20%",
+            "26%"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "Grid with color coding"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or infographic details outside of table structure detected."
+  }
+}

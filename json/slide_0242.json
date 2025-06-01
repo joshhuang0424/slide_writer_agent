@@ -1,0 +1,143 @@
+{
+  "slide_id": "73",
+  "section": "Client vignette no.1",
+  "purpose": "Identify sources of fundamental and perception-driven undervaluation.",
+  "narrative_role": "Analysis of valuation differences.",
+  "title": "Analysis identifies main sources of fundamental and perception driven undervaluation",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of P/E valuation multiples with industry averages and client specifics.",
+  "data_points": [
+    "100.0",
+    "3.9",
+    "1.0",
+    "7.6",
+    "3.7",
+    "3.3",
+    "3.3",
+    "77.1",
+    "7.6",
+    "10.3",
+    "59.3"
+  ],
+  "cta": null,
+  "layout": "Two-section with chart and text.",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Chart showing differences in P/E valuation multiples.",
+    "right": "Text box explaining perception/anticipation discount reasons."
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "P/E multiple",
+      "position": "bottom left"
+    },
+    {
+      "type": "text_box",
+      "label": "Client example",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key figures and differences."
+  },
+  "design_language": "Professional and analytical with emphasis on data.",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Relative 100 P/E Valuation Multiple %",
+    "x_axis_label": "Categories",
+    "y_axis": [
+      "P/E Valuation Multiple Percentage"
+    ],
+    "values": [
+      {
+        "category": "Average Industry P/E",
+        "value": 100.0
+      },
+      {
+        "category": "Lower Margin",
+        "value": 3.9
+      },
+      {
+        "category": "Less (Profitable) Growth",
+        "value": 1.0
+      },
+      {
+        "category": "Segment Discount",
+        "value": 7.6
+      },
+      {
+        "category": "Lower Quick Ratio",
+        "value": 3.7
+      },
+      {
+        "category": "Higher Leverage",
+        "value": 3.3
+      },
+      {
+        "category": "Payout",
+        "value": 3.3
+      },
+      {
+        "category": "Client Modeled P/E",
+        "value": 77.1
+      },
+      {
+        "category": "Decline in Perception Div.A Net Gap Income",
+        "value": 7.6
+      },
+      {
+        "category": "Client actual P/E",
+        "value": 10.3
+      },
+      {
+        "category": "Client 3-yr average P/E",
+        "value": 59.3
+      }
+    ],
+    "annotations": [
+      {
+        "text": "Based on scenario of EBITDA drop in Div A",
+        "position": "over Client Modeled P/E"
+      },
+      {
+        "text": "Approximately ~10% perception discount, mainly due to: Low transparency/consistency, Low value creation focus, Lack of capital discipline, Planning quality …",
+        "position": "right"
+      }
+    ],
+    "source": "Compustat; Reuters; BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "No pyramid infographic or table is present on this slide."
+  }
+}

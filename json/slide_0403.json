@@ -1,0 +1,118 @@
+{
+  "slide_id": "3",
+  "section": "Table of Contents",
+  "purpose": "Outline key focus areas",
+  "narrative_role": "Overview",
+  "title": "TABLE OF CONTENTS",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "4-column grid",
+  "layout_type": "multi-column",
+  "content_zones": {
+    "columns": 4,
+    "rows": 5
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 8,
+    "emphasis_rule": "Section headers emphasized with bold"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "#004c41",
+    "accent": "#6cc17e",
+    "background": "#ffffff"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Table of Contents",
+      "description": "Highlights main focus areas and activities",
+      "headers": [
+        "Section",
+        "Key Activities"
+      ],
+      "rows": [
+        {
+          "row_label": "Team Health & Safety",
+          "cells": [
+            "1",
+            "A: Reduce risk of transmission",
+            "B: Support those who are/may be infected",
+            "C: Reduce stress and boost morale",
+            "D: Ensure compliance with regulatory requirements"
+          ]
+        },
+        {
+          "row_label": "Business Strength",
+          "cells": [
+            "2",
+            "A: Preserve top line and build trust with customers",
+            "B: Reinforce ability to supply",
+            "C: Adapt resources to meet business needs",
+            "D: Monitor & respond to market and competitive dynamics",
+            "E: Prepare for bounce back scenarios"
+          ]
+        },
+        {
+          "row_label": "Financial Resilience",
+          "cells": [
+            "3",
+            "A: Manage cash and liquidity",
+            "B: Ensure cost discipline",
+            "C: Revise financial plan and perform scenario-based stress tests"
+          ]
+        },
+        {
+          "row_label": "Execution Clarity",
+          "cells": [
+            "4",
+            "A: Coordinate and scale response and planning adaptively",
+            "B: Engage the organization",
+            "C: Empower the team",
+            "D: Lead with purpose & integrity"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "simple grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No charts or complex visuals present that require further explanation.",
+    "source_reference": "https://www.bcg.com/featured-insights/coronavirus.aspx"
+  }
+}

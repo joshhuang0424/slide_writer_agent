@@ -1,0 +1,133 @@
+{
+  "slide_id": "1",
+  "section": "Climate Innovation",
+  "purpose": "To present different approaches to climate innovation based on technology maturity and business models.",
+  "narrative_role": "Explanatory",
+  "title": "Multiple Approaches to Climate Innovation",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Matrix layout to categorize approaches by business model and technology focus.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-by-two matrix",
+  "layout_type": "Grid",
+  "content_zones": {
+    "top": "Title",
+    "center": "Matrix",
+    "left": "Vertical labels",
+    "bottom": "Horizontal labels"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "RE-IMAGINE",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "INVENT",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "RE-ENGINEER",
+      "position": "bottom-left"
+    },
+    {
+      "type": "icon",
+      "label": "REBOOT",
+      "position": "bottom-right"
+    },
+    {
+      "type": "text",
+      "label": "BUSINESS MODEL",
+      "position": "left"
+    },
+    {
+      "type": "text",
+      "label": "TECHNOLOGY",
+      "position": "bottom"
+    },
+    {
+      "type": "text",
+      "label": "BREAK-OUT GROWTH",
+      "position": "right"
+    },
+    {
+      "type": "text",
+      "label": "TRANSFORMATION",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key terms in green"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "White",
+    "accent": "Green",
+    "background": "Dark"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Approaches to Climate Innovation",
+      "description": "Matrix categorizing innovation approaches by business model and technology focus.",
+      "headers": [
+        "Create new business model or market",
+        "Improve existing business models or market"
+      ],
+      "rows": [
+        {
+          "row_label": "Scale-up",
+          "cells": [
+            "RE-IMAGINE",
+            "RE-ENGINEER"
+          ]
+        },
+        {
+          "row_label": "Breakthrough",
+          "cells": [
+            "INVENT",
+            "REBOOT"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "2D grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or chart details are present in the slide. Infographic type is not applicable as no pyramid or similar structure is present."
+  }
+}

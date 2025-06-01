@@ -1,0 +1,170 @@
+{
+  "slide_id": "19",
+  "section": "Case Study",
+  "purpose": "To provide clients with a segmentation analysis and deep dive into customer-specific traits and spending habits.",
+  "narrative_role": "Informational",
+  "title": "Customer Lifestyle Segmentation",
+  "bullets": [
+    {
+      "highlight": "Persona Segmentation",
+      "text": "Using k-means algorithm, segmentation helps create different personas for understanding customer behavior, targeting and meeting campaign objectives"
+    },
+    {
+      "highlight": "Persona development based on spend lifestyle",
+      "text": "Post segmentation deep dive into their traits and spend behavior for further understanding"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven segmentation and persona development.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "left": "Persona segmentation with images and bullet points.",
+    "right": "Detailed persona development with charts and data."
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Weekend Getaway",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Luxury",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Families",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Solo",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold keywords"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "Pie",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Families with kids"
+      },
+      {
+        "id": "L1",
+        "label": "Shopping Oriented"
+      },
+      {
+        "id": "L2",
+        "label": "Experience Seekers"
+      },
+      {
+        "id": "L3",
+        "label": "Weekend Getaway"
+      },
+      {
+        "id": "L4",
+        "label": "Luxury Lovers"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Singapore Segments",
+      "description": "Client penetration and growth metrics.",
+      "headers": [
+        "Segment",
+        "Active",
+        "Inactive",
+        "Client Growth"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Families with kids",
+            "10%",
+            "10%",
+            "+15%"
+          ]
+        },
+        {
+          "cells": [
+            "Shopping Oriented",
+            "15%",
+            "5%",
+            "+10%"
+          ]
+        },
+        {
+          "cells": [
+            "Experience Seekers",
+            "15%",
+            "30%",
+            "+5%"
+          ]
+        },
+        {
+          "cells": [
+            "Weekend Getaway",
+            "10%",
+            "5%",
+            "-5%"
+          ]
+        },
+        {
+          "cells": [
+            "Luxury Lovers",
+            "25%",
+            "2%",
+            "+15%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Chart values and annotations are not clearly visible in the image."
+  }
+}

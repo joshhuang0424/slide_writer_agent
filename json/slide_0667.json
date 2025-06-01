@@ -1,0 +1,132 @@
+{
+  "slide_id": "7",
+  "section": "Scenario Analysis",
+  "purpose": "To present different scenarios for industry development and focus on the most likely one.",
+  "narrative_role": "Comparison",
+  "title": "We looked at three scenarios for how the industry could develop and focused on the most likely one",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of scenarios",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with table",
+  "layout_type": "content with header",
+  "content_zones": {
+    "header": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted scenario"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparative analysis of conservative, most likely, and aggressive scenarios.",
+      "headers": [
+        "Selected drivers",
+        "Conservative",
+        "Most likely",
+        "Aggressive"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Battery costs",
+            "Decrease 2% p.a.",
+            "Decrease 5% p.a. - in line with consensus estimates",
+            "Decrease 10% p.a."
+          ]
+        },
+        {
+          "cells": [
+            "Consumer EV adoption",
+            "Hesitant",
+            "Gradual - driven by steady infrastructure expansion",
+            "Rapid"
+          ]
+        },
+        {
+          "cells": [
+            "Energy prices (gas, electricity)",
+            "Gas down, electricity up (gas: $1.50/gallon; electricity: 0.15 $/kWh)",
+            "Constant (gas: 2.50 $/gallon; electricity: 0.12 $/kWh)",
+            "Gas up, electricity down (gas: $3.50/gallon; electricity: 0.10 $/kWh)"
+          ]
+        },
+        {
+          "cells": [
+            "CO₂ emissions regulation (e.g., CAFE)",
+            "Targets are relaxed",
+            "Currently expected regulation",
+            "Targets are tightened"
+          ]
+        },
+        {
+          "cells": [
+            "Autonomous Vehicle components costs",
+            "Decrease 5% p.a. (2025-2035)",
+            "Decrease 12% p.a. (2025-2035), in line with similar technologies",
+            "Decrease 20% p.a. (2025-2035)"
+          ]
+        },
+        {
+          "cells": [
+            "Commercial deployment of self-driving on-demand services",
+            "Deployable for mass use in cities by 2027",
+            "Deployable for mass use in cities by 2025",
+            "Deployable for mass use in cities by 2021"
+          ]
+        },
+        {
+          "cells": [
+            "AV legislative framework",
+            "Worked out by 2027",
+            "Worked out by 2025",
+            "Worked out by 2021"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No specific bullet points or charts detected; table contains all detailed information.",
+    "highlighted_section": "Most likely scenario is highlighted with a red dotted border."
+  }
+}

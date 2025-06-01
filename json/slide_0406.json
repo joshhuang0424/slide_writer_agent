@@ -1,0 +1,78 @@
+{
+  "slide_id": "6",
+  "section": "BUSINESS STRENGTH",
+  "purpose": "Outline strategies to enhance business resilience and response capabilities.",
+  "narrative_role": "Informative",
+  "title": "Business Strength (2 of 2)",
+  "bullets": [
+    {
+      "highlight": "C",
+      "text": "Adapt resources to meet business needs"
+    },
+    {
+      "highlight": "D",
+      "text": "Monitor & respond to market and competitive dynamics"
+    },
+    {
+      "highlight": "E",
+      "text": "Prepare for bounce-back scenarios"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Strategic alignment and resource optimization.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column",
+  "layout_type": "Grid",
+  "content_zones": {
+    "left": "Adapt resources",
+    "middle": "Monitor & respond",
+    "right": "Prepare for bounce-back"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight letters C, D, E"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "White",
+    "background": "Light green"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family could not be determined from image. Infographic is not applicable."
+  }
+}

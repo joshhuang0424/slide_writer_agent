@@ -1,0 +1,80 @@
+{
+  "slide_id": "23",
+  "section": "目錄",
+  "purpose": "提供簡報的目錄概覽",
+  "narrative_role": "outline",
+  "title": "目錄",
+  "bullets": [
+    {
+      "highlight": "BCG TSR方案",
+      "text": ""
+    },
+    {
+      "highlight": "Smart Multiple® 以及iTSR工具",
+      "text": ""
+    },
+    {
+      "highlight": "TSR 專案案例流程",
+      "text": ""
+    },
+    {
+      "highlight": "TSR 成功案例分享：Microsoft, Sony",
+      "text": ""
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "title",
+    "right": "bullets"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight"
+  },
+  "design_language": "clean and professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體家族未標示，僅能判定為大中小字體風格"
+  }
+}

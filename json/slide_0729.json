@@ -1,0 +1,138 @@
+{
+  "slide_id": "13",
+  "section": "Next Step",
+  "purpose": "To outline strategies for tracking and optimizing acquisition.",
+  "narrative_role": "Informative",
+  "title": "Next Step: continue to track and optimize acquisition strategies",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Monthly reports"
+    },
+    {
+      "highlight": "",
+      "text": "Long-term spend potential trend charts and benchmarking for newly acquired customers"
+    },
+    {
+      "highlight": "",
+      "text": "Deep dive into card activation and spend improvement opportunities"
+    },
+    {
+      "highlight": "",
+      "text": "Quarterly project workshops"
+    },
+    {
+      "highlight": "",
+      "text": "Discussion on how to implement insights"
+    },
+    {
+      "highlight": "",
+      "text": "Understand the issuer’s key business issues and pain points regarding new customers and existing customers"
+    },
+    {
+      "highlight": "",
+      "text": "Ongoing evaluation of the new initiative’s impact on newly acquired customers’ long-term spend"
+    },
+    {
+      "highlight": "",
+      "text": "Ongoing evaluation of high value behavior conversion rate"
+    },
+    {
+      "highlight": "",
+      "text": "Drive total cross-border spend"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Strategic planning",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column with icons",
+  "layout_type": "informational",
+  "content_zones": {
+    "left": {
+      "type": "text",
+      "content": [
+        "Monthly reports",
+        "Long-term spend potential trend charts and benchmarking for newly acquired customers",
+        "Deep dive into card activation and spend improvement opportunities"
+      ]
+    },
+    "center": {
+      "type": "text",
+      "content": [
+        "Quarterly project workshops",
+        "Discussion on how to implement insights",
+        "Understand the issuer’s key business issues and pain points regarding new customers and existing customers"
+      ]
+    },
+    "right": {
+      "type": "text",
+      "content": [
+        "Ongoing evaluation of the new initiative’s impact on newly acquired customers’ long-term spend",
+        "Ongoing evaluation of high value behavior conversion rate",
+        "Drive total cross-border spend"
+      ]
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "magnifying glass with graph",
+      "position": "left column"
+    },
+    {
+      "type": "icon",
+      "label": "three people",
+      "position": "center column"
+    },
+    {
+      "type": "icon",
+      "label": "bar chart with dollar sign",
+      "position": "right column"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FF5F00",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "none",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No numerical data or chart present in the slide."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slide_id": "70",
+  "section": "Analysis Overview",
+  "purpose": "To explain the development of a regression model for identifying drivers of valuation multiples.",
+  "narrative_role": "Informative",
+  "title": "SmartMultiple® regression developed to identify what drives differences in valuation multiples in a sector",
+  "bullets": [
+    {
+      "highlight": "12 companies",
+      "text": "Reference set defined for regression analysis"
+    },
+    {
+      "highlight": "10 years",
+      "text": "Reference set defined for regression analysis"
+    },
+    {
+      "highlight": "200+ potential variables tested",
+      "text": "To determine best fit equation"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Regression analysis",
+  "data_points": [
+    "2004-2013 annual data"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "left": "Textual information and bullet points",
+    "right": "Scatter plot chart"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Filter",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted numbers and phrases"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "scatter",
+    "title": "Strong fit between predicted and actual multiples",
+    "x_axis_label": "Predicted valuation multiple",
+    "y_axis": [
+      "Actual multiple"
+    ],
+    "values": [],
+    "annotations": [
+      "Adjusted R² = 84%"
+    ],
+    "source": "Compustat; BCG ValueScience® center"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Growth"
+      },
+      {
+        "id": "L1",
+        "label": "Profitability"
+      },
+      {
+        "id": "L2",
+        "label": "Return & B/S"
+      },
+      {
+        "id": "L3",
+        "label": "Leverage"
+      },
+      {
+        "id": "L4",
+        "label": "Others"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No detailed data values available for chart or table rows."
+  }
+}

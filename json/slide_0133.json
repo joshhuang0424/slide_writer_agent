@@ -1,0 +1,145 @@
+{
+  "slide_id": "28",
+  "section": "Transportation Changes",
+  "purpose": "To present regional variations in transportation mode changes before and after COVID-19.",
+  "narrative_role": "Data Presentation",
+  "title": "Change of mode mix before and after COVID-19 shows largest regional variation for public transport",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of transportation mode changes across regions.",
+  "data_points": [
+    "Private car: EU 0.5, UK 0.7, Germany -0.1, Italy 0.8, France 0.7",
+    "Public transport: EU 0.2, UK -2.4, Germany 1.2, Italy 0.8, France 1.1",
+    "Walking or biking: EU 6.2, UK 8.2, Germany 5.1, Italy 5.7, France 6.0",
+    "Micromobility: EU 1.9, UK 0.8, Germany 1.4, Italy 4.1, France 1.2",
+    "Car sharing: EU 1.4, UK 0.7, Germany 1.0, Italy 2.9, France 1.1",
+    "Ride hailing: EU 1.2, UK 0, Germany 1.1, Italy 3.0, France 0.8"
+  ],
+  "cta": null,
+  "layout": "Full-page chart with annotations",
+  "layout_type": "Chart-focused",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "footnotes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "EU",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "Bar Chart",
+    "title": "Change of transportation modes when returning to 'next normal' vs. before COVID-19",
+    "x_axis_label": "Transportation Mode",
+    "y_axis": [
+      "Percentage Change"
+    ],
+    "values": [
+      {
+        "region": "EU",
+        "private_car": 0.5,
+        "public_transport": 0.2,
+        "walking_biking": 6.2,
+        "micromobility": 1.9,
+        "car_sharing": 1.4,
+        "ride_hailing": 1.2
+      },
+      {
+        "region": "UK",
+        "private_car": 0.7,
+        "public_transport": -2.4,
+        "walking_biking": 8.2,
+        "micromobility": 0.8,
+        "car_sharing": 0.7,
+        "ride_hailing": 0
+      },
+      {
+        "region": "Germany",
+        "private_car": -0.1,
+        "public_transport": 1.2,
+        "walking_biking": 5.1,
+        "micromobility": 1.4,
+        "car_sharing": 1.0,
+        "ride_hailing": 1.1
+      },
+      {
+        "region": "Italy",
+        "private_car": 0.8,
+        "public_transport": 0.8,
+        "walking_biking": 5.7,
+        "micromobility": 4.1,
+        "car_sharing": 2.9,
+        "ride_hailing": 3.0
+      },
+      {
+        "region": "France",
+        "private_car": 0.7,
+        "public_transport": 1.1,
+        "walking_biking": 6.0,
+        "micromobility": 1.2,
+        "car_sharing": 1.1,
+        "ride_hailing": 0.8
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "No additional infographic elements or pyramid structures present in the slide."
+  }
+}

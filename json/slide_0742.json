@@ -1,0 +1,115 @@
+{
+  "slide_id": "26",
+  "section": "long-term value improvement strategies",
+  "purpose": "To analyze the bank's transaction count and ticket size performance against benchmarks.",
+  "narrative_role": "Analytical",
+  "title": "Spend per card optimization— ticket size and transaction count",
+  "bullets": [],
+  "supporting_facts": [
+    "Bank’s transaction count continues to grow and consistently outperforms the benchmark"
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    {
+      "label": "1st year average spend per card forecast",
+      "bank": "$3,208",
+      "benchmark": "$3,850"
+    },
+    {
+      "label": "1st year average transaction count forecast",
+      "bank": "38",
+      "benchmark": "29"
+    },
+    {
+      "label": "average ticket size forecast",
+      "bank": "$86",
+      "benchmark": "$135"
+    }
+  ],
+  "cta": "Bank’s 1st year transaction count per card continues to outperform its competitors; Bank should focus on driving ticket size",
+  "layout": "Split layout with text boxes and chart",
+  "layout_type": "analytical",
+  "content_zones": {
+    "header": "top-left",
+    "text_boxes": [
+      "center-left",
+      "center"
+    ],
+    "chart": "right",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "1st year average spend per card forecast",
+      "position": "center"
+    },
+    {
+      "type": "text_box",
+      "label": "1st year average transaction count forecast",
+      "position": "center-left"
+    },
+    {
+      "type": "text_box",
+      "label": "average ticket size forecast",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Corporate, data-driven",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "line with bar",
+    "title": "1st year average transaction count per card forecast, by vintage",
+    "x_axis_label": "",
+    "y_axis": [
+      "0%",
+      "20%",
+      "40%",
+      "60%",
+      "80%",
+      "100%",
+      "120%"
+    ],
+    "values": [],
+    "annotations": [
+      "Gap",
+      "Bank",
+      "Benchmark"
+    ],
+    "source": "Average calculated using data from World Mastercard cardholders who made their first purchase in May 2018-Oct 2018"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": [
+    "No bullet points are present",
+    "Chart values are not explicitly stated in the image"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slide_id": "11",
+  "section": "Housing Analysis",
+  "purpose": "To illustrate the gap between affordable housing supply and demand for low-income households in King County in 2017.",
+  "narrative_role": "Highlight a critical issue in housing availability for low-income groups.",
+  "title": "King County had a gap of 37,000 affordable homes for households earning less than 30% of AMI in 2017",
+  "bullets": [],
+  "supporting_facts": [
+    "37k units are required to stably house all homeless and rent-burdened households"
+  ],
+  "reasoning_strategy": "Comparative analysis using a bar chart to show discrepancies in supply and demand.",
+  "data_points": [
+    "Affordable Units: 24k",
+    "Down-rented/vacant units: 6k",
+    "Total Supply: 18k",
+    "Supply gap: 37k",
+    "Households renting: 55k",
+    "Rent-burdened households: 17k",
+    "Households in affordable units: 18k",
+    "Households receiving vouchers: 24k",
+    "Homeowners: 96k",
+    "Total demand: 96k"
+  ],
+  "cta": null,
+  "layout": "bar_chart",
+  "layout_type": "visual_comparison",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#0070C0",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Georgia",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar_chart",
+    "title": "2017 Supply and Demand of Affordable Rental Units",
+    "x_axis_label": "Categories",
+    "y_axis": [
+      "0",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50",
+      "60",
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "values": [
+      {
+        "category": "Affordable Units",
+        "value": 24
+      },
+      {
+        "category": "Down-rented/vacant units",
+        "value": 6
+      },
+      {
+        "category": "Total Supply",
+        "value": 18
+      },
+      {
+        "category": "Supply gap",
+        "value": 37
+      },
+      {
+        "category": "Households renting",
+        "value": 55
+      },
+      {
+        "category": "Rent-burdened households",
+        "value": 17
+      },
+      {
+        "category": "Households in affordable units",
+        "value": 18
+      },
+      {
+        "category": "Households receiving vouchers",
+        "value": 24
+      },
+      {
+        "category": "Homeowners",
+        "value": 96
+      },
+      {
+        "category": "Total demand",
+        "value": 96
+      }
+    ],
+    "annotations": [
+      "37k units are required to stably house all homeless and rent-burdened households"
+    ],
+    "source": "ACS PUMS Data 2016"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points present; all data represented in the chart."
+  }
+}

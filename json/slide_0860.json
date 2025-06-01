@@ -1,0 +1,107 @@
+{
+  "slide_id": "",
+  "section": "",
+  "purpose": "Present the table of contents for the presentation",
+  "narrative_role": "Organizational overview",
+  "title": "目录",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "银行整体情况理解"
+    },
+    {
+      "highlight": "",
+      "text": "零售银行整体情况理解"
+    },
+    {
+      "highlight": "",
+      "text": "信用卡业务状况理解"
+    },
+    {
+      "highlight": "信用卡关键业务指标与业务重点",
+      "text": ""
+    },
+    {
+      "highlight": "信用卡产品组合",
+      "text": ""
+    },
+    {
+      "highlight": "",
+      "text": "卡组织份额比较 (暂无)"
+    },
+    {
+      "highlight": "",
+      "text": "MC转卡与产品相关数据梳理"
+    },
+    {
+      "highlight": "",
+      "text": "近期新发产品与活动梳理"
+    },
+    {
+      "highlight": "",
+      "text": "卡中心组织架构图 (暂无)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "List format with highlighted items",
+  "layout_type": "Textual content",
+  "content_zones": {
+    "left": "Text",
+    "right": "Logo"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text with background color"
+  },
+  "design_language": "Corporate and professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific slide ID, section, or chart information provided."
+  }
+}

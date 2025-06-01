@@ -1,0 +1,206 @@
+{
+  "slide_id": "4",
+  "section": "Customer Enablement",
+  "purpose": "Evaluate customer enablement metrics across regions.",
+  "narrative_role": "Data Presentation",
+  "title": "Dimension 4: Customer enablement (2/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of scores across different players and regions.",
+  "data_points": [
+    "Player scores",
+    "Metric weights"
+  ],
+  "cta": null,
+  "layout": "table-centric",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top-center",
+    "table": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "pie chart",
+      "label": "25%",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Colors used for emphasis"
+  },
+  "design_language": "clean, data-focused",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Dimension score",
+      "description": "Scores across different players and metrics.",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 11 North America",
+        "Player 12 Asia & Middle E",
+        "Player 13 Europe",
+        "Player 14 Asia & Middle E",
+        "Player 15 Europe & other",
+        "Player 16 Asia & Middle E",
+        "Player 17 North America",
+        "Player 18 North America",
+        "Player 19 Asia & Middle E",
+        "Player 20 Asia & Middle E",
+        "Player 21 Asia & Middle E"
+      ],
+      "rows": [
+        {
+          "row_label": "Green initiatives",
+          "cells": [
+            "J",
+            "20%",
+            "67",
+            "67",
+            "67",
+            "50",
+            "67",
+            "33",
+            "50",
+            "33",
+            "50",
+            "0",
+            "50"
+          ]
+        },
+        {
+          "row_label": "Green R&D expenditures",
+          "cells": [
+            "N",
+            "20%",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Calculated and published",
+          "cells": [
+            "B",
+            "15%",
+            "0",
+            "0",
+            "40",
+            "50",
+            "0",
+            "0",
+            "50",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Comprehensive scope",
+          "cells": [
+            "J",
+            "15%",
+            "0",
+            "0",
+            "20",
+            "25",
+            "0",
+            "0",
+            "25",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Transparent methodology",
+          "cells": [
+            "J",
+            "15%",
+            "0",
+            "0",
+            "50",
+            "25",
+            "0",
+            "0",
+            "50",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Ambition",
+          "cells": [
+            "J",
+            "15%",
+            "0",
+            "0",
+            "50",
+            "50",
+            "0",
+            "0",
+            "50",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional charts or infographics beyond table and pie chart."
+  }
+}

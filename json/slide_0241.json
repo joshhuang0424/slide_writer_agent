@@ -1,0 +1,168 @@
+{
+  "slide_id": "72",
+  "section": "Industry Analysis",
+  "purpose": "To illustrate the variability of drivers by industry using regression analysis.",
+  "narrative_role": "Supporting evidence",
+  "title": "Examples: Multiple drivers vary substantially by industry",
+  "bullets": [],
+  "supporting_facts": [
+    "SmartMultiple® regression needs to be customized to clients' specific peer sets"
+  ],
+  "reasoning_strategy": "Comparison across industries",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "comparative",
+  "content_zones": {
+    "header": "top",
+    "columns": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color for emphasis"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of key metrics across different industries",
+      "headers": [
+        "Metric",
+        "Mining",
+        "Metals (incl. steel)",
+        "Diversified industrials"
+      ],
+      "rows": [
+        {
+          "row_label": "1",
+          "cells": [
+            "Unexplained",
+            "21",
+            "22",
+            "19"
+          ]
+        },
+        {
+          "row_label": "2",
+          "cells": [
+            "Buybacks % EBITDA",
+            "5",
+            "5",
+            "6"
+          ]
+        },
+        {
+          "row_label": "3",
+          "cells": [
+            "Forecast EPS Growth",
+            "6",
+            "12",
+            "6"
+          ]
+        },
+        {
+          "row_label": "4",
+          "cells": [
+            "Large Cap (>$2B)",
+            "10",
+            "9",
+            "9"
+          ]
+        },
+        {
+          "row_label": "5",
+          "cells": [
+            "Net Debt/Assets",
+            "12",
+            "18",
+            "7"
+          ]
+        },
+        {
+          "row_label": "6",
+          "cells": [
+            "ROGA",
+            "14",
+            "8",
+            "11"
+          ]
+        },
+        {
+          "row_label": "7",
+          "cells": [
+            "Iron Ore Price",
+            "16",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "8",
+          "cells": [
+            "Dividends % EBITDA",
+            "16",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "9",
+          "cells": [
+            "",
+            "",
+            "12",
+            ""
+          ]
+        },
+        {
+          "row_label": "10",
+          "cells": [
+            "",
+            "",
+            "14",
+            "24"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart data present; infographic not applicable."
+  }
+}

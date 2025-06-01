@@ -1,0 +1,85 @@
+{
+  "slide_id": "3",
+  "section": "Marketing Strategy",
+  "purpose": "To illustrate a mechanism for dynamically adjusting marketing channel lists.",
+  "narrative_role": "Process Explanation",
+  "title": "建立可即時調整溝通名單的機制 | 針對各客群的轉卡狀況，每週自動產出不同渠道的行銷名單，最佳化資源投入",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Describes a step-by-step process to optimize marketing resources.",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal flowchart",
+  "layout_type": "process",
+  "content_zones": {
+    "title": "top",
+    "process_steps": "center",
+    "explanations": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "儀表板即時反應轉卡狀況",
+      "position": "center-left"
+    },
+    {
+      "type": "icon",
+      "label": "優化溝通策略",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "每週生成客戶溝通名單",
+      "position": "center-right"
+    },
+    {
+      "type": "icon",
+      "label": "執行對應溝通",
+      "position": "far-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables detected; content represented through process flow and icons."
+  }
+}

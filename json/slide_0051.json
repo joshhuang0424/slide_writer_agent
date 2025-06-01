@@ -1,0 +1,70 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title slide introducing the topic of the presentation",
+  "narrative_role": "Introduction",
+  "title": "New horizons in transportation: mobility, innovation, economic development and funding implications",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "title_slide",
+  "layout_type": "single_title",
+  "content_zones": {
+    "title": {
+      "position": "center",
+      "alignment": "left"
+    },
+    "subtitle": {
+      "position": "center",
+      "alignment": "left"
+    },
+    "date": {
+      "position": "bottom_left",
+      "alignment": "left"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

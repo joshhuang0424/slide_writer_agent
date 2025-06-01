@@ -1,0 +1,76 @@
+{
+  "slide_id": "23",
+  "section": "Fraud Operations",
+  "purpose": "To describe the roles and responsibilities of the Fraud Operations team",
+  "narrative_role": "Informative",
+  "title": "The Fraud Operations team typically consists of three roles",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text-focused",
+  "content_zones": {
+    "left": "Section labels with descriptions",
+    "right": "Detailed bullet points under each section"
+  },
+  "visual_elements": [
+    {
+      "type": "text box",
+      "label": "Detection",
+      "position": "left-top"
+    },
+    {
+      "type": "text box",
+      "label": "Servicing",
+      "position": "left-middle"
+    },
+    {
+      "type": "text box",
+      "label": "Claims",
+      "position": "left-bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold section labels"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "This slide contains structured bullet points under labeled sections without numerical or data chart elements."
+  }
+}

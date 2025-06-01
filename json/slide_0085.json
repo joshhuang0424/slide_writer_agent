@@ -1,0 +1,146 @@
+{
+  "slide_id": "11",
+  "section": "Used Car Purchase Intent",
+  "purpose": "To compare used car purchase intent pre-COVID-19 vs. current levels across different countries.",
+  "narrative_role": "present_data",
+  "title": "Used car purchase intent much more robust – even increasing in UK, slightly down in GER and France and more significant drop in IT",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "trend_analysis",
+  "data_points": [
+    "UK: -21%",
+    "GER: -18%",
+    "FR: -5%",
+    "IT: -16%"
+  ],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "comparative_chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "UK flag",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "GER flag",
+      "position": "center_left"
+    },
+    {
+      "type": "icon",
+      "label": "FR flag",
+      "position": "center_right"
+    },
+    {
+      "type": "icon",
+      "label": "IT flag",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar_chart",
+    "title": "Purchase intent used cars vs. pre-COVID-19 level",
+    "x_axis_label": "Time Period",
+    "y_axis": [
+      "Percent Points"
+    ],
+    "values": [
+      {
+        "country": "UK",
+        "values": [
+          49,
+          60,
+          59,
+          69,
+          71,
+          74,
+          79
+        ]
+      },
+      {
+        "country": "GER",
+        "values": [
+          35,
+          69,
+          71,
+          74,
+          91,
+          86,
+          82
+        ]
+      },
+      {
+        "country": "FR",
+        "values": [
+          47,
+          89,
+          78,
+          91,
+          91,
+          98,
+          95
+        ]
+      },
+      {
+        "country": "IT",
+        "values": [
+          57,
+          72,
+          77,
+          81,
+          85,
+          92,
+          84
+        ]
+      }
+    ],
+    "annotations": [
+      "-21%",
+      "-18%",
+      "-5%",
+      "-16%"
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional bullet points or tables were observed in the slide."
+  }
+}

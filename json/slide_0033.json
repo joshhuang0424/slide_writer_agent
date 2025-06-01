@@ -1,0 +1,121 @@
+{
+  "slide_id": "3",
+  "section": "Data Science Understanding",
+  "purpose": "To highlight the gap in understanding of data science as a career among students.",
+  "narrative_role": "Informative",
+  "title": "Companies must \"sell\" the field more tangibly: Many students feel underinformed on data science",
+  "bullets": [
+    {
+      "highlight": "students do not have a good understanding",
+      "text": "Many students do not have a good understanding of what the day-to-day work of a data scientist in the workplace entails"
+    },
+    {
+      "highlight": "Women feel less well-informed than men",
+      "text": "Women feel less well-informed than men: 45% of female STEM students do not feel well-informed about data science jobs"
+    },
+    {
+      "highlight": "data science and computer science majors",
+      "text": "Even among data science and computer science majors—who are naturally closest to the topic—still 35% of women feel that they have a poor understanding"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "76.3% of male data science majors",
+    "65.0% of female data science majors",
+    "70.6% of male computer science majors",
+    "65.5% of female computer science majors",
+    "57.1% of male mathematics & statistics majors",
+    "56.3% of female mathematics & statistics majors",
+    "58.8% of male physical sciences & engineering majors",
+    "50.2% of female physical sciences & engineering majors"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart and bullet points",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Chart",
+    "right": "Bullets"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold highlights in bullets"
+  },
+  "design_language": "Professional and Informative",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Line",
+    "title": "Share of students claiming a good understanding of data science as a career option (in %)",
+    "x_axis_label": "Major",
+    "y_axis": [
+      "40",
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "values": [
+      {
+        "label": "Data science majors",
+        "Men": 76.3,
+        "Women": 65.0
+      },
+      {
+        "label": "Computer science majors",
+        "Men": 70.6,
+        "Women": 65.5
+      },
+      {
+        "label": "Mathematics & statistics majors",
+        "Men": 57.1,
+        "Women": 56.3
+      },
+      {
+        "label": "Physical sciences & engineering majors",
+        "Men": 58.8,
+        "Women": 50.2
+      }
+    ],
+    "annotations": [
+      {
+        "text": "Average: 62.9%",
+        "position": "above line"
+      },
+      {
+        "text": "Average: 55.2%",
+        "position": "below line"
+      }
+    ],
+    "source": "BCG Women in Data survey 2020"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic is present, and all necessary data is captured in the chart."
+  }
+}

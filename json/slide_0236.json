@@ -1,0 +1,85 @@
+{
+  "slide_id": "67",
+  "section": "iTSR Analysis",
+  "purpose": "Outline the four-step process for identifying key valuation drivers.",
+  "narrative_role": "Process illustration",
+  "title": "Four step process used to identify key valuation drivers as an important input into iTSR analysis",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential steps",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal steps",
+  "layout_type": "process flow",
+  "content_zones": {
+    "title": "top left",
+    "process_steps": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "hexagon",
+      "label": "Define the reference set",
+      "position": "center left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Develop a list of potential valuation drivers to test",
+      "position": "center left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Perform regression analysis to find equation best explaining differences in valuation multiple",
+      "position": "center"
+    },
+    {
+      "type": "hexagon",
+      "label": "Back test the regression equation against historical stock prices",
+      "position": "center right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "clean, modern",
+  "color_scheme": {
+    "primary": "#00A651",
+    "accent": "#FFFFFF",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables present; the slide is a process flow illustration."
+  }
+}

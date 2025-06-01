@@ -1,0 +1,191 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To introduce Guangda's strategy in promoting convenient services and customer engagement.",
+  "narrative_role": "Informative",
+  "title": "围绕“大民生”战略定位，光大积极推进便民服务“四化”转型，通过线上多渠道、多方式触达客户，培养客户粘性",
+  "bullets": [
+    {
+      "highlight": "最大开放便民缴费平台",
+      "text": "中国最大开放便民缴费平台"
+    },
+    {
+      "highlight": "1亿户",
+      "text": "直连客户超过1亿户"
+    },
+    {
+      "highlight": "5000亿元",
+      "text": "缴费金额突破5000亿元"
+    },
+    {
+      "highlight": "",
+      "text": "一张蓝图绘到底：光大云缴费覆盖水、电、燃、非税、社保、医疗、教育等20个大类，突破10000个缴费项目，输出至微信、支付宝、美团、链家、银联、银行同业等580多家大型机构"
+    },
+    {
+      "highlight": "",
+      "text": "以对公业务反哺平台发展：以服务北京地区的301家中央缴款单位征收为例，208家采用“云缴费”方式进行缴纳，占总户数的69%"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Quantitative and qualitative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with text and images",
+  "layout_type": "Text and Infographic",
+  "content_zones": {
+    "left": "Text and table",
+    "right": "Infographic and text highlights"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "光大云缴费",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight important figures in orange"
+  },
+  "design_language": "Corporate and informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "光大云缴费"
+      },
+      {
+        "id": "L1",
+        "label": "光大云支付"
+      },
+      {
+        "id": "L2",
+        "label": "光大随心贷"
+      },
+      {
+        "id": "L3",
+        "label": "光大光信通"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "零售金融沟通与触达渠道",
+      "description": "不同类型的线上触达渠道及其对应银行",
+      "headers": [
+        "类型",
+        "名称"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "网银app",
+            "光大银行手机银行"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "信用卡app",
+            "光大银行信用卡阳光惠生活"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "其他app",
+            "光大证券、阳光消費、光大企业银行"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "银行公众号",
+            "中国光大银行"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "信用卡公众号",
+            "光大银行信用卡公众号"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "小程序",
+            "中国光大银行"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "银行抖音",
+            "中国光大银行 (94万)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "信用卡抖音",
+            "光大信用卡 (15.2万)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "银行微博",
+            "中国光大银行 (35.6万)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "信用卡微博",
+            "光大银行信用卡中心 (83万)"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Specific data points related to values and annotations are not available in this slide."
+  }
+}

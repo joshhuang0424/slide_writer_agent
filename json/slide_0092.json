@@ -1,0 +1,141 @@
+{
+  "slide_id": "18",
+  "section": "Digital Sales and Services",
+  "purpose": "To show interest changes in online and contactless offerings across countries.",
+  "narrative_role": "Data Presentation",
+  "title": "Interest in online and contactless offerings has strongly increased in UK and Germany, while slightly decreased in France and Italy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Compare interest levels across countries and services.",
+  "data_points": [
+    {
+      "country": "UK",
+      "A": 52,
+      "B": 49,
+      "C": 59,
+      "ΔA": 3,
+      "ΔB": 8,
+      "ΔC": 5
+    },
+    {
+      "country": "Germany",
+      "A": 47,
+      "B": 44,
+      "C": 52,
+      "ΔA": 6,
+      "ΔB": 7,
+      "ΔC": 1
+    },
+    {
+      "country": "France",
+      "A": 36,
+      "B": 31,
+      "C": 41,
+      "ΔA": -2,
+      "ΔB": -4,
+      "ΔC": -4
+    },
+    {
+      "country": "Italy",
+      "A": 43,
+      "B": 34,
+      "C": 52,
+      "ΔA": -3,
+      "ΔB": -2,
+      "ΔC": -1
+    }
+  ],
+  "cta": null,
+  "layout": "2-column with bar charts",
+  "layout_type": "Bar Chart",
+  "content_zones": {
+    "title": "top",
+    "charts": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "Bar Chart",
+    "title": "Interest in digital/contactless sales & service",
+    "x_axis_label": "Countries and Services",
+    "y_axis": [
+      "Interest Levels"
+    ],
+    "values": [
+      {
+        "UK": {
+          "A": 52,
+          "B": 49,
+          "C": 59
+        }
+      },
+      {
+        "Germany": {
+          "A": 47,
+          "B": 44,
+          "C": 52
+        }
+      },
+      {
+        "France": {
+          "A": 36,
+          "B": 31,
+          "C": 41
+        }
+      },
+      {
+        "Italy": {
+          "A": 43,
+          "B": 34,
+          "C": 52
+        }
+      }
+    ],
+    "annotations": [
+      {
+        "text": "Very/extremely interested",
+        "position": "top"
+      },
+      {
+        "text": "Interested",
+        "position": "bottom"
+      }
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey (May 9-17, May 27-29, June 16-18, July 15-17)"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets are present in the slide. Infographic is not applicable."
+  }
+}

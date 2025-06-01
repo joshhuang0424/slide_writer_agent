@@ -1,0 +1,124 @@
+{
+  "slide_id": "3",
+  "section": "Homelessness Analysis",
+  "purpose": "To present data on homelessness trends in King County",
+  "narrative_role": "Informative",
+  "title": "Though the King County point-in-time (PIT) count dropped in 2019, homelessness continues to increase",
+  "bullets": [],
+  "supporting_facts": [
+    "The PIT count showed a decrease for the first time in January 2019.",
+    "Data from the King County Homeless Management Information System (HMIS) shows a continued increase in households experiencing homelessness.",
+    "Households experiencing homelessness and remaining without permanent housing is unchanged."
+  ],
+  "reasoning_strategy": "Data-driven analysis",
+  "data_points": [
+    "King County homeless population by year in thousands",
+    "Households experiencing homelessness at any time in year in thousands"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart and text",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Charts showing homelessness data",
+    "right": "Text analysis and summary"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key points"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "Dark Blue",
+    "accent": "Light Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "King County homeless population by year",
+    "x_axis_label": "Year ending",
+    "y_axis": [
+      "Thousands of people",
+      "Thousands of households"
+    ],
+    "values": [
+      {
+        "year": "2008",
+        "homeless_population": 9.0
+      },
+      {
+        "year": "2018",
+        "homeless_population": 11.2
+      },
+      {
+        "year": "2016",
+        "households_not_permanently_housed": 14.7,
+        "households_exited_to_permanent_housing": 6.0
+      },
+      {
+        "year": "2018",
+        "households_not_permanently_housed": 15.7,
+        "households_exited_to_permanent_housing": 6.8
+      }
+    ],
+    "annotations": [
+      {
+        "text": "+4.2%",
+        "position": "above 2018 bar"
+      }
+    ],
+    "source": "PIT counts reported to HUD (2009-2019); King County PIT count 2019 administered by All Home, HMIS"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "King County homeless population by year",
+      "description": "Comparison of homeless population over years",
+      "headers": [
+        "Year ending",
+        "Measured on",
+        "Thousands of people"
+      ],
+      "rows": [
+        {
+          "row_label": "2008",
+          "cells": [
+            "2008",
+            "Jan '09",
+            "9.0"
+          ]
+        },
+        {
+          "row_label": "2018",
+          "cells": [
+            "2018",
+            "Jan '19",
+            "11.2"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No unknown fields were identified in this slide"
+  }
+}

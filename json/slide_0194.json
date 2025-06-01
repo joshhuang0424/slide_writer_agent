@@ -1,0 +1,189 @@
+{
+  "slide_id": "74",
+  "section": "Value drivers",
+  "purpose": "Explain the variables impacting valuation multiples in the software business using BCG's Smart Multiple approach.",
+  "narrative_role": "Analytical",
+  "title": "BCG's first answer: Value drivers in software business",
+  "bullets": [
+    {
+      "highlight": "200+",
+      "text": "potential variables tested to determine best fit equation"
+    }
+  ],
+  "supporting_facts": [
+    "R² = 92% for the regression equation"
+  ],
+  "reasoning_strategy": "Regression analysis to identify key value drivers.",
+  "data_points": [
+    "R² = 92%",
+    "Adjusted R² = 92%",
+    "F stat 215"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart",
+  "layout_type": "Analytical Comparison",
+  "content_zones": {
+    "left": "Variables list and explanation",
+    "center": "Pyramid chart",
+    "right": "Scatter plot"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Filter",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use green color for emphasis"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "scatter",
+    "title": "Strong fit between predicted and actual multiples",
+    "x_axis_label": "Predicted valuation multiple",
+    "y_axis": [
+      "Actual multiple"
+    ],
+    "values": [
+      "Peers",
+      "Client"
+    ],
+    "annotations": [
+      "Adjusted R² = 92%",
+      "F stat 215"
+    ],
+    "source": "BCG"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Gross Margin"
+      },
+      {
+        "id": "L1",
+        "label": "LT EPS Growth"
+      },
+      {
+        "id": "L2",
+        "label": "Sanitised"
+      },
+      {
+        "id": "L3",
+        "label": "Cash, Debt balance"
+      },
+      {
+        "id": "L4",
+        "label": "Sanitised"
+      },
+      {
+        "id": "L5",
+        "label": "Platform dynamic"
+      },
+      {
+        "id": "L6",
+        "label": "Forward Revenue Growth"
+      },
+      {
+        "id": "L7",
+        "label": "Dividend Payout"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "Variables explaining differences in valuation multiples",
+      "description": "List of variables with percentage of variance explained",
+      "headers": [
+        "Variable",
+        "% of variance"
+      ],
+      "rows": [
+        {
+          "row_label": "Gross Margin",
+          "cells": [
+            "Gross Margin",
+            "32"
+          ]
+        },
+        {
+          "row_label": "LT EPS Growth",
+          "cells": [
+            "LT EPS Growth",
+            "13"
+          ]
+        },
+        {
+          "row_label": "Sanitised",
+          "cells": [
+            "Sanitised",
+            "12"
+          ]
+        },
+        {
+          "row_label": "Cash, Debt balance",
+          "cells": [
+            "Cash, Debt balance",
+            "9"
+          ]
+        },
+        {
+          "row_label": "Sanitised",
+          "cells": [
+            "Sanitised",
+            "9"
+          ]
+        },
+        {
+          "row_label": "Platform dynamic",
+          "cells": [
+            "Platform dynamic",
+            "7"
+          ]
+        },
+        {
+          "row_label": "Forward Revenue Growth",
+          "cells": [
+            "Forward Revenue Growth",
+            "5"
+          ]
+        },
+        {
+          "row_label": "Dividend Payout",
+          "cells": [
+            "Dividend Payout",
+            "5"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "pyramid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

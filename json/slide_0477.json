@@ -1,0 +1,84 @@
+{
+  "slide_id": "2",
+  "section": "Apple Pay Expansion",
+  "purpose": "Showcase the widespread adoption of Apple Pay among top US merchants and highlight the launch of Apple's new credit card.",
+  "narrative_role": "Informative",
+  "title": "Just some of the top US merchants...",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight major merchant logos and emphasize the reach of Apple Pay.",
+  "data_points": [
+    "74 of the top 100 merchants in the US",
+    "65 percent of all retail locations"
+  ],
+  "cta": null,
+  "layout": "Three-column with images and text boxes",
+  "layout_type": "visual",
+  "content_zones": {
+    "left": "Merchant logos",
+    "center": "Image of a person using Apple Pay",
+    "right": "Apple credit card image and description"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Top US Merchants",
+      "position": "left"
+    },
+    {
+      "type": "image",
+      "label": "Apple Pay usage",
+      "position": "center"
+    },
+    {
+      "type": "image",
+      "label": "Apple credit card",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics in red"
+  },
+  "design_language": "Modern with emphasis on brand logos and product imagery",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font details are not specified in the image. No pyramid structure is present."
+  }
+}

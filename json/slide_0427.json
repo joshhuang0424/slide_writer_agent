@@ -1,0 +1,323 @@
+{
+  "slide_id": "18",
+  "section": "Credit Protection",
+  "purpose": "Illustrate the benefits and costs of credit protection for cardholders and issuers",
+  "narrative_role": "explanatory",
+  "title": "Credit protection could provide cardholders temporary relief from hardship",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide explains both the consumer and issuer perspectives on credit protection, highlighting financial impacts.",
+  "data_points": [
+    "Net Interest Income: $68",
+    "Net Credit Losses: ($66.7)",
+    "Net Lending Margin: $1.3",
+    "Credit Protection Fees: $1.4",
+    "Credit Protection Claims: ($0.04)",
+    "Total Other Income: $760.8",
+    "Total Costs: ($1141)",
+    "Pre-tax Net Income: ($379)"
+  ],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "Narrative about consumer's job loss and credit protection",
+    "center": "Table of financial data",
+    "right": "Explanation of credit protection benefits for issuers"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "person",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "bank",
+      "position": "top-center"
+    },
+    {
+      "type": "icon",
+      "label": "plus",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Words like 'fired', 'protected', and 'Credit Protection Program' are emphasized in bold."
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Financial Impact",
+      "description": "Breakdown of income and costs related to credit protection",
+      "headers": [
+        "Description",
+        "Amount"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Finance Charges",
+            "$115"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Transfer Pricing Interest Income",
+            "$0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Interest Expense",
+            "($47)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Interest Income",
+            "$68"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Chargeoffs",
+            "($12)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Loan Loss Provision Adjustment",
+            "($54)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Recoveries",
+            "$0.7"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Credit Losses",
+            "($66.7)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Lending Margin",
+            "$1.3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Interchange Fees",
+            "$674"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Late Fees",
+            "$26"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Annual Fee Income",
+            "$30"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Cash Advance Fees",
+            "$6"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Balance Transfer Fees",
+            "$2"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Overlimit Fees",
+            "$0.3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Foreign Exchange Fees",
+            "$21"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Credit Protection Fees",
+            "$1.4"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Miscellaneous Fee Income",
+            "$0.1"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Total Other Income",
+            "$760.8"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Acquisition Cost",
+            "($172)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Acquisition Incentive",
+            "($200)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Variable Servicing Costs",
+            "($29)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Reward & Benefits Costs",
+            "($557)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Collection Ops Costs",
+            "($5)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Credit Protection Claims",
+            "($0.04)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Portfolio Marketing Costs",
+            "($8)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Plastic Reissue Cost",
+            "($1)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Network Fees (MC)",
+            "($71)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Processor Fees (FirstData/TSYS/FIS)",
+            "($62)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Fraud Losses",
+            "($36)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Total Costs",
+            "($1141)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Pre-tax Net Income",
+            "($379)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The pyramid structure is not present in this slide, and no charts are included."
+  }
+}

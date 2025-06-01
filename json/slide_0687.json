@@ -1,0 +1,225 @@
+{
+  "slide_id": "8",
+  "section": "Global M&A Analysis",
+  "purpose": "To provide an overview of M&A deals by region and size from 2012 to 2016.",
+  "narrative_role": "Informational",
+  "title": "Global M&A deals by region and size, 2012-16",
+  "bullets": [
+    {
+      "highlight": "2016",
+      "text": "All regions saw a drop in activity in absolute deal value terms; fall of 18% in Americas, 23% in Asia-Pacific and 8% in EMEA in 2016 versus 2015"
+    },
+    {
+      "highlight": "2016",
+      "text": "Breakdown by regions saw a slight decrease for Americas (50% vs 51%) and APAC (24% vs 26%) but an increase in EMEA (26% vs 23%)"
+    },
+    {
+      "highlight": "40%",
+      "text": "Value of megadeals (greater than $10 bn) saw a significant decrease (-40%) from 2015 level and its share of global M&A activity fell from 34% to 25%"
+    },
+    {
+      "highlight": "(8%) and by (4%)",
+      "text": "Total value of midsize and small size (lower than $1 bn) deals slightly decreased respectively by (8%) and by (4%) vs. 2015"
+    }
+  ],
+  "supporting_facts": [
+    "Includes deals more than $25mn only",
+    "SOURCE: Dealogic"
+  ],
+  "reasoning_strategy": "Comparative analysis of regional and size-based changes in M&A activity.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two sections with bullet points and charts",
+  "layout_type": "analytical-comparative",
+  "content_zones": {
+    "top_left": "Deals by geography",
+    "middle_left": "Deals by size",
+    "bottom_center": "Number of deals per size bracket",
+    "right": "Bullet points summary"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key percentages and years"
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "#0077B5",
+    "accent": "#00B2A9",
+    "background": "#F4F4F4"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Value ($ bn)",
+      "% of total"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Deals by geography",
+      "description": "Value in $ bn, % of total",
+      "headers": [
+        "Region",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "rows": [
+        {
+          "row_label": "EMEA",
+          "cells": [
+            "$761 (30%)",
+            "$805 (30%)",
+            "$970 (28%)",
+            "$1,063 (23%)",
+            "$981 (26%)"
+          ]
+        },
+        {
+          "row_label": "Americas",
+          "cells": [
+            "$1,237 (49%)",
+            "$1,297 (48%)",
+            "$1,735 (49%)",
+            "$2,316 (51%)",
+            "$1,891 (50%)"
+          ]
+        },
+        {
+          "row_label": "APAC",
+          "cells": [
+            "$507 (20%)",
+            "$572 (21%)",
+            "$808 (23%)",
+            "$1,182 (26%)",
+            "$906 (24%)"
+          ]
+        }
+      ],
+      "position": "top_left",
+      "render_style": ""
+    },
+    {
+      "title": "Deals by size",
+      "description": "Value in $ bn, % of total",
+      "headers": [
+        "Size",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "rows": [
+        {
+          "row_label": ">$10bn",
+          "cells": [
+            "$345 (14%)",
+            "$436 (16%)",
+            "$826 (24%)",
+            "$1,543 (34%)",
+            "$940 (25%)"
+          ]
+        },
+        {
+          "row_label": "$1bn-$10bn",
+          "cells": [
+            "$1,064 (42%)",
+            "$1,118 (42%)",
+            "$1,468 (42%)",
+            "$1,702 (37%)",
+            "$1,571 (42%)"
+          ]
+        },
+        {
+          "row_label": "<$1bn",
+          "cells": [
+            "$1,096 (44%)",
+            "$1,120 (42%)",
+            "$1,218 (35%)",
+            "$1,316 (29%)",
+            "$1,266 (34%)"
+          ]
+        }
+      ],
+      "position": "middle_left",
+      "render_style": ""
+    },
+    {
+      "title": "Number of deals per size bracket",
+      "description": "",
+      "headers": [
+        "Size",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "rows": [
+        {
+          "row_label": ">$10bn",
+          "cells": [
+            "17",
+            "18",
+            "35",
+            "58",
+            "35"
+          ]
+        },
+        {
+          "row_label": "$1bn-$10bn",
+          "cells": [
+            "465",
+            "481",
+            "570",
+            "647",
+            "598"
+          ]
+        },
+        {
+          "row_label": "<$1bn",
+          "cells": [
+            "6,851",
+            "6,462",
+            "7,012",
+            "7,742",
+            "7,420"
+          ]
+        }
+      ],
+      "position": "bottom_center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No pyramid infographic present, chart values are embedded in tables."
+}

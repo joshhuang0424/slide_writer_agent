@@ -1,0 +1,84 @@
+{
+  "slide_id": "2",
+  "section": "Introductions",
+  "purpose": "Introduce key individuals",
+  "narrative_role": "Introduction",
+  "title": "Introductions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of individuals",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with images",
+  "layout_type": "visual",
+  "content_zones": {
+    "left": "Title",
+    "right": "Profiles"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Ana Mendy\nPartner",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "Mekala Krishnan\nPartner, McKinsey Global Institute",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Dark Blue",
+    "background": "Light Gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": ""
+      },
+      {
+        "id": "L1",
+        "label": ""
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

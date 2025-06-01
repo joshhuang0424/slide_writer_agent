@@ -1,0 +1,141 @@
+{
+  "slide_id": "58",
+  "section": "BCG TSR方案介绍",
+  "purpose": "识别过去5年对企业价值贡献较高的业务组合",
+  "narrative_role": "展示",
+  "title": "管理、评估业务组合（1/2）",
+  "bullets": [],
+  "supporting_facts": [
+    "2013-2018年价值变化，包括累计现金流"
+  ],
+  "reasoning_strategy": "数据展示",
+  "data_points": [
+    "2013价值: 1,800",
+    "2018价值: 6,000"
+  ],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "mixed",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "table": "right",
+    "notes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "年度百分比",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "数值重点标记"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "pink",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "waterfall",
+    "title": "2013-2018年价值变化",
+    "x_axis_label": "年份",
+    "y_axis": [
+      "价值 (¥)"
+    ],
+    "values": [
+      {
+        "2013价值": 1800
+      },
+      {
+        "游戏和网络": 1820
+      },
+      {
+        "音乐": 600
+      },
+      {
+        "电影": 100
+      },
+      {
+        "HE&S": 550
+      },
+      {
+        "成像": 200
+      },
+      {
+        "移动通讯": 1000
+      },
+      {
+        "半导体": 300
+      },
+      {
+        "金融服务": 50
+      },
+      {
+        "其他": -50
+      },
+      {
+        "2018价值": 6000
+      }
+    ],
+    "annotations": [
+      "43%",
+      "14%",
+      "-2%",
+      "7%",
+      "13%",
+      "-5%",
+      "7%",
+      "-1%",
+      "24%"
+    ],
+    "source": "公司报告，BCG预测；BCG价值科学中心"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "年度百分比",
+      "description": "不同业务单位的价值贡献比例",
+      "headers": [
+        "现现金流",
+        "资本收益",
+        "总TSR"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "0",
+            "28",
+            "28"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體無法從圖像中辨識"
+  }
+}

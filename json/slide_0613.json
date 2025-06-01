@@ -1,0 +1,60 @@
+{
+  "slide_id": "1",
+  "section": "Lifecycle Management Stages",
+  "purpose": "Introduction of the onboarding phase",
+  "narrative_role": "Title Slide",
+  "title": "Onboarding: Activation / Early Month on Book",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduce the phase and its importance",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "title with graphic",
+  "content_zones": {
+    "left": "text",
+    "right": "graphic"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for section header"
+  },
+  "design_language": "modern and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

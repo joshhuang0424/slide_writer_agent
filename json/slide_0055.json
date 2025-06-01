@@ -1,0 +1,168 @@
+{
+  "slide_id": "5",
+  "section": "Investment Opportunities",
+  "purpose": "Highlight investment opportunities in transport projects",
+  "narrative_role": "Informative",
+  "title": "Transport-projects could attract $80bn in investment to meet public needs, drive economic development, and make financial returns",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of a structured table to compare project archetypes and their potential for investment.",
+  "data_points": [
+    "$80bn investment potential",
+    "Project archetypes for economic activity"
+  ],
+  "cta": null,
+  "layout": "table with narrative header",
+  "layout_type": "informational",
+  "content_zones": {
+    "header": {
+      "position": "top",
+      "content": "Transport-projects could attract $80bn in investment..."
+    },
+    "table": {
+      "position": "center",
+      "content": "Archetypes and investment potential comparison"
+    },
+    "footer": {
+      "position": "bottom",
+      "content": "Source information and company branding"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "left of row 1"
+    },
+    {
+      "type": "circle",
+      "label": "2",
+      "position": "left of row 2"
+    },
+    {
+      "type": "circle",
+      "label": "3",
+      "position": "left of row 3"
+    },
+    {
+      "type": "circle",
+      "label": "4",
+      "position": "left of row 4"
+    },
+    {
+      "type": "circle",
+      "label": "5",
+      "position": "left of row 5"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Archetypes – projects that could quickly lead to economic activity",
+      "description": "Comparative analysis of different project types and their investment potential",
+      "headers": [
+        "Archetype",
+        "Great investment need",
+        "Drives economic development",
+        "Can be completed quickly",
+        "Attractive for private investment",
+        "National portfolio size, $bn"
+      ],
+      "rows": [
+        {
+          "row_label": "1",
+          "cells": [
+            "Upgrade, operate, maintain or add capacity of STIP roads and bridges",
+            "●",
+            "●",
+            "◐",
+            "●",
+            "55bn"
+          ]
+        },
+        {
+          "row_label": "2",
+          "cells": [
+            "Maintenance blitz of STIP roads and bridges",
+            "◐",
+            "●",
+            "●",
+            "●",
+            "7.0bn"
+          ]
+        },
+        {
+          "row_label": "3",
+          "cells": [
+            "Resilience of infrastructure",
+            "●",
+            "◐",
+            "◐",
+            "●",
+            "6.7bn"
+          ]
+        },
+        {
+          "row_label": "4",
+          "cells": [
+            "Monetizing the curb",
+            "",
+            "●",
+            "●",
+            "●",
+            "3.4bn"
+          ]
+        },
+        {
+          "row_label": "5",
+          "cells": [
+            "Development of underutilized city and state assets",
+            "◐",
+            "",
+            "●",
+            "●",
+            "9.3bn"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

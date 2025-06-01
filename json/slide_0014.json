@@ -1,0 +1,115 @@
+{
+  "slide_id": "14",
+  "section": "Women in the Workplace",
+  "purpose": "To highlight the pressures faced by senior women in the workplace.",
+  "narrative_role": "Informative",
+  "title": "Senior women experience many pressures",
+  "bullets": [
+    {
+      "highlight": "54%",
+      "text": "Exhausted"
+    },
+    {
+      "highlight": "39%",
+      "text": "Burned out"
+    },
+    {
+      "highlight": "36%",
+      "text": "Pressured to work more"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Quantitative data presentation",
+  "data_points": [
+    "Onlys of their gender: 36% Senior women",
+    "In dual-career couples: 58% Senior women",
+    "Mothers: 54% Senior women"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Infographic with text",
+  "content_zones": {
+    "left": "Infographic showing challenges faced by senior women",
+    "right": "List of percentages related to COVID-19 impacts"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Onlys of their gender",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "In dual-career couples",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "Mothers",
+      "position": "left"
+    },
+    {
+      "type": "legend",
+      "label": "Senior men, Senior women, All women",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional, data-focused",
+  "color_scheme": {
+    "primary": "#002d42",
+    "accent": "#00b2e2",
+    "background": "#002d42"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "Semi-circle bar chart",
+    "title": "Challenges faced by senior women",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "category": "Onlys of their gender",
+        "senior_men": "6%",
+        "senior_women": "36%",
+        "all_women": "19%"
+      },
+      {
+        "category": "In dual-career couples",
+        "senior_men": "54%",
+        "senior_women": "58%",
+        "all_women": "39%"
+      },
+      {
+        "category": "Mothers",
+        "senior_men": "",
+        "senior_women": "54%",
+        "all_women": "41%"
+      }
+    ],
+    "annotations": [],
+    "source": "Source: 2020 Women in the Workplace research"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain specific call-to-action or detailed narrative components."
+  }
+}

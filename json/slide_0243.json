@@ -1,0 +1,157 @@
+{
+  "slide_id": "74",
+  "section": "Client vignette",
+  "purpose": "Determine impact of key strategic decisions and trade-offs",
+  "narrative_role": "Informative",
+  "title": "SmartMultiple® approach key to determining impact of key strategic decisions and trade-offs",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Infographic with table",
+  "content_zones": {
+    "left": "Key decisions and trade offs",
+    "right": "Impact on value per share and Market cap change"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "OPEX",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "BU 1",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "BU 2",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "BU 3",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "BU 4",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "Final Policy",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Teal",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Impact of strategic decisions on value per share and market cap",
+      "headers": [
+        "Decision",
+        "Modeled value/share (Yr 3)",
+        "Yr 3 (est.)"
+      ],
+      "rows": [
+        {
+          "row_label": "OPEX",
+          "cells": [
+            "Reduce SGA expense by $2B p.a. by Yr 3\nReduce R&D expense by $2B p.a. by Yr 3",
+            "2.2",
+            "1.9"
+          ]
+        },
+        {
+          "row_label": "BU 1",
+          "cells": [
+            "Divest BU in Yr 3\nLow growth (21M units vs. 31M in base FY) @ 3% op-inc margin",
+            "0.0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "BU 2",
+          "cells": [
+            "Exit XXX business and divest BU at zero premium in Yr 3\nExit XXX business; stop $xxB p.a. losses and reinvest $xxB in R&D",
+            "2.6",
+            "2.2"
+          ]
+        },
+        {
+          "row_label": "BU 3",
+          "cells": [
+            "Shut-down BU in Yr 3\nGrow BU to 20M units by FY16 at -20% op-inc margin\nGrow BU to 20M units by FY16 at 2% op-inc margin (at peer margin)",
+            "0.2",
+            "0.2"
+          ]
+        },
+        {
+          "row_label": "BU 4",
+          "cells": [
+            "Shut down product X, divest BU in Yr 3\nGrow BU to 9% share by Yr 3 @ 3% op-inc margin (post-synergy)",
+            "5.0",
+            "4.2"
+          ]
+        },
+        {
+          "row_label": "Final Policy",
+          "cells": [
+            "Increase dividend payout to 50% p.a.\n(from 30%; maintain total payout at 60%)",
+            "5.1",
+            "4.2"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid infographic elements are present other than the table."
+  }
+}

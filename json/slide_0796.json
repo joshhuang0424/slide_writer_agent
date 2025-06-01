@@ -1,0 +1,85 @@
+{
+  "slide_id": "10",
+  "section": "Key Parameters",
+  "purpose": "To outline key cost and regulation parameters.",
+  "narrative_role": "informative",
+  "title": "Key parameters",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of costs and regulations.",
+  "data_points": [
+    "Battery cost: $150 to $90 per cell",
+    "Oil cost: $60 per barrel",
+    "Incentives not included",
+    "Regulations remain in place"
+  ],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "Title",
+    "center": "Battery costs",
+    "right": "Oil costs and regulations"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Battery costs",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Oil costs",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Incentives/Regulations",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight key costs"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light green"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "none",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No infographic or table present on this slide."
+  }
+}

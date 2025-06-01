@@ -1,0 +1,74 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title Slide",
+  "narrative_role": "Introduction to the presentation",
+  "title": "Overview of M&A, 2016",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "N/A",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide with Background Image",
+  "layout_type": "Title",
+  "content_zones": {
+    "title": "center",
+    "subtitle": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "McKinsey & Company",
+      "position": "top-left"
+    },
+    {
+      "type": "background_image",
+      "label": "Global map with handshake illustration",
+      "position": "full"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "24"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "This slide is a title slide, so it does not contain data-based elements like charts or tables."
+  }
+}

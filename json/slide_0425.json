@@ -1,0 +1,314 @@
+{
+  "slide_id": "16",
+  "section": "Fraudulent Costs",
+  "purpose": "To illustrate the impact of fraudulent transactions on financial costs.",
+  "narrative_role": "Storytelling with data",
+  "title": "Fraudulent transactions can be a significant source of unforeseen costs",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "Jamie has been having a great time in Cancun – but he notices an odd transaction, a gas purchase back home in Minneapolis from several days after he left, so he reports it to his issuer, which researches it and determines it wasn’t his and they could have done more to prevent it."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Example and breakdown of costs",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and table",
+  "content_zones": {
+    "left": "Text narrative and illustration",
+    "right": "Table showing financial breakdown"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Person illustration",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Building illustration",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "Highlighted in bold"
+  },
+  "design_language": "Modern and clean",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "arrow",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "Financial Breakdown",
+      "description": "Illustrates potential losses from fraudulent transactions",
+      "headers": [
+        "Description",
+        "Amount"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Finance Charges",
+            "$115"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Transfer Pricing Interest Income",
+            "$0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Interest Expense",
+            "($47)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Interest Income",
+            "$68"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Chargeoffs",
+            "($12)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Loan Loss Provision Adjustment",
+            "($54)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Recoveries",
+            "$0.7"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Credit Losses",
+            "($66.7)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Lending Margin",
+            "$1.3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Interchange Fees",
+            "$674"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Late Fees",
+            "$26"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Annual Fee Income",
+            "$30"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Cash Advance Fees",
+            "$6"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Balance Transfer Fees",
+            "$2"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Overlimit Fees",
+            "$0.3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Foreign Exchange Fees",
+            "$21"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Credit Protection Fees",
+            "$1.4"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Miscellaneous Fee Income",
+            "$0.1"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Total Other Income",
+            "$760.8"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Acquisition Cost",
+            "($172)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Acquisition Incentive",
+            "($200)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Variable Servicing Costs",
+            "($29)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Reward & Benefits Costs",
+            "($557)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Collection Ops Costs",
+            "($5)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Credit Protection Claims",
+            "($0.04)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Portfolio Marketing Costs",
+            "($8)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Plastic Reissue Cost",
+            "($1)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Network Fees (MC)",
+            "($71)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Processor Fees (FirstData/TSYS/FIS)",
+            "($62)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Fraud Losses",
+            "($36)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Total Costs",
+            "($1141)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Pre-tax Net Income",
+            "($379)"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

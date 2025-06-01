@@ -1,0 +1,83 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Highlight the impact of COVID-19 on workplace diversity and flexibility.",
+  "narrative_role": "Context setting",
+  "title": "COVID-19 placed us at a cross roads",
+  "bullets": [
+    {
+      "highlight": "70%",
+      "text": "Companies agree that remote work will help hire and retain more diverse employees"
+    },
+    {
+      "highlight": "69%",
+      "text": "Employees say remote work can provide the flexibility they need to have work/life balance"
+    },
+    {
+      "highlight": "#1",
+      "text": "In 2019 flexibility was the top challenge raised by employees"
+    },
+    {
+      "highlight": "1 in 4",
+      "text": "Women who are considering leaving the workforce or downshifting their careers"
+    },
+    {
+      "highlight": "2M+",
+      "text": "Potential number of women who could exit the workforce"
+    },
+    {
+      "highlight": "Progress over last 6 years",
+      "text": "could be erased in one year"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Compare positive and negative impacts",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Optimism that remote work can improve flexibility and diversity...",
+    "right": "... but big challenges that put at risk the progress earned"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and colored numbers"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "None",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific chart or data points were presented beyond textual highlights."
+  }
+}

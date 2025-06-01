@@ -1,0 +1,131 @@
+{
+  "slide_id": "12",
+  "section": "REWARD ECONOMICS",
+  "purpose": "To explain the average burn rate and the percentage redemption for each category of reward.",
+  "narrative_role": "Informative",
+  "title": "To find the avg. burn rate, we need % redemption for each category of reward",
+  "bullets": [],
+  "supporting_facts": [
+    "% Redemption distribution is either provided by the client or is based on reasonable assumptions.",
+    "Average points required to redeem $1 is obtained through secondary research from the Bank’s website or is provided by the client."
+  ],
+  "reasoning_strategy": "Analytical explanation using issuer data to identify distribution.",
+  "data_points": [
+    "20% redemption for Cashback",
+    "40% redemption for Voucher",
+    "20% redemption for Airline",
+    "10% redemption for In-kind Rewards",
+    "10% redemption for Product Catalogue"
+  ],
+  "cta": null,
+  "layout": "Table with explanatory text and icons",
+  "layout_type": "Text with table",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center",
+    "note": "bottom",
+    "icon": "bottom-right"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Burn Rate (avg.)",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color and bold text for emphasis"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Distribution and points required for redemption",
+      "headers": [
+        "Categories",
+        "% redemption distribution",
+        "Average points required to redeem USD 1"
+      ],
+      "rows": [
+        {
+          "row_label": "Cashback",
+          "cells": [
+            "Cashback",
+            "20%",
+            "100"
+          ]
+        },
+        {
+          "row_label": "Voucher",
+          "cells": [
+            "Voucher",
+            "40%",
+            "100"
+          ]
+        },
+        {
+          "row_label": "Airline",
+          "cells": [
+            "Airline",
+            "20%",
+            "50"
+          ]
+        },
+        {
+          "row_label": "In-kind Rewards",
+          "cells": [
+            "In-kind Rewards",
+            "10%",
+            "50"
+          ]
+        },
+        {
+          "row_label": "Product Catalogue",
+          "cells": [
+            "Product Catalogue",
+            "10%",
+            "50"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

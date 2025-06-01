@@ -1,0 +1,213 @@
+{
+  "slide_id": "13",
+  "section": "Commitment to sustainability",
+  "purpose": "To present sustainability indicators for various players",
+  "narrative_role": "Informative",
+  "title": "Dimension 1: Commitment to sustainability Indicators 2 (1/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of sustainability metrics across different players",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with table",
+  "layout_type": "Table-focused",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "25%",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight on numerical values"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Sustainability Metrics",
+      "description": "Comparison of sustainability metrics across various players",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 1 Europe",
+        "Player 2 Europe & other",
+        "Player 3 Europe & other",
+        "Player 4 Europe",
+        "Player 5 Europe",
+        "Player 6 Europe",
+        "Player 7 Europe",
+        "Player 8 Europe",
+        "Player 9 Europe",
+        "Player 10 Europe"
+      ],
+      "rows": [
+        {
+          "row_label": "Share of CEO var. remuneration on sustainability",
+          "cells": [
+            "N",
+            "5%",
+            "0",
+            "80",
+            "60",
+            "80",
+            "0",
+            "0",
+            "80",
+            "60",
+            "40",
+            "40"
+          ]
+        },
+        {
+          "row_label": "Prominence of sustainability in publications",
+          "cells": [
+            "N",
+            "3%",
+            "100",
+            "60",
+            "40",
+            "60",
+            "80",
+            "40",
+            "60",
+            "40",
+            "40",
+            "60"
+          ]
+        },
+        {
+          "row_label": "Clear overall sustainability responsibility",
+          "cells": [
+            "J",
+            "3%",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "50"
+          ]
+        },
+        {
+          "row_label": "Level of position responsible for climate-related issues",
+          "cells": [
+            "J",
+            "3%",
+            "100",
+            "100",
+            "100",
+            "75",
+            "100",
+            "75",
+            "100",
+            "75",
+            "75",
+            "100"
+          ]
+        },
+        {
+          "row_label": "Breadth of responsibility distribution",
+          "cells": [
+            "J",
+            "3%",
+            "50",
+            "100",
+            "100",
+            "100",
+            "50",
+            "100",
+            "100",
+            "75",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "row_label": "Breadth of responsibility distribution",
+          "cells": [
+            "J",
+            "3%",
+            "50",
+            "100",
+            "100",
+            "100",
+            "75",
+            "100",
+            "100",
+            "75",
+            "100",
+            "75"
+          ]
+        },
+        {
+          "row_label": "Type of Monitoring of sustainability activities",
+          "cells": [
+            "J",
+            "3%",
+            "100",
+            "50",
+            "0",
+            "100",
+            "100",
+            "0",
+            "0",
+            "0",
+            "0",
+            "50"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "highlighted cells"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": {
+    "_why_unknown": "Font details are not discernible from the image."
+  }
+}

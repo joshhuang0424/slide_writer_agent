@@ -1,0 +1,94 @@
+{
+  "slide_id": "26",
+  "section": "Global Commuting Trends",
+  "purpose": "To illustrate the decline in commuting trips due to COVID-19 lockdowns, with a focus on specific countries.",
+  "narrative_role": "Data presentation",
+  "title": "Frequency of commuting trips has significantly decreased globally, second lockdown affecting especially France and Italy",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 1 (may 9-18), wave 2 (may 27-29), wave 3 (june 16-18), wave 4 (july 15 – 17), wave 5 (sep 2-4), and wave 6 (nov 6-10)."
+  ],
+  "reasoning_strategy": "Comparative analysis over different time waves and countries.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Split by country with bar charts",
+  "layout_type": "Comparative",
+  "content_zones": {
+    "top": "Title and subtitle",
+    "middle": "Bar charts for UK, Germany, Italy, and France",
+    "bottom": "Source and notes"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "center-right"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "bottom-left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "bottom-center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for significant numbers"
+  },
+  "design_language": "Corporate, clean, data-focused",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Change in number of commuting trips during and after the crisis vs. commuting habits before",
+    "x_axis_label": "Time waves",
+    "y_axis": [
+      "Percentage change"
+    ],
+    "values": [],
+    "annotations": [
+      "Significantly increase",
+      "Slightly increase",
+      "Slightly decrease",
+      "Significantly decrease"
+    ],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Specific chart values and detailed analysis points cannot be extracted from the image due to resolution limitations."
+  }
+}

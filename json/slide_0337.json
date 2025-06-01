@@ -1,0 +1,85 @@
+{
+  "slide_id": "38",
+  "section": "Case Study",
+  "purpose": "To provide insights into tourism using Mastercard data",
+  "narrative_role": "Informative",
+  "title": "Tourism Insights",
+  "bullets": [
+    {
+      "highlight": "Set Up",
+      "text": "Select the travel location, identify aggregate group of visitors for each location – which forms the basis of analysis"
+    },
+    {
+      "highlight": "Sentiment analysis",
+      "text": "Social media data is pulled from Instagram, TripAdvisor, etc. as the primary sources and metrics such as security, climate of the destination are measured"
+    },
+    {
+      "highlight": "Booking analysis",
+      "text": "Data is pulled from Global Distribution Systems such as Amadeus, Sabre, Travelport, etc. Characteristics on pricing, bookings, etc. are analyzed"
+    },
+    {
+      "highlight": "Spend analysis",
+      "text": "Measured from MC transaction data"
+    }
+  ],
+  "supporting_facts": [
+    "Platform gathered more than 2 million mentions from social networks."
+  ],
+  "reasoning_strategy": "Data-driven analysis using social media and transaction data",
+  "data_points": [
+    "Over 70 million hits"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Text-heavy",
+  "content_zones": {
+    "left": "Description and Approach",
+    "right": "Case Study Description and Actionable Insights"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms and highlights"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "unknown",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "unknown"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "unknown"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No charts or pyramid visually detected in the image."
+  }
+}

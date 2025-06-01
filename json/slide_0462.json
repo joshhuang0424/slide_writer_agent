@@ -1,0 +1,71 @@
+{
+  "slide_id": "11",
+  "section": "Q&A",
+  "purpose": "To invite questions from the audience.",
+  "narrative_role": "Concluding",
+  "title": "Questions?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Engagement",
+  "data_points": [],
+  "cta": "Engage with audience through Q&A",
+  "layout": "Single focus question",
+  "layout_type": "Simple",
+  "content_zones": {
+    "text": "center-left",
+    "brand_logo": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "",
+      "position": "center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": "Question mark emphasizes engagement"
+  },
+  "design_language": "Minimalist",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "white",
+    "background": "dark gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "normal"
+    },
+    "body": {
+      "font_family": "",
+      "size": ""
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

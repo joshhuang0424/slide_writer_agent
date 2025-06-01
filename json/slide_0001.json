@@ -1,0 +1,196 @@
+{
+  "slide_id": "1",
+  "section": "Title Page",
+  "purpose": "Introduction",
+  "narrative_role": "Set the context for the report.",
+  "title": "Women in the Workplace",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Present the report title and context.",
+  "data_points": [],
+  "cta": null,
+  "layout": "title slide with image",
+  "layout_type": "cover",
+  "content_zones": {
+    "title": {
+      "position": "left",
+      "content": "6TH Year\nWomen in the Workplace\n2020"
+    },
+    "image": {
+      "position": "right",
+      "description": "Black and white portrait of a woman."
+    },
+    "logo": {
+      "position": "top left",
+      "content": "McKinsey & Company"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "line pattern",
+      "label": "decorative lines",
+      "position": "background"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title text emphasized through size and boldness."
+  },
+  "design_language": "professional and modern with clean lines",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Board of Directors"
+      },
+      {
+        "id": "L1",
+        "label": "C-level executives & presidents"
+      },
+      {
+        "id": "L2",
+        "label": "Senior Vice Presidents"
+      },
+      {
+        "id": "L3",
+        "label": "Vice Presidents"
+      },
+      {
+        "id": "L4",
+        "label": "Directors"
+      },
+      {
+        "id": "L5",
+        "label": "Managers"
+      },
+      {
+        "id": "L6",
+        "label": "Individual Contributors"
+      },
+      {
+        "id": "L7",
+        "label": "Field or frontline"
+      }
+    ],
+    "position": "left"
+  },
+  "table": {
+    "title": "Role mapping by media type",
+    "headers": [
+      "Digital",
+      "Broadcast",
+      "Radio",
+      "Print"
+    ],
+    "rows": [
+      {
+        "pyramid_level": "L0",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L1",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L2",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L3",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L4",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L5",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L6",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L7",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      }
+    ],
+    "position": "right"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains only introductory elements without detailed content."
+  }
+}

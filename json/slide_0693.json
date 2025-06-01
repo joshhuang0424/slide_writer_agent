@@ -1,0 +1,257 @@
+{
+  "slide_id": "14",
+  "section": "Cross-border M&A activity",
+  "purpose": "To analyze cross-border M&A activity over the past four years.",
+  "narrative_role": "Informative analysis",
+  "title": "Cross-border M&A activity: Past 4 years",
+  "bullets": [
+    {
+      "highlight": "2016 vs 2014",
+      "text": "Share of domestic deal, cross-regional and cross-border M&A significantly changed"
+    },
+    {
+      "highlight": "19%",
+      "text": "Cross-regional activity increased, while cross-border and domestic activity fell by 28% and 24% respectively"
+    },
+    {
+      "highlight": "Americas",
+      "text": "Share of domestic deal fell in Americas"
+    },
+    {
+      "highlight": "29%",
+      "text": "Cross-border within region increased, followed by cross-regional (9%), while domestic activity fell by 27%"
+    },
+    {
+      "highlight": "36%",
+      "text": "Domestic deal activity remained stable in 2016 contributing to 36% of the total deal activity as compared with 33% in 2015"
+    },
+    {
+      "highlight": "55%",
+      "text": "Cross-regional activity grew in absolute and relative terms to make up almost a half of all activity, while cross-border activity fell by 55% in absolute terms and lost 19% percent points"
+    },
+    {
+      "highlight": "26%",
+      "text": "Domestic deal activity dropped in 2016 vs. 2015 contributing to 80% of the total deal activity as compared with 43% in 2015"
+    },
+    {
+      "highlight": "24%",
+      "text": "Cross-regional activity fell while cross-border activity grew by 5% in absolute terms"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    {
+      "value": "2674",
+      "category": "Global FY2013"
+    },
+    {
+      "value": "3513",
+      "category": "Global FY2014"
+    },
+    {
+      "value": "4561",
+      "category": "Global FY2015"
+    },
+    {
+      "value": "3777",
+      "category": "Global FY2016"
+    },
+    {
+      "value": "1297",
+      "category": "Americas FY2013"
+    },
+    {
+      "value": "1735",
+      "category": "Americas FY2014"
+    },
+    {
+      "value": "2316",
+      "category": "Americas FY2015"
+    },
+    {
+      "value": "1891",
+      "category": "Americas FY2016"
+    },
+    {
+      "value": "805",
+      "category": "EMEA FY2013"
+    },
+    {
+      "value": "970",
+      "category": "EMEA FY2014"
+    },
+    {
+      "value": "1063",
+      "category": "EMEA FY2015"
+    },
+    {
+      "value": "981",
+      "category": "EMEA FY2016"
+    },
+    {
+      "value": "572",
+      "category": "Asia-Pacific FY2013"
+    },
+    {
+      "value": "808",
+      "category": "Asia-Pacific FY2014"
+    },
+    {
+      "value": "1182",
+      "category": "Asia-Pacific FY2015"
+    },
+    {
+      "value": "906",
+      "category": "Asia-Pacific FY2016"
+    }
+  ],
+  "cta": null,
+  "layout": "Full-page bar chart with text annotations on the right",
+  "layout_type": "bar_chart_with_annotations",
+  "content_zones": {
+    "chart": "left",
+    "annotations": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 8,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight significant percentage changes and years"
+  },
+  "design_language": "Professional, analytical",
+  "color_scheme": {
+    "primary": "#008080",
+    "accent": "#005F6B",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "stacked_bar_chart",
+    "title": "Cross-border deals",
+    "x_axis_label": "Fiscal Year",
+    "y_axis": [
+      "Value ($ bn)"
+    ],
+    "values": [
+      {
+        "category": "Global",
+        "data": [
+          {
+            "FY2013": 2674,
+            "FY2014": 3513,
+            "FY2015": 4561,
+            "FY2016": 3777
+          }
+        ]
+      },
+      {
+        "category": "Americas",
+        "data": [
+          {
+            "FY2013": 1297,
+            "FY2014": 1735,
+            "FY2015": 2316,
+            "FY2016": 1891
+          }
+        ]
+      },
+      {
+        "category": "EMEA",
+        "data": [
+          {
+            "FY2013": 805,
+            "FY2014": 970,
+            "FY2015": 1063,
+            "FY2016": 981
+          }
+        ]
+      },
+      {
+        "category": "Asia-Pacific",
+        "data": [
+          {
+            "FY2013": 572,
+            "FY2014": 808,
+            "FY2015": 1182,
+            "FY2016": 906
+          }
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Cross-border deals",
+      "description": "Value in $ bn, % of total",
+      "headers": [
+        "Region",
+        "FY2013",
+        "FY2014",
+        "FY2015",
+        "FY2016"
+      ],
+      "rows": [
+        {
+          "row_label": "Global",
+          "cells": [
+            "2674",
+            "3513",
+            "4561",
+            "3777"
+          ]
+        },
+        {
+          "row_label": "Americas",
+          "cells": [
+            "1297",
+            "1735",
+            "2316",
+            "1891"
+          ]
+        },
+        {
+          "row_label": "EMEA",
+          "cells": [
+            "805",
+            "970",
+            "1063",
+            "981"
+          ]
+        },
+        {
+          "row_label": "Asia-Pacific",
+          "cells": [
+            "572",
+            "808",
+            "1182",
+            "906"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "stacked_bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Chart is visually complex and information is extracted based on visible text and layout."
+  }
+}

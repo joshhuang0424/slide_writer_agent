@@ -1,0 +1,142 @@
+{
+  "slide_id": "21",
+  "section": "Authentication Strategies",
+  "purpose": "Highlight the importance and elements of an authentication strategy in the context of increasing digitization.",
+  "narrative_role": "Informative",
+  "title": "Due to increasing digitization an authentication strategy is increasingly important to balance cost, customer experience, and sturdiness of technology",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between goals and required elements.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Goals of authentication strategy",
+    "right": "Required elements of future authentication strategies"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for titles"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of current goals and future elements of authentication strategies",
+      "headers": [
+        "Goals of authentication strategy",
+        "Required elements of future authentication strategies"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Mitigate account take-over attacks and revenue losses",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Increase usage/preference due to enhanced customer experience and security",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Achieve economies of scale through standardization for all channels and interactions",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Increase payment volume with reduced false declines",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Reduce operational cost with less customer service calls",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Actively authenticate users as needed with biometrics or methods",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "Layered approach: Technology & process\nLayering of technology throughout the account lifecycle and across customer touchpoints will be critical to reducing false positive rates, while remaining as passive as possible to the customer"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "Public information: Use with caution\nThe future of authentication will consist of a more passive approach using non-public data, minimizing false positives, but also reducing customer interaction to minimize the risk of a negative customer experience"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "Device: Future of authentication\nThe mobile device will be leveraged as an important channel for authentication across touchpoints, by providing a host of opportunities to make authentication more effective; opt-in must be managed to facilitate success"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "There are no charts or infographics other than tables and an arrow, which are already noted."
+  }
+}

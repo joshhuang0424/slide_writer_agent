@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Set the theme for the presentation",
+  "narrative_role": "Introduction",
+  "title": "Crush and Contain for Safer Reopening",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual Theme Introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "image_text",
+  "content_zones": {
+    "left": "Image of two people walking up stairs",
+    "right": "Title and company logo"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "BCG",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Modern, minimalistic",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No body text present, font details for body text are unknown."
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "slide_id": "30",
+  "section": "Hostile M&A Analysis",
+  "purpose": "To provide an overview of hostile M&A deals from 2008 to 2016",
+  "narrative_role": "Data Presentation",
+  "title": "Hostile M&A deals during period 2008-16",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Hostile M&A deals continued the trend and fell significantly in 2016"
+    },
+    {
+      "highlight": "4.3 Bn",
+      "text": "Average deal value remained high at ~4.3 Bn; way lower than 2014-15 levels"
+    },
+    {
+      "highlight": "",
+      "text": "The incidence of withdrawn deals on hostile deals is more relevant"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Trend Analysis",
+  "data_points": [
+    "$490 bn in 2008",
+    "$166 bn in 2009",
+    "$245 bn in 2010",
+    "$186 bn in 2011",
+    "$116 bn in 2012",
+    "$157 bn in 2013",
+    "$662 bn in 2014",
+    "$614 bn in 2015",
+    "$262 bn in 2016"
+  ],
+  "cta": null,
+  "layout": "Chart and Bullet points with Table",
+  "layout_type": "Visual Data Comparison",
+  "content_zones": {
+    "chart": "left",
+    "bullets": "right",
+    "table": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numerical values highlighted"
+  },
+  "design_language": "Professional and Data-centric",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "black",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "Bar and Line Chart",
+    "title": "Announced hostile deals",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Value $ bn",
+      "Number of deals"
+    ],
+    "values": [
+      {
+        "year": "2008",
+        "value": 490,
+        "deals": 124
+      },
+      {
+        "year": "2009",
+        "value": 166,
+        "deals": 84
+      },
+      {
+        "year": "2010",
+        "value": 245,
+        "deals": 99
+      },
+      {
+        "year": "2011",
+        "value": 186,
+        "deals": 104
+      },
+      {
+        "year": "2012",
+        "value": 116,
+        "deals": 89
+      },
+      {
+        "year": "2013",
+        "value": 157,
+        "deals": 61
+      },
+      {
+        "year": "2014",
+        "value": 662,
+        "deals": 75
+      },
+      {
+        "year": "2015",
+        "value": 614,
+        "deals": 67
+      },
+      {
+        "year": "2016",
+        "value": 262,
+        "deals": 61
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Hostile M&A Deal Data",
+      "description": "Details of deal values and number of deals from 2008 to 2016",
+      "headers": [
+        "Year",
+        "Deal value (bn)",
+        "% change",
+        "Number of deals",
+        "% change",
+        "Average deal value (mn)",
+        "% change"
+      ],
+      "rows": [
+        {
+          "row_label": "2008",
+          "cells": [
+            "490",
+            "-66%",
+            "124",
+            "-32%",
+            "3949",
+            "-50%"
+          ]
+        },
+        {
+          "row_label": "2009",
+          "cells": [
+            "166",
+            "48%",
+            "84",
+            "18%",
+            "1979",
+            "25%"
+          ]
+        },
+        {
+          "row_label": "2010",
+          "cells": [
+            "245",
+            "-24%",
+            "99",
+            "5%",
+            "2479",
+            "-28%"
+          ]
+        },
+        {
+          "row_label": "2011",
+          "cells": [
+            "186",
+            "-37%",
+            "104",
+            "-14%",
+            "1788",
+            "-31%"
+          ]
+        },
+        {
+          "row_label": "2012",
+          "cells": [
+            "116",
+            "35%",
+            "89",
+            "-31%",
+            "1309",
+            "-27%"
+          ]
+        },
+        {
+          "row_label": "2013",
+          "cells": [
+            "157",
+            "321%",
+            "61",
+            "23%",
+            "2573",
+            "97%"
+          ]
+        },
+        {
+          "row_label": "2014",
+          "cells": [
+            "662",
+            "-7%",
+            "75",
+            "-11%",
+            "8820",
+            "243%"
+          ]
+        },
+        {
+          "row_label": "2015",
+          "cells": [
+            "614",
+            "-57%",
+            "67",
+            "-9%",
+            "9165",
+            "4%"
+          ]
+        },
+        {
+          "row_label": "2016",
+          "cells": [
+            "262",
+            "",
+            "61",
+            "",
+            "4295",
+            "-53%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present in the slide."
+  }
+}

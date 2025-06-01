@@ -1,0 +1,107 @@
+{
+  "slide_id": "41",
+  "section": "Analysis Tools",
+  "purpose": "To present BCG's analytical toolbox for assessing client plans and value drivers.",
+  "narrative_role": "Informative",
+  "title": "",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "We will leverage BCG’s full analytical toolbox for assessing Client plans and value drivers"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text-graphic",
+  "content_zones": {
+    "left": "Text",
+    "right": "Infographic"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "TSR Disaggregation",
+      "position": "top-left"
+    },
+    {
+      "type": "infographic",
+      "label": "Historical Value Creation",
+      "position": "top-right"
+    },
+    {
+      "type": "infographic",
+      "label": "Investor Mix/Insight",
+      "position": "bottom-left"
+    },
+    {
+      "type": "infographic",
+      "label": "Status-quo TSR Drivers",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use color to emphasize key terms."
+  },
+  "design_language": "Professional and modern with a clean layout.",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Historical Value Creation"
+      },
+      {
+        "id": "L1",
+        "label": "Status-quo TSR Drivers"
+      },
+      {
+        "id": "L2",
+        "label": "Investor Mix/Insight"
+      },
+      {
+        "id": "L3",
+        "label": "TSR Disaggregation"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_details": "The font details are not discernible from the image."
+  }
+}

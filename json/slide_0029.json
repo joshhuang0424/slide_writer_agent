@@ -1,0 +1,97 @@
+{
+  "slide_id": "4",
+  "section": "Challenges in Attracting Women to Data Science",
+  "purpose": "To highlight reasons why the field of data science struggles to attract STEM women.",
+  "narrative_role": "Informative",
+  "title": "Three reasons the field of data science struggles to attract STEM women",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Many women see data science as theoretical and low-impact"
+    },
+    {
+      "highlight": "2",
+      "text": "Many women see data science as \"nerdy\" and competitive"
+    },
+    {
+      "highlight": "3",
+      "text": "STEM women feel poorly informed about data science careers"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presenting survey findings",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column layout with images and text",
+  "layout_type": "Visual List",
+  "content_zones": {
+    "title": {
+      "position": "top-center",
+      "dimensions": "full-width"
+    },
+    "bullets": {
+      "position": "center",
+      "dimensions": "three-columns"
+    },
+    "source": {
+      "position": "bottom-left",
+      "dimensions": "small"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "2",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "3",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Use of color to highlight keywords"
+  },
+  "design_language": "Modern and clean with emphasis on key points",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain any charts, data points, or annotations."
+  }
+}

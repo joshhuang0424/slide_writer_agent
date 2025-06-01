@@ -1,0 +1,91 @@
+{
+  "slide_id": "14",
+  "section": "Ensuring scale of effort",
+  "purpose": "Compare employer provisions and employee challenges",
+  "narrative_role": "Informative",
+  "title": "Ensuring scale of effort is large enough",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    "Mental health: 67% employer provisions, 62% employees' challenges",
+    "Childcare/family care: 70% employer provisions, 44% employees' challenges",
+    "Career progression: 66% employer provisions, 57% employees' challenges",
+    "Office connectivity: 69% employer provisions, 60% employees' challenges"
+  ],
+  "cta": null,
+  "layout": "four circular diagrams with labels",
+  "layout_type": "infographic",
+  "content_zones": {
+    "top": "title and subtitle",
+    "middle": "circular diagrams with percentages and labels",
+    "bottom": "footnotes and source"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Mental health",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Childcare/family care",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "Career progression",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "Office connectivity",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight percentages"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#3E3E3E",
+    "accent": "#5BB8E7",
+    "background": "#1A2A35"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "36px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "circular diagram",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid or table structures detected; content focused on circle diagrams with percentage comparison."
+  }
+}

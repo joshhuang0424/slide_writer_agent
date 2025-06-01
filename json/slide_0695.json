@@ -1,0 +1,243 @@
+{
+  "slide_id": "16",
+  "section": "EMEA M&A market",
+  "purpose": "To show the trends in M&A activity in the EMEA region from 2008 to 2016",
+  "narrative_role": "Analytical",
+  "title": "EMEA M&A market, 2008-16",
+  "bullets": [
+    {
+      "highlight": "4%",
+      "text": "M&A activity in EMEA region fell in 2016 (-8%)"
+    },
+    {
+      "highlight": "4%",
+      "text": "In 2016 number of deals fell by 4%, resulting in an average deal value fall of 4%"
+    },
+    {
+      "highlight": "26%",
+      "text": "EMEA region had 26% of global activity in 2016"
+    },
+    {
+      "highlight": "second",
+      "text": "Was second most active region after the Americas"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Trend analysis over years",
+  "data_points": [
+    "$1,309 bn in 2008",
+    "$688 bn in 2009",
+    "$799 bn in 2010",
+    "$827 bn in 2011",
+    "$761 bn in 2012",
+    "$805 bn in 2013",
+    "$970 bn in 2014",
+    "$1,063 bn in 2015",
+    "$981 bn in 2016"
+  ],
+  "cta": null,
+  "layout": "Chart with bullet points",
+  "layout_type": "Chart and text",
+  "content_zones": {
+    "chart": "center",
+    "bullets": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numeric values and percentages are emphasized"
+  },
+  "design_language": "Professional, analytical",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Announced deals",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Value $bn",
+      "Number of deals"
+    ],
+    "values": [
+      {
+        "year": 2008,
+        "value": 1309,
+        "deals": 3105
+      },
+      {
+        "year": 2009,
+        "value": 688,
+        "deals": 1811
+      },
+      {
+        "year": 2010,
+        "value": 799,
+        "deals": 2138
+      },
+      {
+        "year": 2011,
+        "value": 827,
+        "deals": 2264
+      },
+      {
+        "year": 2012,
+        "value": 761,
+        "deals": 2003
+      },
+      {
+        "year": 2013,
+        "value": 805,
+        "deals": 1813
+      },
+      {
+        "year": 2014,
+        "value": 970,
+        "deals": 2047
+      },
+      {
+        "year": 2015,
+        "value": 1063,
+        "deals": 2131
+      },
+      {
+        "year": 2016,
+        "value": 981,
+        "deals": 2043
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Summary of deal values and number of deals with percentage changes",
+      "headers": [
+        "Deal value (bn)",
+        "% change",
+        "Number of deals",
+        "% change",
+        "Average deal value (mn)",
+        "% change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1,309",
+            "-47%",
+            "3,105",
+            "-42%",
+            "422",
+            "-10%"
+          ]
+        },
+        {
+          "cells": [
+            "688",
+            "16%",
+            "1,811",
+            "18%",
+            "380",
+            "-2%"
+          ]
+        },
+        {
+          "cells": [
+            "799",
+            "3%",
+            "2,138",
+            "6%",
+            "374",
+            "4%"
+          ]
+        },
+        {
+          "cells": [
+            "827",
+            "-8%",
+            "2,264",
+            "-12%",
+            "365",
+            "17%"
+          ]
+        },
+        {
+          "cells": [
+            "761",
+            "6%",
+            "2,003",
+            "-9%",
+            "380",
+            "7%"
+          ]
+        },
+        {
+          "cells": [
+            "805",
+            "20%",
+            "1,813",
+            "13%",
+            "444",
+            "5%"
+          ]
+        },
+        {
+          "cells": [
+            "970",
+            "10%",
+            "2,047",
+            "4%",
+            "474",
+            "-4%"
+          ]
+        },
+        {
+          "cells": [
+            "1,063",
+            "-8%",
+            "2,131",
+            "-4%",
+            "499",
+            "-4%"
+          ]
+        },
+        {
+          "cells": [
+            "981",
+            "",
+            "2,043",
+            "",
+            "480",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional infographics or unique render styles detected."
+  }
+}

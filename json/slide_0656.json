@@ -1,0 +1,83 @@
+{
+  "slide_id": "10",
+  "section": "Key challenge",
+  "purpose": "Highlight the lack of managerial sponsorship and allyship for Black workers.",
+  "narrative_role": "Informative analysis",
+  "title": "Lack of managerial sponsorship and allyship for Black workers",
+  "bullets": [
+    {
+      "highlight": "87%",
+      "text": "of companies report having a sponsorship program"
+    },
+    {
+      "highlight": "33%",
+      "text": "of Black employees report having 1 or more sponsors"
+    },
+    {
+      "highlight": "23%",
+      "text": "of Black employees feel ‘a lot’ or ‘quite a bit’ of support at their company to advance"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven insights",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with chart on the left and text on the right",
+  "layout_type": "chart and text",
+  "content_zones": {
+    "left": "Chart and bullet points",
+    "right": "Quote and narrative text"
+  },
+  "visual_elements": [
+    {
+      "type": "quote",
+      "label": "“I find myself lacking in getting the coaching...”",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Important points highlighted with bold percentages"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "donut",
+    "title": "Access to sponsorship / support",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [
+      "87% of companies",
+      "33% of Black employees",
+      "23% of Black employees"
+    ],
+    "annotations": [],
+    "source": "Race in the Workplace 2021 Participating Company survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No x_axis_label in chart due to chart type"
+  }
+}

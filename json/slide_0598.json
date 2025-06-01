@@ -1,0 +1,94 @@
+{
+  "slide_id": "27",
+  "section": "Reward Economics",
+  "purpose": "Illustrate customer lifecycle stages and associated bank rewards",
+  "narrative_role": "Informative",
+  "title": "Customer Lifecycle",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of each lifecycle stage with associated rewards",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal flow",
+  "layout_type": "process",
+  "content_zones": {
+    "top": "Title and description",
+    "middle": "Lifecycle stages with icons and descriptions"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Acquisition",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Activation/EMOB",
+      "position": "center-left"
+    },
+    {
+      "type": "icon",
+      "label": "Usage",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Financial Wellness",
+      "position": "center-right"
+    },
+    {
+      "type": "icon",
+      "label": "Enhance bank relationship",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Retention",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for stage titles"
+  },
+  "design_language": "Modern and clean with outlined icons",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Fonts are not specified in the image. No explicit data points or tables are present."
+  }
+}

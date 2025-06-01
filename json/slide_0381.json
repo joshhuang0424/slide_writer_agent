@@ -1,0 +1,133 @@
+{
+  "slide_id": "17",
+  "section": "客戶分群策略",
+  "purpose": "說明如何建立客戶分群與貼標，並決定客群優先順序以進行額外溝通。",
+  "narrative_role": "策略指導",
+  "title": "建立客戶分群 | 椰子會透過客戶分群與貼標決定客群優先順序，以進行額外溝通",
+  "bullets": [
+    {
+      "highlight": "聯名卡上線後",
+      "text": "全部的椰子會員都會收到轉卡訊息，包含MVM、eDM、APP、網站、賣場文宣等"
+    },
+    {
+      "highlight": "同時",
+      "text": "針對高優先客群進行額外的TM、SMS溝通，以提高轉卡比率"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "依據客群定義提出數據需求，並生成名單",
+  "data_points": [],
+  "cta": null,
+  "layout": "三欄布局",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "客群分類",
+    "center": "定義與考量",
+    "right": "預計工作事項"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "使用粗體字或顏色區分重點"
+  },
+  "design_language": "商務簡約",
+  "color_scheme": {
+    "primary": "藍色",
+    "accent": "灰色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "Helvetica",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "客群分類與定義",
+      "description": "定義不同客群的分類標準及考量因素",
+      "headers": [
+        "客群名稱",
+        "定義",
+        "考量"
+      ],
+      "rows": [
+        {
+          "row_label": "尚未轉卡的進線客訴客群",
+          "cells": [
+            "尚未轉卡的進線客訴客群",
+            "曾進線客訴聯名卡易主的客戶(以椰子客服中心紀錄為資料來源)",
+            "這些客戶潛在體驗痛點較多，值得優先溝通"
+          ]
+        },
+        {
+          "row_label": "線上消費客戶",
+          "cells": [
+            "線上消費客戶",
+            "過去一年曾在線上消費過的客戶",
+            "8/8後若未轉卡則會直接損失業績"
+          ]
+        },
+        {
+          "row_label": "有椰子加油站消費的客戶",
+          "cells": [
+            "有椰子加油站消費的客戶",
+            "過去一年曾在椰子加油站消費的客戶",
+            "8/8後若未轉卡則無法加油"
+          ]
+        },
+        {
+          "row_label": "黑鑽會員",
+          "cells": [
+            "黑鑽會員",
+            "黑鑽會員，消費前20萬/多利金達一定金額已申辦自動續約的會員",
+            "這些客戶價值較高，應優先轉換"
+          ]
+        },
+        {
+          "row_label": "流失風險高會員",
+          "cells": [
+            "流失風險高會員",
+            "近3個月未消費客戶(待討論)/到期未續會會員",
+            "客戶不續會風險高或已不續會，可考慮以新卡優惠促進續會"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "標準表格"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "頁面中無法判斷的特定圖表或資訊"
+  }
+}

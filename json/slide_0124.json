@@ -1,0 +1,131 @@
+{
+  "slide_id": "19",
+  "section": "Discount Expectations",
+  "purpose": "To show the change in discount expectations for purchasing a vehicle after the 2nd lockdown.",
+  "narrative_role": "Data presentation",
+  "title": "Discount expectations have significantly increased since the 2nd lockdown – fewer customers state to buy “independently of discount”",
+  "bullets": [],
+  "supporting_facts": [
+    "Required discount amount for consumer to purchase a vehicle in the next 1-2 months",
+    "Percent of respondents"
+  ],
+  "reasoning_strategy": "Comparison of percentage changes over time",
+  "data_points": [
+    "More than 20% discount: UK Sep 2-4 (16%), UK Nov 6-10 (19%), Germany Sep 2-4 (23%), Germany Nov 6-10 (23%), France Sep 2-4 (18%), France Nov 6-10 (26%), Italy Sep 2-4 (27%), Italy Nov 6-10 (35%)",
+    "Up to 20% discount: UK Sep 2-4 (59%), UK Nov 6-10 (67%), Germany Sep 2-4 (54%), Germany Nov 6-10 (63%), France Sep 2-4 (63%), France Nov 6-10 (67%), Italy Sep 2-4 (60%), Italy Nov 6-10 (55%)",
+    "Buy independently of discount: UK Sep 2-4 (24%), UK Nov 6-10 (14%), Germany Sep 2-4 (22%), Germany Nov 6-10 (14%), France Sep 2-4 (19%), France Nov 6-10 (7%), Italy Sep 2-4 (13%), Italy Nov 6-10 (10%)"
+  ],
+  "cta": null,
+  "layout": "Two-row bar chart layout with labels and axis",
+  "layout_type": "chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "above first column"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "above second column"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "above third column"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "above fourth column"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "More than 20%": [
+          16,
+          19,
+          23,
+          23,
+          18,
+          26,
+          27,
+          35
+        ]
+      },
+      {
+        "Up to 20%": [
+          59,
+          67,
+          54,
+          63,
+          63,
+          67,
+          60,
+          55
+        ]
+      },
+      {
+        "Buy independently of discount": [
+          24,
+          14,
+          22,
+          14,
+          19,
+          7,
+          13,
+          10
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image, and no bullet points were present."
+  }
+}

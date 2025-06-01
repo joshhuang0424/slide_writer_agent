@@ -1,0 +1,116 @@
+{
+  "slide_id": "26",
+  "section": "Mobility Usage",
+  "purpose": "To analyze the impact of the 2nd COVID-19 lockdowns on mobility patterns in Europe.",
+  "narrative_role": "Data Visualization",
+  "title": "Mobility usage patterns in France and Italy are most affected by the 2nd COVID-19 lockdowns in Europe",
+  "bullets": [
+    {
+      "highlight": "58%",
+      "text": "of EU consumers traveling less, showing a 7pp. decrease vs. last wave due to the latest lockdowns"
+    },
+    {
+      "highlight": "France and Italy",
+      "text": "Respondents’ mobility usage currently most affected in"
+    }
+  ],
+  "supporting_facts": [
+    "Results of wave 1 (May 9-18), wave 2 (May 27-29), wave 3 (Jun 16-18), wave 4 (Jul 15-17), wave 5 (Sep 2-4), and wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparative analysis of mobility changes over different waves",
+  "data_points": [
+    "Mobility pattern changes (number and length of trips) since the outbreak of COVID-19",
+    "Percent of respondents"
+  ],
+  "cta": null,
+  "layout": "Two-column with bar charts and text",
+  "layout_type": "Visual-heavy",
+  "content_zones": {
+    "left": "Bar charts representing mobility pattern changes per country",
+    "right": "Textual insights"
+  },
+  "visual_elements": [
+    {
+      "type": "legend",
+      "label": "Mobility recovery, in pp.",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "EU flag",
+      "position": "above chart"
+    },
+    {
+      "type": "icon",
+      "label": "UK flag",
+      "position": "above chart"
+    },
+    {
+      "type": "icon",
+      "label": "Germany flag",
+      "position": "above chart"
+    },
+    {
+      "type": "icon",
+      "label": "France flag",
+      "position": "above chart"
+    },
+    {
+      "type": "icon",
+      "label": "Italy flag",
+      "position": "above chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics and affected countries"
+  },
+  "design_language": "Corporate with emphasis on data visualization",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar Chart",
+    "title": "Mobility pattern changes",
+    "x_axis_label": "Weeks (W1 to W6)",
+    "y_axis": [
+      "Mobility change (%)"
+    ],
+    "values": [
+      "Negative values indicating decrease",
+      "Some positive values indicating recovery"
+    ],
+    "annotations": [
+      "Wave differences marked with arrows and numbers"
+    ],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "Font details not specified in the image, pyramid infographic not present."
+  }
+}

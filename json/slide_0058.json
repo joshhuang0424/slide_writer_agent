@@ -1,0 +1,125 @@
+{
+  "slide_id": "8",
+  "section": "Features of a Smart Road",
+  "purpose": "Illustrate the components and features of a smart road system.",
+  "narrative_role": "Informative",
+  "title": "Smart roads will likely include intelligent traffic systems and support new modes of transport such as electrical and autonomous vehicles",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual demonstration of features",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic",
+  "layout_type": "full-page illustration",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "A Sensors and cameras collecting traffic conditions",
+      "position": "top-left"
+    },
+    {
+      "type": "circle",
+      "label": "B Charging infrastructure powering electric vehicles",
+      "position": "top-left"
+    },
+    {
+      "type": "circle",
+      "label": "C Vertiports integrating air taxis into the network",
+      "position": "top-left"
+    },
+    {
+      "type": "circle",
+      "label": "D Shared mobility hubs incorporating ride-sharing platforms",
+      "position": "top-center"
+    },
+    {
+      "type": "circle",
+      "label": "E Curbside monetization flexing use or space based on need",
+      "position": "top-center"
+    },
+    {
+      "type": "circle",
+      "label": "F Dynamic road signage updating based on road conditions",
+      "position": "top-center"
+    },
+    {
+      "type": "circle",
+      "label": "G Dynamic tolling setting demand-based prices",
+      "position": "top-right"
+    },
+    {
+      "type": "circle",
+      "label": "H Advanced pavement materials illuminating the roadway markings",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "I Autonomous vehicle lanes enabling cars to travel in sequence",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "J Predictive maintenance via drone monitoring",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "K Connected vehicle technology feeding real-time data",
+      "position": "bottom-right"
+    },
+    {
+      "type": "circle",
+      "label": "M Solar roadways generating electricity from heat",
+      "position": "bottom-right"
+    },
+    {
+      "type": "circle",
+      "label": "N Micro mobility options enhancing the road network",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold title"
+  },
+  "design_language": "Technical illustration",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "The font details and specific data points are not explicitly provided in the image."
+}

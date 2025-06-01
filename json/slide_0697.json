@@ -1,0 +1,149 @@
+{
+  "slide_id": "18",
+  "section": "Financial Analysis",
+  "purpose": "To show the distribution of M&A deals by sector in EMEA from 2012 to 2016",
+  "narrative_role": "Informative",
+  "title": "TMT, Industrial and real estate represented more than 50% of total deal activity in EMEA in 2016",
+  "bullets": [
+    {
+      "highlight": "2016",
+      "text": "TMT and Industry showed a significant increase in activity"
+    },
+    {
+      "highlight": "50%",
+      "text": "TMT, Industry and real estate represented more than 50% of total deal activity in EMEA"
+    },
+    {
+      "highlight": "Consumer and retail",
+      "text": "Consumer and retail showed a sharp decline compared to 2015"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Trend analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "visual_left_text_right",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Chart",
+    "right": "Bullets"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numeric highlights"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "teal",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "EMEA M&A deals by sector, 2012-16",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Basic Materials",
+      "Healthcare",
+      "Consumer and retail",
+      "TTL",
+      "Financial Services",
+      "Energy & Utility",
+      "Real Estate/Construction",
+      "Industry and others",
+      "TMT"
+    ],
+    "values": [
+      {
+        "2012": [
+          83,
+          34,
+          65,
+          40,
+          108,
+          170,
+          91,
+          84,
+          87
+        ]
+      },
+      {
+        "2013": [
+          38,
+          62,
+          65,
+          43,
+          134,
+          132,
+          111,
+          65,
+          156
+        ]
+      },
+      {
+        "2014": [
+          32,
+          76,
+          120,
+          56,
+          96,
+          86,
+          212,
+          108,
+          183
+        ]
+      },
+      {
+        "2015": [
+          51,
+          76,
+          225,
+          56,
+          81,
+          131,
+          145,
+          100,
+          164
+        ]
+      },
+      {
+        "2016": [
+          23,
+          59,
+          66,
+          73,
+          112,
+          127,
+          133,
+          175,
+          212
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

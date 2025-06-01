@@ -1,0 +1,199 @@
+{
+  "slide_id": "10",
+  "section": "unknown",
+  "purpose": "Illustrate potential needs for agility and innovation across different domains",
+  "narrative_role": "informative",
+  "title": "Transitioning a domain can provide ‘local critical mass’ in terms of speed and agility",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of needs across different domains and categories",
+  "data_points": [],
+  "cta": null,
+  "layout": "title, table with legend",
+  "layout_type": "text and table",
+  "content_zones": {
+    "title": "top left",
+    "table": "center",
+    "legend": "top right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Table showing potential needs for agility and innovation",
+      "headers": [
+        "",
+        "Check",
+        "ACH",
+        "Wire",
+        "RTP/Zelle",
+        "Bill pay",
+        "ATM/cash",
+        "Debit card",
+        "Credit",
+        "Prepaid card",
+        "Merchant acquirer",
+        "Commercial card"
+      ],
+      "rows": [
+        {
+          "row_label": "Sales and products - Origination",
+          "cells": [
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility and innovation",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "N/A",
+            "Not considered for cloud hosting",
+            "Potential need for agility only"
+          ]
+        },
+        {
+          "row_label": "Sales and products - Product configuration",
+          "cells": [
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "N/A",
+            "Not considered for cloud hosting",
+            "Third-party processing"
+          ]
+        },
+        {
+          "row_label": "Operations - Servicing and call center",
+          "cells": [
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "N/A",
+            "Potential need for agility only",
+            "Potential need for agility only"
+          ]
+        },
+        {
+          "row_label": "Operations - Processing",
+          "cells": [
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "N/A",
+            "Third-party processing",
+            "Third-party processing"
+          ]
+        },
+        {
+          "row_label": "Operations - Exceptions, clearing, and settlement",
+          "cells": [
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "N/A",
+            "Third-party processing",
+            "Third-party processing"
+          ]
+        },
+        {
+          "row_label": "Operations - Fraud monitoring",
+          "cells": [
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "Third-party processing",
+            "N/A",
+            "Third-party processing",
+            "Third-party processing"
+          ]
+        },
+        {
+          "row_label": "Enablers - Data and analytics",
+          "cells": [
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility and innovation",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "Potential need for agility only",
+            "N/A",
+            "Potential need for agility only",
+            "Potential need for agility only"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid with color coding"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

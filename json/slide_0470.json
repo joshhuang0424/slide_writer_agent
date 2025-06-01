@@ -1,0 +1,91 @@
+{
+  "slide_id": "19",
+  "section": "First Interstate Bank Overview",
+  "purpose": "To highlight key attributes and expansion strategy of First Interstate Bank.",
+  "narrative_role": "Informative",
+  "title": "First Interstate Bank headquartered in Billings, MT is Montana’s largest bank",
+  "bullets": [
+    {
+      "highlight": "A",
+      "text": "First Interstate is a community, branch-focused bank focused on its traditional client base – think established ranchers"
+    },
+    {
+      "highlight": "B",
+      "text": "Many branches and markets operate like individual banks and have a strong in ‘frontier spirit’ as a result of a large and spread out geographical footprint"
+    },
+    {
+      "highlight": "C",
+      "text": "The bank is actively acquiring new banks, including Bank of the Cascades"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlighting strategic advantages and expansion",
+  "data_points": [
+    "+ $3.2B in assets",
+    "+ 50 branches"
+  ],
+  "cta": null,
+  "layout": "Split with text on left and map on right",
+  "layout_type": "text-map",
+  "content_zones": {
+    "left": "Text and highlights",
+    "right": "Map and logos"
+  },
+  "visual_elements": [
+    {
+      "type": "map",
+      "label": "State map indicating bank expansion areas",
+      "position": "right"
+    },
+    {
+      "type": "logo",
+      "label": "Bank of the Cascades and First Interstate Bank",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bullets labeled with letters"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "Font information is not specified in the image."
+  }
+}

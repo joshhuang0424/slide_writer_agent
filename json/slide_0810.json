@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduce the topic of urban mobility changes due to COVID-19.",
+  "narrative_role": "Title Slide",
+  "title": "COVID-19 Urban Mobility Is Evolving in Unexpected Ways",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with Visual",
+  "layout_type": "Title Slide",
+  "content_zones": {
+    "title": "right",
+    "visual": "left"
+  },
+  "visual_elements": [
+    {
+      "type": "decorative",
+      "label": "Abstract circular graphic",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for primary title"
+  },
+  "design_language": "Modern, abstract",
+  "color_scheme": {
+    "primary": "dark gray",
+    "accent": "green",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The slide does not contain body text or specific data points."
+  }
+}

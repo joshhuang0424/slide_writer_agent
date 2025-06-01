@@ -1,0 +1,87 @@
+{
+  "slide_id": "14",
+  "section": "Onboarding",
+  "purpose": "To emphasize the importance of quick engagement for long-term profitability.",
+  "narrative_role": "Supporting evidence",
+  "title": "Gaining interest and engagement as quickly as possible is key to establishing a profitable long-term relationship",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven analysis",
+  "data_points": [
+    "86%",
+    "81%"
+  ],
+  "cta": "Issuer has the highest probability to drive first purchase within the first 10 weeks",
+  "layout": "Title, Chart, CTA",
+  "layout_type": "single_chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "box",
+      "label": "BEST-IN-CLASS PERFORMANCE",
+      "position": "top_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Activation Curve",
+    "x_axis_label": "Weeks-on-Book",
+    "y_axis": [
+      "% of total new accounts"
+    ],
+    "values": [
+      {
+        "week": 10,
+        "activation_without_spend": 86
+      },
+      {
+        "week": 10,
+        "with_transaction": 81
+      }
+    ],
+    "annotations": [
+      "Natural purchase activation plateaus starting week 10",
+      "Majority of cardholders make a purchase with their card after activating it"
+    ],
+    "source": "Mastercard Advisors Analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or tables detected; emphasis on chart visualization."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "slide_id": "16",
+  "section": "Sales Strategy",
+  "purpose": "Compare the impact of different pricing strategies on expected revenue.",
+  "narrative_role": "Analysis",
+  "title": "整合三个模型来推荐最适合期数，一个账单日便有提升$XXX+额外分期营收的潜力",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of discount models.",
+  "data_points": [
+    "100M$",
+    "200M$",
+    "60%",
+    "40%",
+    "15%",
+    "10%",
+    "20%",
+    "55%"
+  ],
+  "cta": null,
+  "layout": "dual bar comparison",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Pre-optimization discount distribution",
+    "right": "Post-optimization discount distribution"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Optimization impact",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key percentages and monetary values."
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "Original Price",
+      "80% Discount",
+      "60% Discount"
+    ],
+    "values": [
+      {
+        "label": "Pre-optimization",
+        "data": [
+          60,
+          40
+        ]
+      },
+      {
+        "label": "Post-optimization",
+        "data": [
+          15,
+          10,
+          20,
+          55
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "percentage": "60%",
+        "label": "Original Price"
+      },
+      {
+        "percentage": "40%",
+        "label": "80% Discount"
+      },
+      {
+        "percentage": "15%",
+        "label": "Price Increase"
+      },
+      {
+        "percentage": "10%",
+        "label": "Original Price"
+      },
+      {
+        "percentage": "20%",
+        "label": "80% Discount"
+      },
+      {
+        "percentage": "55%",
+        "label": "60% Discount"
+      }
+    ],
+    "source": "unknown"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_information": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

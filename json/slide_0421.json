@@ -1,0 +1,318 @@
+{
+  "slide_id": "12",
+  "section": "Financial Overview",
+  "purpose": "To explain how balance transfer fees and annual fees generate income for a credit card issuer.",
+  "narrative_role": "Explainer",
+  "title": "Balance transfer fees and annual fees generate income for an issuer",
+  "bullets": [
+    {
+      "highlight": "no balance transfer fees",
+      "text": "Jamie signs up for his second credit card, ABC Credit Card because it has a new promotional offering with no balance transfer fees and a low annual fee."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide uses a combination of text explanation and a structured table to illustrate income and costs associated with credit card fees.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Text and Table",
+  "content_zones": {
+    "left": "Text explanation with highlighted keywords",
+    "right": "Table showing income and costs breakdown"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Person",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Bank",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Plus",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and structured with emphasis on key financial terms",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Income and Costs",
+      "description": "Breakdown of financial elements contributing to credit card income and costs.",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Finance Charges",
+            "$115"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Transfer Pricing Interest Income",
+            "$0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Interest Expense",
+            "($47)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Interest Income",
+            "$68"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Chargeoffs",
+            "($12)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Loan Loss Provision Adjustment",
+            "($54)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Recoveries",
+            "$0.7"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Credit Losses",
+            "($66.7)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Lending Margin",
+            "$1.3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Interchange Fees",
+            "$674"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Late Fees",
+            "$26"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Annual Fee Income",
+            "$30"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Cash Advance Fees",
+            "$6"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Balance Transfer Fees",
+            "$2"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Overlimit Fees",
+            "$0.3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Foreign Exchange Fees",
+            "$21"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Credit Protection Fees",
+            "$1.4"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Miscellaneous Fee Income",
+            "$0.1"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Total Other Income",
+            "$760.8"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Acquisition Cost",
+            "($172)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Acquisition Incentive",
+            "($200)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Variable Servicing Costs",
+            "($29)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Reward & Benefits Costs",
+            "($557)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Collection Ops Costs",
+            "($5)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Credit Protection Claims",
+            "($0.04)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Portfolio Marketing Costs",
+            "($8)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Plastic Reissue Cost",
+            "($1)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Network Fees (MC)",
+            "($71)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Processor Fees (FirstData/TSYS/FIS)",
+            "($62)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Fraud Losses",
+            "($36)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Total Costs",
+            "($1141)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Pre-tax Net Income",
+            "($379)"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "Outlined"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid structure present on the slide."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "slide_id": "12",
+  "section": "流程說明",
+  "purpose": "説明儀表板與TM/SMS申接流程",
+  "narrative_role": "說明",
+  "title": "儀表板與 TM/SMS 申接流程",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "步驟說明",
+  "data_points": [],
+  "cta": null,
+  "layout": "multi-column",
+  "layout_type": "matrix",
+  "content_zones": {
+    "header": "top",
+    "body": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight with red circles"
+  },
+  "design_language": "structured table format with color coding",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "none"
+  },
+  "tables": [
+    {
+      "title": "儀表板與 TM/SMS 申接流程",
+      "description": "不同環境下的流程步驟",
+      "headers": [
+        "環境",
+        "1.儀表板自動生成TM/SMS名單",
+        "2.下發TM/SMS名單至各賣場",
+        "3.執行名單並同步更新溝通狀況",
+        "4.手動整合TM/SMS名單",
+        "5.儀表板自動更新TM/SMS名單"
+      ],
+      "rows": [
+        {
+          "row_label": "環境",
+          "cells": [
+            "離線主機",
+            "Hans電腦",
+            "各賣場TM團隊",
+            "Hans電腦",
+            "離線主機"
+          ]
+        },
+        {
+          "row_label": "說明",
+          "cells": [
+            "生成14個賣場的TM名單，並以csv檔輸出\n①待確認：TM名單格式（見後頁）",
+            "由Hans電腦開啟csv檔，更新各賣場的TM/SMS溝通名單\n②待確認\n更新後，以郵件方式寄給各賣場\n提供Google Sheet連接，各賣場可直接在更新後看到新的名單",
+            "各賣場TM團隊將透過TM與名單上的會員溝通，溝通後，於名單上進行註記\n③待確認：後續執行細節",
+            "整理並更新各賣場名單溝通狀況至Google Sheet後，並匯出成csv檔",
+            "於離線主機執行Python讀取csv檔，更新高優先客群的溝通狀況"
+          ]
+        },
+        {
+          "row_label": "傳輸方式",
+          "cells": [
+            "以USB將csv檔轉至Hans電腦",
+            "②待確認\n各賣場統計溝通狀況，以郵件方式回報\n各賣場於Google Sheet同步更新溝通狀況",
+            "以USB將csv檔轉至離線主機",
+            "N/A"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "matrix"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體信息在圖片中不可辨識，故無法提供具體字體資訊。",
+    "highlighted_items": [
+      "待確認事項：\n①TM名單\n②名單傳輸給TM團隊方式\n③TM溝通結束後，若需發送SMS/實體信函的相關流程"
+    ]
+  }
+}

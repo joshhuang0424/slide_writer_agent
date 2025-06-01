@@ -1,0 +1,101 @@
+{
+  "slide_id": "1",
+  "section": "Agenda",
+  "purpose": "Outline the session topics",
+  "narrative_role": "Overview",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Session Overview"
+    },
+    {
+      "highlight": "",
+      "text": "D&S Analytics engagement sub-types"
+    },
+    {
+      "highlight": "1",
+      "text": "FI Analytics"
+    },
+    {
+      "highlight": "2",
+      "text": "Merchant Analytics for Retail and Commerce clients"
+    },
+    {
+      "highlight": "A",
+      "text": "Custom engagement – approach & case studies"
+    },
+    {
+      "highlight": "B",
+      "text": "Off-the-shelf models"
+    },
+    {
+      "highlight": "3",
+      "text": "Analytics Strategy"
+    },
+    {
+      "highlight": "",
+      "text": "Contact Us!"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Bullets",
+  "layout_type": "List",
+  "content_zones": {
+    "header": "top",
+    "bullets": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for section titles"
+  },
+  "design_language": "Professional, Clean",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "orange",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font family is not specified in the image.",
+    "bullet_grid": "1 column with nested sections"
+  }
+}

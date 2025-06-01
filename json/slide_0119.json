@@ -1,0 +1,237 @@
+{
+  "slide_id": "14",
+  "section": "Automotive Consumer Survey",
+  "purpose": "Analyze changes in used car purchase intent in various countries compared to pre-COVID-19 levels",
+  "narrative_role": "Data Presentation",
+  "title": "Used car purchase intent much more robust – even increasing in the UK, slightly down in GER and FR, and more significant drop in IT",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 1 (May 9-18), wave 2 (May 27-29), wave 3 (Jun 16-18), wave 4 (Jul 15-17), wave 5 (Sep 2-4), and wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparative analysis of percentage changes",
+  "data_points": [
+    {
+      "country": "UK",
+      "change": "-21%"
+    },
+    {
+      "country": "Germany",
+      "change": "-18%"
+    },
+    {
+      "country": "France",
+      "change": "-5%"
+    },
+    {
+      "country": "Italy",
+      "change": "-16%"
+    }
+  ],
+  "cta": null,
+  "layout": "Four-column comparative chart",
+  "layout_type": "comparative chart",
+  "content_zones": {
+    "chart_zone": "center",
+    "text_zone": "top"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "above chart"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "above chart"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "above chart"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "above chart"
+    },
+    {
+      "type": "arrow",
+      "label": "-21%",
+      "position": "above UK chart"
+    },
+    {
+      "type": "arrow",
+      "label": "-18%",
+      "position": "above Germany chart"
+    },
+    {
+      "type": "arrow",
+      "label": "-5%",
+      "position": "above France chart"
+    },
+    {
+      "type": "arrow",
+      "label": "-16%",
+      "position": "above Italy chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key changes"
+  },
+  "design_language": "Corporate, data-driven",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Black",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Purchase intent used cars vs. pre-COVID-19 level",
+    "x_axis_label": "Time Period",
+    "y_axis": [
+      "Percentage Points"
+    ],
+    "values": [
+      {
+        "country": "UK",
+        "data": [
+          {
+            "period": "Before COVID-19",
+            "value": 100
+          },
+          {
+            "period": "May 9-11",
+            "value": 60
+          },
+          {
+            "period": "May 27-29",
+            "value": 59
+          },
+          {
+            "period": "June 16-18",
+            "value": 71
+          },
+          {
+            "period": "July 15-17",
+            "value": 74
+          },
+          {
+            "period": "Sep 2-4",
+            "value": 79
+          }
+        ]
+      },
+      {
+        "country": "Germany",
+        "data": [
+          {
+            "period": "Before COVID-19",
+            "value": 100
+          },
+          {
+            "period": "May 11-13",
+            "value": 69
+          },
+          {
+            "period": "May 27-29",
+            "value": 71
+          },
+          {
+            "period": "June 16-18",
+            "value": 74
+          },
+          {
+            "period": "July 15-17",
+            "value": 91
+          },
+          {
+            "period": "Sep 2-4",
+            "value": 86
+          }
+        ]
+      },
+      {
+        "country": "France",
+        "data": [
+          {
+            "period": "Before COVID-19",
+            "value": 100
+          },
+          {
+            "period": "May 15-17",
+            "value": 89
+          },
+          {
+            "period": "May 27-29",
+            "value": 91
+          },
+          {
+            "period": "June 16-18",
+            "value": 91
+          },
+          {
+            "period": "July 15-17",
+            "value": 98
+          },
+          {
+            "period": "Sep 2-4",
+            "value": 95
+          }
+        ]
+      },
+      {
+        "country": "Italy",
+        "data": [
+          {
+            "period": "Before COVID-19",
+            "value": 100
+          },
+          {
+            "period": "May 11-13",
+            "value": 72
+          },
+          {
+            "period": "May 27-29",
+            "value": 77
+          },
+          {
+            "period": "June 16-18",
+            "value": 81
+          },
+          {
+            "period": "July 15-17",
+            "value": 85
+          },
+          {
+            "period": "Sep 2-4",
+            "value": 92
+          }
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": []
+}

@@ -1,0 +1,122 @@
+{
+  "slide_id": "7",
+  "section": "Consumer Trends",
+  "purpose": "To show the shift in consumer preferences towards working from home and expected changes in travel habits.",
+  "narrative_role": "Data Presentation",
+  "title": "Consumers want to work more from home, and expect a shift toward more personal trips",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    {
+      "region": "US",
+      "work_from_home": "65%"
+    },
+    {
+      "region": "EU",
+      "work_from_home": "56%"
+    },
+    {
+      "region": "China",
+      "work_from_home": "71%"
+    }
+  ],
+  "cta": null,
+  "layout": "Two sections with chart and table",
+  "layout_type": "Chart and Table",
+  "content_zones": {
+    "chart": "top",
+    "table": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "red/green",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "label": "US",
+        "value": "65%"
+      },
+      {
+        "label": "EU",
+        "value": "56%"
+      },
+      {
+        "label": "China",
+        "value": "71%"
+      }
+    ],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Expected change (Aug ’19 vs. Aug ’21)",
+      "description": "Comparison of expected changes in weekly work-related and personal trips.",
+      "headers": [
+        "",
+        "US",
+        "EU",
+        "China"
+      ],
+      "rows": [
+        {
+          "row_label": "Change in number of weekly work-related trips",
+          "cells": [
+            "",
+            "-16%",
+            "-8%",
+            "+5%"
+          ]
+        },
+        {
+          "row_label": "Change in number of weekly personal trips",
+          "cells": [
+            "",
+            "-10%",
+            "+8%",
+            "+16%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid infographic is present in the slide."
+  }
+}

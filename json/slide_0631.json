@@ -1,0 +1,108 @@
+{
+  "slide_id": "31",
+  "section": "Cross-Lifecycle -- Brand Equity",
+  "purpose": "To emphasize the importance of leveraging brand equity for card product decisions.",
+  "narrative_role": "Explainer",
+  "title": "The brand equity of the issuing bank or credit union must be leveraged clearly and consistently, as it is central to the card product buy decision",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrate the components of brand equity through a circular infographic.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Centered title with infographic and supporting text",
+  "layout_type": "Infographic with text",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "text": "below title"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Brand Equity",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Value",
+      "position": "top-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Attributes",
+      "position": "top-right"
+    },
+    {
+      "type": "arrow",
+      "label": "Identity",
+      "position": "bottom-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Positioning",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Modern, clean with emphasis on brand elements",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "circular",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Value"
+      },
+      {
+        "id": "L1",
+        "label": "Attributes"
+      },
+      {
+        "id": "L2",
+        "label": "Identity"
+      },
+      {
+        "id": "L3",
+        "label": "Positioning"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No specific data points, bullets, or tables present in the slide."
+  }
+}

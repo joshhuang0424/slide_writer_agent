@@ -1,0 +1,92 @@
+{
+  "slide_id": "4",
+  "section": "Economic Impact",
+  "purpose": "Highlight the role of Asian American businesses in economic recovery and employment growth.",
+  "narrative_role": "Informative",
+  "title": "The Asian American business community will be critical to economic recovery and employment growth",
+  "bullets": [
+    {
+      "highlight": "25%",
+      "text": "of Asian-owned businesses employ more than 1 person, compared with 13% of all US businesses"
+    }
+  ],
+  "supporting_facts": [
+    "Asian-owned businesses account for a high proportion of sectors hard hit by COVID-19."
+  ],
+  "reasoning_strategy": "Comparison of employment impact between Asian-owned businesses and overall US businesses.",
+  "data_points": [
+    "25.5% in Food and accommodation services",
+    "16.5% in Retail trade",
+    "12.8% in Healthcare and social assistance",
+    "12.5% in Wholesale trade",
+    "10.9% in Educational services",
+    "5.9% Percentage of Asian Americans in the United States"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with chart on the left and text/bullet points on the right",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Chart showing percentage in various sectors",
+    "right": "Text and bullet points highlighting recovery impact"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentage is highlighted in large font"
+  },
+  "design_language": "Professional with emphasis on data visualization",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#00BFFF",
+    "background": "#002F4E"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24pt",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14pt"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Sectors hard hit by COVID-19",
+    "x_axis_label": "",
+    "y_axis": [
+      "Food and accommodation services",
+      "Retail trade",
+      "Healthcare and social assistance",
+      "Wholesale trade",
+      "Educational services"
+    ],
+    "values": [
+      25.5,
+      16.5,
+      12.8,
+      12.5,
+      10.9
+    ],
+    "annotations": [
+      "5.9% Percentage of Asian Americans in the United States"
+    ],
+    "source": "US Small Business Administration Pulse Survey; 2017 Annual Business Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No infographic pyramid levels are present in the slide."
+  }
+}

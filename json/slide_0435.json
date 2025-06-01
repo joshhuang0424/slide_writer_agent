@@ -1,0 +1,127 @@
+{
+  "slide_id": "26",
+  "section": "Financial Drivers",
+  "purpose": "To compare behaviors and impacts of higher risk vs. lower risk cardholders.",
+  "narrative_role": "Comparison of risk levels and their financial implications.",
+  "title": "Higher risk cardholders tend to exhibit revolve behavior, impacting issuer costs",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Contrast between higher and lower risk cardholder behaviors.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title, visual indicator, table, and footer navigation",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "title": "top",
+    "visual_indicator": "below title",
+    "table": "center",
+    "footer_navigation": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Higher risk cardholders",
+      "position": "below title"
+    },
+    {
+      "type": "icon",
+      "label": "Lower risk cardholders",
+      "position": "below title"
+    },
+    {
+      "type": "color bar",
+      "label": "Risk level gradient",
+      "position": "below icons"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for higher level headings"
+  },
+  "design_language": "Minimalist with emphasis on clear comparison",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red to green gradient",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of behaviors between higher and lower risk cardholders.",
+      "headers": [
+        "",
+        "Higher risk cardholders",
+        "Lower risk cardholders"
+      ],
+      "rows": [
+        {
+          "row_label": "Revolving Balances",
+          "cells": [
+            "Balances that cardholders choose to not pay off and thus are subject to finance charges at the applicable APR(s)",
+            "Higher revolve rate",
+            "Lower revolve rate"
+          ]
+        },
+        {
+          "row_label": "APR(s)",
+          "cells": [
+            "Interest rate(s) cardholders must pay on revolved balances",
+            "Higher APR due to risk-based pricing, and more frequent penalty pricing (interest rate increases if customer is late a certain number of times)",
+            "Lower APR due to risk-based pricing"
+          ]
+        },
+        {
+          "row_label": "Delinquency Behavior",
+          "cells": [
+            "The trend where customers incur late fees for not paying bills on time over a given period",
+            "Higher due to higher propensity to be delinquent (including higher 'sloppy payor' behavior)",
+            "Lower due to lower propensity to be delinquent (including lower 'sloppy payor' behavior)"
+          ]
+        },
+        {
+          "row_label": "Chargeoffs",
+          "cells": [
+            "Money that has not been repaid by cardholders that is written off by issuers",
+            "Higher",
+            "Lower"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No charts or pyramid infographics present on this slide."
+  }
+}

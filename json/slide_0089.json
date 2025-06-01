@@ -1,0 +1,87 @@
+{
+  "slide_id": "15",
+  "section": "COVID-19 Impact",
+  "purpose": "To show the change in reasons for purchase delays over time.",
+  "narrative_role": "Informative",
+  "title": "Delays due to health concerns increased again for the first time since the COVID-19 outbreak",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 1 (May 9-18), wave 5 (Sep 2-4), and wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparative",
+  "data_points": [
+    "Economics: 52, 61, 55",
+    "Health: 35, 25, 32",
+    "Subsidies: 14, 14, 13"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "visual_left_text_right",
+  "content_zones": {
+    "left": "Chart",
+    "right": "Text and Summary"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key points"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Light Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "Stacked Bar",
+    "title": "Purchase delay reasons",
+    "x_axis_label": "Time Period",
+    "y_axis": [
+      "Percent of Respondents"
+    ],
+    "values": [
+      {
+        "period": "May 9-18",
+        "Economics": 52,
+        "Health": 35,
+        "Subsidies": 14
+      },
+      {
+        "period": "Sep 2-4",
+        "Economics": 61,
+        "Health": 25,
+        "Subsidies": 14
+      },
+      {
+        "period": "Nov 6-10",
+        "Economics": 55,
+        "Health": 32,
+        "Subsidies": 13
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets present; chart clearly visible with labeled percentages."
+  }
+}

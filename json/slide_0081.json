@@ -1,0 +1,131 @@
+{
+  "slide_id": "7",
+  "section": "Survey Results",
+  "purpose": "To highlight the importance of private vehicle access and changes in mobility patterns during lockdowns.",
+  "narrative_role": "Informative",
+  "title": "\"Lockdown challenged\" respondents put higher importance on access to private vehicle and showed slightly lower demand reduction",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [
+    {
+      "category": "Importance of constant access to private vehicle",
+      "lockdown_challenged": 38,
+      "eu_overall": 26
+    },
+    {
+      "category": "Importance of private vehicle for intercity travel",
+      "lockdown_challenged": 33,
+      "eu_overall": 27
+    },
+    {
+      "category": "Drop in new car demand since 2nd lockdown",
+      "lockdown_challenged": -11,
+      "eu_overall": -13
+    },
+    {
+      "category": "Mobility pattern changes since 2nd lockdown",
+      "lockdown_challenged": -9,
+      "eu_overall": -7
+    }
+  ],
+  "cta": null,
+  "layout": "two-column with charts",
+  "layout_type": "comparison",
+  "content_zones": {
+    "header": "top",
+    "charts": "middle",
+    "source_note": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Blue color for 'Lockdown-challenged' and dark color for 'EU Overall'"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "dark",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "Source: McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Survey Results",
+      "description": "Comparison of responses from 'Lockdown-challenged' respondents and EU Overall",
+      "headers": [
+        "Category",
+        "Lockdown-challenged",
+        "EU Overall"
+      ],
+      "rows": [
+        {
+          "row_label": "Importance of constant access to private vehicle",
+          "cells": [
+            "Importance of constant access to private vehicle",
+            "38",
+            "26"
+          ]
+        },
+        {
+          "row_label": "Importance of private vehicle for intercity travel",
+          "cells": [
+            "Importance of private vehicle for intercity travel",
+            "33",
+            "27"
+          ]
+        },
+        {
+          "row_label": "Drop in new car demand since 2nd lockdown",
+          "cells": [
+            "Drop in new car demand since 2nd lockdown",
+            "-11",
+            "-13"
+          ]
+        },
+        {
+          "row_label": "Mobility pattern changes since 2nd lockdown",
+          "cells": [
+            "Mobility pattern changes since 2nd lockdown",
+            "-9",
+            "-7"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific infographic or additional narrative elements were detected."
+  }
+}

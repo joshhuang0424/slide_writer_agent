@@ -1,0 +1,103 @@
+{
+  "slide_id": "20",
+  "section": "客戶分群",
+  "purpose": "描述客戶分群與溝通策略",
+  "narrative_role": "提供具體行動方案",
+  "title": "客戶分群 | 建議依照客訴風險、客戶價值以及流失風險將客戶分群，再依照各客群數目、辦卡量，以及椰子業務目標來決定各階段進行額外溝通的優先順序",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "提供建議與行動方案",
+  "data_points": [],
+  "cta": null,
+  "layout": "三欄對比",
+  "layout_type": "table",
+  "content_zones": {
+    "left": "客戶分類",
+    "middle": "定義與考量",
+    "right": "初步規劃客戶旅程"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "部分文字加粗強調"
+  },
+  "design_language": "專業、清晰",
+  "color_scheme": {
+    "primary": "#005BAC",
+    "accent": "#A9A9A9",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Microsoft YaHei",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Microsoft YaHei",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "客戶分群",
+      "description": "描述不同客戶群體的特徵、定義及相應的初步溝通策略",
+      "headers": [
+        "客戶分類",
+        "定義與考量",
+        "初步規劃客戶旅程"
+      ],
+      "rows": [
+        {
+          "row_label": "高客訴風險客戶",
+          "cells": [
+            "尚未轉卡的潛線客訴客群",
+            "定義：曾進線客訴聯名卡易主的客戶(以椰子客服中心記錄為資料來源)\n考量：這些客戶潛在體驗痛點較多，值優先溝通，專案處理",
+            "椰子實場電話行銷➔視客戶偏好\n• 邀請到桃子分行申辦\n• 寄出申請書邀請申辦\n• 邀請到椰子專場申辦(由於需時較久，待討論)"
+          ]
+        },
+        {
+          "row_label": "尚未轉卡的高價值會員",
+          "cells": [
+            "黑鑽會員",
+            "定義：黑鑽會員，上季消費前20萬會員\n考量：這些客戶價值較高，應優先轉換",
+            "椰子實場電話行銷➔視客戶偏好\n• 提醒eDM有連結可申辦\n• 視需要寄送簡訊邀請申辦"
+          ]
+        },
+        {
+          "row_label": "流失風險高會員",
+          "cells": [
+            "靜止戶/流失戶",
+            "定義：近3個月內未消費客戶(待討論)/到期未續會員\n考量：這些客戶不續會風險高或已不續會，可考慮以新卡優惠促進續會",
+            "透過致電實場辦理/流失戶，以新卡優惠挽回客戶，視客戶需求\n• 提醒eDM有連結可申辦\n• 視需要寄送簡訊邀請申辦"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "此頁面不包含金字塔圖形或典型圖表，亦無數據點或行動呼籲，因此相關欄位為unknown。"
+  }
+}

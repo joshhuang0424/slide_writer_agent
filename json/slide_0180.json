@@ -1,0 +1,159 @@
+{
+  "slide_id": "10",
+  "section": "Financial/Operational Management",
+  "purpose": "To demonstrate key management indicators for improving TSR.",
+  "narrative_role": "Informative",
+  "title": "這項工具有助於定義財務/運營方向的關鍵管理指標，以最大限度的提升 TSR",
+  "bullets": [
+    {
+      "highlight": "8.4 倍",
+      "text": "將客戶 EV/EBITDA 提高倍數（至同行組平均值 11.2 倍）"
+    },
+    {
+      "highlight": "1.25 億美元",
+      "text": "實現每年約 1.25 億美元的年度採購節省"
+    },
+    {
+      "highlight": "前四分位數",
+      "text": "營運資本效率提高到同行前四分位數"
+    },
+    {
+      "highlight": "加速",
+      "text": "HEV/EV 採用加速，鯰創技術競賽將 APG 年增長率提高 1%，獲利率提升 1%"
+    },
+    {
+      "highlight": "3 億美元",
+      "text": "提高 1% 成功通過成功的 3 億美元收購（和 6% 的協同效應）實現擴張"
+    },
+    {
+      "highlight": "每年 +5%",
+      "text": "當前回報率以每年 +5% 的速度推動專業行業的增量增長"
+    },
+    {
+      "highlight": "2%",
+      "text": "物件增長率 2%，獲利率提高 1% 以當前回報率以每年 +5% 的速度推動"
+    },
+    {
+      "highlight": "不成功整合 3 億美元",
+      "text": "工業的增量增長不成功整合 3 億美元的收購"
+    },
+    {
+      "highlight": "至長期平均水準 2",
+      "text": "工業盈利能力降至長期平均水準 2"
+    }
+  ],
+  "supporting_facts": [
+    "假設收入增長 4%，獲利率提升 300 個基點"
+  ],
+  "reasoning_strategy": "Comparative analysis with industry standards.",
+  "data_points": [
+    "EV/EBITDA 提高倍數",
+    "年度採購節省",
+    "營運資本效率",
+    "HEV/EV 採用加速",
+    "協同效應"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart",
+  "layout_type": "Text and Chart",
+  "content_zones": {
+    "title": "top",
+    "text_bullets": "left",
+    "chart": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numerical data"
+  },
+  "design_language": "Professional, Business",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "預計每股價格的改變量 (vs. 基期)",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "label": "",
+        "value": 28
+      },
+      {
+        "label": "",
+        "value": 11
+      },
+      {
+        "label": "",
+        "value": 8
+      },
+      {
+        "label": "",
+        "value": 4
+      },
+      {
+        "label": "",
+        "value": 3
+      },
+      {
+        "label": "",
+        "value": 2
+      },
+      {
+        "label": "",
+        "value": 2
+      },
+      {
+        "label": "",
+        "value": 2
+      },
+      {
+        "label": "",
+        "value": 0
+      },
+      {
+        "label": "",
+        "value": -3
+      },
+      {
+        "label": "",
+        "value": -3
+      },
+      {
+        "label": "",
+        "value": -10
+      },
+      {
+        "label": "",
+        "value": -23
+      }
+    ],
+    "annotations": [],
+    "source": "Compustat; BCG ValueScience© Center"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Infographic is not present on this slide."
+  }
+}

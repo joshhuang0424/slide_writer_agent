@@ -1,0 +1,147 @@
+{
+  "slide_id": "11",
+  "section": "飾選重要 TSR 關鍵因子",
+  "purpose": "分析關鍵驅動因子，制定策略",
+  "narrative_role": "分析",
+  "title": "對相關驅動因子進行排序和辨別",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "依據重要性和影響力進行排序",
+  "data_points": [
+    "25%",
+    "23%",
+    "17%",
+    "14%",
+    "7%",
+    "4%"
+  ],
+  "cta": null,
+  "layout": "標題在上方，表格在中間",
+  "layout_type": "表格",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "explanation": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "綠色加粗強調關鍵數據"
+  },
+  "design_language": "商業分析",
+  "color_scheme": {
+    "primary": "#00A551",
+    "accent": "#FF3366",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "重要性"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "BCG 例子",
+      "description": "展示關鍵驅動因子及其影響力",
+      "headers": [
+        "重要性",
+        "解釋力貢獻度(%)",
+        "驅動因子",
+        "影響方向",
+        "敘述說明"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "",
+            "25%",
+            "現金毛利率（現金毛利率 %）",
+            "↑",
+            "估值倍數中最重要的差異驅動因素（約可解釋 1/4 的同行間倍數差異）"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "23%",
+            "未來一年收入增長幅度",
+            "↑",
+            "對明年銷售增長的預期是估值倍數的第二大驅動因素"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "17%",
+            "槓桿（資本負債與 EBITDAR）",
+            "↓",
+            "高槓桿導致估值打扣，市場認為槓桿將限制財務靈活性和更高的違約風險"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "14%",
+            "製造費用效率（Cash OpEx, as % sales）",
+            "↑",
+            "更高效的營營，運營支出占銷售額的百分比（例如 SG&A 等）會有助於倍數增長"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "7%",
+            "股票利息支出（Dividend / EBITDA）",
+            "↑",
+            "股息支付表明 EBITDA 質量，有助於提高估值"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "4%",
+            "子行業的優勢",
+            "+",
+            "行業內的差異化"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "平面"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "此頁面中未涉及 chart 或其他圖表類型"
+  }
+}

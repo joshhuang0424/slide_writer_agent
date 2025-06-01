@@ -1,0 +1,117 @@
+{
+  "slide_id": "5",
+  "section": "Challenges",
+  "purpose": "Highlight key challenges faced by Black workers",
+  "narrative_role": "Informative",
+  "title": "Ten key challenges to create opportunities for Black workers",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Higher unemployment among Black workers compared with other workers"
+    },
+    {
+      "highlight": "2",
+      "text": "Geographic mismatches between Black workers and opportunity"
+    },
+    {
+      "highlight": "3",
+      "text": "Underrepresentation of Black workers in faster-growing, higher-wage industries"
+    },
+    {
+      "highlight": "4",
+      "text": "Underrepresentation of Black workers in higher-wage jobs"
+    },
+    {
+      "highlight": "5",
+      "text": "Underrepresentation of Black workers in the most in-demand jobs"
+    },
+    {
+      "highlight": "6",
+      "text": "The disproportionate impact of technology and future of work trends on Black workers"
+    },
+    {
+      "highlight": "7",
+      "text": "A double broken rung with lower odds of advancement and higher attrition for frontline and entry-level jobs"
+    },
+    {
+      "highlight": "8",
+      "text": "Low Black representation in the executive levels"
+    },
+    {
+      "highlight": "9",
+      "text": "A trust deficit among Black employees toward their company"
+    },
+    {
+      "highlight": "10",
+      "text": "Lack of managerial sponsorship and allyship for Black employees"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing key challenges",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "bullet points",
+  "content_zones": {
+    "left": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "right": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 10,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted numbers and key phrases"
+  },
+  "design_language": "Professional and formal",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or specific data points present, purely textual content"
+  }
+}

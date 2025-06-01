@@ -1,0 +1,109 @@
+{
+  "slide_id": "9",
+  "section": "Digital Banking Transformation",
+  "purpose": "Illustrate the progression of digital banking capabilities",
+  "narrative_role": "Informative",
+  "title": "In the era of digital disruption, financial institutions need to enhance their digital banking capabilities in order to stay relevant and profitable",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Where do you currently stand?"
+    },
+    {
+      "highlight": "",
+      "text": "Where do you want to be in 3-5 years?"
+    },
+    {
+      "highlight": "",
+      "text": "What are the gaps you need to fill?"
+    },
+    {
+      "highlight": "",
+      "text": "How are ‘NeoBanks’ and Incumbents evolving?"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Progressive model",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal flowchart",
+  "layout_type": "process",
+  "content_zones": {
+    "title": "top",
+    "bullets": "top-left",
+    "infographic": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "between sections"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for section headings"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Basic Bank\nLicense to operate"
+      },
+      {
+        "id": "L1",
+        "label": "Traditional Bank\nBank with Fully functional payment infra\nAverage Practice"
+      },
+      {
+        "id": "L2",
+        "label": "Digital on the Side\nReactive, Keep-up approach\nBest Practice"
+      },
+      {
+        "id": "L3",
+        "label": "Digital as Core\nProactive, integrated Omni Channel\nNext Practice"
+      },
+      {
+        "id": "L4",
+        "label": "Digital by Default\nExperimental agile bank\nFuture Practice"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No traditional chart elements present, infographic describes a progression model."
+  }
+}

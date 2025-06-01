@@ -1,0 +1,153 @@
+{
+  "slide_id": "22",
+  "section": "Americas M&A Analysis",
+  "purpose": "To present M&A deals by sector from 2012 to 2016.",
+  "narrative_role": "Informative",
+  "title": "Americas M&A deals by sector, 2012-16",
+  "bullets": [
+    {
+      "highlight": "75%",
+      "text": "During 2016, Energy and Utility (incl. Oil & Gas) showed a significant uptick in activity (75% increase vs 2015)"
+    },
+    {
+      "highlight": "20%",
+      "text": "TMT contributed to nearly 20% of the total activity in Americas (a significant fall when compared with 2015 activity)"
+    },
+    {
+      "highlight": "50%",
+      "text": "Healthcare sector declined by more than 50% to $200 Bn from $445 Bn in 2015"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "visual+text",
+  "content_zones": {
+    "left": "chart",
+    "right": "bullets"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight percentages and monetary values"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "#00A79D",
+    "accent": "#005177",
+    "background": "#F4F4F4"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Announced deals, $ bn",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Basic Materials",
+      "Financial Services",
+      "Real Estate/Construction",
+      "Consumer and retail",
+      "TTL",
+      "Healthcare",
+      "Industry and others",
+      "TMT",
+      "Energy & Utility"
+    ],
+    "values": [
+      {
+        "year": "2012",
+        "data": [
+          41,
+          108,
+          135,
+          161,
+          65,
+          114,
+          124,
+          199,
+          290
+        ]
+      },
+      {
+        "year": "2013",
+        "data": [
+          34,
+          72,
+          162,
+          135,
+          58,
+          205,
+          84,
+          335,
+          211
+        ]
+      },
+      {
+        "year": "2014",
+        "data": [
+          44,
+          111,
+          151,
+          163,
+          81,
+          336,
+          158,
+          337,
+          355
+        ]
+      },
+      {
+        "year": "2015",
+        "data": [
+          74,
+          233,
+          191,
+          220,
+          86,
+          445,
+          226,
+          608,
+          235
+        ]
+      },
+      {
+        "year": "2016",
+        "data": [
+          112,
+          165,
+          169,
+          182,
+          200,
+          235,
+          385,
+          410
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional infographics or tables present apart from the main chart."
+  }
+}

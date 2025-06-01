@@ -1,0 +1,82 @@
+{
+  "slide_id": "22",
+  "section": "Contents",
+  "purpose": "Outline the main sections of the presentation.",
+  "narrative_role": "Overview",
+  "title": "Contents",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Car buying"
+    },
+    {
+      "highlight": true,
+      "text": "Aftermarket"
+    },
+    {
+      "highlight": false,
+      "text": "Mobility"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and content with image",
+  "layout_type": "text-image",
+  "content_zones": {
+    "left": "Text list",
+    "right": "Image of a wrench"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Wrench",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 2,
+    "emphasis_rule": "Highlighting one bullet with a box"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "none",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font family and size are unknown due to lack of specific details in the image."
+  }
+}

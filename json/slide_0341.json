@@ -1,0 +1,117 @@
+{
+  "slide_id": "42",
+  "section": "Use Case",
+  "purpose": "To present a case study on leveraging loyalty to enhance readership value.",
+  "narrative_role": "Informative",
+  "title": "Canadian News Publisher Use Case",
+  "bullets": [
+    {
+      "highlight": "expand and enhance",
+      "text": "The newspaper’s small customer appreciation events were delivering minimal impact on engagement; they were looking to expand and enhance the existing functionality of this program"
+    },
+    {
+      "highlight": "competitors in other relevant industries",
+      "text": "How are news and media and competitors in other relevant industries leveraging loyalty? What loyalty program constructs should we consider?"
+    }
+  ],
+  "supporting_facts": [
+    "Interviewed key client stakeholders to better understand their goals and develop a customized framework to evaluate the selected loyalty programs",
+    "Analyzed 30+ global loyalty programs to identify rewards structure and engagement best practices",
+    "Identified key trends and developed a strategic framework for the client to leverage as it develops its loyalty program"
+  ],
+  "reasoning_strategy": "Case analysis with examples",
+  "data_points": [],
+  "cta": null,
+  "layout": "structured",
+  "layout_type": "informational",
+  "content_zones": {
+    "top_left": "Title and Purpose",
+    "center": "Situation, Approach, Path Forward",
+    "bottom": "Action icons and descriptions"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Loyalty",
+      "position": "top_left"
+    },
+    {
+      "type": "circle",
+      "label": "Engage",
+      "position": "bottom"
+    },
+    {
+      "type": "circle",
+      "label": "Retain",
+      "position": "bottom"
+    },
+    {
+      "type": "circle",
+      "label": "Lift",
+      "position": "bottom"
+    },
+    {
+      "type": "circle",
+      "label": "Shift",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold key terms"
+  },
+  "design_language": "Corporate, clean",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Strength of the Merchant"
+      },
+      {
+        "id": "L1",
+        "label": "Program Structure"
+      },
+      {
+        "id": "L2",
+        "label": "Engagement Tactics"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No specific numeric data or chart present; emphasis and visual elements mainly textual and iconographic."
+  }
+}

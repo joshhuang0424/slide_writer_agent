@@ -1,0 +1,193 @@
+{
+  "slide_id": "13",
+  "section": "Solution Overview",
+  "purpose": "To explain how propensity models help issuers enhance marketing efforts and connect messages with cardholders.",
+  "narrative_role": "Informative",
+  "title": "Propensity Models: Propensity Models Help Issuers to Enhance their Marketing Efforts and Connect the Right Messages with the Right Cardholders",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustration of the process from issuer card portfolio to marketing population using propensity models.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and graphic",
+  "content_zones": {
+    "left": "Infographic showing the process of scoring from issuer card portfolio to marketing.",
+    "right": "Table explaining different models and their descriptions."
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "Target Account",
+      "position": "bottom-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "High-Propensity Accounts",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "High"
+      },
+      {
+        "id": "L1",
+        "label": "Med"
+      },
+      {
+        "id": "L2",
+        "label": "Low"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Model descriptions and purposes",
+      "headers": [
+        "Model",
+        "Description"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Spend Attrition",
+            "Identifies recently-active accounts likely to become inactive in the next 3 months"
+          ]
+        },
+        {
+          "cells": [
+            "Recurring Payments",
+            "Identifies accounts likely to begin a recurring payments relationship with a merchant in the next 3 months"
+          ]
+        },
+        {
+          "cells": [
+            "Small Business",
+            "Identifies consumer accounts with spending profiles that most resemble those of known small business accounts"
+          ]
+        },
+        {
+          "cells": [
+            "Ecommerce",
+            "Estimates likelihood of spending online in any category in the next 3 months"
+          ]
+        },
+        {
+          "cells": [
+            "Early Months on Book (EMOB)",
+            "Estimates the number of transactions expected to occur for each new account (active less than six months) in the next 6 months"
+          ]
+        },
+        {
+          "cells": [
+            "Reactivation",
+            "Indicates the likelihood that accounts with short term inactivity will spontaneously reactivate in the next 3 months"
+          ]
+        },
+        {
+          "cells": [
+            "Overall Card Usage",
+            "Estimates the number of transactions expected to occur for each established account (active more than six months) in the next 6 months"
+          ]
+        },
+        {
+          "cells": [
+            "Category Expansion",
+            "Estimates likelihood of first-time spending in an industry category in the next 6 months"
+          ]
+        },
+        {
+          "cells": [
+            "Category Spend",
+            "Estimates cardholder spending in an industry category in the next 6 months"
+          ]
+        },
+        {
+          "cells": [
+            "Cross Border",
+            "Estimates the likelihood of cardholders spending abroad."
+          ]
+        },
+        {
+          "cells": [
+            "Card On File",
+            "Estimates the likelihood of a cardholder begin a recurring payment or card-on-file relationship"
+          ]
+        },
+        {
+          "cells": [
+            "Mobile Payments",
+            "Identifies the likelihood that an account holder will use a mobile payment service when making a payment, such as MDES, Paypal, or Venmo"
+          ]
+        },
+        {
+          "cells": [
+            "Advanced Buyer Segments",
+            "Classification of each account into one of 24 Advanced Buyer Segments."
+          ]
+        },
+        {
+          "cells": [
+            "Card Usage Segmentation",
+            "Identify likely wallet position and degree of cardholder engagement."
+          ]
+        },
+        {
+          "cells": [
+            "Regional Travel Models",
+            "Identifies the likelihood that an account holder will travel to specific regions."
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

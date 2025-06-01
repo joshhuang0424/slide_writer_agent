@@ -1,0 +1,129 @@
+{
+  "slide_id": "4",
+  "section": "Importance of Fraud Management",
+  "purpose": "Highlight the growth in payment fraud and the importance of effective fraud management.",
+  "narrative_role": "Informative",
+  "title": "The industry continues to see growth in payment fraud which directly impacts costs; this trend enforces the importance of effective Fraud Management",
+  "bullets": [
+    {
+      "highlight": "30",
+      "text": "Number of passwords consumers have to manage for all their platforms"
+    },
+    {
+      "highlight": "9 billion",
+      "text": "Compromised accounts since 2013 and growing"
+    },
+    {
+      "highlight": "Up to 43%",
+      "text": "of monthly transactions are fraudulent attempts"
+    },
+    {
+      "highlight": "9 minutes",
+      "text": "Time it took for stolen data to be sold and used by criminals"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presentation of statistical data to emphasize the growth of fraud.",
+  "data_points": [
+    "Estimated direct costs of global payment fraud: $28B in 2017, $30B in 2018, $32.5B in 2019, $35.5B in 2020, $38.5B in 2021"
+  ],
+  "cta": "Payment card fraud is projected to continue to grow",
+  "layout": "Two-column layout with chart and bullet points",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Chart depicting estimated direct costs of global payment fraud",
+    "right": "Bullet points highlighting risks due to digitization"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "key",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "document",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "graph",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "clock",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight important statistics in bold."
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FF6F00",
+    "background": "#F4F4F4"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Estimated direct costs of global payment fraud (billion, $)",
+    "x_axis_label": "Years",
+    "y_axis": [
+      "0",
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "values": [
+      {
+        "year": "2017",
+        "value": "28.0"
+      },
+      {
+        "year": "2018",
+        "value": "30.0"
+      },
+      {
+        "year": "2019",
+        "value": "32.5"
+      },
+      {
+        "year": "2020",
+        "value": "35.5"
+      },
+      {
+        "year": "2021",
+        "value": "38.5"
+      }
+    ],
+    "annotations": [
+      "+8.3%"
+    ],
+    "source": "Mastercard"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional infographics or tables were present outside the chart and bullet points."
+  }
+}

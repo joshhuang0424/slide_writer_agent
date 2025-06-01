@@ -1,0 +1,151 @@
+{
+  "slide_id": "18",
+  "section": "Industry Overview",
+  "purpose": "To illustrate the diverse opportunities available for different industry players.",
+  "narrative_role": "Informative",
+  "title": "Large option space for industry players still exists",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "source": "bottom left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Suppliers",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Auto makers",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "Mobility services",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "Cities",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "minimalist",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Lists the areas of opportunity for each industry player.",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Traffic management and infrastructure integration"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "On-demand platform"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "On-demand fleet management (ops, financing)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Data and connectivity services"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Autonomous driving software and data"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "HD maps"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "AV sensors and ECUs"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "EV batteries and components"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "EV charging infrastructure"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "linear bars"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "The slide does not include certain information such as specific data points or a reasoning strategy.",
+    "source": "Source: BCG analysis"
+  }
+}

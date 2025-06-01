@@ -1,0 +1,92 @@
+{
+  "slide_id": "18",
+  "section": "Forecast Methodology Overview",
+  "purpose": "To present the forecast error rates of different methodologies using historical data.",
+  "narrative_role": "Informative",
+  "title": "Mastercard conducted simulations using historical data to find the forecast methodology with the smallest forecast error",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "standard",
+  "layout_type": "chart_with_description",
+  "content_zones": {
+    "title_zone": "top",
+    "chart_zone": "middle",
+    "footnote_zone": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Forecast Methodology overview",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight negative percentages in orange"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Forecast error rates",
+    "x_axis_label": "Methodologies",
+    "y_axis": [
+      {
+        "label": "Average absolute error %",
+        "position": "left"
+      }
+    ],
+    "values": [
+      {
+        "label": "Weighted average",
+        "value": 0
+      },
+      {
+        "label": "Weighted average (taking short-term spend into consideration)",
+        "value": -29
+      },
+      {
+        "label": "Regression model (cardholder key attributes)",
+        "value": -43
+      },
+      {
+        "label": "Regression model (cardholder short-term spend)",
+        "value": -52
+      },
+      {
+        "label": "Regression model (cardholder key attributes and short-term spend)",
+        "value": -65
+      }
+    ],
+    "annotations": [
+      "Baseline"
+    ],
+    "source": "Mastercard identifies forecasting methodologies with the lowest error rate for each issuer, product, and set of forecasting metrics."
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

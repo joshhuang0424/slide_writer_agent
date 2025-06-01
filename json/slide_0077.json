@@ -1,0 +1,93 @@
+{
+  "slide_id": "3",
+  "section": "Executive summary",
+  "purpose": "Summarize consumer perceptions and behaviors related to lockdown, car buying, and mobility.",
+  "narrative_role": "Provide a high-level overview of key findings from the survey.",
+  "title": "Executive summary",
+  "bullets": [],
+  "supporting_facts": [
+    "Overall second lockdown in EU is perceived as less challenging and disruptive than first one in spring.",
+    "Higher income respondents feel less affected from second (partial) lock-down.",
+    "Intent to buy a new car has dropped, especially in France.",
+    "Used car purchase intent more robust.",
+    "58% of EU consumers travelling less, showing a 7 p.p. decrease vs. September."
+  ],
+  "reasoning_strategy": "Provide insights based on survey data to highlight changes in consumer behavior.",
+  "data_points": [
+    "44% stating (slightly) less challenging, 21% (slightly) more challenging",
+    "13pp drop in new car purchase intent",
+    "-2pp in used car purchase intent",
+    "-19 p.p. in France for new car purchase",
+    "-8pp in IT for used car purchase",
+    "58% travelling less, 7 p.p. decrease"
+  ],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "grid",
+  "content_zones": {
+    "left": "Perception 2nd lock-down",
+    "center": "Car buying",
+    "right": "Mobility"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Home",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Car",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Bus",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for keywords"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Black",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "None",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family not specified in the image."
+  }
+}

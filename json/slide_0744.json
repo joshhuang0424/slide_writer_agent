@@ -1,0 +1,150 @@
+{
+  "slide_id": "28",
+  "section": "long-term value improvement strategies",
+  "purpose": "To present optimization strategies for spend per card through channel conversion.",
+  "narrative_role": "Informative",
+  "title": "Spend per card optimization—single-channel/dual-channel conversion",
+  "bullets": [
+    {
+      "highlight": "Next Step (1)",
+      "text": "For both Bank and benchmark competitors, the long-term value of dual-channel users is 4X the value of single-channel users; Bank should promote dual-channel conversion campaigns"
+    },
+    {
+      "highlight": "Next Step (2)",
+      "text": "For dual-channel users and offline-only users, Bank should launch initiatives that drive ticket size"
+    },
+    {
+      "highlight": "Next Step (3)",
+      "text": "For online-only users, Bank should launch initiatives that drive transaction count per card"
+    }
+  ],
+  "supporting_facts": [
+    "Average calculated using data from World Mastercard cardholders who made their first purchase in May 2018-Oct 2018"
+  ],
+  "reasoning_strategy": "Comparison and strategic recommendations based on benchmarking",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal split",
+  "layout_type": "data-driven",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "bullet_points": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Next Step",
+      "position": "bottom-left"
+    },
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 25,
+    "emphasis_rule": "highlighted numbers and steps in bullets"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#FF5F00",
+    "accent": "#000000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "table",
+    "title": "By purchase channel used within 3 months of the first purchase",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Spend and Transaction Data",
+      "description": "Comparison of spend per card, ticket size, transaction count, and percentage of total cards by channel",
+      "headers": [
+        "Channel used within 3 months of the 1st purchase",
+        "Bank 1st year spend per card",
+        "Benchmark 1st year spend per card",
+        "Bank average ticket size",
+        "Benchmark average ticket size",
+        "Bank 1st year transaction count per card",
+        "Benchmark 1st year transaction count per card",
+        "Bank % of total cards",
+        "Benchmark % of total cards"
+      ],
+      "rows": [
+        {
+          "row_label": "Online + offline",
+          "cells": [
+            "$6,706",
+            "$7,611",
+            "$72",
+            "$121",
+            "96",
+            "63",
+            "29%",
+            "26%"
+          ]
+        },
+        {
+          "row_label": "Online only",
+          "cells": [
+            "$2,694",
+            "$3,587",
+            "$185",
+            "$147",
+            "18",
+            "24",
+            "22%",
+            "22%"
+          ]
+        },
+        {
+          "row_label": "Offline only",
+          "cells": [
+            "$1,399",
+            "$2,250",
+            "$110",
+            "$146",
+            "13",
+            "15",
+            "49%",
+            "52%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic.levels": "No pyramid infographic is present on this slide."
+  }
+}

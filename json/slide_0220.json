@@ -1,0 +1,123 @@
+{
+  "slide_id": "51",
+  "section": "BCG TSR方案介绍",
+  "purpose": "展示优秀企业及优质股票实现企业价值最大化的根基",
+  "narrative_role": "说明",
+  "title": "“优秀企业”及“优质股票”是实现企业价值最大化的根基",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic",
+  "layout_type": "visual",
+  "content_zones": {
+    "header": "top",
+    "infographic": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "优秀企业",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "优质股票",
+      "position": "right"
+    },
+    {
+      "type": "arrow",
+      "label": "定位（具体时间点）",
+      "position": "bottom left"
+    },
+    {
+      "type": "arrow",
+      "label": "轨迹（长期）",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted in green"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "竞争优势"
+      },
+      {
+        "id": "L1",
+        "label": "高资本回报率"
+      },
+      {
+        "id": "L2",
+        "label": "行业领导者"
+      },
+      {
+        "id": "L3",
+        "label": "成长型企业"
+      },
+      {
+        "id": "L4",
+        "label": "良好工作环境（最佳雇主）"
+      },
+      {
+        "id": "L5",
+        "label": "优异且可持续的TSR"
+      },
+      {
+        "id": "L6",
+        "label": "最优的估值倍数"
+      },
+      {
+        "id": "L7",
+        "label": "稳定且忠诚的长期投资者"
+      },
+      {
+        "id": "L8",
+        "label": "社会贡献（ESG）"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or supporting facts were provided. The slide is primarily visual with icons and labels."
+  }
+}

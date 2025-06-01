@@ -1,0 +1,75 @@
+{
+  "slide_id": "1",
+  "section": "Cover",
+  "purpose": "Introduction",
+  "narrative_role": "Introduction",
+  "title": "Addressing homelessness in King County",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Present the topic and set the context",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with supporting details",
+  "layout_type": "Cover",
+  "content_zones": {
+    "title_position": "top_left",
+    "supporting_text_position": "bottom_left",
+    "graphic_position": "bottom_right"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "McKinsey & Company",
+      "position": "top_left"
+    },
+    {
+      "type": "graphic",
+      "label": "Abstract lines",
+      "position": "bottom_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for titles"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Navy blue",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is a cover page with no data or detailed content."
+  }
+}

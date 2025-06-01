@@ -1,0 +1,73 @@
+{
+  "slide_id": "25",
+  "section": "Contents",
+  "purpose": "Overview of sections",
+  "narrative_role": "Table of Contents",
+  "title": "Contents",
+  "bullets": [
+    "Car buying",
+    "Aftermarket",
+    "Mobility"
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "Left text, right image",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Text",
+    "right": "Image"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "description": "Person riding a bicycle",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 2,
+    "emphasis_rule": "Title bold"
+  },
+  "design_language": "Professional, modern",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The specific font family is not discernible from the image."
+  }
+}

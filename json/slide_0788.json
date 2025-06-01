@@ -1,0 +1,71 @@
+{
+  "slide_id": "2",
+  "section": "Introduction",
+  "purpose": "To provide an overview of previous reports on electric cars and their focus areas.",
+  "narrative_role": "Background",
+  "title": "This research underlies our fourth report on automotive propulsion and electric car adoption (out soon)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Historical context",
+  "data_points": [],
+  "cta": null,
+  "layout": "timeline",
+  "layout_type": "visual_timeline",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "text": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "BCG report covers",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "italics for 'Focus areas'"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid structure or specific chart detected. Content primarily consists of report covers with focus areas listed."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "slide_id": "34",
+  "section": "Data Analysis",
+  "purpose": "To present the DVA index trend from 2000 to 2016 and highlight the performance in 2016.",
+  "narrative_role": "Informative",
+  "title": "DVA Index Overview",
+  "bullets": [
+    {
+      "highlight": "8.4%",
+      "text": "Total DVA for 2016 is slightly lower than 2015"
+    },
+    {
+      "highlight": "6.7%",
+      "text": "Still higher than the long-term average"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of annual DVA values against the long-term average.",
+  "data_points": [
+    "DVA index 2000-2016"
+  ],
+  "cta": null,
+  "layout": "title, bullets, chart",
+  "layout_type": "standard",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "bullets": "top"
+  },
+  "visual_elements": [
+    {
+      "type": "label",
+      "label": "Average, %",
+      "position": "chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted percentages"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "blue",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Average DVA index 2000 – 2016, %",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "DVA %"
+    ],
+    "values": [
+      {
+        "year": "2000",
+        "dva": -5
+      },
+      {
+        "year": "2001",
+        "dva": 3
+      },
+      {
+        "year": "2002",
+        "dva": 2
+      },
+      {
+        "year": "2003",
+        "dva": 1
+      },
+      {
+        "year": "2004",
+        "dva": 4
+      },
+      {
+        "year": "2005",
+        "dva": 5
+      },
+      {
+        "year": "2006",
+        "dva": 7
+      },
+      {
+        "year": "2007",
+        "dva": 2
+      },
+      {
+        "year": "2008",
+        "dva": -1
+      },
+      {
+        "year": "2009",
+        "dva": 0
+      },
+      {
+        "year": "2010",
+        "dva": 6
+      },
+      {
+        "year": "2011",
+        "dva": 10
+      },
+      {
+        "year": "2012",
+        "dva": 7
+      },
+      {
+        "year": "2013",
+        "dva": 6
+      },
+      {
+        "year": "2014",
+        "dva": 5
+      },
+      {
+        "year": "2015",
+        "dva": 9
+      },
+      {
+        "year": "2016",
+        "dva": 8.4
+      }
+    ],
+    "annotations": [
+      {
+        "text": "Average: 6.7%",
+        "position": "6.7%"
+      }
+    ],
+    "source": "SOURCE: Dealogic; Datastream; McKinsey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present, and table data is represented in chart format."
+  }
+}

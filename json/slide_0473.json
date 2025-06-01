@@ -1,0 +1,131 @@
+{
+  "slide_id": "22",
+  "section": "Phase 2: Execution",
+  "purpose": "Outline tasks and opportunities for enhancing client-centric approaches.",
+  "narrative_role": "Informative",
+  "title": "CEP Phase 2 is focused on transforming the organization to become more client-centric with a 'bias to action'",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Identification of an executive-level Head of Client Experience"
+    },
+    {
+      "highlight": false,
+      "text": "Stand-up of a Program Management Office, co-managed by First Interstate and Advisors"
+    },
+    {
+      "highlight": false,
+      "text": "Management of all bank-wide CEP communication strategy"
+    },
+    {
+      "highlight": false,
+      "text": "Establishment of cross-functional Client Strategy Teams (CSTs) that 'own' client segments and serve as the decision-makers for client-centered strategies"
+    },
+    {
+      "highlight": false,
+      "text": "‘CEP-ization’ of unofficial branch sales goals (complete)"
+    },
+    {
+      "highlight": false,
+      "text": "‘CEP-ization’ of marketing and training materials (in progress)"
+    },
+    {
+      "highlight": false,
+      "text": "Contact Center optimization (in progress)"
+    },
+    {
+      "highlight": false,
+      "text": "Branch coaching (in progress)"
+    },
+    {
+      "highlight": false,
+      "text": "Client journey mapping (future)"
+    },
+    {
+      "highlight": false,
+      "text": "Client experience recognition program (future)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Emphasize the steps needed to enhance client service.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "information split",
+  "content_zones": {
+    "left": "CEP Foundational Tasks",
+    "right": "Immediate Opportunities"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Phase 1: Design",
+      "position": "top-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Phase 2: Execution",
+      "position": "top-center"
+    },
+    {
+      "type": "arrow",
+      "label": "Phase 3: CEP is BAU",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "CEP Foundational Tasks",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Immediate Opportunities",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for key terms"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#F57C00",
+    "accent": "#CCCCCC",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "No charts or tables present. Infographic pyramid not applicable here."
+  }
+}

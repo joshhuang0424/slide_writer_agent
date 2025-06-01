@@ -1,0 +1,126 @@
+{
+  "slide_id": "7",
+  "section": "Impact Measurement",
+  "purpose": "To explain how non-financial impact is measured through stakeholder interviews",
+  "narrative_role": "Explanation",
+  "title": "Non-financial impact is measured primarily by interviewing stakeholders",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Qualitative analysis through interviews",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column comparison",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Impact on the individual",
+    "right": "Impact on the community"
+  },
+  "visual_elements": [
+    {
+      "type": "speech_bubble",
+      "label": "Former (and optionally current) participants are interviewed and answers are scored whether they are doing well or not",
+      "position": "left"
+    },
+    {
+      "type": "speech_bubble",
+      "label": "Different stakeholder groups are interviewed, e.g., local authorities, other NGOs/CBOs and community leaders",
+      "position": "right"
+    },
+    {
+      "type": "table",
+      "label": "Score",
+      "position": "left"
+    },
+    {
+      "type": "image_collage",
+      "label": "Community impact faces",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color to highlight important sections"
+  },
+  "design_language": "Professional, structured",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Green and Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Score",
+      "description": "Scoring of individual impact based on interviews",
+      "headers": [
+        "doing well",
+        "not doing well"
+      ],
+      "rows": [
+        {
+          "row_label": "1",
+          "cells": [
+            "✓",
+            ""
+          ]
+        },
+        {
+          "row_label": "2",
+          "cells": [
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "3",
+          "cells": [
+            "",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "4",
+          "cells": [
+            "",
+            "✓"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "Grid with check marks"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic section is noted as pyramid, but no pyramid is present in the image."
+  }
+}

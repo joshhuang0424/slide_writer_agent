@@ -1,0 +1,101 @@
+{
+  "slide_id": "3",
+  "section": "Executive Summary",
+  "purpose": "Summarize key points on vehicle electrification trends and projections.",
+  "narrative_role": "Informative",
+  "title": "Executive Summary",
+  "bullets": [
+    {
+      "highlight": "~20% annually",
+      "text": "Battery costs have been declining at a rapid pace since 2009"
+    },
+    {
+      "highlight": "inflection point",
+      "text": "We should reach for a viable economic proposition for consumers between 2025 and 2030 without incentives"
+    },
+    {
+      "highlight": "regulation",
+      "text": "Rather than consumer demand, will still drive the electrification of cars"
+    },
+    {
+      "highlight": "advanced internal combustion engines (ICEs)",
+      "text": "Will be sufficient to meet regulations until 2020, after that, electrification will be required"
+    },
+    {
+      "highlight": "~$500 per unit",
+      "text": "In 2025, most cars will still have an ICE. The average cost per car sold to meet regulatory requirements will be above ICE costs"
+    },
+    {
+      "highlight": "Electrification will manifest in different ways",
+      "text": "In the US, it will be driven by mild hybrids or 48-volt hybrids (MHEVs) and battery-operated electric vehicles (BEVs)"
+    },
+    {
+      "highlight": "The shared economy",
+      "text": "(taxis and car sharing) will spur HEV and BEV adoption before individual customers, given higher mileage"
+    },
+    {
+      "highlight": "~30% by 2025 and ~50% by 2030",
+      "text": "Globally, we expect the share of electrified vehicles (xEVs) to be"
+    },
+    {
+      "highlight": "6% in 2025 and 14% in 2030",
+      "text": "The share of BEVs is projected to be"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Projection and trend analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text-heavy",
+  "content_zones": {
+    "left": "Title",
+    "right": "Bulleted text"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and color for highlights"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables present; all content is text-based."
+  }
+}

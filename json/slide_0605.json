@@ -1,0 +1,136 @@
+{
+  "slide_id": "5",
+  "section": "LCM Program",
+  "purpose": "To illustrate the components of a successful LCM program.",
+  "narrative_role": "Explainer",
+  "title": "The components of a successful LCM program are built upon the pillars of a solid issuer brand and value proposition",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "A trusted issuer brand and value proposition must underpin LCM efforts"
+    },
+    {
+      "highlight": false,
+      "text": "while targeting appropriate customer segments and effective communications must be deployed consistently across all stages of the product lifecycle"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrative",
+  "data_points": [],
+  "cta": null,
+  "layout": "text and visual",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Text",
+    "right": "Infographic"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "MESSAGING",
+      "position": "top"
+    },
+    {
+      "type": "arrow",
+      "label": "SEGMENTATION",
+      "position": "top"
+    },
+    {
+      "type": "arrow",
+      "label": "Acquisition",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Onboarding / EMOB",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Usage",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Retention",
+      "position": "center"
+    },
+    {
+      "type": "pillar",
+      "label": "ISSUER BRAND",
+      "position": "bottom left"
+    },
+    {
+      "type": "pillar",
+      "label": "VALUE PROPOSITION DEVELOPMENT",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Messaging"
+      },
+      {
+        "id": "L1",
+        "label": "Segmentation"
+      },
+      {
+        "id": "L2",
+        "label": "Acquisition"
+      },
+      {
+        "id": "L3",
+        "label": "Onboarding / EMOB"
+      },
+      {
+        "id": "L4",
+        "label": "Usage"
+      },
+      {
+        "id": "L5",
+        "label": "Retention"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

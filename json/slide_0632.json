@@ -1,0 +1,63 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduce the topic of segmentation in cross-lifecycle elements.",
+  "narrative_role": "Introduction",
+  "title": "Segmentation",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual emphasis on title and background design.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title slide with graphic design",
+  "layout_type": "Title",
+  "content_zones": {
+    "left": "Text",
+    "right": "Graphic"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is emphasized with large font size."
+  },
+  "design_language": "Modern and clean with a focus on bold colors and simple typography.",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is introductory with no specific data or bullet points, hence many fields are unknown or empty."
+  }
+}

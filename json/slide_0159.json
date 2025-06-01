@@ -1,0 +1,204 @@
+{
+  "slide_id": "4",
+  "section": "News and Media Pipeline Analysis",
+  "purpose": "To present the representation and decline of women in News and Media across different levels.",
+  "narrative_role": "Informative",
+  "title": "In News and Media, the pipeline of women is above average across all companies but shows year over year decline",
+  "bullets": [
+    {
+      "highlight": "declined",
+      "text": "Women’s representation in News and Media has declined from 2019 to 2020 across most levels of the pipeline"
+    },
+    {
+      "highlight": "lose ground",
+      "text": "Women of Color continue to lose ground to both white women and men of color at every step"
+    },
+    {
+      "highlight": "broken rung",
+      "text": "Women in News and Media face a “broken rung,” with 85 women promoted for every 100 men in the first step up to manager"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "% of employees by level",
+    "% of women by level across all companies"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with text and chart",
+  "layout_type": "Visual and textual",
+  "content_zones": {
+    "left": "Chart and tables",
+    "right": "Textual bullet points"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and colored text for emphasis"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "Cylinder bar chart",
+    "title": "% of employees by level",
+    "x_axis_label": "Level",
+    "y_axis": [
+      "White men",
+      "Men of color",
+      "White women",
+      "Women of color"
+    ],
+    "values": [
+      {
+        "Entry level": [
+          37,
+          16,
+          30,
+          17
+        ]
+      },
+      {
+        "Manager": [
+          42,
+          16,
+          28,
+          13
+        ]
+      },
+      {
+        "Sr. Manager": [
+          51,
+          12,
+          29,
+          9
+        ]
+      },
+      {
+        "VP": [
+          52,
+          11,
+          30,
+          7
+        ]
+      },
+      {
+        "SVP": [
+          63,
+          9,
+          24,
+          4
+        ]
+      },
+      {
+        "C-suite": [
+          55,
+          14,
+          27,
+          4
+        ]
+      }
+    ],
+    "annotations": [
+      "Positive change in blue",
+      "Negative change in red"
+    ],
+    "source": "McKinsey & Company and LeanIn.Org"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "% of women by level in News & Media",
+      "description": "Yearly comparison of women's percentage at each level",
+      "headers": [
+        "2020 EOY",
+        "2019 EOY",
+        "2018 EOY"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "48%",
+            "47%",
+            "51%"
+          ]
+        },
+        {
+          "cells": [
+            "42%",
+            "43%",
+            "49%"
+          ]
+        },
+        {
+          "cells": [
+            "38%",
+            "46%",
+            "46%"
+          ]
+        },
+        {
+          "cells": [
+            "38%",
+            "43%",
+            "38%"
+          ]
+        },
+        {
+          "cells": [
+            "29%",
+            "40%",
+            "42%"
+          ]
+        },
+        {
+          "cells": [
+            "33%",
+            "34%",
+            "27%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    },
+    {
+      "title": "% of women by level across all companies",
+      "description": "Comparison across all companies",
+      "headers": [
+        "47%",
+        "38%",
+        "33%",
+        "29%",
+        "28%",
+        "21%"
+      ],
+      "rows": [],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family and size are not specified in the image."
+  }
+}

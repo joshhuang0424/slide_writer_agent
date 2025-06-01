@@ -1,0 +1,190 @@
+{
+  "slide_id": "9",
+  "section": "Housing Analysis",
+  "purpose": "To highlight the dependency of low-income households on market-rate rental units.",
+  "narrative_role": "Supporting evidence for housing policy recommendations.",
+  "title": "Low-income households are highly dependent on market-rate rental units",
+  "bullets": [
+    {
+      "highlight": "Large share",
+      "text": "A large share of low-income people live in market-rate rentals"
+    },
+    {
+      "highlight": "Vouchers",
+      "text": "Most vouchers go to the poorest households"
+    },
+    {
+      "highlight": "Regulated units",
+      "text": "Most regulated units go to higher levels of income (30-80%)"
+    },
+    {
+      "highlight": "Homeownership rate",
+      "text": "The rate of homeownership drops significantly for poorer households, though is still significant at the bottom tier"
+    },
+    {
+      "highlight": "Overall",
+      "text": "Overall, a very large share of low-income households live in market rentals"
+    }
+  ],
+  "supporting_facts": [
+    "Includes LIHTC and public housing, MHA, and MFTE units",
+    "Includes permanent supportive housing",
+    "Does not include >100% AMI population category"
+  ],
+  "reasoning_strategy": "Data-driven analysis of income categories and housing situations.",
+  "data_points": [
+    "Income categories: 80-100% AMI, 50-80% AMI, 30-50% AMI, 0-30% AMI",
+    "Housing situations: Home owners, Market Rate Rental, In Regulated Units, Using Vouchers"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with data visualization and bullet points.",
+  "layout_type": "Comparison and insights",
+  "content_zones": {
+    "left": "Data visualization with income categories and housing situations.",
+    "right": "Text bullet points providing insights."
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted keywords in bullet points."
+  },
+  "design_language": "Professional and data-centric.",
+  "color_scheme": {
+    "primary": "#1A1A1A",
+    "accent": "#A3A3A3",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Housing situations for households in King County, 2017",
+    "x_axis_label": "Income category",
+    "y_axis": [
+      "Home owners",
+      "Market Rate Rental",
+      "In Regulated Units",
+      "Using Vouchers"
+    ],
+    "values": [
+      {
+        "category": "80-100% AMI",
+        "values": [
+          60,
+          50,
+          0,
+          0
+        ]
+      },
+      {
+        "category": "50-80% AMI",
+        "values": [
+          50,
+          31,
+          23,
+          1
+        ]
+      },
+      {
+        "category": "30-50% AMI",
+        "values": [
+          29,
+          33,
+          11,
+          3
+        ]
+      },
+      {
+        "category": "0-30% AMI",
+        "values": [
+          24,
+          39,
+          16,
+          17
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "HUD, WSHFC, American Community Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Housing situations for households in King County, 2017",
+      "description": "Data on housing situations by income category.",
+      "headers": [
+        "Income category",
+        "Home owners",
+        "Market Rate Rental",
+        "In Regulated Units",
+        "Using Vouchers"
+      ],
+      "rows": [
+        {
+          "row_label": "80-100% AMI",
+          "cells": [
+            "110",
+            "60 (54%)",
+            "50 (46%)",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "50-80% AMI",
+          "cells": [
+            "105",
+            "50 (47%)",
+            "31 (30%)",
+            "23 (22%)",
+            "1 (1%)"
+          ]
+        },
+        {
+          "row_label": "30-50% AMI",
+          "cells": [
+            "76",
+            "29 (38%)",
+            "33 (44%)",
+            "11 (14%)",
+            "3 (4%)"
+          ]
+        },
+        {
+          "row_label": "0-30% AMI",
+          "cells": [
+            "96",
+            "24 (25%)",
+            "39 (41%)",
+            "16 (17%)",
+            "17 (18%)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Stacked bar chart"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present, hence levels are empty."
+  }
+}

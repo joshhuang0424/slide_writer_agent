@@ -1,0 +1,121 @@
+{
+  "slide_id": "3",
+  "section": "渠道拓展",
+  "purpose": "描述客戶不同渠道觸達方式及多渠道聯動的場景",
+  "narrative_role": "informative",
+  "title": "05. 渠道拓展：協助工行充分拓展包括企業拜訪、企業微信部署等渠道，並利用各渠道優勢形成聯動，實現對客戶的全方位一體化營銷",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "visual",
+  "content_zones": {
+    "left": "不同客户选择不同触达渠道",
+    "right": "多渠道联动典型场景"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for key terms"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "red",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "不同客戶選擇不同觸達渠道",
+      "headers": [
+        "客户类型",
+        "触达方式"
+      ],
+      "rows": [
+        {
+          "row_label": "预审批批工資代發客户",
+          "cells": [
+            "客户所属优质企业",
+            "企业拜访"
+          ]
+        },
+        {
+          "row_label": "其余客户",
+          "cells": [
+            "模型*成效最优客户",
+            "人工外呼"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "模型*成效次优客户",
+            "AI外呼"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "其余客户",
+            "短信"
+          ]
+        },
+        {
+          "row_label": "外呼触达响应未办卡客户",
+          "cells": [
+            "",
+            "企业微信"
+          ]
+        },
+        {
+          "row_label": "外呼触达响应未办卡且年龄较大客户",
+          "cells": [
+            "",
+            "网点"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "圖表未包含坐標軸或數據標註，無法歸為chart"
+  }
+}

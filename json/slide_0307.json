@@ -1,0 +1,92 @@
+{
+  "slide_id": "8",
+  "section": "Custom FI engagements overview",
+  "purpose": "To illustrate how analytics help FI clients solve strategic business problems across various functional areas.",
+  "narrative_role": "Informative",
+  "title": "Custom FI engagements overview",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of strategic business problems by functional areas using visual elements.",
+  "data_points": [],
+  "cta": null,
+  "layout": "hexagonal infographic with text sections",
+  "layout_type": "infographic",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "hexagon",
+      "label": "Digital Card Features",
+      "position": "top-left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Customer Acquisition",
+      "position": "top-right"
+    },
+    {
+      "type": "hexagon",
+      "label": "Operations & Risk",
+      "position": "middle-left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Activation & EMOB",
+      "position": "middle-right"
+    },
+    {
+      "type": "hexagon",
+      "label": "Engagement – Portfolio Management",
+      "position": "bottom-left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Engagement – Product Management",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "modern, clean with iconography",
+  "color_scheme": {
+    "primary": "various bright colors",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font details are not specified in the image. The infographic does not include typical pyramid levels."
+  }
+}

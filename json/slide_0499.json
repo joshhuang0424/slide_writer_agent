@@ -1,0 +1,119 @@
+{
+  "slide_id": "9",
+  "section": "Career Aspirations",
+  "purpose": "To highlight the aspiration levels of LGBTQ+ employees compared to straight employees for top-executive positions.",
+  "narrative_role": "Informative",
+  "title": "LGBTQ+ employees are as likely as straight ones to aspire to top-executive positions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis using survey data",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Table",
+  "layout_type": "Single-page analysis",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Career intentions and reason, %",
+      "description": "Comparison of career aspirations between groups",
+      "headers": [
+        "Career intentions and reason, %",
+        "Straight men",
+        "LGBTQ+ men",
+        "Straight women",
+        "LGBTQ+ women"
+      ],
+      "rows": [
+        {
+          "row_label": "I want to be a top executive",
+          "cells": [
+            "I want to be a top executive",
+            "45",
+            "45",
+            "33",
+            "37"
+          ]
+        },
+        {
+          "row_label": "Opportunity to impact the success of my company",
+          "cells": [
+            "Opportunity to impact the success of my company",
+            "70",
+            "60",
+            "60",
+            "49"
+          ]
+        },
+        {
+          "row_label": "Opportunity to be a role model for others like me",
+          "cells": [
+            "Opportunity to be a role model for others like me",
+            "31",
+            "38",
+            "43",
+            "46"
+          ]
+        },
+        {
+          "row_label": "Opportunity to have a positive impact on the world",
+          "cells": [
+            "Opportunity to have a positive impact on the world",
+            "31",
+            "37",
+            "35",
+            "43"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Circle highlights"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family for title and body is not specified in the image."
+  }
+}

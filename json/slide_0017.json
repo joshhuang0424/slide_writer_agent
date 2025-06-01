@@ -1,0 +1,95 @@
+{
+  "slide_id": "17",
+  "section": "Analysis of Workplace Inequality",
+  "purpose": "Highlight the disparity and challenges faced by Black women in the workplace.",
+  "narrative_role": "Highlight",
+  "title": "An unequal workplace for Black women",
+  "bullets": [
+    {
+      "highlight": "1.5x",
+      "text": "More likely to say they do not have equal opportunity for advancement and to feel uncomfortable sharing their experience of grief or loss"
+    },
+    {
+      "highlight": "1.9x",
+      "text": "More likely to not feel comfortable bringing their whole self to work"
+    },
+    {
+      "highlight": "1.7x",
+      "text": "More likely to say they do not have strong allies on their team"
+    },
+    {
+      "highlight": "2.5x",
+      "text": "more likely than women overall to report the death of a loved one was a big challenge"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis using statistical highlights",
+  "data_points": [
+    "52% of Black women",
+    "20% of women overall"
+  ],
+  "cta": null,
+  "layout": "Two-column comparison",
+  "layout_type": "Split",
+  "content_zones": {
+    "left": "Text and infographic showing Black women as 'only' in gender and race",
+    "right": "Statistics and supporting text about microaggressions"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Women icons",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Quote, graph, group, magnifying glass icons",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold and color for emphasis on statistics"
+  },
+  "design_language": "Corporate, minimalistic with emphasis on statistics",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White (left), Dark navy (right)"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic or chart present; table data integrated into bullets."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "slide_id": "23",
+  "section": "Mobility Usage Patterns",
+  "purpose": "Analyze the impact of COVID-19 lockdowns on mobility usage in European countries.",
+  "narrative_role": "Data Analysis",
+  "title": "Mobility usage patterns in France and Italy most affected by the second COVID-19 lockdowns in Europe",
+  "bullets": [
+    {
+      "highlight": "58%",
+      "text": "of EU consumers travelling less, showing a 7 p.p. decrease vs. last wave due to the latest lockdowns"
+    },
+    {
+      "highlight": "France and Italy",
+      "text": "Respondents' mobility usage currently most affected"
+    }
+  ],
+  "supporting_facts": [
+    "Results of wave 1 (may 9-18), wave 2 (may 27-29), wave 3 (june 16-18), wave 4 (july 15 – 17), wave 5 (sep 2-4), and wave 6 (nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparative analysis between waves",
+  "data_points": [
+    "Mobility recovery, in p.p.",
+    "Significantly increase",
+    "Slightly increase",
+    "Slightly decrease",
+    "Significantly decrease"
+  ],
+  "cta": null,
+  "layout": "Text on left, Chart on right",
+  "layout_type": "Chart with Key Takeaways",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "bullets": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "-7",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "+1",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "-1",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "-18",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "-10",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key figures"
+  },
+  "design_language": "Professional, Data-centric",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "Stacked Bar Chart",
+    "title": "Mobility pattern changes (number and length of trips) since the outbreak of COVID-19",
+    "x_axis_label": "Weeks",
+    "y_axis": [
+      "EU",
+      "UK",
+      "Germany",
+      "France",
+      "Italy"
+    ],
+    "values": [
+      [
+        -22,
+        -25,
+        -27,
+        -29,
+        -30,
+        -36
+      ],
+      [
+        -18,
+        -19,
+        -22,
+        -24,
+        -26,
+        -27
+      ],
+      [
+        -29,
+        -29,
+        -29,
+        -28,
+        -25,
+        -26
+      ],
+      [
+        -20,
+        -25,
+        -27,
+        -29,
+        -31,
+        -19
+      ],
+      [
+        -21,
+        -29,
+        -32,
+        -36,
+        -37,
+        -36
+      ]
+    ],
+    "annotations": [],
+    "source": "Source: McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present in the slide."
+  }
+}

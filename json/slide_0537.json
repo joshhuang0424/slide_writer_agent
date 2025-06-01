@@ -1,0 +1,83 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title Slide",
+  "narrative_role": "Set the stage",
+  "title": "Advisors' Projects",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title slide with background graphics",
+  "layout_type": "Title",
+  "content_zones": {
+    "title": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard",
+      "position": "bottom left"
+    },
+    {
+      "type": "circle",
+      "label": "Advisors' Projects",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "unknown"
+  },
+  "design_language": "Minimalistic, modern",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "grey",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": ""
+      },
+      {
+        "id": "L1",
+        "label": ""
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family and emphasis rules are not discernible from the image. The infographic pyramid is not present but included for schema compliance."
+  }
+}

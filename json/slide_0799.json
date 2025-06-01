@@ -1,0 +1,182 @@
+{
+  "slide_id": "13",
+  "section": "Energy Analysis",
+  "purpose": "To compare the gas-to-electricity ratio and number of miles driven across different regions.",
+  "narrative_role": "Informative",
+  "title": "Gas-to-electricity ratio and number of miles driven in region will drive a favorable TCO",
+  "bullets": [],
+  "supporting_facts": [
+    "China provides the most favorable combination of energy prices and mileage for xEV penetration."
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    {
+      "Region": "USA",
+      "$/Gallon": "2.50",
+      "$/kWh": "0.12",
+      "Gas-to-electricity ratio": "20.8",
+      "Miles driven": "13,671",
+      "xEVs beneficial": "2nd"
+    },
+    {
+      "Region": "EU",
+      "$/Gallon": "5.70",
+      "$/kWh": "0.36",
+      "Gas-to-electricity ratio": "15.8",
+      "Miles driven": "9,012",
+      "xEVs beneficial": "3rd"
+    },
+    {
+      "Region": "China",
+      "$/Gallon": "3.80",
+      "$/kWh": "0.08",
+      "Gas-to-electricity ratio": "47.5",
+      "Miles driven": "12,460",
+      "xEVs beneficial": "1st"
+    },
+    {
+      "Region": "Japan",
+      "$/Gallon": "4.16",
+      "$/kWh": "0.26",
+      "Gas-to-electricity ratio": "16.0",
+      "Miles driven": "5,594",
+      "xEVs beneficial": "4th"
+    }
+  ],
+  "cta": null,
+  "layout": "Comparison Table",
+  "layout_type": "Single Table",
+  "content_zones": {
+    "header": "top",
+    "body": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "USA",
+      "position": "top-left"
+    },
+    {
+      "type": "flag",
+      "label": "EU",
+      "position": "top-center-left"
+    },
+    {
+      "type": "flag",
+      "label": "China",
+      "position": "top-center-right"
+    },
+    {
+      "type": "flag",
+      "label": "Japan",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for important figures"
+  },
+  "design_language": "Data-driven",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "Table",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Energy Comparison by Region",
+      "description": "Comparison of gas-to-electricity ratio and miles driven across regions.",
+      "headers": [
+        "Region",
+        "$/Gallon",
+        "$/kWh",
+        "Gas-to-electricity ratio",
+        "Number of miles driven",
+        "xEVs beneficial"
+      ],
+      "rows": [
+        {
+          "row_label": "USA",
+          "cells": [
+            "USA",
+            "2.50",
+            "0.12",
+            "20.8",
+            "13,671",
+            "2nd"
+          ]
+        },
+        {
+          "row_label": "EU",
+          "cells": [
+            "EU",
+            "5.70",
+            "0.36",
+            "15.8",
+            "9,012",
+            "3rd"
+          ]
+        },
+        {
+          "row_label": "China",
+          "cells": [
+            "China",
+            "3.80",
+            "0.08",
+            "47.5",
+            "12,460",
+            "1st"
+          ]
+        },
+        {
+          "row_label": "Japan",
+          "cells": [
+            "Japan",
+            "4.16",
+            "0.26",
+            "16.0",
+            "5,594",
+            "4th"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No infographic present, and all data points are captured in tables."
+  }
+}

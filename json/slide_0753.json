@@ -1,0 +1,114 @@
+{
+  "slide_id": "1",
+  "section": "Market Analysis",
+  "purpose": "To illustrate semiconductor supply and demand conditions over the next quarters.",
+  "narrative_role": "Informative",
+  "title": "Semiconductor supply conditions are expected to remain tight over the next four quarters as demand growth continues to accelerate",
+  "bullets": [
+    {
+      "highlight": "8% growth",
+      "text": "Meeting the expected 8% growth in semiconductor demand in 2021 will require average global manufacturing utilization to reach at least 90%, the highest since 2010"
+    }
+  ],
+  "supporting_facts": [
+    "Demand and supply forecasts are based on device OEM revenue forecasts and fab construction projects."
+  ],
+  "reasoning_strategy": "Data-driven analysis based on historical and forecasted figures.",
+  "data_points": [
+    "Indexed quarterly semiconductor sales versus capacity, excluding memory-related products."
+  ],
+  "cta": null,
+  "layout": "Two-column with chart",
+  "layout_type": "Chart and text",
+  "content_zones": {
+    "left": "Chart and historical data",
+    "right": "Key insights and forecast"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key figures"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "Line chart",
+    "title": "Indexed quarterly semiconductor sales versus capacity",
+    "x_axis_label": "Quarter",
+    "y_axis": [
+      "80",
+      "85",
+      "90",
+      "95",
+      "100",
+      "105",
+      "110",
+      "115",
+      "120",
+      "125"
+    ],
+    "values": [
+      {
+        "line": "Actual",
+        "style": "Solid",
+        "color": "Green"
+      },
+      {
+        "line": "Forecast",
+        "style": "Dashed",
+        "color": "Green"
+      }
+    ],
+    "annotations": [
+      {
+        "text": "2019 average\nDemand: 99\nSupply: 101",
+        "position": "Q4 2019"
+      },
+      {
+        "text": "2020 average\nDemand: 104\nSupply: 104",
+        "position": "Q4 2020"
+      },
+      {
+        "text": "2021F average\nDemand: 113\nSupply: 109–111",
+        "position": "Q4 2021"
+      }
+    ],
+    "source": "BCG analysis based on company earnings and financial analyst reports."
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

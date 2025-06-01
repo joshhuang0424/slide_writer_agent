@@ -1,0 +1,141 @@
+{
+  "slide_id": "10",
+  "section": "Allyship",
+  "purpose": "Highlight the rise in self-identified allyship but lack of effective allies for women of color.",
+  "narrative_role": "Informative",
+  "title": "Although self-identified allyship is on the rise, women of color still lack effective allies",
+  "bullets": [
+    {
+      "highlight": "84%",
+      "text": "More likely to be happy in their job"
+    },
+    {
+      "highlight": "47%",
+      "text": "Less likely to consider leaving their company"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [
+    "63% of white employees considered themselves allies in 2020",
+    "77% of white employees considered themselves allies in 2021",
+    "10% Mentoring or sponsoring women of color",
+    "21% Advocate for new opportunities for them",
+    "39% Actively confront discrimination against them",
+    "43% Publicly acknowledging their ideas",
+    "45% Educating oneself about their experiences"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart on the left and text on the right",
+  "layout_type": "Split",
+  "content_zones": {
+    "left": "Charts and tables",
+    "right": "Bullet points with emphasis"
+  },
+  "visual_elements": [
+    {
+      "type": "bar_chart",
+      "label": "Allyship actions",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentages in blue"
+  },
+  "design_language": "Professional with emphasis on key statistics",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#00ADEF",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Allyship actions",
+    "x_axis_label": "Actions",
+    "y_axis": [
+      "%",
+      "Year"
+    ],
+    "values": [
+      {
+        "2020": 63,
+        "2021": 77
+      },
+      {
+        "Mentoring or sponsoring": 10
+      },
+      {
+        "Advocate for new opportunities": 21
+      },
+      {
+        "Actively confront discrimination": 39
+      },
+      {
+        "Publicly acknowledging ideas": 43
+      },
+      {
+        "Educating oneself": 45
+      }
+    ],
+    "annotations": [],
+    "source": "2021 Women in the Workplace research, McKinsey & Company and LeanIn.Org"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Allyship actions ranked by women of color and white women",
+      "headers": [
+        "Top three actions ranked by women of color",
+        "Top three actions ranked by white women"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "1",
+            "3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "2",
+            "1"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "3",
+            "2"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No unknown elements identified",
+    "_visual_notes": "The chart uses a combination of black and blue bars to delineate categories."
+  }
+}

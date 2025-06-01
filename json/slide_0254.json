@@ -1,0 +1,109 @@
+{
+  "slide_id": "1",
+  "section": "Best Practices",
+  "purpose": "To describe major practices for implementing iTSR.",
+  "narrative_role": "Informational",
+  "title": "Best practices in implementing iTSR as a guiding measure",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "infographic",
+  "content_zones": {
+    "top": "Title and subtitle",
+    "middle": "Infographic with practices",
+    "bottom": "Source information"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Handshake",
+      "position": "middle-left"
+    },
+    {
+      "type": "icon",
+      "label": "Training",
+      "position": "middle-left"
+    },
+    {
+      "type": "icon",
+      "label": "Ownership",
+      "position": "middle-center"
+    },
+    {
+      "type": "icon",
+      "label": "Processes",
+      "position": "middle-center"
+    },
+    {
+      "type": "icon",
+      "label": "Focus",
+      "position": "middle-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight main steps"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "flow",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Make an explicit top down commitment"
+      },
+      {
+        "id": "L1",
+        "label": "Train intensively"
+      },
+      {
+        "id": "L2",
+        "label": "Increase the breadth of ownership"
+      },
+      {
+        "id": "L3",
+        "label": "Link tightly across processes"
+      },
+      {
+        "id": "L4",
+        "label": "Create an explicit focus on business unit level"
+      }
+    ],
+    "position": "middle"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

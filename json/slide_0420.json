@@ -1,0 +1,120 @@
+{
+  "slide_id": "11",
+  "section": "Profile Overview",
+  "purpose": "Introduce a persona looking for a new credit card",
+  "narrative_role": "Introduction",
+  "title": "Meet Jamie, a travel-loving revolver who is looking for a new credit card",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Prefers to spend instead of save"
+    },
+    {
+      "highlight": "",
+      "text": "Generally revolves his balance and pays off his bills when he can"
+    },
+    {
+      "highlight": "",
+      "text": "Has one credit card, but has been looking at offers online for his next one"
+    },
+    {
+      "highlight": "",
+      "text": "Enjoys bingeing Game of Thrones"
+    },
+    {
+      "highlight": "",
+      "text": "Loves to travel the world and immerse himself in different cultures"
+    },
+    {
+      "highlight": "",
+      "text": "Does his part to protect the environment"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Profile description with personal behaviors and interests",
+  "data_points": [
+    "Age: 26",
+    "Hometown: Minneapolis, MN",
+    "Occupation: Research Analyst",
+    "Annual Income: $50,000"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with personal info on left and behaviors/interests on right",
+  "layout_type": "Profile and behavior summary",
+  "content_zones": {
+    "left": "Personal Information",
+    "right": "Spending Behavior and Personal Interests"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Credit Card",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Television",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Airplane",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Recycling",
+      "position": "right"
+    },
+    {
+      "type": "avatar",
+      "label": "Jamie",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 6,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for section headers"
+  },
+  "design_language": "Modern and clean with emphasis on visuals",
+  "color_scheme": {
+    "primary": "Yellow",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables present; infographic type not applicable."
+  }
+}

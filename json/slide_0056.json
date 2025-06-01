@@ -1,0 +1,134 @@
+{
+  "slide_id": "6",
+  "section": "Capabilities",
+  "purpose": "Illustrate capabilities that enhance interactions between the public and private sector",
+  "narrative_role": "Informative",
+  "title": "Certain capabilities may benefit interactions between the public and private sector",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "List and align capabilities with corresponding steps",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal flow with icons and descriptions",
+  "layout_type": "process flow",
+  "content_zones": {
+    "top": "Title and subtitle",
+    "middle": "Icons and steps",
+    "bottom": "Capabilities descriptions"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Identify opportunities",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Prioritize and evaluate projects",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Engage public sector",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Fast track procurement with innovative models",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Delivery",
+      "position": "top"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for titles"
+  },
+  "design_language": "corporate and professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Capabilities",
+      "description": "Align capabilities with corresponding steps",
+      "headers": [
+        "Steps",
+        "Capabilities"
+      ],
+      "rows": [
+        {
+          "row_label": "Identify opportunities",
+          "cells": [
+            "Ability to analyze and identify investable opportunities that support economic development and addresses public sector needs"
+          ]
+        },
+        {
+          "row_label": "Prioritize and evaluate projects",
+          "cells": [
+            "Ability to prioritize projects that meet investment needs",
+            "Ability to determine if investments are feasible and appropriate for the investor"
+          ]
+        },
+        {
+          "row_label": "Engage public sector",
+          "cells": [
+            "Ability to engage with public sector entities (e.g., DOTs, elected officials) to build support for the project and the value private investment would bring"
+          ]
+        },
+        {
+          "row_label": "Fast track procurement with innovative models",
+          "cells": [
+            "Ability to develop innovative engagement models and pursue a fast-tracked procurement model"
+          ]
+        },
+        {
+          "row_label": "Delivery",
+          "cells": [
+            "Ability to deliver against designed commitments and meet established milestones"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or pyramid structures are present in the slide."
+  }
+}

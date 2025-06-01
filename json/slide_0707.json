@@ -1,0 +1,100 @@
+{
+  "slide_id": "28",
+  "section": "M&A Insights",
+  "purpose": "To provide key insights on PE and hostile M&A activity in 2016",
+  "narrative_role": "Informative",
+  "title": "Key insights on PE and hostile M&A activity in 2016",
+  "bullets": [
+    {
+      "highlight": "-31%",
+      "text": "Overall PE activity decreased by -31% vs. 2015 close to ~$400 bn, from ~$600 bn in 2015"
+    },
+    {
+      "highlight": "-49%",
+      "text": "America reported a significant fall (-49%), while EMEA remained stable and APAC activity grew by +11%"
+    },
+    {
+      "highlight": "11%",
+      "text": "Overall PE contribution to the global M&A declined slightly to 11%, far from 2006-07 high of ~20%"
+    },
+    {
+      "highlight": "-57%",
+      "text": "Hostile M&A deals fell significantly to $262 bn (-57% vs. 2015) back to the post recession levels"
+    },
+    {
+      "highlight": "4.3 Bn",
+      "text": "Average deal value fell to ~4.3 Bn, almost becoming half of 2015 level"
+    },
+    {
+      "highlight": "-9%",
+      "text": "Number of hostile deals slightly fell (-9%) indicating lower number of mega-hostile deals"
+    },
+    {
+      "highlight": "more relevant",
+      "text": "The incidence of withdrawn deals on hostile deals is more relevant"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data comparison and trend analysis",
+  "data_points": [
+    "PE activity decrease: -31%",
+    "America fall: -49%",
+    "APAC growth: +11%",
+    "Global M&A contribution: 11%",
+    "Hostile deals value: $262 bn",
+    "Deal value: ~4.3 Bn",
+    "Hostile deals decrease: -9%"
+  ],
+  "cta": null,
+  "layout": "Text and infographic",
+  "layout_type": "Split",
+  "content_zones": {
+    "left": "Textual insights on PE and hostile deals",
+    "right": "Infographic with handshake illustration"
+  },
+  "visual_elements": [
+    {
+      "type": "illustration",
+      "label": "Handshake globe",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numerical and trend highlights"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "#00A0E3",
+    "accent": "#FF9933",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

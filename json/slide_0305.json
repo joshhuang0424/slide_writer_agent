@@ -1,0 +1,145 @@
+{
+  "slide_id": "6",
+  "section": "Data & Analytics",
+  "purpose": "To showcase Mastercard's data assets and analytical capabilities.",
+  "narrative_role": "Informative",
+  "title": "Mastercard Data Assets and Capabilities",
+  "bullets": [
+    {
+      "highlight": "Machine Learning/AI workbench",
+      "text": "Tool that allows data scientists to seamlessly build and deploy machine learning solutions at scale."
+    },
+    {
+      "highlight": "Linkage/Matching",
+      "text": "Analytical methodologies that facilitate linkage of 3rd party data sources or various transaction granularities."
+    },
+    {
+      "highlight": "Feature Engineering",
+      "text": "Analytical approach that identifies complex patterns in transaction data for descriptive, predictive, and prescriptive analytics."
+    },
+    {
+      "highlight": "Residential Zip Code",
+      "text": "Analytical approach that estimates where a cardholder resides based on their daily activities."
+    },
+    {
+      "highlight": "Geospatial Functions",
+      "text": "Analytical approach that can filter, extract, aggregate and classify transaction/merchant data utilizing spatial data formats."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlighting capabilities with practical applications.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic",
+  "layout_type": "Informative",
+  "content_zones": {
+    "left": "Infographic on Mastercard primary data elements",
+    "right": "List of capabilities with descriptions"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Mastercard Primary Data Elements",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Highlight key capabilities"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "14pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Transaction Message"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Mastercard Primary Data Elements",
+      "description": "Illustrates the flow and elements of transaction messages.",
+      "headers": [
+        "Date & Time",
+        "Anonymized Acct #",
+        "Card Type",
+        "Merchant Location",
+        "MCC Code",
+        "Channel",
+        "Transaction Type",
+        "Transaction Flag",
+        "Transaction Amount"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Insights into days of week and time of purchase",
+            "Modeled Cardholders’ City and ZIP",
+            "Consumer Credit, Consumer Debit, Commercial Credit, Commercial Debit, Prepaid",
+            "Name of the Merchant, Full address of the merchant, Lat & Long",
+            "Merchant Industry",
+            "Online vs. Brick & Mortar",
+            "Purchase, Return, Cash Withdrawal, etc.",
+            "Domestic vs. International Transaction",
+            "$ Amount"
+          ]
+        },
+        {
+          "row_label": "Chargeback",
+          "cells": [
+            "First Chargeback, Representation, Arbitration Details"
+          ]
+        },
+        {
+          "row_label": "Fraud",
+          "cells": [
+            "Fraud Loss (Amongst Approved Transactions) – Available with a lag (1-3 months)"
+          ]
+        },
+        {
+          "row_label": "Decline Reason",
+          "cells": [
+            "Decline reasons: Do not Honor, Insufficient Funds"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No specific data points or supporting facts were explicitly mentioned."
+}

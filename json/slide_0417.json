@@ -1,0 +1,86 @@
+{
+  "slide_id": "8",
+  "section": "Interchange Fees",
+  "purpose": "Explain the flow of interchange fees in a transaction",
+  "narrative_role": "Illustrative",
+  "title": "Interchange fees are income that issuers make on transaction volume",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustration of transaction flow",
+  "data_points": [
+    "$100",
+    "$2",
+    "$98",
+    "2%"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "Issuer and Customer",
+    "right": "Merchant's Bank and Merchant"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Customer pays issuer $100",
+      "position": "bottom-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Issuer pays Merchant's bank $100 - $2 = $98",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Merchant receives $98",
+      "position": "right"
+    },
+    {
+      "type": "rectangle",
+      "label": "Example: Interchange of 2%",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight transaction values"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#FF5733",
+    "accent": "#FFC300",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or tables present; infographic elements dominate the slide content"
+  }
+}

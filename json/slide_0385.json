@@ -1,0 +1,154 @@
+{
+  "slide_id": "4",
+  "section": "資訊安全",
+  "purpose": "提供數據分析環境選項的建議",
+  "narrative_role": "說明",
+  "title": "資訊安全 | 奇異果團隊可派分析經理至椰子辦公室，用椰子的電腦在離線情況下協助客群分析，建議環境如下",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "比較不同數據分析環境的需求",
+  "data_points": [],
+  "cta": null,
+  "layout": "table-based",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "white",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "數據分析環境選項",
+      "description": "比較Python & Jupyter, SQLite, Microsoft SQL Server 2017 Express的需求和特點",
+      "headers": [
+        "數據分析環境選項",
+        "Python & Jupyter",
+        "SQLite (首選)",
+        "Microsoft SQL Server 2017 Express"
+      ],
+      "rows": [
+        {
+          "row_label": "主要應用",
+          "cells": [
+            "資料分析\n客群貼標\n儀錶板設計與製作",
+            "資料分析\n客群貼標"
+          ]
+        },
+        {
+          "row_label": "介紹",
+          "cells": [
+            "Python是免費開源可商用的數據分析程式語言；Jupyter是一個非營利性的開源專案，主要是提供程式語言的互動式計算，可直接於Python環境進行安裝",
+            "SQLite是一個精簡版且免費可商用的地方SQL資料庫管理系統，可以協助處理大型資料運作",
+            "微軟推出的資料庫處理軟體，免費版可以分析達10GB資料量，標準版約1000美元"
+          ]
+        },
+        {
+          "row_label": "操作時是否需要聯網",
+          "cells": [
+            "不需要",
+            "不需要",
+            "不需要"
+          ]
+        },
+        {
+          "row_label": "推薦系統要求",
+          "cells": [
+            "",
+            "Windows 8以上",
+            "Windows 8以上"
+          ]
+        },
+        {
+          "row_label": "作業系統要求 (Windows)",
+          "cells": [
+            "Windows 8以上",
+            "Windows 8以上",
+            "Windows 8以上"
+          ]
+        },
+        {
+          "row_label": "作業系統要求 (Mac)",
+          "cells": [
+            "64-bit macOS 10.13+",
+            "64-bit macOS 10.13+",
+            "64-bit macOS 10.13+"
+          ]
+        },
+        {
+          "row_label": "磁碟空間",
+          "cells": [
+            "最少需要3GB的空間",
+            "最少需要0.5GB的空間",
+            "最少需要6GB的空間"
+          ]
+        },
+        {
+          "row_label": "記憶體",
+          "cells": [
+            "4GB記憶體運作較為順暢；最少需要2GB",
+            "免費版建議1GB以上\n標準版建議4GB以上"
+          ]
+        },
+        {
+          "row_label": "建議安裝方式",
+          "cells": [
+            "由Costco同事到官方網站下載，以符合椰子內部規範的方式將軟體移動到該離線電腦上安裝\n1. 可先將該電腦聯網，下載後再聯網\n2. 可用椰子內網傳輸\n3. 可用椰子行動硬碟軟體\n4. 燒錄至DVD後安裝"
+          ]
+        },
+        {
+          "row_label": "參考連結",
+          "cells": [
+            "Welcome to Python.org\nProject Jupyter | Home",
+            "SQLite Home Page\nMS SQL說明\nMS SQL軟體要求"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "頁面中沒有金字塔圖形，故 infographics 留空"
+  }
+}

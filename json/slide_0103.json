@@ -1,0 +1,95 @@
+{
+  "slide_id": "29",
+  "section": "Consumer Behavior",
+  "purpose": "To present data on the increasing importance of direct vehicle access and willingness to expand its use among younger consumers.",
+  "narrative_role": "Data Presentation",
+  "title": "Increased importance of direct vehicle access and willingness to expand this to new use cases, especially for younger consumers",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of age groups regarding vehicle usage and willingness to expand use cases.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column chart layout",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left_chart": "Importance of constant access to a private vehicle",
+    "right_chart": "Willingness to expand private vehicles to new use cases"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for titles, regular for descriptions"
+  },
+  "design_language": "Professional, Data-centric",
+  "color_scheme": {
+    "primary": "Dark Blue",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "Bar",
+    "title": "",
+    "x_axis_label": "By age",
+    "y_axis": [
+      "Percent"
+    ],
+    "values": [
+      {
+        "age_group": "18-34",
+        "increased": 36,
+        "decreased": -16
+      },
+      {
+        "age_group": "35-54",
+        "increased": 24,
+        "decreased": -14
+      },
+      {
+        "age_group": "55-70",
+        "increased": 21,
+        "decreased": -13
+      },
+      {
+        "age_group": "18-34",
+        "yes": 51,
+        "no": -22
+      },
+      {
+        "age_group": "35-54",
+        "yes": 43,
+        "no": -27
+      },
+      {
+        "age_group": "55-70",
+        "yes": 29,
+        "no": -37
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "The slide does not contain bullet points or additional narrative text for supporting facts."
+}

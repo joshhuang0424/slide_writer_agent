@@ -1,0 +1,64 @@
+{
+  "slide_id": "3",
+  "section": "LCM Leading Practices",
+  "purpose": "Introduce the concept of Cross-Lifecycle Areas",
+  "narrative_role": "Title Slide",
+  "title": "Cross-Lifecycle Areas",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "title",
+  "content_zones": {
+    "left": "text",
+    "right": "design"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "number"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "dark"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No detailed font size for body text and no additional data or charts present in the slide."
+  }
+}

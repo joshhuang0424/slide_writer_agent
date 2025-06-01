@@ -1,0 +1,123 @@
+{
+  "slide_id": "27",
+  "section": "市場概況",
+  "purpose": "介紹台灣市場的數位化信用卡現況及專案重點。",
+  "narrative_role": "背景介紹",
+  "title": "台灣市場已有部份銀行發行數位化信用卡",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "雙欄式",
+  "layout_type": "圖表與文字並列",
+  "content_zones": {
+    "left": "圖表",
+    "right": "專案重點文字"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "紅色強調數位化信用卡相關詞彙"
+  },
+  "design_language": "商業簡報",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Noto Sans TC",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Noto Sans TC",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "scatter plot",
+    "title": "台灣市場的數位化信用卡總覽",
+    "x_axis_label": "核卡速度",
+    "y_axis": [
+      "消費綁卡"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "不同銀行數位化信用卡產品及綁卡方式",
+      "headers": [
+        "核卡速度",
+        "消費綁卡"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "立即綁卡",
+            "UBear 快速核卡\n一鍵綁定玉山Wallet"
+          ],
+          "row_label": ""
+        },
+        {
+          "cells": [
+            "立即綁卡",
+            "蝦皮卡快速核卡\n立即綁定蝦皮APP"
+          ],
+          "row_label": ""
+        },
+        {
+          "cells": [
+            "立即綁卡",
+            "MOMO卡快速核卡\n立即綁定MOMO APP"
+          ],
+          "row_label": ""
+        },
+        {
+          "cells": [
+            "手動綁定",
+            "僅發行實體卡\n手動綁定APP"
+          ],
+          "row_label": ""
+        },
+        {
+          "cells": [
+            "手動綁定",
+            "@GOGO卡可僅申辦虛擬卡"
+          ],
+          "row_label": ""
+        },
+        {
+          "cells": [
+            "手動綁定",
+            "現金回饋卡可僅申辦虛擬卡"
+          ],
+          "row_label": ""
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "無法得知精確的數據點和圖表數值。"
+  }
+}

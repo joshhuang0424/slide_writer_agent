@@ -1,0 +1,114 @@
+{
+  "slide_id": "3",
+  "section": "Gender Gap in Data Science",
+  "purpose": "Highlight the gender gap in the STEM field and its implications.",
+  "narrative_role": "Informative",
+  "title": "Data science struggles with a massive gender gap: Risk for competitiveness and quality of AI",
+  "bullets": [
+    {
+      "highlight": "extremely high demand",
+      "text": "Data scientists are in extremely high demand across industries, with companies striving to harness the transformative potential of AI"
+    },
+    {
+      "highlight": "critical factor",
+      "text": "Diversity is a critical factor in this rapid growth"
+    },
+    {
+      "highlight": "only make up 15% to 22%",
+      "text": "But data science still struggles with a massive diversity problem—women only make up 15% to 22% of data science professionals"
+    },
+    {
+      "highlight": "Significant gap",
+      "text": "Significant gap between women trained in STEM/data science and women working in data science"
+    },
+    {
+      "highlight": "At risk",
+      "text": "At risk: Slow growth, competitive disadvantage, biased AI"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight disparities and potential risks associated with gender gap in STEM.",
+  "data_points": [
+    "Share of women at each stage of the STEM talent funnel (in %): ~55% university graduates, ~35% STEM degrees, ~25% STEM workforce, ~15-22% data science professionals"
+  ],
+  "cta": null,
+  "layout": "two-column with infographic",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Infographic showing decreasing percentage of women",
+    "right": "Bullet points highlighting issues and implications"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Women make up ...",
+      "position": "left",
+      "details": [
+        {
+          "type": "polygon",
+          "label": "~ 55 of university graduates",
+          "position": "left"
+        },
+        {
+          "type": "polygon",
+          "label": "~ 35 of STEM degrees",
+          "position": "center-left"
+        },
+        {
+          "type": "polygon",
+          "label": "~ 25 of STEM workforce",
+          "position": "center-right"
+        },
+        {
+          "type": "polygon",
+          "label": "~ 15-22 of data science professionals",
+          "position": "right"
+        }
+      ]
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold and color to highlight key statistics and issues"
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "infographic",
+    "title": "Share of women at each stage of the STEM talent funnel",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      "~55",
+      "~35",
+      "~25",
+      "~15-22"
+    ],
+    "annotations": [],
+    "source": "World Economic Forum Global Gender Gap Report 2018, BCG research"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional supporting facts or annotations provided in image."
+  }
+}

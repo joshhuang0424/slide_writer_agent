@@ -1,0 +1,60 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To highlight the changing market landscape and opportunities for new tech players.",
+  "narrative_role": "Context Setting",
+  "title": "Transforming Market Landscape",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Observation",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text-image",
+  "content_zones": {
+    "left": "text",
+    "right": "image"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Modern",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "green",
+    "background": "green"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

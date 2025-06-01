@@ -1,0 +1,100 @@
+{
+  "slide_id": "6",
+  "section": "Challenges",
+  "purpose": "Identify key challenges banks face with cloud technology",
+  "narrative_role": "Highlighting",
+  "title": "Unique challenges related to cloud faced by banks",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Customer-acquisition cost and timing of value generation from new customers"
+    },
+    {
+      "highlight": false,
+      "text": "Regulatory and cybersecurity constraints"
+    },
+    {
+      "highlight": false,
+      "text": "Large technology debt"
+    },
+    {
+      "highlight": false,
+      "text": "Archaic development and operational processes"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "icon-bullet",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center",
+    "visual_elements": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Customer acquisition",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Regulatory constraints",
+      "position": "center-left"
+    },
+    {
+      "type": "icon",
+      "label": "Technology debt",
+      "position": "center-right"
+    },
+    {
+      "type": "icon",
+      "label": "Archaic processes",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

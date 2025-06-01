@@ -1,0 +1,142 @@
+{
+  "slide_id": "83",
+  "section": "Financial Analysis",
+  "purpose": "To demonstrate how iTSR uses financial metrics to predict shareholder value increase",
+  "narrative_role": "Illustrative",
+  "title": "iTSR Inputs and Predictions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Inductive reasoning based on financial projections",
+  "data_points": [
+    "Operating income",
+    "Predicted operating income multiple",
+    "Predicted equity value",
+    "Free cash flow"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Text explanation of iTSR methodology",
+    "right": "Table showing financial inputs and calculations"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Increase",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "10%",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "5%",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "15%",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numeric highlights in circles"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "iTSR Inputs",
+      "description": "Financial metrics used to calculate iTSR",
+      "headers": [
+        "iTSR inputs",
+        "Current",
+        "Year 1"
+      ],
+      "rows": [
+        {
+          "row_label": "Operating income",
+          "cells": [
+            "Based on company/business unit projections",
+            "100M$",
+            "110M$"
+          ]
+        },
+        {
+          "row_label": "Predicted operating income multiple",
+          "cells": [
+            "Based on regression model",
+            "10x",
+            "10x"
+          ]
+        },
+        {
+          "row_label": "Predicted equity value",
+          "cells": [
+            "",
+            "1000M$",
+            "1100M$"
+          ]
+        },
+        {
+          "row_label": "Free cash flow",
+          "cells": [
+            "Operating income-CAPEX+D&A±R-change in working capital",
+            "40M$",
+            "50M$"
+          ]
+        },
+        {
+          "row_label": "iTSR",
+          "cells": [
+            ""
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No explicit pyramid infographic detected, although financial metrics suggest a tiered analysis."
+  }
+}

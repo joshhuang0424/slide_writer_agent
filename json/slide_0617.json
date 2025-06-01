@@ -1,0 +1,140 @@
+{
+  "slide_id": "17",
+  "section": "ONBOARDING – ACTIVITIES IMPACTS",
+  "purpose": "To emphasize the importance of making marketing investments when cardholders are most responsive.",
+  "narrative_role": "Informative",
+  "title": "A disproportionate amount of marketing investment should be made upfront when cardholders are most responsive",
+  "bullets": [],
+  "supporting_facts": [
+    "A disproportionate amount of funds should be invested in the first 6 months of the cardholder lifecycle.",
+    "This is the period of greatest cardholder responsiveness where issuer has the best opportunity to increase engagement and brand preference."
+  ],
+  "reasoning_strategy": "Highlighting investment timing and responsiveness correlation.",
+  "data_points": [
+    "Investment 0-6 MOB: 60% - 70%",
+    "Investment 7-12 MOB: 30% - 40%",
+    "3-6 months inactivity: Decreases by 33%",
+    "6-9 months inactivity: Decreases by 50%",
+    "9-12 months inactivity: Decreases by 75%"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with tables and text blocks",
+  "layout_type": "Informative",
+  "content_zones": {
+    "left": "Investment details and rationale",
+    "right": "Re-engaging inactive cardholders"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for key points"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Impact of investment",
+      "description": "Investment stages and responsiveness",
+      "headers": [
+        "Cardholder Lifecycle Stage",
+        "0 – 6 MOB",
+        "7 –12 MOB"
+      ],
+      "rows": [
+        {
+          "row_label": "Investment per cardholder",
+          "cells": [
+            "60% – 70%",
+            "30% – 40%"
+          ]
+        },
+        {
+          "row_label": "Responsiveness to campaigns",
+          "cells": [
+            "Very responsive, optimal target state",
+            "Less responsive"
+          ]
+        }
+      ],
+      "position": "top",
+      "render_style": ""
+    },
+    {
+      "title": "Re-engaging inactive cardholders",
+      "description": "Impact of inactivity on engagement",
+      "headers": [
+        "Timing of Inactivity",
+        "Ability to Engage"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "3 – 6 months",
+            "Decreases by 33%"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "6 – 9 months",
+            "Decreases by 50%"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "9 – 12 months",
+            "Decreases by 75%"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid levels were visually detected on this slide."
+  }
+}

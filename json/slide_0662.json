@@ -1,0 +1,63 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Highlight upcoming trends in the automotive industry",
+  "narrative_role": "Introduction",
+  "title": "Three major trends",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Future projection",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text-image",
+  "content_zones": {
+    "left": "text",
+    "right": "image"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Headline emphasis"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "multicolor"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "36px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "body_font_size": "Text size for body is not specified in the slide."
+  }
+}

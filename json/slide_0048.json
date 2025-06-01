@@ -1,0 +1,91 @@
+{
+  "slide_id": "5",
+  "section": "COVID-19 Impact",
+  "purpose": "Highlight the challenges faced by Asian Americans during the COVID-19 crisis.",
+  "narrative_role": "Informative",
+  "title": "During the COVID-19 crisis, Asian Americans have experienced a double hit of discrimination and economic downturn",
+  "bullets": [
+    {
+      "highlight": "39%",
+      "text": "Increase in mental health support texts from Asian Americans, according to Crisis Text Line in first quarter of 2020"
+    },
+    {
+      "highlight": "4.5x",
+      "text": "Increase in Asian American unemployment since February—the highest increase among all groups"
+    },
+    {
+      "highlight": "75%",
+      "text": "Asian American-owned small businesses likely had no access to PPP funds due to lack of existing banking relationships"
+    }
+  ],
+  "supporting_facts": [
+    "Source: US Bureau of Labor Statistics; Forbes.com"
+  ],
+  "reasoning_strategy": "Statistics and anecdotal evidence",
+  "data_points": [
+    "39% increase in mental health support texts",
+    "4.5x increase in unemployment",
+    "75% businesses lacked access to PPP"
+  ],
+  "cta": null,
+  "layout": "Standard with emphasis on statistics",
+  "layout_type": "Informative",
+  "content_zones": {
+    "header": "top",
+    "bullets": "center",
+    "quote": "bottom right",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "quote",
+      "label": "One day a customer walked in and asked one of our non-Asian employees if he had COVID-19. When asked why, the customer pointed at one of our Asian employees and said, 'Because you work with him.' It stings.",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid infographic or chart detected on the slide."
+  }
+}

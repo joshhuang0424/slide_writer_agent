@@ -1,0 +1,82 @@
+{
+  "slide_id": "1",
+  "section": "信用卡中心業務重點",
+  "purpose": "介紹信用卡業務在2022年的發展重點",
+  "narrative_role": "說明",
+  "title": "信用卡中心業務重點：作為三大戰略性零售業務之一，信用卡業務將在2022年圍繞年輕消費型優質客群和實動客群持續挖掘新增長功能，同時加速科技化、智能化賦能",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "以時間軸方式描述業務發展目標與策略",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal split",
+  "layout_type": "timeline",
+  "content_zones": {
+    "left": "年表及發展重點",
+    "right": "重點客群"
+  },
+  "visual_elements": [
+    {
+      "type": "timeline",
+      "label": "2021",
+      "position": "left"
+    },
+    {
+      "type": "timeline",
+      "label": "2022",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "加粗標題"
+  },
+  "design_language": "企業風格",
+  "color_scheme": {
+    "primary": "黑色",
+    "accent": "橙色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "未知",
+      "size": "大",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "未知",
+      "size": "中"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "unknown"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "圖片中的資訊偏重描述和時間軸呈現，未涉及具體數據或圖表等元素。",
+    "highlighted_text": [
+      "客戶結構優化",
+      "分期產品優化",
+      "資產質量優化",
+      "圍繞年輕、實動兩大客群，提高客戶價值貢獻",
+      "提升科技賦能，加速智能化進程"
+    ]
+  }
+}

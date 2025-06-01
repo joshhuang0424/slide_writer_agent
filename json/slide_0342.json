@@ -1,0 +1,104 @@
+{
+  "slide_id": "43",
+  "section": "Acquisition & Lifecycle",
+  "purpose": "Showcase best practices for customer engagement",
+  "narrative_role": "Informative",
+  "title": "Fuel Provider Use Case: Best customer engagement",
+  "bullets": [
+    {
+      "highlight": "Situation",
+      "text": "Client was launching several initiatives; a new fuel line, mobile app, and renewed focus on enriching the customer experience."
+    },
+    {
+      "highlight": "Situation",
+      "text": "Client was looking for a partner to promote these initiatives at multiple touchpoints over the year, particularly as it related to engaging customers with a high propensity to purchase premium fuel products."
+    },
+    {
+      "highlight": "Approach",
+      "text": "Developed a one-stop solution for targeting and engaging consumers, developing and executing a series of consumer marketing / engagement campaigns, and measuring their performance."
+    },
+    {
+      "highlight": "Approach",
+      "text": "Leveraged Mastercard transaction data to identify the top FSAs in Canada with the ideal customer profile: those who over-index on premium fuel purchases, have high household income, and are within reach of one of the client’s fuel locations."
+    },
+    {
+      "highlight": "Approach",
+      "text": "Designed and executed a card-linked cashback offer to target the top FSAs."
+    },
+    {
+      "highlight": "Approach",
+      "text": "Hosted a series of Priceless Dinners to engage “the best” customers."
+    },
+    {
+      "highlight": "Path Forward",
+      "text": "5 campaigns were executed, each testing unique combinations of offer constructs and target segments."
+    },
+    {
+      "highlight": "Path Forward",
+      "text": "Learnings from each campaign analysis fed into subsequent campaigns and helped the client create a baseline going forward."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use case demonstration with practical examples.",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-part narrative with key highlights",
+  "layout_type": "text-focused",
+  "content_zones": {
+    "Situation": "top",
+    "Approach": "middle",
+    "Path Forward": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Acquisition & Lifecycle",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 8,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "bold font for key terms"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font information is not explicitly stated in the slide."
+  }
+}

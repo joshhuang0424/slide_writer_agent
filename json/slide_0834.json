@@ -1,0 +1,101 @@
+{
+  "slide_id": "6",
+  "section": "Opportunities",
+  "purpose": "Identify potential opportunities from differentiated installment pricing.",
+  "narrative_role": "Problem and Opportunity Analysis",
+  "title": "分期利率差異化定價的潛在機會點",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Contrast key business issues with potential optimization opportunities.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": {
+      "title": "重要商业问题",
+      "bullets": [
+        {
+          "highlight": "如何",
+          "text": "设计分期利率折扣机制？该给何类客群较深的折扣？"
+        },
+        {
+          "highlight": "给予",
+          "text": "原本就会申请分期客群额外折扣，是否反而会降低总分期收益？"
+        },
+        {
+          "highlight": "如何衡量",
+          "text": "给予较深折扣后带来的坏账风险？"
+        }
+      ]
+    },
+    "right": {
+      "title": "潜在优化机会点",
+      "bullets": [
+        {
+          "highlight": "找出",
+          "text": "对分期价格敏感客群客户画像，给予较深折扣，提升办理分期响应率，增加分期收益"
+        },
+        {
+          "highlight": "找出",
+          "text": "对分期价格不敏感客群客户画像，不主动给予利率折扣，在大致维持响应率的情况下，增加分期收益"
+        },
+        {
+          "highlight": "找出",
+          "text": "同一个客户在收到不同分期利率折扣预期收益。对每一客户推荐最适分期利率，最大化整体收益"
+        }
+      ]
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for key terms"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or table present; infographic not detected."
+  }
+}

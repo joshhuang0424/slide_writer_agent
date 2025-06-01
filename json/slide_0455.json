@@ -1,0 +1,89 @@
+{
+  "slide_id": "4",
+  "section": "Customer Experience",
+  "purpose": "Explain the concept of customer experience management",
+  "narrative_role": "Informative",
+  "title": "What is customer experience management?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Hierarchical explanation",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic with text",
+  "layout_type": "left-text-right-infographic",
+  "content_zones": {
+    "left_text": {
+      "position": "left",
+      "content": [
+        "Designing and operating a business that makes decisions centered on an understanding of its customers’ needs and wants (across all channels and products), creating greater economic value from those customers",
+        "Always holistic – Usually enterprise, or at least a discrete line of business",
+        "Designing and reacting to customer interactions to meet or exceed customer expectations and thus increase customer satisfaction, loyalty and advocacy",
+        "Often limited to a function or product",
+        "Designing products to meet the expectations of a user"
+      ]
+    },
+    "right_infographic": {
+      "position": "right",
+      "content": "Concentric circles labeled CEM, CX, UX"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key phrases"
+  },
+  "design_language": "Corporate, minimalistic",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "CEM\nCustomer Experience Management"
+      },
+      {
+        "id": "L1",
+        "label": "CX\nCustomer Experience"
+      },
+      {
+        "id": "L2",
+        "label": "UX\nUser Experience"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or specific data points provided; infographic is a conceptual diagram not a chart."
+  }
+}

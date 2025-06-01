@@ -1,0 +1,112 @@
+{
+  "slide_id": "5",
+  "section": "Mobility Spending Analysis",
+  "purpose": "To compare monthly mobility spending in different regions relative to 2019 levels.",
+  "narrative_role": "Informative",
+  "title": "Monthly mobility spending vs. 2019 levels differs considerably across regions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison across regions and time periods.",
+  "data_points": [],
+  "cta": null,
+  "layout": "title and chart",
+  "layout_type": "3-column",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source_note": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Private bike/scooter",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Shared mobility",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Private car",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Public transit",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "light green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "Time Period",
+    "y_axis": [
+      "US",
+      "EU",
+      "China"
+    ],
+    "values": [
+      {
+        "region": "US",
+        "pre_covid": 100,
+        "lockdown": 53,
+        "aug_20": 58,
+        "aug_21": 87
+      },
+      {
+        "region": "EU",
+        "pre_covid": 100,
+        "lockdown": 51,
+        "aug_20": 75,
+        "aug_21": 98
+      },
+      {
+        "region": "China",
+        "pre_covid": 100,
+        "lockdown": 38,
+        "aug_20": 92,
+        "aug_21": 108
+      }
+    ],
+    "annotations": [
+      "-13%",
+      "-2%",
+      "+8%"
+    ],
+    "source": "BCG Urban Mobility Surveys, April and August 2020."
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "slide_id": "6",
+  "section": "Impact of Technology and Work Trends",
+  "purpose": "To highlight the disproportionate impact of technology and work trends on Black workers.",
+  "narrative_role": "Informative",
+  "title": "The disproportionate impact of technology and future of work trends on Black workers",
+  "bullets": [
+    {
+      "highlight": "COVID-19 pandemic",
+      "text": "has affected Black workers, who are likely to work in high-contact, essential services, such as"
+    },
+    {
+      "highlight": null,
+      "text": "Psychiatric aides"
+    },
+    {
+      "highlight": null,
+      "text": "Orderlies"
+    },
+    {
+      "highlight": null,
+      "text": "Nursing assistants"
+    },
+    {
+      "highlight": null,
+      "text": "Cooks and restaurant workers"
+    },
+    {
+      "highlight": null,
+      "text": "Pharmacy aides"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of job growth projections and workforce composition",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Charts showing projected employment growth and workforce composition",
+    "right": "Textual explanation of COVID-19 impact"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and color for emphasis"
+  },
+  "design_language": "Clean and professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "Dark Blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "Bar and Circle",
+    "title": "Projected Employment Growth and Workforce Composition",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "category": "Health aides, technicians, and wellness",
+        "value": 36
+      },
+      {
+        "category": "Health professionals",
+        "value": 32
+      },
+      {
+        "category": "STEM professionals",
+        "value": 24
+      },
+      {
+        "category": "Food service",
+        "value": -5
+      },
+      {
+        "category": "Production work and machine operations",
+        "value": -6
+      },
+      {
+        "category": "Office support",
+        "value": -17
+      }
+    ],
+    "annotations": [],
+    "source": "Bureau of Labor Statistics Occupational Employment Statistics, 2019; US Census Bureau American Community Survey, 2019; Moody’s Analytics; The future of work in America: People and places, today and tomorrow; The future of work after COVID-19"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Health aides, technicians, and wellness"
+      },
+      {
+        "id": "L1",
+        "label": "Health professionals"
+      },
+      {
+        "id": "L2",
+        "label": "STEM professionals"
+      },
+      {
+        "id": "L3",
+        "label": "Food service"
+      },
+      {
+        "id": "L4",
+        "label": "Production work and machine operations"
+      },
+      {
+        "id": "L5",
+        "label": "Office support"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Table showing Black private-sector workforce composition",
+      "headers": [
+        "Category",
+        "Workforce (millions)"
+      ],
+      "rows": [
+        {
+          "row_label": "Health aides, technicians, and wellness",
+          "cells": [
+            "1.9"
+          ]
+        },
+        {
+          "row_label": "Health professionals",
+          "cells": [
+            "0.8"
+          ]
+        },
+        {
+          "row_label": "STEM professionals",
+          "cells": [
+            "0.5"
+          ]
+        },
+        {
+          "row_label": "Food service",
+          "cells": [
+            "1.7"
+          ]
+        },
+        {
+          "row_label": "Production work and machine operations",
+          "cells": [
+            "1.1"
+          ]
+        },
+        {
+          "row_label": "Office support",
+          "cells": [
+            "2.1"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": []
+  }
+}

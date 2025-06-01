@@ -1,0 +1,105 @@
+{
+  "slide_id": "29",
+  "section": "Case Study",
+  "purpose": "To present solutions for stimulating EMOB portfolio usage.",
+  "narrative_role": "Solution Presentation",
+  "title": "Case Study: Co-Brand Portfolio EMOB Stimulation Program",
+  "bullets": [
+    {
+      "highlight": "1.",
+      "text": "Using Mastercard’s Spend data, deploy machine learning techniques to identify areas of spend (merchants and industries) in the first 3 months of card’s tenure that have biggest effect on long term spend."
+    },
+    {
+      "highlight": "2.",
+      "text": "Summarize findings from the modeling into actionable EMOB marketing stimulation strategy"
+    },
+    {
+      "highlight": "3.",
+      "text": "Market Basket Analysis for Offer Recommendation"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data analysis and machine learning to enhance marketing strategies.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two columns with text and charts",
+  "layout_type": "Text and Chart",
+  "content_zones": {
+    "left": "Background, Client Problem Statement, Executed Solutions",
+    "right": "Charts depicting machine learning approach and treatment strategy"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 25,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional with emphasis on data-driven solutions",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar and line graph",
+    "title": "Top EMOB trigger treatment strategy",
+    "x_axis_label": "Categories",
+    "y_axis": [
+      "Total Pre-Spend",
+      "Total Post-Spend",
+      "Composite Index"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Machine Learning iterative approach to find optimal EMOB stimulation behaviors",
+      "description": "Depicts the trigger analysis and spend path analysis.",
+      "headers": [
+        "Step",
+        "Description"
+      ],
+      "rows": [
+        {
+          "row_label": "Step 1",
+          "cells": [
+            "Category Trigger Analysis to prioritize industry-specific offers"
+          ],
+          "pyramid_level": ""
+        },
+        {
+          "row_label": "Step 2",
+          "cells": [
+            "Spend Path Analysis to maintain engagement and spend growth"
+          ],
+          "pyramid_level": ""
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

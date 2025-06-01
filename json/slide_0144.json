@@ -1,0 +1,151 @@
+{
+  "slide_id": "6",
+  "section": "Challenges Analysis",
+  "purpose": "To present the relative likelihood of challenges faced by different groups during COVID-19.",
+  "narrative_role": "Informative",
+  "title": "Challenges at every turn",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column comparison",
+  "layout_type": "table-based",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for headings"
+  },
+  "design_language": "corporate, data-driven",
+  "color_scheme": {
+    "primary": "#1B1F23",
+    "accent": "#FF6F61",
+    "background": "#1B1F23"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "28px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Relative likelihood of challenges",
+      "description": "Comparison of challenges faced by different groups.",
+      "headers": [
+        "",
+        "Women vs. men",
+        "LGBTQ+ vs. straight",
+        "POC vs. white"
+      ],
+      "rows": [
+        {
+          "row_label": "Healthy & safe onsite workplace",
+          "cells": [
+            "1.2",
+            "1.0",
+            "1.3"
+          ]
+        },
+        {
+          "row_label": "Mental health",
+          "cells": [
+            "1.5",
+            "1.2",
+            "1.1"
+          ]
+        },
+        {
+          "row_label": "Connectivity & belonging",
+          "cells": [
+            "1.2",
+            "1.3",
+            "1.1"
+          ]
+        },
+        {
+          "row_label": "Workload increases",
+          "cells": [
+            "1.2",
+            "1.4",
+            "1.1"
+          ]
+        },
+        {
+          "row_label": "Growth & progress opportunities",
+          "cells": [
+            "1.0",
+            "1.2",
+            "1.4"
+          ]
+        },
+        {
+          "row_label": "Household responsibilities",
+          "cells": [
+            "1.5",
+            "1.2",
+            "1.5"
+          ]
+        },
+        {
+          "row_label": "Fair performance evaluation",
+          "cells": [
+            "1.2",
+            "1.4",
+            "1.0"
+          ]
+        },
+        {
+          "row_label": "Job insecurity",
+          "cells": [
+            "1.1",
+            "1.2",
+            "1.1"
+          ]
+        },
+        {
+          "row_label": "Physical health",
+          "cells": [
+            "1.2",
+            "1.1",
+            "1.1"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "colored gradient"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional infographics are present. All critical data is covered in the table."
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "slide_id": "11",
+  "section": "Sign-up bonus campaigns",
+  "purpose": "To improve online acquisition and drive long-term cross-border spend",
+  "narrative_role": "informative",
+  "title": "Sign-up bonus campaigns: improve online acquisition & drive long-term cross-border spend",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Encourage online first purchase to increase long-term spend",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with visual elements",
+  "layout_type": "text and tables",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Customers who make their first purchase online (35%)",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Customers who make their first purchase offline (65%)",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "grey",
+    "background": "light peach"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "1st year spend forecast",
+      "description": "Comparison of spend for online vs offline first purchase",
+      "headers": [
+        "Bank World Mastercard Top 12 merchants for online first purchase",
+        "Recommendation (tentative)"
+      ],
+      "rows": [
+        {
+          "row_label": "Bank Platinum",
+          "cells": [
+            "AMAZON",
+            "Mastercard campaign:$250 cashback with purchase of $1500"
+          ]
+        },
+        {
+          "row_label": "Benchmark Platinum",
+          "cells": [
+            "UBER",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DEPARTMENT OF IMMIGRATION AND BORDER PROTECTION",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "COSTA CRUISE LINES",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "AIRBNB",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "AGODA",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "THETRAINLINE",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "AIRASIA",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "BOOKING.COM",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "GOOGLE",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "NATIONAL EXPRESS",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "NORWEGIAN CRUISE LINE",
+            ""
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font and text size are not specified in the image."
+  }
+}

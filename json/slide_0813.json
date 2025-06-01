@@ -1,0 +1,174 @@
+{
+  "slide_id": "3",
+  "section": "Urban Mobility",
+  "purpose": "To show the rebound of urban mobility in Europe and China with modal share changes over time.",
+  "narrative_role": "Data Presentation",
+  "title": "Urban mobility use is rebounding faster in Europe and China",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of modal share changes across different regions and time periods.",
+  "data_points": [
+    "US: Pre-Covid 100%, 1st Lockdown -55%, Aug '20 -46%, Aug '21 -12%",
+    "EU: Pre-Covid 100%, 1st Lockdown -54%, Aug '20 -26%, Aug '21 +1%",
+    "China: Pre-Covid 100%, 1st Lockdown -66%, Aug '20 -14%, Aug '21 +10%"
+  ],
+  "cta": null,
+  "layout": "Three-column bar chart comparison",
+  "layout_type": "Comparison Chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold percentages"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "light green",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "Pre-Covid (Aug '19)",
+      "1st Lockdown",
+      "Aug '20",
+      "In 1 year (Aug '21)"
+    ],
+    "values": [
+      {
+        "region": "US",
+        "data": [
+          {
+            "Walking": "16%",
+            "Private bike/scooter": "39%",
+            "Shared mobility": "17%",
+            "Private car": "5%",
+            "Public transit": "23%"
+          },
+          {
+            "Walking": "8%",
+            "Private bike/scooter": "34%",
+            "Shared mobility": "20%",
+            "Private car": "7%",
+            "Public transit": "31%"
+          },
+          {
+            "Walking": "10%",
+            "Private bike/scooter": "38%",
+            "Shared mobility": "16%",
+            "Private car": "7%",
+            "Public transit": "29%"
+          },
+          {
+            "Walking": "14%",
+            "Private bike/scooter": "39%",
+            "Shared mobility": "15%",
+            "Private car": "6%",
+            "Public transit": "25%"
+          }
+        ]
+      },
+      {
+        "region": "EU",
+        "data": [
+          {
+            "Walking": "24%",
+            "Private bike/scooter": "27%",
+            "Shared mobility": "7%",
+            "Private car": "8%",
+            "Public transit": "34%"
+          },
+          {
+            "Walking": "11%",
+            "Private bike/scooter": "26%",
+            "Shared mobility": "13%",
+            "Private car": "6%",
+            "Public transit": "43%"
+          },
+          {
+            "Walking": "16%",
+            "Private bike/scooter": "28%",
+            "Shared mobility": "12%",
+            "Private car": "6%",
+            "Public transit": "39%"
+          },
+          {
+            "Walking": "20%",
+            "Private bike/scooter": "27%",
+            "Shared mobility": "7%",
+            "Private car": "11%",
+            "Public transit": "35%"
+          }
+        ]
+      },
+      {
+        "region": "China",
+        "data": [
+          {
+            "Walking": "20%",
+            "Private bike/scooter": "23%",
+            "Shared mobility": "29%",
+            "Private car": "7%",
+            "Public transit": "21%"
+          },
+          {
+            "Walking": "11%",
+            "Private bike/scooter": "28%",
+            "Shared mobility": "24%",
+            "Private car": "8%",
+            "Public transit": "29%"
+          },
+          {
+            "Walking": "18%",
+            "Private bike/scooter": "26%",
+            "Shared mobility": "21%",
+            "Private car": "8%",
+            "Public transit": "21%"
+          },
+          {
+            "Walking": "19%",
+            "Private bike/scooter": "25%",
+            "Shared mobility": "29%",
+            "Private car": "7%",
+            "Public transit": "20%"
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      "US: -55%, -46%, -12%",
+      "EU: -54%, -26%, +1%",
+      "China: -66%, -14%, +10%"
+    ],
+    "source": "BCG Urban Mobility Surveys, April and August 2020."
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid or additional infographic elements detected."
+  }
+}

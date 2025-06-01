@@ -1,0 +1,144 @@
+{
+  "slide_id": "3",
+  "section": "Financial Services",
+  "purpose": "To present the projected growth of digital platforms in financial services by 2024.",
+  "narrative_role": "Data presentation",
+  "title": "Digitization is accelerating in the US across nearly all channels and industry verticals for financial services",
+  "bullets": [
+    {
+      "highlight": "18%",
+      "text": "of consumer retail spend will be via digital platforms"
+    },
+    {
+      "highlight": "$230B",
+      "text": "of in-store payments via mobile wallets (in US)"
+    },
+    {
+      "highlight": "$507B",
+      "text": "in consumer transfers as P2P"
+    },
+    {
+      "highlight": "$1.1T",
+      "text": "in e-commerce sales"
+    },
+    {
+      "highlight": "307M",
+      "text": "shoppers will use digital channels to make purchases, comprising 90% of US population"
+    }
+  ],
+  "supporting_facts": [
+    "The Boston Consulting Group expects commerce digitization to accelerate in the US",
+    "This growth has been driven by rapid digitization at the POS and sustained growth in e-commerce and media consumption"
+  ],
+  "reasoning_strategy": "Providing growth projections and supporting analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "Split with text on the left and chart on the right",
+  "layout_type": "text-chart",
+  "content_zones": {
+    "left": "Text and bullet points",
+    "right": "Chart and key insights"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "shopping cart",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "mobile payment",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "P2P transfer",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "e-commerce",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "digital shopper",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "growth highlight",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key figures and highlights"
+  },
+  "design_language": "Professional with an emphasis on data-driven insights",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "area",
+    "title": "Digital Platform Growth Forecast",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      {
+        "year": 2013,
+        "PC-Browser": 1,
+        "In-App": 2,
+        "Contactless": 0
+      },
+      {
+        "year": 2018,
+        "PC-Browser": 4,
+        "In-App": 5,
+        "Contactless": 7
+      },
+      {
+        "year": 2023,
+        "PC-Browser": 6,
+        "In-App": 5,
+        "Contactless": 15
+      }
+    ],
+    "annotations": [
+      "PC-Browser",
+      "In-App",
+      "Contactless"
+    ],
+    "source": "Source: McKinsey, BCG, Business Insider Intelligence, Mastercard Advisors Analysis, Statista"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family not specified in the image."
+  }
+}

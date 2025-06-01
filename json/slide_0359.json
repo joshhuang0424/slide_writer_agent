@@ -1,0 +1,127 @@
+{
+  "slide_id": "60",
+  "section": "Enhanced PLUS loyalty program",
+  "purpose": "Illustrate enhancements of PLUS loyalty program through tiered membership and ecosystem development.",
+  "narrative_role": "Explain the structure and benefits of the loyalty program.",
+  "title": "Key enhancements of PLUS loyalty program",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrate and describe the components and benefits of the enhanced program.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-part illustration with text and icons",
+  "layout_type": "infographic",
+  "content_zones": {
+    "top": "Title and section header",
+    "left": "Infographic with arrows and membership details",
+    "right": "Membership tiers and merchant ecosystem benefits"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "plus!",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "A",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "B",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of colors and icons for emphasis"
+  },
+  "design_language": "Corporate and structured with icons",
+  "color_scheme": {
+    "primary": "Red",
+    "accent": "Gold",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "MCA Analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Basic"
+      },
+      {
+        "id": "L1",
+        "label": "Silver"
+      },
+      {
+        "id": "L2",
+        "label": "Gold"
+      },
+      {
+        "id": "L3",
+        "label": "Platinum"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Membership Benefits",
+      "description": "Details of benefits for each membership tier.",
+      "headers": [
+        "Tier",
+        "Benefits"
+      ],
+      "rows": [
+        {
+          "row_label": "Basic",
+          "cells": [
+            "Enhanced Linkpoint earn rates",
+            "Additional 'Pick your own' products",
+            "Closed door events"
+          ]
+        },
+        {
+          "row_label": "Silver",
+          "cells": [
+            "Free delivery",
+            "Concierge service",
+            "Exclusive check out lane"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart detected, pyramid structure used for membership tiers."
+  }
+}

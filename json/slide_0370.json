@@ -1,0 +1,102 @@
+{
+  "slide_id": "6",
+  "section": "電話行銷",
+  "purpose": "討論高價值會員溝通時機與順序",
+  "narrative_role": "策略展示",
+  "title": "電話行銷 | 高價值會員溝通時機與順序討論",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "提供不同策略選項以優化客戶體驗",
+  "data_points": [],
+  "cta": null,
+  "layout": "multi-section",
+  "layout_type": "grid",
+  "content_zones": {
+    "left": "目標客群描述",
+    "center": "溝通策略表格",
+    "bottom": "待討論議題詳述"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "待議題一",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "紅色強調"
+  },
+  "design_language": "商務簡報風格",
+  "color_scheme": {
+    "primary": "藍色",
+    "accent": "紅色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "高價值會員溝通策略",
+      "headers": [
+        "簡訊提醒 (5/1?)",
+        "電話行銷 (5/4-?)",
+        "線下申辦觸點 (5/4-?)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "對尚未完成申辦的高價值會員寄送SMS提醒辦卡",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "對尚未完成申辦者撥打電話，接通後再次寄送SMS引導線上申辦",
+            "對尚未完成申辦者撥打電話，並根據顧客偏好引導",
+            "顧客到賣場店內申辦"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "(待議案二) 1. 直接到賣場申辦 2. 寄送紙本申請書到家中",
+            "(待議案三) 若要請高價值會員到線下辦卡，須考慮設立黑鑰專屬辦卡櫃台，優化客戶體驗"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "未提供具體圖表或數據點"
+  }
+}

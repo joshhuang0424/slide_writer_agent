@@ -1,0 +1,178 @@
+{
+  "slide_id": "1",
+  "section": "Dimension 1",
+  "purpose": "Present sustainability commitment indicators for various players",
+  "narrative_role": "Data presentation",
+  "title": "Dimension 1: Commitment to sustainability Indicators 3-4 (1/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of sustainability metrics among different players",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "table-based",
+  "content_zones": {
+    "title": "top-center",
+    "table": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "pie_chart",
+      "label": "25%",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted cells"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Summary of sustainability metrics for different players",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 1\nEurope",
+        "Player 2\nEurope & other",
+        "Player 3\nEurope & other",
+        "Player 4\nEurope",
+        "Player 5\nEurope",
+        "Player 6\nEurope",
+        "Player 7\nEurope",
+        "Player 8\nEurope",
+        "Player 9\nEurope",
+        "Player 10\nEurope"
+      ],
+      "rows": [
+        {
+          "row_label": "N",
+          "cells": [
+            "CDP rating",
+            "5%",
+            "20",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "60",
+            "80",
+            "60"
+          ]
+        },
+        {
+          "row_label": "J",
+          "cells": [
+            "Detail and recency of data",
+            "10%",
+            "80",
+            "40",
+            "40",
+            "20",
+            "80",
+            "40",
+            "20",
+            "20",
+            "40",
+            "20"
+          ]
+        },
+        {
+          "row_label": "B",
+          "cells": [
+            "External assurance of data",
+            "5%",
+            "20",
+            "40",
+            "60",
+            "20",
+            "60",
+            "40",
+            "20",
+            "60",
+            "20",
+            "40"
+          ]
+        },
+        {
+          "row_label": "J",
+          "cells": [
+            "Environmental supply chain monitoring and taking action",
+            "5%",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "75",
+            "100",
+            "100"
+          ]
+        },
+        {
+          "row_label": "J",
+          "cells": [
+            "Integration of sustainability in supplier selection",
+            "5%",
+            "50",
+            "75",
+            "50",
+            "50",
+            "75",
+            "75",
+            "50",
+            "75",
+            "75",
+            "75"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional infographic or charts detected beyond table-based data."
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "slide_id": "35",
+  "section": "POP Index Analysis",
+  "purpose": "To show the trend and average of the POP index over time",
+  "narrative_role": "Data Presentation",
+  "title": "The POP index rose slightly to 56% in 2016 close to the long term average",
+  "bullets": [],
+  "supporting_facts": [
+    "% of deals with negative abnormal acquirer share price impact"
+  ],
+  "reasoning_strategy": "Trend Analysis",
+  "data_points": [
+    {
+      "year": 2000,
+      "pop_index": 70,
+      "number_of_deals": 133
+    },
+    {
+      "year": 2001,
+      "pop_index": 60,
+      "number_of_deals": 89
+    },
+    {
+      "year": 2002,
+      "pop_index": 60,
+      "number_of_deals": 39
+    },
+    {
+      "year": 2003,
+      "pop_index": 60,
+      "number_of_deals": 49
+    },
+    {
+      "year": 2004,
+      "pop_index": 60,
+      "number_of_deals": 78
+    },
+    {
+      "year": 2005,
+      "pop_index": 63,
+      "number_of_deals": 93
+    },
+    {
+      "year": 2006,
+      "pop_index": 63,
+      "number_of_deals": 154
+    },
+    {
+      "year": 2007,
+      "pop_index": 63,
+      "number_of_deals": 206
+    },
+    {
+      "year": 2008,
+      "pop_index": 60,
+      "number_of_deals": 106
+    },
+    {
+      "year": 2009,
+      "pop_index": 56,
+      "number_of_deals": 77
+    },
+    {
+      "year": 2010,
+      "pop_index": 56,
+      "number_of_deals": 102
+    },
+    {
+      "year": 2011,
+      "pop_index": 57,
+      "number_of_deals": 114
+    },
+    {
+      "year": 2012,
+      "pop_index": 58,
+      "number_of_deals": 98
+    },
+    {
+      "year": 2013,
+      "pop_index": 58,
+      "number_of_deals": 77
+    },
+    {
+      "year": 2014,
+      "pop_index": 58,
+      "number_of_deals": 129
+    },
+    {
+      "year": 2015,
+      "pop_index": 58,
+      "number_of_deals": 182
+    },
+    {
+      "year": 2016,
+      "pop_index": 56,
+      "number_of_deals": 154
+    }
+  ],
+  "cta": null,
+  "layout": "Chart-focused",
+  "layout_type": "Single Column",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "58",
+      "position": "right"
+    },
+    {
+      "type": "line",
+      "label": "Average,%",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight average value"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "blue",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "POP Index Trend",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "POP Index %"
+    ],
+    "values": [
+      {
+        "year": 2000,
+        "value": 70
+      },
+      {
+        "year": 2001,
+        "value": 60
+      },
+      {
+        "year": 2002,
+        "value": 60
+      },
+      {
+        "year": 2003,
+        "value": 60
+      },
+      {
+        "year": 2004,
+        "value": 60
+      },
+      {
+        "year": 2005,
+        "value": 63
+      },
+      {
+        "year": 2006,
+        "value": 63
+      },
+      {
+        "year": 2007,
+        "value": 63
+      },
+      {
+        "year": 2008,
+        "value": 60
+      },
+      {
+        "year": 2009,
+        "value": 56
+      },
+      {
+        "year": 2010,
+        "value": 56
+      },
+      {
+        "year": 2011,
+        "value": 57
+      },
+      {
+        "year": 2012,
+        "value": 58
+      },
+      {
+        "year": 2013,
+        "value": 58
+      },
+      {
+        "year": 2014,
+        "value": 58
+      },
+      {
+        "year": 2015,
+        "value": 58
+      },
+      {
+        "year": 2016,
+        "value": 56
+      }
+    ],
+    "annotations": [
+      {
+        "text": "Average",
+        "position": "58"
+      }
+    ],
+    "source": "Dealogic; Datastream; McKinsey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present in the slide."
+  }
+}

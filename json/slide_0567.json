@@ -1,0 +1,93 @@
+{
+  "slide_id": "13",
+  "section": "Housing Needs",
+  "purpose": "Highlight the gap in affordable housing and the need for more regulated homes.",
+  "narrative_role": "Informative",
+  "title": "Of the 37,000 rent-burdened ELI families, 16,000 are without permanent housing",
+  "bullets": [
+    {
+      "highlight": "16,000",
+      "text": "The number of households currently without permanent housing"
+    },
+    {
+      "highlight": "Low-income households",
+      "text": "The number of low-income households now renting unaffordable market-rate apartments (which are all unstable)"
+    }
+  ],
+  "supporting_facts": [
+    "Homelessness is caused largely by a lack of homes.",
+    "Seattle has housing gaps at all levels of affordability, so vouchers are challenging.",
+    "Raising incomes, including the minimum wage, won’t solve the problem because landlords raise rents as demand rises."
+  ],
+  "reasoning_strategy": "State the problem and propose a solution.",
+  "data_points": [
+    "37,000 rent-burdened ELI families",
+    "16,000 without permanent housing"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart",
+  "layout_type": "visual comparison",
+  "content_zones": {
+    "left": "Text and bullets",
+    "right": "Chart and additional text"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional and concise",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Estimates of affordable housing units needed for 0-30% AMI households",
+    "x_axis_label": "000s of homes",
+    "y_axis": [],
+    "values": [
+      {
+        "label": "Lack of permanent housing",
+        "value": 16
+      },
+      {
+        "label": "Lack of affordable housing",
+        "value": 37
+      }
+    ],
+    "annotations": [
+      {
+        "text": "Range of estimate",
+        "position": "between bars"
+      }
+    ],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family and size are not specified in the image."
+  }
+}

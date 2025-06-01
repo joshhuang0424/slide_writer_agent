@@ -1,0 +1,122 @@
+{
+  "slide_id": "21",
+  "section": "BCG TSR 案例流程分享",
+  "purpose": "分析多種剩餘現金投資方式對股東價值增長的影響，支持TSR決策。",
+  "narrative_role": "Informative",
+  "title": "通過決策剩餘現金的使用方式，實現TSR最大化：針對各類剩餘現金投資方式對股東價值增長產生的影響開展精確分析（價值-成本分析），以支持TSR決策",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "價值-成本比分析",
+  "data_points": [],
+  "cta": null,
+  "layout": "table-focused",
+  "layout_type": "two-column",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "note": "bottom-left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "對投資方式及其定義",
+      "description": "分析不同現金使用方式的價值創造效益",
+      "headers": [
+        "對投資方式/股東方向配置剩餘現金",
+        "對投資方式及其定義",
+        "價值創造方式和效果",
+        "價值-成本比（倍數）",
+        "價值-成本比的計算依據"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "朝陽專案、商業投資",
+            "自主性再投資（如：資本性支出、研發）",
+            "持續提升企業內在價值（現金流貼現等）",
+            "0.3 – 3.0+",
+            "以年投資額作為投資基準；可用業績的內值-成本比類比資本再投資的內值創造效果"
+          ]
+        },
+        {
+          "cells": [
+            "併購",
+            "項目價值大於投入資金時，TSR有望增長",
+            "支付溢價，順利併購標的企業",
+            "0.5 – 1.5",
+            "內在價值，協同效益，支付金額會影響TSR的提升，持平或降低"
+          ]
+        },
+        {
+          "cells": [
+            "支付股息",
+            "不經過企業，將收益直接支付給投資方",
+            "顯示企業可以持續創造收益，證明估值合理性（相比負面評價）",
+            "1.0 – 2.0+",
+            "股息是收益水平和未來現金流的顯著指標，直接影響TSR，並且可用來支持估值"
+          ]
+        },
+        {
+          "cells": [
+            "股份回購",
+            "有助於創造直接價值（站在投資方的角度，1美元收益等於創造了1美元的內值）",
+            "利用價差套利（當未來TSR高於股權價值時，買入股份）",
+            "0.9 – 1.1",
+            "根據大型企業的過往經驗，無法根據回購時間，進行估值（估低、估高）套利"
+          ]
+        },
+        {
+          "cells": [
+            "債務負擔",
+            "投資預期收益低迷時，可為投資者創造價值",
+            "保障現金流，並減輕負債",
+            "約1.0",
+            "全球現金流出現；由於信用等級（投資級）較高，償債對估值的影響有限"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "無圖表或其他資訊需要額外描述。"
+  }
+}

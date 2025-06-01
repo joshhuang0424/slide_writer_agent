@@ -1,0 +1,110 @@
+{
+  "slide_id": "7",
+  "section": "Performance Improvement",
+  "purpose": "To highlight the significant improvement in total scores by European and North American telecoms in 2020.",
+  "narrative_role": "Informative",
+  "title": "Largest improvement in total score came from European and North American telcos in 2020",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison over years",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Chart",
+  "layout_type": "Visual Chart",
+  "content_zones": {
+    "title": "top-left",
+    "chart": "center",
+    "annotation": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "annotation",
+      "label": "In 2020, \"Commitment to sustainability\" dimension was changed to incorporate more detailed view on culture & governance",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "italic"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "scatter",
+    "title": "Total score",
+    "x_axis_label": "Years",
+    "y_axis": [
+      "10",
+      "20",
+      "30",
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "values": [
+      {
+        "year": "2018",
+        "scores": [
+          20,
+          25,
+          30
+        ]
+      },
+      {
+        "year": "2019",
+        "scores": [
+          25,
+          35,
+          40
+        ]
+      },
+      {
+        "year": "2020",
+        "scores": [
+          30,
+          45,
+          50
+        ]
+      },
+      {
+        "year": "2020 with new category",
+        "scores": [
+          35,
+          50,
+          55
+        ]
+      }
+    ],
+    "annotations": [
+      "In 2020, \"Commitment to sustainability\" dimension was changed"
+    ],
+    "source": "BCG Sustainability in Telco Index 2020, N=22"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables present in the slide."
+  }
+}

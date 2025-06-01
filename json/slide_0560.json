@@ -1,0 +1,132 @@
+{
+  "slide_id": "4",
+  "section": "Demographics of Homelessness",
+  "purpose": "To present the demographics of households experiencing homelessness in Seattle in 2018.",
+  "narrative_role": "Providing statistical insights",
+  "title": "More than 22,000 households experience homelessness in Seattle each year",
+  "bullets": [
+    {
+      "highlight": "22,500",
+      "text": "households were homeless for at least some of 2018"
+    },
+    {
+      "highlight": "30%",
+      "text": "of households experiencing homelessness were chronically homeless"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Statistical and demographic analysis",
+  "data_points": [
+    "<1% ($41.5K – $66.2K)",
+    "2% ($24.9 – $41.5K)",
+    "98% ($0 – $24.9K)",
+    "9% Veterans",
+    "17% Families",
+    "3% People over 65",
+    "13% Unaccompanied youth under age 25",
+    "59% Single adults under age 25"
+  ],
+  "cta": null,
+  "layout": "complex",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "Statistics and icons about the homeless population",
+    "center": "Income brackets and key interest groups",
+    "right": "Race & ethnicity comparison with bar chart"
+  },
+  "visual_elements": [
+    {
+      "type": "icon_group",
+      "label": "People icons representing homeless households",
+      "position": "left"
+    },
+    {
+      "type": "circle_chart",
+      "label": "Income brackets",
+      "position": "center"
+    },
+    {
+      "type": "circle_chart",
+      "label": "Key interest groups",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "36px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Homeless population relative to general population",
+    "x_axis_label": "",
+    "y_axis": [
+      "White",
+      "Black or African American",
+      "Hispanic or Latino",
+      "American Indian or Alaska Native",
+      "Asian",
+      "Native Hawaiian or Pacific Islander",
+      "Multiple Races"
+    ],
+    "values": [
+      {
+        "Homeless": 48,
+        "General population": 60
+      },
+      {
+        "Homeless": 27,
+        "General population": 6
+      },
+      {
+        "Homeless": 15,
+        "General population": 10
+      },
+      {
+        "Homeless": 3,
+        "General population": 1
+      },
+      {
+        "Homeless": 3,
+        "General population": 17
+      },
+      {
+        "Homeless": 3,
+        "General population": 1
+      },
+      {
+        "Homeless": 16,
+        "General population": 6
+      }
+    ],
+    "annotations": [],
+    "source": "Sources: HMIS / All Home, American Community Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image; thus marked as unknown."
+  }
+}

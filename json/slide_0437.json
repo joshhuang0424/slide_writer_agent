@@ -1,0 +1,76 @@
+{
+  "slide_id": "28",
+  "section": "Agenda",
+  "purpose": "Outline the presentation topics",
+  "narrative_role": "Overview",
+  "title": "Agenda",
+  "bullets": [
+    "Introduction to P&L",
+    "P&L Breakdown",
+    "A Day in the Life of a Cardholder",
+    "Driver Mapping",
+    {
+      "highlight": "Leveraging P&L",
+      "text": "Leveraging P&L"
+    },
+    "Project Case Studies",
+    "Q&A",
+    "Appendix"
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential listing of topics",
+  "data_points": [],
+  "cta": null,
+  "layout": "Vertical list",
+  "layout_type": "Single column",
+  "content_zones": {
+    "header": "top-left",
+    "bullets": "center",
+    "footer": "bottom-left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 8,
+    "max_words_per_bullet": 5,
+    "emphasis_rule": "Highlight with color"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "This slide does not contain tables or charts, and no infographic elements other than text highlights."
+  }
+}

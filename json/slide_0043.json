@@ -1,0 +1,63 @@
+{
+  "slide_id": "1",
+  "section": "Conclusion",
+  "purpose": "Thank the audience and provide contact information.",
+  "narrative_role": "Closing",
+  "title": "Thank you",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Express gratitude and provide company contact details.",
+  "data_points": [],
+  "cta": null,
+  "layout": "simple",
+  "layout_type": "full-screen",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "BCG Digital Ventures",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "No emphasis"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#1a1a1a",
+    "accent": "#4a90e2",
+    "background": "#29323c"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "36px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

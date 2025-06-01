@@ -1,0 +1,63 @@
+{
+  "slide_id": "1",
+  "section": "disclaimer",
+  "purpose": "To provide a legal disclaimer regarding the advice and materials presented.",
+  "narrative_role": "informative",
+  "title": "Disclaimer",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "statement",
+  "data_points": [],
+  "cta": null,
+  "layout": "text-centered",
+  "layout_type": "single-column",
+  "content_zones": {
+    "title_zone": "top-left",
+    "text_zone": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold title"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#000000",
+    "background": "#102840"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is primarily a disclaimer text without charts, tables, or bullet points."
+  }
+}

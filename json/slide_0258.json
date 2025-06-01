@@ -1,0 +1,113 @@
+{
+  "slide_id": "89",
+  "section": "Business Unit Health",
+  "purpose": "To provide a perspective on current business unit health and potential value creation by combining ROGI with iTSR.",
+  "narrative_role": "Analytical",
+  "title": "Combining ROGI with iTSR provides full perspective on current business unit health & potential value creation",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of financial health and value creation using ROGI and iTSR.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Four-quadrant matrix with annotations",
+  "layout_type": "matrix",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "ROGI",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "iTSR",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text in green"
+  },
+  "design_language": "Professional, analytical",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of business unit health and value creation scenarios",
+      "headers": [
+        "Diagnostic",
+        "Question"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Healthy/advantaged, but weak growth/improvement prospects",
+            "Can we leverage the advantage elsewhere or re-think the business; should we limit resources if iTSR is not stronger; should we sell"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Healthy/advantaged with strong prospects",
+            "How can we accelerate; are we investing enough; are there adjacencies we can leverage this strength into; how can we win it all"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Unhealthy business with poor prospects",
+            "What does it take to fix the business; should we milk or sell; why should this business remain in the portfolio"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Unhealthy business with strong prospects",
+            "Are we confident in the urgency and robustness of the plan; what is the end game; are there parts of the business we would divest or milk to improve ROGI & iTSR"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No additional chart or pyramid levels detected. Infographic type 'pyramid' is used for placeholder if needed."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "slide_id": "11",
+  "section": "Archetypes and Economics",
+  "purpose": "To compare different archetypes in terms of consumption models, benefits, KPIs, and costs.",
+  "narrative_role": "Informative",
+  "title": "Choices about archetypes drive transition and run-rate economics",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and analysis of archetypes across multiple dimensions.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Single table layout with title",
+  "layout_type": "Table",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "footnote": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Increasing agility, automation, access to innovation, and scalability",
+      "position": "above table"
+    },
+    {
+      "type": "arrow",
+      "label": "Driven by business decision",
+      "position": "above table"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Comparison of Archetypes",
+      "description": "Detailed comparison of six archetypes based on various parameters.",
+      "headers": [
+        "Consumption model",
+        "Run-rate benefits and KPIs",
+        "One-time transition costs",
+        "Archetype 1 (baseline)",
+        "Archetype 2",
+        "Archetype 3",
+        "Archetype 4",
+        "Archetype 5",
+        "Archetype 6"
+      ],
+      "rows": [
+        {
+          "row_label": "Consumption model",
+          "cells": [
+            "Traditional",
+            "Lift-and-shift virtual machines",
+            "Optimized infrastructure as a service (IaaS)",
+            "Platform as a service (PaaS)",
+            "Function as a service (FaaS)",
+            "Software as a service (SaaS)"
+          ]
+        },
+        {
+          "row_label": "% productivity increase vs IT spend",
+          "cells": [
+            "Baseline",
+            "Negative to zero",
+            "Low",
+            "Medium",
+            "High",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "Time to market",
+          "cells": [
+            "Quarterly",
+            "Quarterly",
+            "Monthly to every 2 weeks",
+            "Every 2 weeks / as needed",
+            "Daily / multiple times a day",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "Change vs run ratio",
+          "cells": [
+            "30 : 70",
+            "30 : 70",
+            "40 : 60",
+            "50 : 50",
+            "70 : 30",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "% transition cost vs IT spend",
+          "cells": [
+            "Baseline",
+            "Low",
+            "Low",
+            "Medium",
+            "High",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "IT payback period (varies by workload type)",
+          "cells": [
+            "N/A",
+            "May not pay back",
+            "1–2 years",
+            "2–3 years",
+            "2–3 years",
+            "N/A"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family not specified in the image.",
+    "footnote": "IT benefits only (infrastructure and application development/maintenance); does not include business-acceleration benefits."
+  }
+}

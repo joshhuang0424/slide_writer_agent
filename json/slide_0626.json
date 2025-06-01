@@ -1,0 +1,125 @@
+{
+  "slide_id": "26",
+  "section": "Retention - Targeting",
+  "purpose": "To describe a successful retention strategy for identifying high-value customer segments and anticipating future attrition.",
+  "narrative_role": "Informative",
+  "title": "A successful retention strategy can identify high value customer segments and anticipate future attrition",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Score customer profitability or Customer Lifetime Value (CLV)"
+    },
+    {
+      "highlight": false,
+      "text": "Assess the propensity of a customer to attrite"
+    },
+    {
+      "highlight": false,
+      "text": "Segment customers leveraging CLV scores and propensity model"
+    },
+    {
+      "highlight": false,
+      "text": "Identify reasons why customers might have soft attrition and design solutions proactively"
+    },
+    {
+      "highlight": false,
+      "text": "Set-up dedicated in-bound retention unit to prevent hard attrition and improve retention of high value members"
+    },
+    {
+      "highlight": false,
+      "text": "Implement retention strategies using a dedicated retention unit"
+    },
+    {
+      "highlight": false,
+      "text": "Monitor critical KPIs to assess performance of retention efforts"
+    },
+    {
+      "highlight": false,
+      "text": "Institute test & learn capabilities to continuously refine strategies"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Provide a structured approach to retention strategy.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Horizontal steps with bullet points and a 2x2 matrix diagram",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "header": "top",
+    "steps": "middle",
+    "matrix": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "step",
+      "label": "1",
+      "position": "middle-left"
+    },
+    {
+      "type": "step",
+      "label": "2",
+      "position": "middle-center"
+    },
+    {
+      "type": "step",
+      "label": "3",
+      "position": "middle-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 8,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Steps are emphasized with numbered circles."
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "2x2 matrix",
+    "title": "Profitability vs. Attrition Rate",
+    "x_axis_label": "Profitability",
+    "y_axis": [
+      "Attrition Rate"
+    ],
+    "values": [
+      [
+        "Heavy proactive retention efforts",
+        "No proactive retention efforts"
+      ],
+      [
+        "Proactive 'Best Customer' recognition",
+        "No proactive retention efforts"
+      ]
+    ],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

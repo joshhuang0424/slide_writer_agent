@@ -1,0 +1,120 @@
+{
+  "slide_id": "23",
+  "section": "Credit Risk Analysis",
+  "purpose": "Illustrate the correlation between cardholder behavior and credit risk impacting issuer's P&L.",
+  "narrative_role": "informative",
+  "title": "The foundation of an issuer's P&L is highly affected by cardholder behavior, often with strong correlation to the credit risk of cardholders",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis between higher and lower risk cardholders.",
+  "data_points": [],
+  "cta": null,
+  "layout": "title-top, infographic-middle, table-bottom",
+  "layout_type": "infographic-table",
+  "content_zones": {
+    "title": "top",
+    "infographic": "middle",
+    "table": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Higher risk cardholders to Lower risk cardholders",
+      "position": "middle"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red-to-green gradient",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Higher risk cardholders"
+      },
+      {
+        "id": "L1",
+        "label": "Lower risk cardholders"
+      }
+    ],
+    "position": "middle"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of account balance, payment rate, and credit utilization between higher and lower risk cardholders.",
+      "headers": [
+        "",
+        "Higher risk cardholders",
+        "Lower risk cardholders"
+      ],
+      "rows": [
+        {
+          "row_label": "Account Balance",
+          "cells": [
+            "Lower balance due to lower credit lines",
+            "Higher balance due to higher credit lines"
+          ]
+        },
+        {
+          "row_label": "Payment Rate",
+          "cells": [
+            "Lower payment rate due to less financial capability to pay on time",
+            "Higher payment rate due to greater financial stability and demonstrated strong ability to pay"
+          ]
+        },
+        {
+          "row_label": "Transactor/Revolver",
+          "cells": [
+            "More likely to a revolver",
+            "More likely to be a transactor"
+          ]
+        },
+        {
+          "row_label": "Credit Line Utilization",
+          "cells": [
+            "Higher",
+            "Lower"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No specific chart type detected; content mainly consists of infographic and table."
+}

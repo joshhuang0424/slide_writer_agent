@@ -1,0 +1,134 @@
+{
+  "slide_id": "7",
+  "section": "Impact of 2nd Lockdown",
+  "purpose": "To analyze the impact of the 2nd lockdown in the EU on car buying, aftermarket services, and mobility.",
+  "narrative_role": "Informative",
+  "title": "2nd lockdown in the EU results in a decreased purchase intent for new cars, reduction in aftermarket work, and a drop in mobility usage",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data comparison and trend analysis",
+  "data_points": [
+    "Purchase intent for new cars vs. used cars",
+    "Customer outlook on maintenance and repair",
+    "Mobility pattern change vs. Pre-COVID-19"
+  ],
+  "cta": null,
+  "layout": "Three-column layout with charts and infographics",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "left": "Car buying intent chart",
+    "center": "Aftermarket outlook chart",
+    "right": "Mobility pattern change chart"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Car buying",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "Aftermarket",
+      "position": "top-center"
+    },
+    {
+      "type": "icon",
+      "label": "Mobility",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "Light blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Line and Bar Charts",
+    "title": "Impact Analysis",
+    "x_axis_label": "Time/Period",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      "Pre-COVID-19, May, June, July, Sep, Nov"
+    ],
+    "annotations": [
+      "Significant change indicators"
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Mobility pattern change",
+      "headers": [
+        "Month",
+        "Significant decrease",
+        "Slight decrease",
+        "Slight increase",
+        "Significant increase"
+      ],
+      "rows": [
+        {
+          "row_label": "May",
+          "cells": [
+            "-53",
+            "-22",
+            "+3",
+            "+2"
+          ]
+        },
+        {
+          "row_label": "Sep",
+          "cells": [
+            "-22",
+            "-29",
+            "+7",
+            "+2"
+          ]
+        },
+        {
+          "row_label": "Nov",
+          "cells": [
+            "-28",
+            "-30",
+            "+5",
+            "+2"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "Bar chart"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The pyramid infographic is not present in this slide."
+  }
+}

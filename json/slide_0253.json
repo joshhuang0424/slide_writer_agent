@@ -1,0 +1,108 @@
+{
+  "slide_id": "84",
+  "section": "implementation",
+  "purpose": "Highlight key practices for iTSR implementation.",
+  "narrative_role": "Informative",
+  "title": "5 best practices in implementing iTSR as a guiding measure",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "List of steps",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal flow",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top left",
+    "infographic": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Make an explicit top down commitment",
+      "position": "bottom left"
+    },
+    {
+      "type": "icon",
+      "label": "Train intensively",
+      "position": "bottom left center"
+    },
+    {
+      "type": "icon",
+      "label": "Increase the breadth of ownership",
+      "position": "bottom center"
+    },
+    {
+      "type": "icon",
+      "label": "Link tightly across processes",
+      "position": "bottom right center"
+    },
+    {
+      "type": "icon",
+      "label": "Create an explicit focus on business unit value",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for key practices"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Make an explicit top down commitment"
+      },
+      {
+        "id": "L1",
+        "label": "Train intensively"
+      },
+      {
+        "id": "L2",
+        "label": "Increase the breadth of ownership"
+      },
+      {
+        "id": "L3",
+        "label": "Link tightly across processes"
+      },
+      {
+        "id": "L4",
+        "label": "Create an explicit focus on business unit value"
+      }
+    ],
+    "position": "bottom"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

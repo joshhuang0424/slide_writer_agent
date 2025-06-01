@@ -1,0 +1,152 @@
+{
+  "slide_id": "21",
+  "section": "Impact on Powertrain Technologies",
+  "purpose": "To illustrate the potential increase in the share of BEVs due to incentives and lower battery costs.",
+  "narrative_role": "Data Presentation",
+  "title": "Incentives and lower battery costs could increase the share of BEVs",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of base case vs sensitivity for different powertrain technologies.",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "table-focused",
+  "content_zones": {
+    "header": "Title",
+    "main": "Table"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "High oil price",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Low battery costs",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Government incentives",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Regulatory rollback",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted figures in orange for emphasis"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Impact on powertrain technologies Δ to base case (% of global market 2030)",
+      "description": "Comparison of impact on various powertrain technologies under different scenarios.",
+      "headers": [
+        "Base case",
+        "Sensitivity",
+        "ICE",
+        "Diesel",
+        "MHEV",
+        "HEV",
+        "PHEV",
+        "BEV"
+      ],
+      "rows": [
+        {
+          "row_label": "High oil price",
+          "cells": [
+            "Oil at $60/barrel",
+            "Oil at $90/barrel",
+            "(3.4)",
+            "0.6",
+            "1.0",
+            "0.4",
+            "0.6",
+            "0.9"
+          ]
+        },
+        {
+          "row_label": "Low battery costs",
+          "cells": [
+            "Costs for TAR cost curve: $90 per cell cost in 2030",
+            "Costs follow BCG cost curve: $70 per cell cost in 2030",
+            "(1.5)",
+            "0.0",
+            "(1.4)",
+            "0.0",
+            "0.7",
+            "2.2"
+          ]
+        },
+        {
+          "row_label": "Government incentives",
+          "cells": [
+            "No subsidies used, pure economics forecasted",
+            "With current subsidies for each region sustained to 2030",
+            "(6.0)",
+            "0.0",
+            "(1.4)",
+            "0.0",
+            "2.5",
+            "4.8"
+          ]
+        },
+        {
+          "row_label": "Regulatory rollback",
+          "cells": [
+            "Current CAFE regulations remain in place in US",
+            "US administration reduces CAFE/GHG regulations",
+            "3.4",
+            "0.0",
+            "(2.7)",
+            "0.0",
+            "0.0",
+            "(0.6)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The font family is not specified in the image."
+  }
+}

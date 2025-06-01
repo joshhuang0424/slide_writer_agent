@@ -1,0 +1,136 @@
+{
+  "slide_id": "6",
+  "section": "Regulation Projections",
+  "purpose": "To illustrate compliance of ICEs with regulations until 2020.",
+  "narrative_role": "Evidence",
+  "title": "ICEs will be sufficient to meet regulations until 2020, not beyond",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual comparison of projected data against regulatory requirements.",
+  "data_points": [
+    "US projections: Industry CAFE credits from 2016 to 2025",
+    "EU projections: Industry CO2 emissions from 2016 to 2025"
+  ],
+  "cta": null,
+  "layout": "Two horizontal bar graphs",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top-center",
+    "chart_area": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "annotation",
+      "label": "US and EU regulation not met after 2020",
+      "position": "right-center"
+    },
+    {
+      "type": "legend",
+      "label": "Regulatory requirements",
+      "position": "bottom-left"
+    },
+    {
+      "type": "legend",
+      "label": "Proposed",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "US projections: Industry CAFE credits (M)",
+      "EU projections: Industry CO2 emissions EU (g/CO2)"
+    ],
+    "values": [
+      {
+        "year": 2016,
+        "US": 123,
+        "EU": 108
+      },
+      {
+        "year": 2017,
+        "US": 41,
+        "EU": 106
+      },
+      {
+        "year": 2018,
+        "US": 40,
+        "EU": 104
+      },
+      {
+        "year": 2019,
+        "US": 46,
+        "EU": 102
+      },
+      {
+        "year": 2020,
+        "US": 43,
+        "EU": 100
+      },
+      {
+        "year": 2021,
+        "US": -23,
+        "EU": 98
+      },
+      {
+        "year": 2022,
+        "US": -135,
+        "EU": 96
+      },
+      {
+        "year": 2023,
+        "US": -262,
+        "EU": 93
+      },
+      {
+        "year": 2024,
+        "US": -398,
+        "EU": 91
+      },
+      {
+        "year": 2025,
+        "US": -543,
+        "EU": 87
+      }
+    ],
+    "annotations": [],
+    "source": "The Boston Consulting Group, Inc."
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "There is no pyramid infographic on this slide."
+  }
+}

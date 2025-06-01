@@ -1,0 +1,89 @@
+{
+  "slide_id": "1",
+  "section": "Performance Analysis",
+  "purpose": "To show the performance improvement of top scorers in 2020 compared to 2019, highlighting the lack of improvement for bottom scorers.",
+  "narrative_role": "Comparative Analysis",
+  "title": "",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "visual_comparison",
+  "data_points": [
+    "Top scorer improved in overall score, commitment to sustainability, CO2 & energy intensity, and circular economy & waste.",
+    "Bottom scorer showed no improvement in overall score."
+  ],
+  "cta": null,
+  "layout": "visual_left_text_right",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Text",
+    "right": "Chart"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "data-driven",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "yellow",
+    "background": "dark gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "Overall score",
+      "Commitment to sustainability",
+      "CO2 & energy intensity",
+      "Circular economy & waste",
+      "Customer enablement"
+    ],
+    "values": [
+      {
+        "label": "Median",
+        "color": "purple"
+      },
+      {
+        "label": "Top scorer 2019",
+        "color": "green"
+      },
+      {
+        "label": "Bottom scorer 2019",
+        "color": "yellow"
+      },
+      {
+        "label": "Other companies",
+        "color": "white"
+      }
+    ],
+    "annotations": [],
+    "source": "BCG Sustainability in Telco Index 2020, N=22"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Fonts and specific weights not specified in the image. The pyramid infographic is not applicable for this slide."
+  }
+}

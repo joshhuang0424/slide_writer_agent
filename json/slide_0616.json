@@ -1,0 +1,111 @@
+{
+  "slide_id": "16",
+  "section": "Onboarding",
+  "purpose": "To outline a comprehensive, multi-touch EMOB strategy.",
+  "narrative_role": "Informative",
+  "title": "A best practice is to have a comprehensive, multi-touch EMOB strategy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Phase-based strategy implementation",
+  "data_points": [],
+  "cta": "Continually monitor & adjust card value proposition, if necessary, to remain relevant & competitive",
+  "layout": "Table with timeline phases",
+  "layout_type": "Table",
+  "content_zones": {
+    "header": "A best practice is to have a comprehensive, multi-touch EMOB strategy",
+    "table": "Center",
+    "footer": "Bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Gray",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "EMOB Strategy Phases",
+      "description": "Outline of objectives and activities across different phases of EMOB.",
+      "headers": [
+        "Phase",
+        "Time",
+        "Objectives"
+      ],
+      "rows": [
+        {
+          "row_label": "Phase 0",
+          "cells": [
+            "Acquisition",
+            "Month 0",
+            "Develop effective marketing & promotional creative\nEnsure efficient sales & application process\nIdentify key target segments\nOffer incentives designed to engage"
+          ]
+        },
+        {
+          "row_label": "Phase 1",
+          "cells": [
+            "New (0 – 3 months) & Early Nursery (3 – 6 months)",
+            "Month 1\nMonth 2\nMonth 3\nMonth 4\nMonth 5\nMonth 6",
+            "Increase card activation / unblock rate\nDrive initial usage at POS\nReinforce base benefits, value proposition and rewards program through consistent engagement\nDrive frequent usage and broaden usage categories\nPromote ‘stickiness’ through recurring payment, card-on-file, etc."
+          ]
+        },
+        {
+          "row_label": "Phase 2",
+          "cells": [
+            "Emerging (7 – 12 months)",
+            "Month 7 ... Month 12",
+            "Stimulate on-going activity\nDrive incremental spend\nEncourage breadth & depth of spend\nAchieve top-of-wallet card status\nContinue promoting account stickiness"
+          ]
+        },
+        {
+          "row_label": "Phase 3",
+          "cells": [
+            "Tenured (12+ months)",
+            "Month 13 ...",
+            "Upgrade/migrate members to alternate product, if required\nMitigate attrition\nShield profitable balances\nIncrease credit utilization / line\nRecognize best customers"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain typical chart elements like axes or continuous scales, and pyramid levels are not explicitly shown."
+  }
+}

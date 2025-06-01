@@ -1,0 +1,111 @@
+{
+  "slide_id": "2",
+  "section": "Vendor Assessment and Selection",
+  "purpose": "To explain how Mastercard Advisors can help find the right partners for digital strategy implementation.",
+  "narrative_role": "Explanation",
+  "title": "Phase 2: Leverage Mastercard Advisors’ experience to find the right partners to enable your digital strategy",
+  "bullets": [
+    {
+      "highlight": "business requirements",
+      "text": "What are client’s business requirements to implement the digital strategy?"
+    },
+    {
+      "highlight": "vendors",
+      "text": "What are the right set of vendors to consider for these requirements?"
+    },
+    {
+      "highlight": "prepare a vendor request for proposal",
+      "text": "How to prepare a vendor request for proposal (RFP) or request for quotation (RFQ)?"
+    },
+    {
+      "highlight": "evaluate the vendors",
+      "text": "What are the criteria to evaluate the vendors? Do the vendors have a track record with similar solutions?"
+    },
+    {
+      "highlight": "value for money",
+      "text": "How does the client ensure that they are getting a fair deal e.g. value for money from the vendor?"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Question-driven exploration",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with icons and text",
+  "layout_type": "Text with icons",
+  "content_zones": {
+    "left": "Vendor assessment and selection text block",
+    "right": "Question list with icons"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Building blocks",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "Checklist",
+      "position": "mid-right"
+    },
+    {
+      "type": "icon",
+      "label": "Document",
+      "position": "low-mid-right"
+    },
+    {
+      "type": "icon",
+      "label": "Magnifying glass",
+      "position": "lower-right"
+    },
+    {
+      "type": "icon",
+      "label": "Dollar signs",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid diagram is present in the slide."
+  }
+}

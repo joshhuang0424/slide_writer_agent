@@ -1,0 +1,85 @@
+{
+  "slide_id": "38",
+  "section": "Agenda",
+  "purpose": "Outline the topics to be covered in the presentation.",
+  "narrative_role": "Overview",
+  "title": "Agenda",
+  "bullets": [
+    "Introduction to P&L",
+    "P&L Breakdown",
+    "A Day in the Life of a Cardholder",
+    "Driver Mapping",
+    "Leveraging P&L",
+    "Final Thoughts",
+    "Q&A"
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with bullet list",
+  "layout_type": "text",
+  "content_zones": {
+    "title": "top-left",
+    "bullets": "center-left",
+    "footer": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Appendix",
+      "position": "bottom-center"
+    },
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Bold for section titles"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "20px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": [
+      "No charts or tables are present in the slide."
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "slide_id": "9",
+  "section": "Sustainability Performance",
+  "purpose": "Illustrate improvement in average scores across regions",
+  "narrative_role": "Data visualization",
+  "title": "North American telcos improved the most on average",
+  "bullets": [],
+  "supporting_facts": [
+    "Asian telcos still have improvement opportunities in customer enablement, while North American group could improve focus on circular economy & waste."
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    "Europe",
+    "Europe & other",
+    "North America",
+    "Asia"
+  ],
+  "cta": null,
+  "layout": "title and chart",
+  "layout_type": "visual with annotations",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "annotation": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use green for title emphasis"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "teal",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Average score Δ 2020-2019",
+    "x_axis_label": "Categories",
+    "y_axis": [
+      "Europe",
+      "Europe & other",
+      "North America",
+      "Asia"
+    ],
+    "values": [
+      {
+        "Overall score": [
+          4,
+          5,
+          6,
+          4
+        ]
+      },
+      {
+        "Targets": [
+          7,
+          6,
+          22,
+          7
+        ]
+      },
+      {
+        "Culture": [
+          -1,
+          0,
+          8,
+          -3
+        ]
+      },
+      {
+        "Transparency & Reporting": [
+          9,
+          4,
+          4,
+          3
+        ]
+      },
+      {
+        "Sustainable sourcing": [
+          8,
+          3,
+          3,
+          3
+        ]
+      },
+      {
+        "CO2 & energy intensity": [
+          6,
+          3,
+          3,
+          3
+        ]
+      },
+      {
+        "Circular economy & waste": [
+          2,
+          1,
+          -1,
+          0
+        ]
+      },
+      {
+        "Customer enablement": [
+          6,
+          8,
+          6,
+          4
+        ]
+      }
+    ],
+    "annotations": [
+      "In 2020, 'Commitment to sustainability' dimension was changed to incorporate more detailed view on culture & governance.",
+      "For comparison purposes, 2020 score here using old methodology."
+    ],
+    "source": "BCG Sustainability in Telco Index 2020, N=22"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain a pyramid infographic or specific tables."
+  }
+}

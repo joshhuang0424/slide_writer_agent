@@ -1,0 +1,198 @@
+{
+  "slide_id": "31",
+  "section": "Case Study",
+  "purpose": "To present a post-conversion card activation strategy.",
+  "narrative_role": "Informative",
+  "title": "Case Study: Post-conversion Card Activation Strategy",
+  "bullets": [
+    {
+      "highlight": "Background:",
+      "text": "Regional US Issuer converted debit portfolio to Mastercard and launched a set of new card products"
+    },
+    {
+      "highlight": "Client Problem Statement:",
+      "text": "Client would like to understand the impact of the conversion and design a comprehensive strategy for stimulating cardholders that may have declined spend"
+    },
+    {
+      "highlight": "Executed Solutions:",
+      "text": "Ingestion of pre-conversion client data and mapping it to Mastercard's data"
+    },
+    {
+      "highlight": "",
+      "text": "Development of Pre-Post conversion behavior dashboard for quick identification of"
+    },
+    {
+      "highlight": "",
+      "text": "Customer Segmentation to find targets for marketing treatments"
+    },
+    {
+      "highlight": "",
+      "text": "Develop comprehensive marketing stimulation program"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive analysis of conversion and strategic solutions.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text and visuals",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Textual information and bullet points",
+    "right": "Visual elements and tables"
+  },
+  "visual_elements": [
+    {
+      "type": "chart",
+      "label": "Pre-Post behavior dashboard summary",
+      "position": "top-right"
+    },
+    {
+      "type": "table",
+      "label": "Marketing Stimulation Program Summary",
+      "position": "bottom-right"
+    },
+    {
+      "type": "infographic",
+      "label": "Customer Marketing Segmentation",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key statements"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "Grid",
+    "title": "Pre-Post behavior dashboard summary",
+    "x_axis_label": "(Post) Engagement Levels",
+    "y_axis": [
+      "(Pre) Spenders"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": [],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Marketing Stimulation Program Summary",
+      "description": "Lists potential treatments and strategies",
+      "headers": [
+        "Segment",
+        "Strategy",
+        "No.",
+        "Primary Message",
+        "Secondary Message",
+        "Priority",
+        "# of Accounts"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Low Spend Branch 1",
+            "Stimulate Usage",
+            "1",
+            "Encourage spend",
+            "Using smart phone payments",
+            "Lower",
+            "6,935"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Low Spend Branch 2",
+            "Stimulate Usage",
+            "2",
+            "Offer rewards",
+            "Increase usage",
+            "Lower",
+            "1,804"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Medium Spend Branch 1",
+            "Stimulate Usage",
+            "3",
+            "Promote card benefits",
+            "Engage customer",
+            "Higher",
+            "10,434"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Medium Spend Branch 2",
+            "Stimulate Usage",
+            "4",
+            "Highlight features",
+            "Drive loyalty",
+            "Higher",
+            "17,171"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "High Spend Branch 1",
+            "Enhance Engagement",
+            "5",
+            "Exclusive offers",
+            "Retain high spenders",
+            "Higher",
+            "53,274"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "High Spend Branch 2",
+            "Enhance Engagement",
+            "6",
+            "Personalized services",
+            "Increase retention",
+            "Higher",
+            "8,068"
+          ]
+        }
+      ],
+      "position": "bottom-right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "chart.values": "The chart values are not clearly readable from the image.",
+    "infographic.levels": "There is no pyramid infographic in the image."
+  }
+}

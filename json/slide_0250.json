@@ -1,0 +1,86 @@
+{
+  "slide_id": "81",
+  "section": "Metrics",
+  "purpose": "Illustrate the importance of TSR and its supporting metrics",
+  "narrative_role": "Explanation",
+  "title": "TSR should be the capstone metric",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Hierarchical representation of metrics",
+  "data_points": [],
+  "cta": null,
+  "layout": "pyramid",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "source": "bottom left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "clean, professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "TSR\nTotal share holder return is a historical and comprehensive value creation metric used for external reporting and proxy"
+      },
+      {
+        "id": "L1",
+        "label": "iTSR\nInternal value creation metric and analog to TSR is used for planning, scenario development, tradeoff assessment, M&A assessment, incentive compensation- historical & forecast, portfolio roles"
+      },
+      {
+        "id": "L2",
+        "label": "EPS, ROS, EBITDA operating margin\nKey profit growth, guidance and reporting metrics are important to investors and which will determine key investor segments"
+      },
+      {
+        "id": "L3",
+        "label": "ROIC, operating cash and cash flow\nSupporting business health metrics(cash on cash returns) is also useful for benchmarking, resource allocation and portfolio signaling(grow, maintain, harvest, divest)"
+      },
+      {
+        "id": "L4",
+        "label": "Key value drivers\nOperating levers to improve value creation(e.g. customer retention/satisfaction, days sales in inventory; quality measure in rejected parts per million, pricing realization)"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No chart or table present; infographic is the main element."
+  }
+}

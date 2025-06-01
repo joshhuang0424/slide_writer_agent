@@ -1,0 +1,72 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduction of the webinar topic",
+  "narrative_role": "Title Slide",
+  "title": "Mastercard Webinar: Leading Practices in Consumer Credit Cardholder Lifecycle Management",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presentation of webinar title and date",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "Full Screen Title",
+  "content_zones": {
+    "title_zone": "center",
+    "logo_zone": "bottom right",
+    "date_zone": "bottom left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Mastercard Webinar: Leading Practices in Consumer Credit Cardholder Lifecycle Management",
+      "position": "center"
+    },
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Modern, Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "white",
+    "background": "dark gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

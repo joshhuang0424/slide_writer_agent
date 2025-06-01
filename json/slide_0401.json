@@ -1,0 +1,89 @@
+{
+  "slide_id": "1",
+  "section": "Cover",
+  "purpose": "Introduction",
+  "narrative_role": "Title Slide",
+  "title": "COVID-19 RAPID CRISIS RESPONSE CHECKLIST",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Present the title of the document",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "full",
+  "content_zones": {
+    "title": {
+      "x": 50,
+      "y": 200,
+      "width": 1180,
+      "height": 100
+    },
+    "footer": {
+      "x": 50,
+      "y": 660,
+      "width": 1180,
+      "height": 40
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "BCG",
+      "position": "top-left"
+    },
+    {
+      "type": "text",
+      "label": "LATEST AS OF 03/23/2020",
+      "position": "top-right"
+    },
+    {
+      "type": "text",
+      "label": "For more information, contact BCGRapidResponseNetwork@bcg.com",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional, corporate",
+  "color_scheme": {
+    "primary": "#004c40",
+    "accent": "#00695c",
+    "background": "#004c40"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "48px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is a cover page with no charts, tables, or bullets."
+  }
+}

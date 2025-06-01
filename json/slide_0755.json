@@ -1,0 +1,103 @@
+{
+  "slide_id": "1",
+  "section": "Automotive Industry Outlook",
+  "purpose": "To illustrate the expected decline in automotive volumes due to shortages despite potential gains in certain quarters.",
+  "narrative_role": "Informative",
+  "title": "Automotive volumes will decline in 2021 despite expected gains in Q2 and Q3, with potential shortages ahead",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data projection and analysis on automotive production.",
+  "data_points": [
+    "Q3 2020: 21 million units",
+    "Q4 2020: 23 million units",
+    "Q1 2021: 22 million units",
+    "Q2 2021: 21 million units",
+    "Q3 2021: 20 million units",
+    "Q4 2021: 21 million units"
+  ],
+  "cta": null,
+  "layout": "Title, Chart, Legend, and Annotations",
+  "layout_type": "Single Chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "legend": "right",
+    "annotations": "within chart"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italics for potential outcomes"
+  },
+  "design_language": "Professional and Analytical",
+  "color_scheme": {
+    "primary": "#5c5c5c",
+    "accent": "#b3e2cd",
+    "background": "#f7f7f7"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "28",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "Line Chart",
+    "title": "Global quarterly light vehicle production 2021 (million units)",
+    "x_axis_label": "Time (Quarters)",
+    "y_axis": [
+      "Automotive units (millions)"
+    ],
+    "values": [
+      {
+        "quarter": "Q3 2020",
+        "units": 21
+      },
+      {
+        "quarter": "Q4 2020",
+        "units": 23
+      },
+      {
+        "quarter": "Q1 2021",
+        "units": 22
+      },
+      {
+        "quarter": "Q2 2021",
+        "units": 21
+      },
+      {
+        "quarter": "Q3 2021",
+        "units": 20
+      },
+      {
+        "quarter": "Q4 2021",
+        "units": 21
+      }
+    ],
+    "annotations": [
+      "Shortage caused by multiple factors",
+      "Potential shortage by the end of 2021",
+      "Lost volumes partly recovered"
+    ],
+    "source": "IHS Markit; BCG Analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic or bullet points present. The slide focuses on a single chart with annotations and legends."
+  }
+}

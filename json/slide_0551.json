@@ -1,0 +1,75 @@
+{
+  "slide_id": "11",
+  "section": "Financial Assessment",
+  "purpose": "To illustrate the comparison between costs and benefits of a program.",
+  "narrative_role": "Explainer",
+  "title": "Financial impact is assessed by comparing costs and benefits of a programme",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column comparison",
+  "layout_type": "visual",
+  "content_zones": {
+    "left": "Benefits",
+    "right": "Costs"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Hands representing community benefits",
+      "position": "left"
+    },
+    {
+      "type": "image",
+      "label": "Money representing costs",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No numerical data or tables present; visuals are primarily images and text."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "slide_id": "4",
+  "section": "",
+  "purpose": "To present the impact of cloud use cases and improvements.",
+  "narrative_role": "Informative",
+  "title": "Almost all value comes from business improvement, acceleration, and innovation.",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title at top, followed by a table with embedded bar chart.",
+  "layout_type": "Title and Table",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Rejuvenate",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Innovate",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Pioneer",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean with emphasis on business impact.",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Impact of cloud use cases and improvements, Estimated 2030 EBITDA run-rate impact, $ bn",
+    "x_axis_label": "",
+    "y_axis": [
+      "Low case",
+      "High case"
+    ],
+    "values": [
+      {
+        "label": "Cost optimization",
+        "low": 70,
+        "high": 170
+      },
+      {
+        "label": "Improved business resilience",
+        "low": "unknown",
+        "high": "unknown"
+      },
+      {
+        "label": "Technological achievements",
+        "low": 100,
+        "high": 190
+      },
+      {
+        "label": "Growth from new use cases",
+        "low": 50,
+        "high": 160
+      },
+      {
+        "label": "Adopting accelerated product development",
+        "low": "unknown",
+        "high": "unknown"
+      },
+      {
+        "label": "Leveraging public-cloud hyper-scalability",
+        "low": "unknown",
+        "high": "unknown"
+      },
+      {
+        "label": "Emerging technologies",
+        "low": 310,
+        "high": 610
+      }
+    ],
+    "annotations": [],
+    "source": "Independent third-party research data (OmnicomGroup and Known), industry and McKinsey expert interviews, McKinsey D2020 IT cost benchmarking, McKinsey Global Institute research, team"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Rejuvenate 340–430"
+      },
+      {
+        "id": "L1",
+        "label": "Innovate 360–770"
+      },
+      {
+        "id": "L2",
+        "label": "Pioneer"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Value driver",
+      "description": "Impact of cloud use cases and improvements",
+      "headers": [
+        "Value driver",
+        "Low case",
+        "High case"
+      ],
+      "rows": [
+        {
+          "row_label": "Cost optimization",
+          "cells": [
+            "Cost optimization of application development and maintenance and IT Infrastructure",
+            "70",
+            "170"
+          ]
+        },
+        {
+          "row_label": "Improved business resilience",
+          "cells": [
+            "Improved business resilience",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Technological achievements",
+          "cells": [
+            "Implementation of latest technological/digitization achievements in core operations via analytics, IoT, and automation use cases",
+            "100",
+            "190"
+          ]
+        },
+        {
+          "row_label": "Growth from new use cases",
+          "cells": [
+            "Growth from new and enhanced use cases",
+            "50",
+            "160"
+          ]
+        },
+        {
+          "row_label": "Adopting accelerated product development",
+          "cells": [
+            "Adopting accelerated product development",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Public-cloud hyper-scalability",
+          "cells": [
+            "Leveraging public-cloud hyper-scalability",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Emerging technologies",
+          "cells": [
+            "Adopting emerging technologies by gaining experience in experimentation at low cost",
+            "310",
+            "610"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Some rows in the table have unspecified values for low and high cases, indicated as empty."
+  }
+}

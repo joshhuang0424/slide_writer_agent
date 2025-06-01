@@ -1,0 +1,91 @@
+{
+  "slide_id": "98",
+  "section": "Steps to create a strong TSR",
+  "purpose": "Illustrate the steps necessary to create a strong TSR",
+  "narrative_role": "Guiding through the process",
+  "title": "Steps to Create a Strong TSR",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential process explanation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic with text and icons",
+  "layout_type": "Horizontal flow",
+  "content_zones": {
+    "header": "top",
+    "infographic": "center",
+    "text_blocks": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic_step",
+      "label": "1 Innovate",
+      "position": "left"
+    },
+    {
+      "type": "infographic_step",
+      "label": "2 Pilot",
+      "position": "center"
+    },
+    {
+      "type": "infographic_step",
+      "label": "3 Scale",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Text in blocks with strong color"
+  },
+  "design_language": "Modern with a focus on process flow",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "light green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Recognize TSR as a useful management tool"
+      },
+      {
+        "id": "L1",
+        "label": "Establish goals, metrics, aspirations & capabilities"
+      },
+      {
+        "id": "L2",
+        "label": "Key management practices tied to TSR"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "slide_id": "25",
+  "section": "APAC M&A Analysis",
+  "purpose": "To provide a visual representation of M&A deals by sector in APAC from 2012 to 2016",
+  "narrative_role": "Informative",
+  "title": "APAC M&A deals by sector, 2012-16",
+  "bullets": [
+    {
+      "highlight": "2015",
+      "text": "deal activity in APAC decreased across all sectors"
+    },
+    {
+      "highlight": "TMT",
+      "text": "showed a slight increase in activity, but gained 3 percent points in terms of relative incidence"
+    },
+    {
+      "highlight": "TMT, Real estate / construction",
+      "text": "together contributed to nearly 40% of the total activity in APAC"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Trend analysis",
+  "data_points": [
+    "Total deals per year",
+    "Sectoral share percentages"
+  ],
+  "cta": null,
+  "layout": "Text on right, chart on left",
+  "layout_type": "comparison",
+  "content_zones": {
+    "chart_zone": "left",
+    "text_zone": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentage and sector names"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "blue",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Announced deals, $ bn",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Deal value ($ bn)",
+      "Sector shares"
+    ],
+    "values": [
+      {
+        "year": 2012,
+        "Basic Materials": 61,
+        "Healthcare": 15,
+        "Consumer and retail": 64,
+        "Financial Services": 65,
+        "Energy & Utility": 62,
+        "Industry and others": 51,
+        "TTL": 29,
+        "TMT": 82,
+        "Real Estate/Construction": 79
+      },
+      {
+        "year": 2013,
+        "Basic Materials": 38,
+        "Healthcare": 54,
+        "Consumer and retail": 63,
+        "Financial Services": 79,
+        "Energy & Utility": 56,
+        "Industry and others": 43,
+        "TTL": 69,
+        "TMT": 110,
+        "Real Estate/Construction": 146
+      },
+      {
+        "year": 2014,
+        "Basic Materials": 33,
+        "Healthcare": 67,
+        "Consumer and retail": 78,
+        "Financial Services": 91,
+        "Energy & Utility": 106,
+        "Industry and others": 117,
+        "TTL": 110,
+        "TMT": 179,
+        "Real Estate/Construction": 179
+      },
+      {
+        "year": 2015,
+        "Basic Materials": 50,
+        "Healthcare": 81,
+        "Consumer and retail": 125,
+        "Financial Services": 118,
+        "Energy & Utility": 193,
+        "Industry and others": 118,
+        "TTL": 94,
+        "TMT": 235,
+        "Real Estate/Construction": 202
+      },
+      {
+        "year": 2016,
+        "Basic Materials": 48,
+        "Healthcare": 78,
+        "Consumer and retail": 78,
+        "Financial Services": 94,
+        "Energy & Utility": 96,
+        "Industry and others": 113,
+        "TTL": 169,
+        "TMT": 185,
+        "Real Estate/Construction": 185
+      }
+    ],
+    "annotations": [
+      "Sector shares (%)"
+    ],
+    "source": "Dealogic"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or additional infographic elements detected"
+  }
+}

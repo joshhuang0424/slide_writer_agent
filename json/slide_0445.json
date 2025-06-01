@@ -1,0 +1,121 @@
+{
+  "slide_id": "36",
+  "section": "Case Study",
+  "purpose": "To demonstrate the value of recommended marketing treatments through lifecycle optimization.",
+  "narrative_role": "Evidence",
+  "title": "Case Study #3: Quantify value of recommended marketing treatments stemming from lifecycle optimization project",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Approach: Utilizing actual account level data on a vintage MOB basis, overlaid anticipated performance impacts resulting from recommended marketing treatments in order to assess the financial impact of initiatives compared to what would likely happen if nothing was done."
+    },
+    {
+      "highlight": "",
+      "text": "Result: Determined that 3-year net financial lift would have an ROA of 100% delivering an incremental profit of $118k."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Utilizing historical data and modeling anticipated impacts to demonstrate value.",
+  "data_points": [
+    "3-year net financial lift",
+    "ROA of 100%",
+    "Incremental profit of $118k"
+  ],
+  "cta": null,
+  "layout": "Two-column with text on the left and visual elements on the right",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "left": "Text description of approach and results",
+    "right": "Table and charts"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for section titles and key metrics"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Credit Utilization Rate",
+    "x_axis_label": "",
+    "y_axis": [
+      "Credit Utilization",
+      "Amount ($)"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "P&L Overview and Aggregate Treatment Impacts",
+      "description": "Detailed financial analysis of marketing treatment impacts",
+      "headers": [
+        "Cash Flow P&L",
+        "Mar 17A YoY",
+        "Year 1",
+        "Year 2",
+        "Year 3",
+        "Forecast 3-Year"
+      ],
+      "rows": [
+        {
+          "row_label": "Cash Revenue",
+          "cells": [
+            "$20,419.41",
+            "$20,937.92",
+            "$21,460.60",
+            "$22,000.06",
+            "$22,556.38"
+          ]
+        },
+        {
+          "row_label": "Charge Offs",
+          "cells": [
+            "$3,212.87",
+            "$3,221.93",
+            "$3,231.10",
+            "$3,240.10",
+            "$3,248.77"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "Specific font details are not discernible from the image."
+}

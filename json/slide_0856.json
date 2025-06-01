@@ -1,0 +1,97 @@
+{
+  "slide_id": "1",
+  "section": "International Operations",
+  "purpose": "Showcase international branch locations",
+  "narrative_role": "Informative",
+  "title": "境外线下服务渠道",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of geographic distribution",
+  "data_points": [],
+  "cta": null,
+  "layout": "map with labels",
+  "layout_type": "visual",
+  "content_zones": {
+    "title": "top-left",
+    "map": "center",
+    "labels": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "map",
+      "label": "World Map",
+      "position": "center"
+    },
+    {
+      "type": "label",
+      "label": "卢森堡分行",
+      "position": "center"
+    },
+    {
+      "type": "label",
+      "label": "首尔分行",
+      "position": "right"
+    },
+    {
+      "type": "label",
+      "label": "东京代表处",
+      "position": "right"
+    },
+    {
+      "type": "label",
+      "label": "香港分行",
+      "position": "right"
+    },
+    {
+      "type": "label",
+      "label": "澳门分行（筹建中）",
+      "position": "right"
+    },
+    {
+      "type": "label",
+      "label": "悉尼分行",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family not identifiable from image."
+  }
+}

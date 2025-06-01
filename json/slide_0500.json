@@ -1,0 +1,116 @@
+{
+  "slide_id": "",
+  "section": "Diversity Impact",
+  "purpose": "Highlight the benefits of diversity, equity, and inclusion on performance",
+  "narrative_role": "Informative",
+  "title": "Our research points to five ways that diversity, equity and inclusion impact performance",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Win the war for talent"
+    },
+    {
+      "highlight": "2",
+      "text": "Improve the quality of decision making"
+    },
+    {
+      "highlight": "3",
+      "text": "Increase customer insight and innovation"
+    },
+    {
+      "highlight": "4",
+      "text": "Drive employee motivation and satisfaction"
+    },
+    {
+      "highlight": "5",
+      "text": "Improve a company’s global image and license to operate"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "List",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullets with icons",
+  "layout_type": "list",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "check mark",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "head",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "light bulb",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "heart and hand",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "globe",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Clean and professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Unknown",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": {
+      "color_scheme.accent": "The accent color is not specified in the slide.",
+      "font.title.font_family": "Font family is not specified.",
+      "font.title.size": "Font size is not specified.",
+      "font.body.font_family": "Font family is not specified.",
+      "font.body.size": "Font size is not specified."
+    }
+  }
+}

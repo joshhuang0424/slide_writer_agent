@@ -1,0 +1,189 @@
+{
+  "slide_id": "69",
+  "section": "Potential Value Drivers",
+  "purpose": "To highlight key financial ratios and metrics for valuation differences across an industry.",
+  "narrative_role": "Informative",
+  "title": "Potential value drivers: 200+ financial ratios analyzed to determine differences in valuation across an industry",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of financial metrics into groups",
+  "data_points": [],
+  "cta": null,
+  "layout": "5-column layout with icons",
+  "layout_type": "multi-column",
+  "content_zones": {
+    "header": {
+      "position": "top",
+      "content": "Potential value drivers: 200+ financial ratios analyzed to determine differences in valuation across an industry"
+    },
+    "columns": [
+      {
+        "title": "Growth performance",
+        "items": [
+          "Revenue Growth",
+          "Revenue/share Growth",
+          "Asset Growth",
+          "Sustainable Growth",
+          "EPS Growth",
+          "EBITDAR Growth",
+          "EBIT Growth",
+          "NOPAT Growth",
+          "Est. Future Rev Growth",
+          "Est. Future EPS Growth"
+        ]
+      },
+      {
+        "title": "Flow performance",
+        "items": [
+          "Gross Margin",
+          "EBITDAR Margin",
+          "EBIT Margin",
+          "NOPAT Margin",
+          "OPEX %Revenue",
+          "OPEX %Revenue (w/o D&A)",
+          "OPEX %Revenue (w/o R&D)",
+          "Net Income Margin",
+          "Net Inc Margin (b4 ex-items)",
+          "SG&A %Revenue",
+          "Advert %Revenue",
+          "Gross",
+          "R&D %Revenue"
+        ]
+      },
+      {
+        "title": "Return and Balance Sheet measures",
+        "items": [
+          "ROE",
+          "RONA",
+          "ROGA",
+          "ROIC",
+          "CFROI",
+          "CVA",
+          "EVA",
+          "Asset Turnover",
+          "Inventory Turnover",
+          "CAPEX %Revenue",
+          "Cash/Revenue",
+          "Cash/Assets",
+          "Cash %Costs (Cash yrs)"
+        ]
+      },
+      {
+        "title": "Debt measures",
+        "items": [
+          "Debt/Revenue",
+          "Debt/Revenue^2",
+          "Debt/Assets",
+          "Debt/Assets^2",
+          "Net Debt/Revenue",
+          "Net Debt/Revenue^2",
+          "Net Debt/Assets",
+          "Net Debt/Assets^2",
+          "Net Debt/Mkt Cap",
+          "Net Debt/EV",
+          "Net Debt/EV^2",
+          "Net Debt/EV Book (Net Assets)",
+          "Quick Ratio"
+        ]
+      },
+      {
+        "title": "Others",
+        "items": [
+          "Dividends %Revenue",
+          "Dividends %EBITDA (NOI)",
+          "Dividend Payout Ratio",
+          "FCF %Revenue",
+          "FCF %Assets",
+          "FCF %Gross Assets",
+          "Buyback %shares",
+          "Buyback Payout Ratio",
+          "Total Payout Ratio Size",
+          "Revenue Variability",
+          "Cash Flow Variability",
+          "Net Income Variability",
+          "RONA Variability",
+          "ROGA Variability",
+          "ROE Variability",
+          "Effective tax rates",
+          "Tax structures",
+          "GM Variability",
+          "EBITDAR%Rev Variability",
+          "EBIT%Rev Variability",
+          "NI%Rev Variability",
+          "Reinv Rate Variability"
+        ]
+      }
+    ]
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "bar chart",
+      "position": "Growth performance"
+    },
+    {
+      "type": "icon",
+      "label": "speedometer",
+      "position": "Flow performance"
+    },
+    {
+      "type": "icon",
+      "label": "balance sheet",
+      "position": "Return and Balance Sheet measures"
+    },
+    {
+      "type": "icon",
+      "label": "scales",
+      "position": "Debt measures"
+    },
+    {
+      "type": "icon",
+      "label": "cog",
+      "position": "Others"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 15,
+    "max_words_per_bullet": 5,
+    "emphasis_rule": "Highlight key metrics in green"
+  },
+  "design_language": "Minimalist with iconography",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": {
+    "_why_unknown": "No chart or pyramid infographic is present on the slide."
+  }
+}

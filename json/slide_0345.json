@@ -1,0 +1,106 @@
+{
+  "slide_id": "153",
+  "section": "Internal use only",
+  "purpose": "To present the movie theatre's program effectiveness and results",
+  "narrative_role": "Informative",
+  "title": "Movie Theatre Organization",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column layout with highlights on results",
+  "layout_type": "informative grid",
+  "content_zones": {
+    "header": {
+      "title": "Movie Theatre Organization",
+      "subtitle": "Measure Program Loyalty",
+      "position": "top-left"
+    },
+    "situation": {
+      "title": "Situation",
+      "content": "Movie theatre organization wanted to understand how their guests’ behavior changed after enrollment in their rewards program.",
+      "bullets": [
+        "Compare guest spending behavior pre- and post program enrollment",
+        "Accurately assess the program, despite its apparent success"
+      ],
+      "position": "left"
+    },
+    "approach": {
+      "title": "Approach",
+      "content": "Utilizing proprietary spending data and analytical solutions:",
+      "bullets": [
+        "Looked at loyalty members and analyzed their spend pre- and post program enrollment",
+        "Ascertained spend metrics with the movie theatre including: average ticket, average frequency and customer loyalty"
+      ],
+      "position": "center"
+    },
+    "results": {
+      "title": "Results",
+      "bullets": [
+        {
+          "highlight": ">50% INCREASE SPEND",
+          "text": ""
+        },
+        {
+          "highlight": ">20% INCREASE LOYALTY",
+          "text": ""
+        }
+      ],
+      "additional_text": "Ability to calculate a more accurate program ROI and overall ‘customer value’",
+      "position": "right"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Internal use only",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted values in orange"
+  },
+  "design_language": "Corporate with emphasis on orange accents",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "slide_id": "13",
+  "section": "Industry Factors",
+  "purpose": "To illustrate key factors affecting different industries' valuations.",
+  "narrative_role": "informative",
+  "title": "其篩選出來之倍數關鍵因子會因產業不同而有所差異",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "3-column comparison",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted numbers"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "light green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "Mining",
+      "description": "Factors affecting mining industry valuations",
+      "headers": [
+        "Value",
+        "Factor"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "21",
+            "Unexplained"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Buybacks % EBITDA"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Forecast EPS Growth"
+          ]
+        },
+        {
+          "cells": [
+            "10",
+            "Large Cap (>$2B)"
+          ]
+        },
+        {
+          "cells": [
+            "12",
+            "Net Debt/Assets"
+          ]
+        },
+        {
+          "cells": [
+            "14",
+            "ROGA"
+          ]
+        },
+        {
+          "cells": [
+            "16",
+            "Iron Ore Price"
+          ]
+        },
+        {
+          "cells": [
+            "16",
+            "Dividends % EBITDA"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    },
+    {
+      "title": "Metals (incl. steel)",
+      "description": "Factors affecting metals industry valuations",
+      "headers": [
+        "Value",
+        "Factor"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "22",
+            "Unexplained"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Dividend/Gross margin"
+          ]
+        },
+        {
+          "cells": [
+            "12",
+            "Fwd revenue growth"
+          ]
+        },
+        {
+          "cells": [
+            "9",
+            "(Debt/Assets)^2"
+          ]
+        },
+        {
+          "cells": [
+            "18",
+            "Credit Grade"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "Chg in Chinese steel price"
+          ]
+        },
+        {
+          "cells": [
+            "12",
+            "GI turns"
+          ]
+        },
+        {
+          "cells": [
+            "14",
+            "EBIT margin"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    },
+    {
+      "title": "Diversified industrials",
+      "description": "Factors affecting diversified industrials valuations",
+      "headers": [
+        "Value",
+        "Factor"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "19",
+            "Unexplained"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Debt/Assets"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Fcst EPS"
+          ]
+        },
+        {
+          "cells": [
+            "9",
+            "Size"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "R&D"
+          ]
+        },
+        {
+          "cells": [
+            "11",
+            "Dividends"
+          ]
+        },
+        {
+          "cells": [
+            "18",
+            "Opex"
+          ]
+        },
+        {
+          "cells": [
+            "24",
+            "EBIT margin"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or additional infographic levels identified, only tables with highlighted values."
+  }
+}

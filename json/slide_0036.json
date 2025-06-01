@@ -1,0 +1,74 @@
+{
+  "slide_id": "1",
+  "section": "Cover",
+  "purpose": "Introduction",
+  "narrative_role": "Title Slide",
+  "title": "BCG Boston Consulting Group",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Branding",
+  "data_points": [],
+  "cta": null,
+  "layout": "Full screen with logo",
+  "layout_type": "Cover",
+  "content_zones": {
+    "main": "center",
+    "background": "full"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "BCG",
+      "position": "center"
+    },
+    {
+      "type": "text",
+      "label": "Boston Consulting Group",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Logo emphasis"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "dark"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

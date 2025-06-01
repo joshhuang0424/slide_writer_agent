@@ -1,0 +1,78 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To convey the importance of measuring impact in programs for children.",
+  "narrative_role": "Introduction",
+  "title": "To ensure the best results for the children in our programmes, we need to measure our impact",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrating the importance of impact measurement through a cyclical process.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Visual",
+  "layout_type": "Visual with Text",
+  "content_zones": {
+    "title": "top",
+    "visual": "center",
+    "text": "right and bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Impact",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Quality improvements",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Transparency",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key terms"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#0070C0",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

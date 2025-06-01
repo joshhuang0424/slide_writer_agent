@@ -1,0 +1,202 @@
+{
+  "slide_id": "9",
+  "section": "Transitioning a Domain",
+  "purpose": "To illustrate the potential need for agility and innovation in different product and operational capacities across card and non-card rails.",
+  "narrative_role": "Analytical",
+  "title": "Transitioning a domain can provide ‘local critical mass’ in terms of speed and agility",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title at the top, table below",
+  "layout_type": "Title and table",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": ""
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of potential needs across different financial processes",
+      "headers": [
+        "Non-card rails",
+        "Check",
+        "ACH",
+        "Wire",
+        "RTP/Zelle",
+        "Bill pay",
+        "ATM/cash",
+        "Debit card",
+        "Credit",
+        "Prepaid card",
+        "Merchant acquirer",
+        "Commercial card"
+      ],
+      "rows": [
+        {
+          "row_label": "Sales and products",
+          "cells": [
+            "Origination",
+            "blue",
+            "blue",
+            "blue",
+            "black",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "",
+            "blue",
+            "grey"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Product configuration",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "",
+            "grey",
+            "grey"
+          ]
+        },
+        {
+          "row_label": "Operations",
+          "cells": [
+            "Servicing and call center",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "",
+            "blue",
+            "blue"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Processing",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "N/A",
+            "grey",
+            "grey"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Exceptions, clearing, and settlement",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "",
+            "blue",
+            "blue"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Fraud monitoring",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "grey",
+            "",
+            "grey",
+            "grey"
+          ]
+        },
+        {
+          "row_label": "Enablers",
+          "cells": [
+            "Data and analytics",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "blue",
+            "",
+            "blue",
+            "blue"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid with colored blocks"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "Font family and size are not specified in the image; only style (bold) is identifiable."
+  }
+}

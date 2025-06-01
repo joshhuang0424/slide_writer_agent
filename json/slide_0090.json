@@ -1,0 +1,145 @@
+{
+  "slide_id": "16",
+  "section": "Discount Expectations",
+  "purpose": "To present the change in discount expectations for vehicle purchases after the second lockdown.",
+  "narrative_role": "Data presentation",
+  "title": "Discount expectations have significantly increased since 2nd lockdown – fewer customers state to buy “independently of discount”",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of discount expectations across different countries and timeframes.",
+  "data_points": [
+    {
+      "country": "UK",
+      "more_than_20_percent": [
+        16,
+        19
+      ],
+      "up_to_20_percent": [
+        59,
+        67
+      ],
+      "independently": [
+        24,
+        14
+      ]
+    },
+    {
+      "country": "Germany",
+      "more_than_20_percent": [
+        23,
+        23
+      ],
+      "up_to_20_percent": [
+        54,
+        63
+      ],
+      "independently": [
+        22,
+        14
+      ]
+    },
+    {
+      "country": "France",
+      "more_than_20_percent": [
+        18,
+        26
+      ],
+      "up_to_20_percent": [
+        63,
+        67
+      ],
+      "independently": [
+        19,
+        7
+      ]
+    },
+    {
+      "country": "Italy",
+      "more_than_20_percent": [
+        27,
+        35
+      ],
+      "up_to_20_percent": [
+        60,
+        55
+      ],
+      "independently": [
+        13,
+        10
+      ]
+    }
+  ],
+  "cta": null,
+  "layout": "Bar chart grid",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "above chart"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "above chart"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "above chart"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "above chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for important terms"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "navy blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar chart",
+    "title": "Required discount amount for consumer to purchase a vehicle in next 1-2 months",
+    "x_axis_label": "Time (Sep 2-4, Nov 6-10)",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific bullets or additional text data provided in the slide, focus is on chart data."
+  }
+}

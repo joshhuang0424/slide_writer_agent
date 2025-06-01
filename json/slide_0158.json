@@ -1,0 +1,177 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Guideline Development",
+  "narrative_role": "Informative",
+  "title": "Mapping Guidelines for News Talent Pipeline",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Hierarchical Mapping",
+  "data_points": [],
+  "cta": null,
+  "layout": "Left pyramid with right table",
+  "layout_type": "pyramid_table",
+  "content_zones": {
+    "title": "top_center",
+    "infographic": "left",
+    "table": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "#1D1D1B",
+    "accent": "#FFFFFF",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Board of Directors"
+      },
+      {
+        "id": "L1",
+        "label": "C-level executives & presidents"
+      },
+      {
+        "id": "L2",
+        "label": "Senior VPs"
+      },
+      {
+        "id": "L3",
+        "label": "Vice Presidents"
+      },
+      {
+        "id": "L4",
+        "label": "Senior managers / Directors"
+      },
+      {
+        "id": "L5",
+        "label": "Managers"
+      },
+      {
+        "id": "L6",
+        "label": "Entry Level"
+      },
+      {
+        "id": "L7",
+        "label": "Field or frontline"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Mapping Guidelines",
+      "description": "Roles in different media formats",
+      "headers": [
+        "Digital",
+        "Broadcast",
+        "Radio",
+        "Print"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Board of Directors",
+            "Board of Directors",
+            "Board of Directors",
+            "Board of Directors"
+          ]
+        },
+        {
+          "cells": [
+            "President, Owner",
+            "CEO, COO, CFO",
+            "President, COO",
+            "Publisher, CEO, COO, CFO"
+          ]
+        },
+        {
+          "cells": [
+            "President, Managing Editor",
+            "President",
+            "Executive Vice President",
+            "Executive Editor, Editor-in-Chief"
+          ]
+        },
+        {
+          "cells": [
+            "Executive Editor, VP",
+            "Executive Producer, Anchor, Senior Broadcast Producers, Editorial Directors",
+            "Executive Producer",
+            "Deputy Editor"
+          ]
+        },
+        {
+          "cells": [
+            "Senior Editor, Senior Producer",
+            "Producer, Correspondent, Operations Producer",
+            "Section/Desk Head, Senior Editor",
+            "Bureau Chief, Features Editor, Design Director, Director of Photography"
+          ]
+        },
+        {
+          "cells": [
+            "Editor",
+            "Associate Producer, Assignment Editor, Researcher",
+            "Producer, Editor",
+            "Head of research, Copy Chief"
+          ]
+        },
+        {
+          "cells": [
+            "Reporter, Researcher, Video journalist, Copy-editor",
+            "Desk Assistant, Production Assistant, Researcher",
+            "Reporter, Researcher, Writer",
+            "Reporter, Copy-editor, Staff Writer, Photographers"
+          ]
+        },
+        {
+          "cells": [
+            "Freelancer, Permatemp",
+            "Fixer, Stringer, Desk Assistant (part time), Camera men",
+            "Temp Reporter, Anchor, Researcher, Producer",
+            "Freelancer, Researcher, Copy-editor, Contributing Writer"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "Slide is informative with structured layout; no missing elements."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "slide_id": "4",
+  "section": "Team Introduction",
+  "purpose": "Introduce presenters and experts for the session.",
+  "narrative_role": "Introduction",
+  "title": "Session Presenters and Experts",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Direct listing of team members with roles.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Horizontal alignment of presenter and expert profiles",
+  "layout_type": "Profile layout",
+  "content_zones": {
+    "presenters": {
+      "position": "top",
+      "members": 2
+    },
+    "experts": {
+      "position": "bottom",
+      "members": 5
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Vishal Arora",
+      "position": "top-left"
+    },
+    {
+      "type": "image",
+      "label": "Priyanshu Sawalka",
+      "position": "top-right"
+    },
+    {
+      "type": "image",
+      "label": "Luckner Polycarpe",
+      "position": "bottom-left"
+    },
+    {
+      "type": "image",
+      "label": "Shashank Trivedi",
+      "position": "bottom-center-left"
+    },
+    {
+      "type": "image",
+      "label": "Thalia Comninellis",
+      "position": "bottom-center"
+    },
+    {
+      "type": "image",
+      "label": "Andrey Birukov",
+      "position": "bottom-center-right"
+    },
+    {
+      "type": "image",
+      "label": "Young-Ji Park",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Names are bolded"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or data tables present; content is focused on team introduction."
+  }
+}

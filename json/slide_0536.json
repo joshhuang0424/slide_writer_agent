@@ -1,0 +1,225 @@
+{
+  "slide_id": "27",
+  "section": "MIS Overview",
+  "purpose": "To highlight the importance of an MIS in assessing fraud operational performance.",
+  "narrative_role": "Informative",
+  "title": "A Management Information System MIS is critical to assess each aspect of fraud operational performance",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with header and sidebar",
+  "layout_type": "text and table",
+  "content_zones": {
+    "header": {
+      "position": "top",
+      "content": "A Management Information System MIS is critical to assess each aspect of fraud operational performance"
+    },
+    "left_sidebar": {
+      "position": "left",
+      "content": "Examples of data that should be part of a comprehensive MIS"
+    },
+    "body": {
+      "position": "center",
+      "content": "MIS overview and tables"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional, structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Detection Operational Reporting",
+      "description": "Criteria for standard reporting in fraud management.",
+      "headers": [
+        "Area Level Reporting",
+        "Agent Level Reporting"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Case (alert) Penetration Rate",
+            "Alerts Reviewed/Hour"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Alerts – Contact Attempts (by Channel)",
+            "Alerts Called/Hour"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Contact Success Rate (by Channel)",
+            "Frauds Detected & Saves"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Speed Worked",
+            "False-Positive Rate"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Frauds Detected",
+            "False-Negative Rate"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Net Detection Rate",
+            "Temporary Authorization Blocks"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Dollars at Risk (Saves)",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "False-Positive Rate",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "False-Negative Rate",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Temporary Authorization Blocks",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Rule Performance Reporting",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    },
+    {
+      "title": "Claims Operational Reporting",
+      "description": "Criteria for standard reporting in claims management.",
+      "headers": [
+        "Reporting to Identify Trends",
+        "Detailed Claims Reporting"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Total number of chargebacks processed and total chargebacks processed by merchant category",
+            "Chargeback win rate overall and by reason code"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Total number of chargeback second presentments processed and total second chargebacks by merchant category",
+            "Valid second presentment by acquirer / merchant"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Chargebacks by reason code",
+            "Detailed reporting on the reasons for the lost chargebacks and any accompanying message text from the acquirer"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Second presentments by reason code",
+            "Total daily incoming and outgoing work by cycle"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "Inventory aging – (total and by individual work queue)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "Daily write-off report (by type)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "Individual Analyst reports – number of chargebacks, by cycle, by outcome, by analyst"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains structured tables and text, but no specific infographic pyramid or chart elements are visible."
+  }
+}

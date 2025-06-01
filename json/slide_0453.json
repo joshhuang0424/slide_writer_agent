@@ -1,0 +1,76 @@
+{
+  "slide_id": "2",
+  "section": "Delivery",
+  "purpose": "Explain the benefits of Customer Experience Management (CEM)",
+  "narrative_role": "informative",
+  "title": "For Delivery | Why Customer Experience Management (CEM)?",
+  "bullets": [
+    {
+      "highlight": "High impact engagements",
+      "text": "that help solve client problems from an enterprise-wide perspective"
+    },
+    {
+      "highlight": "Executive-facing opportunities",
+      "text": ""
+    },
+    {
+      "highlight": "Interesting development opportunities",
+      "text": "Specialize within CEM or help apply a CEM-lens more broadly to Mastercard engagements"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presenting key advantages",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullet points",
+  "layout_type": "text-focused",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family could not be determined from the image."
+  }
+}

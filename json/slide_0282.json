@@ -1,0 +1,117 @@
+{
+  "slide_id": "12",
+  "section": "Cloud Security Framework",
+  "purpose": "To present a security framework and automation for protection and agility.",
+  "narrative_role": "Informative",
+  "title": "The right security framework and automation can enable protection and agility",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Classifying workloads and getting to a complete and specific set of standards per segment"
+    },
+    {
+      "highlight": false,
+      "text": "Providing an aspirational multi-cloud architecture by segment"
+    },
+    {
+      "highlight": false,
+      "text": "Identifying major automation use cases by application life cycle"
+    },
+    {
+      "highlight": false,
+      "text": "Defining a comprehensive operating model to instantiate the “security as code” vision"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Framework explanation and application",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with diagram",
+  "layout_type": "Diagram with text explanation",
+  "content_zones": {
+    "left": "Diagram showing cloud-security framework",
+    "right": "Bullet points explaining the framework"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Cloud-specific element",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "Framework elements",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Gray",
+    "background": "Light Gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Risk classification"
+      },
+      {
+        "id": "L1",
+        "label": "Standards, by control area"
+      },
+      {
+        "id": "L2",
+        "label": "Multi-cloud architecture"
+      },
+      {
+        "id": "L3",
+        "label": "Cloud-security automation"
+      },
+      {
+        "id": "L4",
+        "label": "Cloud-security operating model"
+      },
+      {
+        "id": "L5",
+        "label": "Integration with cloud strategy"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": {
+    "_why_unknown": "Specific font family and some design elements are not recognizable from the image alone."
+  }
+}

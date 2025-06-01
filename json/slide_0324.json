@@ -1,0 +1,177 @@
+{
+  "slide_id": "25",
+  "section": "Case Study",
+  "purpose": "To present a data analytics governance framework and target operating model for a US issuer",
+  "narrative_role": "Informational",
+  "title": "Analytics Strategy: Developing a data analytics governance framework and target operating model for a US issuer",
+  "bullets": [
+    {
+      "highlight": "current state",
+      "text": "Evaluating the current state of the Issuer’s data governance framework"
+    },
+    {
+      "highlight": "Assessing gaps",
+      "text": "Assessing gaps to determine most appropriate governance framework"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and gap analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Evaluation of current data governance framework",
+    "right": "Identification of gaps in current framework"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Key Challenges",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key terms with a different color"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "#F04E23",
+    "accent": "#FFC72C",
+    "background": "#F2F2F2"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Data accessibility"
+      },
+      {
+        "id": "L1",
+        "label": "Automation"
+      },
+      {
+        "id": "L2",
+        "label": "Resources & skillsets"
+      },
+      {
+        "id": "L3",
+        "label": "Management Information"
+      },
+      {
+        "id": "L4",
+        "label": "Analytics planning and capacity"
+      },
+      {
+        "id": "L5",
+        "label": "Data quality"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Capability Evaluation",
+      "description": "Evaluation of data governance capabilities",
+      "headers": [
+        "Capability area",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "Key insights"
+      ],
+      "rows": [
+        {
+          "row_label": "Organization awareness",
+          "cells": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "The organization has a good awareness and need for data but this tends to consist of MI only."
+          ]
+        },
+        {
+          "row_label": "Data analytics strategy",
+          "cells": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "Although there is a desire from senior management to establish a 'data culture' within the organization, there is lack of long-term planning and execution needed for implementation between business units and an analytics strategy is nascent."
+          ]
+        },
+        {
+          "row_label": "Data accessibility & governance",
+          "cells": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "Limited data accessibility and general governance coupled with disjointed infrastructure is limiting users to derive true benefit from data driving a data-driven culture."
+          ]
+        },
+        {
+          "row_label": "Data infrastructure",
+          "cells": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "The organization has good tools and people with good skills but is not using them to the best degree to create solutions to drive the organization forward."
+          ]
+        },
+        {
+          "row_label": "Analytics people & skillset",
+          "cells": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "The organization needs to balance the MI needs to customer driven segmented approaches with descriptive and predictive analytics and each analytic area needs to create the space to drive the organization forward in this way."
+          ]
+        }
+      ],
+      "position": "bottom-left",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts present on the slide; infographic styled as pyramid with clear sections labeled."
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "slide_id": "4",
+  "section": "Impact of 2nd Lockdown in EU",
+  "purpose": "Demonstrate the impact of the 2nd lockdown on car buying, aftermarket services, and mobility in the EU.",
+  "narrative_role": "Analytical",
+  "title": "2nd lockdown in EU results in a decreased purchase intent for new cars, reduction in aftermarket work, and a drop in mobility usage",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "Car buying",
+    "center": "Aftermarket",
+    "right": "Mobility"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Car buying",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Aftermarket",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Mobility",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Purchase intent new car vs. used car",
+    "x_axis_label": "Time period",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "series": "New car",
+        "data": [
+          {
+            "x": "Pre-COVID-19",
+            "y": 85
+          },
+          {
+            "x": "May 9-17",
+            "y": 80
+          },
+          {
+            "x": "May 27-29",
+            "y": 82
+          },
+          {
+            "x": "June 16-18",
+            "y": 85
+          },
+          {
+            "x": "July 15-17",
+            "y": 95
+          },
+          {
+            "x": "Sep 2-4",
+            "y": 90
+          },
+          {
+            "x": "Nov 6-10",
+            "y": 100
+          }
+        ]
+      },
+      {
+        "series": "Used car",
+        "data": [
+          {
+            "x": "Pre-COVID-19",
+            "y": 70
+          },
+          {
+            "x": "May 9-17",
+            "y": 72
+          },
+          {
+            "x": "May 27-29",
+            "y": 70
+          },
+          {
+            "x": "June 16-18",
+            "y": 75
+          },
+          {
+            "x": "July 15-17",
+            "y": 80
+          },
+          {
+            "x": "Sep 2-4",
+            "y": 85
+          },
+          {
+            "x": "Nov 6-10",
+            "y": 90
+          }
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "bar",
+    "levels": [],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Customer outlook on maintenance and repair",
+      "description": "Net impact Nov. vs. Sep in 'plan for next month'",
+      "headers": [
+        "Country",
+        "Net impact"
+      ],
+      "rows": [
+        {
+          "row_label": "UK",
+          "cells": [
+            "UK",
+            "-3"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "Germany",
+            "-3"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "France",
+            "-5"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "Italy",
+            "-11"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    },
+    {
+      "title": "Mobility pattern change vs. Pre-Covid",
+      "description": "",
+      "headers": [
+        "Month",
+        "Significantly decrease",
+        "Slightly decrease",
+        "Slightly increase",
+        "Significantly increase"
+      ],
+      "rows": [
+        {
+          "row_label": "May",
+          "cells": [
+            "May",
+            "-53",
+            "-22",
+            "3",
+            "2"
+          ]
+        },
+        {
+          "row_label": "Sep",
+          "cells": [
+            "Sep",
+            "-22",
+            "-29",
+            "7",
+            "2"
+          ]
+        },
+        {
+          "row_label": "Nov",
+          "cells": [
+            "Nov",
+            "-28",
+            "-30",
+            "5",
+            "2"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

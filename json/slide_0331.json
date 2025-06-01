@@ -1,0 +1,117 @@
+{
+  "slide_id": "32",
+  "section": "Case Study",
+  "purpose": "Present a contactless rollout strategy for a large US bank.",
+  "narrative_role": "Solution Overview",
+  "title": "Case Study: Contactless Rollout Strategy for a large US Bank",
+  "bullets": [
+    {
+      "highlight": "Overview",
+      "text": "Detailed overview of current state of contactless (mobile wallet) for the bank and US Benchmark"
+    },
+    {
+      "highlight": "US contactless forecasting model",
+      "text": "Using MC worldwide transactional data from other countries that already adopted contactless, create a US contactless forecasting model"
+    },
+    {
+      "highlight": "Contactless reissuance plan",
+      "text": "Develop a gradual contactless reissuance plan to minimize cost and satisfy customers need to have contactless cards"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven analysis and strategic planning",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Text and graphics",
+  "content_zones": {
+    "left": "Textual content including background, client problem statement, and executed solutions.",
+    "right": "Charts and infographic elements."
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "mastercard logo",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted keywords in orange."
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar and line charts",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "MC transactional data"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Distribution of Cards by Year",
+      "description": "Shows card distribution and adoption rates over several years.",
+      "headers": [
+        "Year",
+        "Card A",
+        "Card B",
+        "Card C",
+        "Adoption Rate"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "2014",
+            "10%",
+            "20%",
+            "30%",
+            "40%"
+          ]
+        },
+        {
+          "cells": [
+            "2015",
+            "15%",
+            "25%",
+            "35%",
+            "45%"
+          ]
+        }
+      ],
+      "position": "bottom right",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The chart details and exact table contents are not fully visible in the image."
+  }
+}

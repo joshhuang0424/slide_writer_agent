@@ -1,0 +1,82 @@
+{
+  "slide_id": "3",
+  "section": "Contents",
+  "purpose": "To outline key topics in global M&A for 2016.",
+  "narrative_role": "Introduction",
+  "title": "Key facts on global M&A",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Regional and cross-border M&A activity"
+    },
+    {
+      "highlight": false,
+      "text": "PE and hostile deals"
+    },
+    {
+      "highlight": false,
+      "text": "Key findings from “value creation in M&A” initiative"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text-image",
+  "content_zones": {
+    "left": "Text",
+    "right": "Image"
+  },
+  "visual_elements": [
+    {
+      "type": "illustration",
+      "label": "Globe with handshake graphics",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "white",
+    "background": "beige"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts present on the slide."
+  }
+}

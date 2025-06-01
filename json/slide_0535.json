@@ -1,0 +1,211 @@
+{
+  "slide_id": "26",
+  "section": "Fraud Management",
+  "purpose": "Analyze rule performance for fraud management",
+  "narrative_role": "Informative analysis",
+  "title": "Analytics of rule performance is essential to successful fraud and cardholder experience management",
+  "bullets": [
+    {
+      "highlight": "3.67:1",
+      "text": "With a transactional false positive rate as strong as 3.67:1, you would still not want to make Rule AH1 a decline rule due to the high dollar impact of good activity compared to the small dollar of fraud that would be prevented"
+    },
+    {
+      "highlight": "AM2",
+      "text": "Although Rule AM2 accounts for high dollar fraud losses, the interchange from valid spend and the customer experience risk would be too great to have this rule decline activity"
+    },
+    {
+      "highlight": "opportunity",
+      "text": "There may be an opportunity to identify a stronger false positive subset of transactions within this rule to extract and create a unique decline rule around"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of false positive rate and potential impact",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title, table, bullets",
+  "layout_type": "Content with data table",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "bullets": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key figures and rules"
+  },
+  "design_language": "Professional with emphasis on key data points",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Rule Performance Data",
+      "description": "Table showing rule performance metrics",
+      "headers": [
+        "Rule ID",
+        "# Good Txns",
+        "# Fraud Txns",
+        "Good $$",
+        "Fraud $$",
+        "Txn Fraud Rate",
+        "$ Fraud Rate",
+        "Txn FPR",
+        "% Dist Good #s",
+        "% Dist Fraud #s",
+        "% Dist Good $$",
+        "% Dist Fraud $$",
+        "Action",
+        "Queue",
+        "Auto Block"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "D1",
+            "80",
+            "176",
+            "$1,750",
+            "$6,845",
+            "68.75%",
+            "79.54%",
+            "0.45",
+            "0.000%",
+            "0.03%",
+            "0.00%",
+            "0.02%",
+            "D/Q",
+            "Decline",
+            "Y"
+          ]
+        },
+        {
+          "cells": [
+            "D2",
+            "8,160",
+            "3,322",
+            "$128,583",
+            "$46,608",
+            "28.93%",
+            "26.60%",
+            "2.46",
+            "0.001%",
+            "0.60%",
+            "0.00%",
+            "0.13%",
+            "D/Q",
+            "Decline",
+            "Y"
+          ]
+        },
+        {
+          "cells": [
+            "AH1",
+            "360",
+            "98",
+            "$639,520",
+            "$4,791",
+            "21.40%",
+            "0.74%",
+            "3.67",
+            "0.000%",
+            "0.02%",
+            "0.00%",
+            "0.01%",
+            "A/Q",
+            "High",
+            "N"
+          ]
+        },
+        {
+          "cells": [
+            "AM1",
+            "2,720",
+            "217",
+            "$58,203",
+            "$3,952",
+            "7.39%",
+            "6.36%",
+            "12.53",
+            "0.000%",
+            "0.04%",
+            "0.00%",
+            "1.00%",
+            "A/Q",
+            "Med",
+            "N"
+          ]
+        },
+        {
+          "cells": [
+            "AM2",
+            "19,520",
+            "1,489",
+            "$2,500,600",
+            "$68,360",
+            "7.09%",
+            "2.66%",
+            "13.11",
+            "0.030%",
+            "0.27%",
+            "0.01%",
+            "0.19%",
+            "A/Q",
+            "Med",
+            "N"
+          ]
+        },
+        {
+          "cells": [
+            "AL1",
+            "21,560",
+            "679",
+            "$441,360",
+            "$14,632",
+            "3.05%",
+            "3.21%",
+            "31.75",
+            "0.003%",
+            "0.12%",
+            "0.00%",
+            "0.04%",
+            "A/Q",
+            "Low",
+            "N"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

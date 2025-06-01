@@ -1,0 +1,122 @@
+{
+  "slide_id": "20",
+  "section": "Consumer Preferences",
+  "purpose": "To show the decrease in physical interaction preference at dealerships by age group.",
+  "narrative_role": "Informative",
+  "title": "Preference to interact physically at dealership has particularly decreased for age group 35-54 years",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 6 (Nov 6-10)",
+    "Percent of respondents"
+  ],
+  "reasoning_strategy": "Comparative analysis across age groups and countries",
+  "data_points": [
+    "UK: Age 18-34: -10, Age 35-54: -8, Age 55-70: -8",
+    "Germany: Age 18-34: 0, Age 35-54: -11, Age 55-70: -9",
+    "France: Age 18-34: +5, Age 35-54: -4, Age 55-70: 0",
+    "Italy: Age 18-34: -3, Age 35-54: -14, Age 55-70: -4"
+  ],
+  "cta": null,
+  "layout": "Two-column with charts",
+  "layout_type": "Chart-centric",
+  "content_zones": {
+    "top": "Title and context",
+    "middle": "Bar charts",
+    "bottom": "Source and notes"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "above first chart"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "above second chart"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "above third chart"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "above fourth chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold and color for emphasis on data points"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Pink",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "24",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Consumer preferences by age and country",
+    "x_axis_label": "Age groups",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "country": "UK",
+        "age_18_34": 21,
+        "age_35_54": 31,
+        "age_55_70": 46
+      },
+      {
+        "country": "Germany",
+        "age_18_34": 32,
+        "age_35_54": 37,
+        "age_55_70": 58
+      },
+      {
+        "country": "France",
+        "age_18_34": 36,
+        "age_35_54": 43,
+        "age_55_70": 57
+      },
+      {
+        "country": "Italy",
+        "age_18_34": 35,
+        "age_35_54": 41,
+        "age_55_70": 61
+      }
+    ],
+    "annotations": [
+      "Δ pp. vs. previous purchase"
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family could not be determined from image."
+  }
+}

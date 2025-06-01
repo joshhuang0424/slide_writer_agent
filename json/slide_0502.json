@@ -1,0 +1,94 @@
+{
+  "slide_id": "6",
+  "section": "Employee Satisfaction",
+  "purpose": "To highlight the importance of equal opportunity and fairness in employee satisfaction and retention.",
+  "narrative_role": "Illustrative",
+  "title": "Equal opportunity and fairness are vital – together, they are the biggest predictors of employee satisfaction and retention",
+  "bullets": [
+    {
+      "highlight": "3x",
+      "text": "more likely to say they are happy with their career"
+    },
+    {
+      "highlight": "3x",
+      "text": "more likely to plan to stay at their company longer"
+    },
+    {
+      "highlight": "3x",
+      "text": "more likely to recommend their company"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Emphasis on statistical impact",
+  "data_points": [],
+  "cta": null,
+  "layout": "Vertical",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "title": "top",
+    "bullets": "middle",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Happy face",
+      "position": "middle left"
+    },
+    {
+      "type": "icon",
+      "label": "Building",
+      "position": "middle center"
+    },
+    {
+      "type": "icon",
+      "label": "Group",
+      "position": "middle right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numbers"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific pyramid or chart structure was identified in the slide."
+  }
+}

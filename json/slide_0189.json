@@ -1,0 +1,108 @@
+{
+  "slide_id": "20",
+  "section": "BCG TSR 案例流程分享",
+  "purpose": "展示管理、評估業務組合的價值變化",
+  "narrative_role": "說明",
+  "title": "管理、評估業務組合 (2/2)：篩選未來重點發展業務",
+  "bullets": [],
+  "supporting_facts": [
+    "現金流收益率是各业务再投资后的收益率；因四舍五入，数字相加之和未必精确。",
+    "图中的数字代表各业务单位创造的价值百分比（价值变化的百分比）。"
+  ],
+  "reasoning_strategy": "展示價值變化與組合策略",
+  "data_points": [
+    "2018-2022年價值變化，包括累計現金流"
+  ],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "chart_with_table",
+  "content_zones": {
+    "chart": "left",
+    "table": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "waterfall",
+    "title": "預估價值/股 (¥)",
+    "x_axis_label": "業務單位",
+    "y_axis": [
+      "0",
+      "6,000",
+      "7,600",
+      "9,600",
+      "18,000"
+    ],
+    "values": [
+      "2018價值",
+      "遊戲和網路",
+      "音樂",
+      "電影",
+      "HE&S",
+      "成像",
+      "移動通訊",
+      "半導體",
+      "金融服務",
+      "其他",
+      "2022價值"
+    ],
+    "annotations": [],
+    "source": "分析師估計；BCG價值科學中心"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "年度百分比",
+      "description": "各業務單位的年度百分比",
+      "headers": [
+        "現金流",
+        "資本收益",
+        "總TSR"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "3",
+            "5",
+            "8"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體信息在圖片中不可辨識"
+  }
+}

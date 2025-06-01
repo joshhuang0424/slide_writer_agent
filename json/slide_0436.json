@@ -1,0 +1,109 @@
+{
+  "slide_id": "27",
+  "section": "Financial Analysis",
+  "purpose": "To illustrate the impact of financial drivers on the income side of the P&L.",
+  "narrative_role": "Explainer",
+  "title": "Financial drivers impact the income side of the P&L",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of financial drivers affecting P&L.",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic-centric",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "banner",
+      "label": "Net Lending Margin",
+      "position": "center"
+    },
+    {
+      "type": "banner",
+      "label": "Other Income",
+      "position": "center"
+    },
+    {
+      "type": "banner",
+      "label": "Total Costs",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "Balance Amount",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "Spend Amount Delinquent Behavior",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "Revolving Balances APR Chargeoffs",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "light orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Net Lending Margin"
+      },
+      {
+        "id": "L1",
+        "label": "Other Income"
+      },
+      {
+        "id": "L2",
+        "label": "Total Costs"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts, purely infographic visuals."
+  }
+}

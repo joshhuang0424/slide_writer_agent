@@ -1,0 +1,125 @@
+{
+  "slide_id": "12",
+  "section": "EU Car Market Impact",
+  "purpose": "To illustrate the impact of lockdowns on new and used car purchase intents in the EU.",
+  "narrative_role": "Data-driven insight",
+  "title": "In the EU, demand for new cars dropped as a response to the 2nd lockdown to levels of the 1st lockdown, used cars less affected",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 1 (May 9-18), wave 2 (May 27-29), wave 3 (Jun 16-18), wave 4 (Jul 15-17), wave 5 (Sep 2-4), and wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparison of trends over time",
+  "data_points": [
+    "Purchase intent indexed to pre-COVID-19 value (=100)"
+  ],
+  "cta": null,
+  "layout": "Title at top, chart below",
+  "layout_type": "Title and chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source_note": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "text",
+      "label": "New car vs. Used car",
+      "position": "chart_legend"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Professional, data-centric",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Purchase intent next 12 months for new car vs. used car",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "60",
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "values": [
+      {
+        "label": "Pre-COVID-19",
+        "new_car": 100,
+        "used_car": 100
+      },
+      {
+        "label": "May 9-17",
+        "new_car": 75,
+        "used_car": 70
+      },
+      {
+        "label": "May 27-29",
+        "new_car": 80,
+        "used_car": 72
+      },
+      {
+        "label": "June 16-18",
+        "new_car": 85,
+        "used_car": 76
+      },
+      {
+        "label": "July 15-17",
+        "new_car": 90,
+        "used_car": 80
+      },
+      {
+        "label": "Sep 2-4",
+        "new_car": 95,
+        "used_car": 85
+      },
+      {
+        "label": "Nov 6-10",
+        "new_car": 83,
+        "used_car": 83
+      }
+    ],
+    "annotations": [
+      {
+        "text": "-2pp.",
+        "position": "after Nov 6-10"
+      },
+      {
+        "text": "-13pp.",
+        "position": "between Sep 2-4 and Nov 6-10"
+      }
+    ],
+    "source": "Source: McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or tables are present; infographic section is empty as no pyramid graphic is visible."
+  }
+}

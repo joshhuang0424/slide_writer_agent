@@ -1,0 +1,93 @@
+{
+  "slide_id": "5",
+  "section": "Challenges for Diverse Employees",
+  "purpose": "Highlight the increased challenges faced by diverse employee groups.",
+  "narrative_role": "informative",
+  "title": "Diverse employees face steeper challenges",
+  "bullets": [
+    {
+      "highlight": "1.5x",
+      "text": "Women are as likely to be concerned about mental health issues and balancing household responsibilities as men"
+    },
+    {
+      "highlight": "~1.4x",
+      "text": "LGBTQ+ employees are as likely to be concerned about fairness of performance reviews, workload increases, and a lack of connectivity and belonging as straight and cisgender employees"
+    },
+    {
+      "highlight": "~1.5x",
+      "text": "People of color are as likely to be concerned about career progression and balancing household responsibilities as white employees"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Women",
+    "center": "LGBTQ+ employees",
+    "right": "People of color"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "women",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "LGBTQ+",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "people of color",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for keywords"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No charts or tables present in the slide, only icons and text blocks."
+  }
+}

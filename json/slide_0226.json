@@ -1,0 +1,168 @@
+{
+  "slide_id": "57",
+  "section": "BCG TSR方案介紹",
+  "purpose": "提供策略決策的框架，根據增長與收益策略布局，定業務最佳運營方向。",
+  "narrative_role": "說明",
+  "title": "從TSR角度出發 “權衡” 戰略決策：根據增長與收益策略布局，定業務最佳運營方向",
+  "bullets": [
+    {
+      "highlight": "積極投資並拓展",
+      "text": "高級駕駛輔助系統、云端、物聯網、安保、人工智能。加速器等朝陽行業業務"
+    },
+    {
+      "highlight": "推進策略并購",
+      "text": "並大量招聘研發人才"
+    },
+    {
+      "highlight": "優化生產設備",
+      "text": "淘汰低利潤率產品"
+    },
+    {
+      "highlight": "調整價格，保障利潤",
+      "text": "在保障可推進業務改革以及可持續發展的前提下，節約科研、運營、營銷成本"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "分析增長和收益對企業價值的影響，製定權衡和收益雙贏的戰略舉措。",
+  "data_points": [],
+  "cta": null,
+  "layout": "雙列布局",
+  "layout_type": "複合型",
+  "content_zones": {
+    "top_left": "標題與概述",
+    "center": "策略決策框架",
+    "bottom_left": "增長與收益策略",
+    "right": "數據分析與情景模擬"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "排名高",
+      "position": "bottom_right"
+    },
+    {
+      "type": "icon",
+      "label": "排名低",
+      "position": "bottom_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "數字與策略名詞高亮"
+  },
+  "design_language": "現代且簡約，強調數據驅動",
+  "color_scheme": {
+    "primary": "綠色",
+    "accent": "灰色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "無襯線體",
+      "size": "大",
+      "weight": "粗體"
+    },
+    "body": {
+      "font_family": "無襯線體",
+      "size": "中"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "_why_unknown": "頁面中未出現金字塔圖形"
+  },
+  "tables": [
+    {
+      "title": "智能倍數分析結果示例",
+      "description": "分析增長和收益對企業價值的影響",
+      "headers": [
+        "情景",
+        "TSR (FY18-FY23)",
+        "營收 (SM,2023)",
+        "CAGR (FY18-FY23)",
+        "毛利率 (%2023)",
+        "營業利潤率 (%2023)",
+        "資本性支出 (SM)",
+        "市場風險",
+        "情景可行性",
+        "成功率"
+      ],
+      "rows": [
+        {
+          "row_label": "BCG參考情景",
+          "cells": [
+            "10-13",
+            "2,015",
+            "4%",
+            "37%",
+            "12%",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "row_label": "情景1 增長，利潤高",
+          "cells": [
+            "9-21",
+            "2,880",
+            "12%",
+            "43%",
+            "14%",
+            "-$1,070",
+            "○",
+            "○",
+            "○"
+          ]
+        },
+        {
+          "row_label": "情景2 增長，風險小",
+          "cells": [
+            "0-10",
+            "2,770",
+            "11%",
+            "39%",
+            "9%",
+            "-$1,130",
+            "●",
+            "○",
+            "●"
+          ]
+        },
+        {
+          "row_label": "情景3 增長快，利潤低",
+          "cells": [
+            "5-11",
+            "3,025",
+            "13%",
+            "37%",
+            "10%",
+            "-$1,500",
+            "●",
+            "●",
+            "○"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "標準表格"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

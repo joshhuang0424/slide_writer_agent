@@ -1,0 +1,128 @@
+{
+  "slide_id": "27",
+  "section": "Agenda",
+  "purpose": "Outline the agenda for a presentation on reward economics.",
+  "narrative_role": "Introduction",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Chapter 1: Key terms of reward economics"
+    },
+    {
+      "highlight": false,
+      "text": "Earn rate"
+    },
+    {
+      "highlight": false,
+      "text": "Burn rate"
+    },
+    {
+      "highlight": false,
+      "text": "Give back rate"
+    },
+    {
+      "highlight": false,
+      "text": "Cost per point"
+    },
+    {
+      "highlight": false,
+      "text": "Active engagement rate & Customer satisfaction"
+    },
+    {
+      "highlight": false,
+      "text": "Redeemed vs earned & Expired vs earned"
+    },
+    {
+      "highlight": true,
+      "text": "Chapter 2: Financial impact evaluation"
+    },
+    {
+      "highlight": false,
+      "text": "Framework for impact calculation"
+    },
+    {
+      "highlight": false,
+      "text": "Assessment of status quo"
+    },
+    {
+      "highlight": false,
+      "text": "Evaluation of current financial impact"
+    },
+    {
+      "highlight": false,
+      "text": "Creation of loyalty proposition and comparative analysis"
+    },
+    {
+      "highlight": false,
+      "text": "Validation and finalization of proposition"
+    },
+    {
+      "highlight": false,
+      "text": "Chapter 3: Integrated loyalty"
+    },
+    {
+      "highlight": false,
+      "text": "Customer lifecycle"
+    },
+    {
+      "highlight": false,
+      "text": "Pan bank loyalty program"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential listing of key topics and subtopics.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Textual list overlaid on a blurred background image.",
+  "layout_type": "list",
+  "content_zones": {
+    "left": "Textual agenda items",
+    "right": "Blurred background with sticky notes"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and highlighted background for main chapters."
+  },
+  "design_language": "Professional and clean with highlighted sections.",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FFDDCC",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts detected in the slide. The slide is primarily a textual agenda."
+  }
+}

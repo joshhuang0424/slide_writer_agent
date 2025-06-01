@@ -1,0 +1,74 @@
+{
+  "slide_id": "5",
+  "section": "Introduction",
+  "purpose": "Highlight core work areas",
+  "narrative_role": "Introduction",
+  "title": "We assess impact for our core work in Family Strengthening (FS) and Family-Based Care (FBC)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight key areas",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "visual",
+  "content_zones": {
+    "left_image": "Family Strengthening",
+    "right_image": "Family Based Care"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Family Strengthening",
+      "position": "left"
+    },
+    {
+      "type": "image",
+      "label": "Family Based Care",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title emphasized in blue"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "white",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables, charts, or additional text elements are present on the slide."
+  }
+}

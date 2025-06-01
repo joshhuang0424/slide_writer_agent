@@ -1,0 +1,60 @@
+{
+  "slide_id": "final_slide",
+  "section": "conclusion",
+  "purpose": "To thank the audience and provide a link to the full report",
+  "narrative_role": "closure",
+  "title": "Thank you",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Express gratitude and encourage further reading",
+  "data_points": [],
+  "cta": "Read the full report: www.womenintheworkplace.com",
+  "layout": "simple",
+  "layout_type": "full-screen text",
+  "content_zones": {
+    "center": "Thank you",
+    "bottom": "Read the full report: www.womenintheworkplace.com"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "centered emphasis"
+  },
+  "design_language": "minimalist",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "none",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

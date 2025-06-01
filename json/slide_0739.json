@@ -1,0 +1,112 @@
+{
+  "slide_id": "23",
+  "section": "First purchase acquisition strategies",
+  "purpose": "To analyze the impact of the channel of first purchase on customer acquisition and value.",
+  "narrative_role": "Analytical",
+  "title": "First purchase acquisition strategy: segment customers by the channel of their first purchase",
+  "bullets": [],
+  "supporting_facts": [
+    "A main driver behind the large gap between Bank and benchmark’s long-term value is “cardholders who make their first purchase offline”"
+  ],
+  "reasoning_strategy": "Comparative analysis of offline and online purchase channels.",
+  "data_points": [],
+  "cta": "“cardholders who make their first purchase offline” should be further analyzed to optimize acquisition and operational models",
+  "layout": "Dual chart with text explanation",
+  "layout_type": "chart_and_text",
+  "content_zones": {
+    "header": "top",
+    "charts": "center",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Next Step",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key drivers"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "1st year spend per card forecast",
+    "x_axis_label": "Month",
+    "y_axis": [
+      "Spend",
+      "Percentage"
+    ],
+    "values": [
+      {
+        "label": "Offline",
+        "data": [
+          "May 2018",
+          "Jun 2018",
+          "Jul 2018",
+          "Aug 2018",
+          "Sep 2018",
+          "Oct 2018"
+        ],
+        "values": [
+          2000,
+          2500,
+          3000,
+          3500,
+          4000,
+          4500
+        ]
+      },
+      {
+        "label": "Online",
+        "data": [
+          "May 2018",
+          "Jun 2018",
+          "Jul 2018",
+          "Aug 2018",
+          "Sep 2018",
+          "Oct 2018"
+        ],
+        "values": [
+          3000,
+          3200,
+          3400,
+          3600,
+          3800,
+          4000
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Mastercard Data"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

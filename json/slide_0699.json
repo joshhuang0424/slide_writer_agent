@@ -1,0 +1,244 @@
+{
+  "slide_id": "20",
+  "section": "Americas M&A market",
+  "purpose": "To present the trends in the Americas M&A market from 2008 to 2016.",
+  "narrative_role": "Informative",
+  "title": "Americas M&A market, 2008-16",
+  "bullets": [
+    {
+      "highlight": "-18%",
+      "text": "Activity in Americas region decreased by 18% during 2016 vs 2015"
+    },
+    {
+      "highlight": "-10%",
+      "text": "Number of deals also fell by -10% vs. 2015, resulting in decrease of average deal value (-9% vs 2015)"
+    },
+    {
+      "highlight": "50%",
+      "text": "Americas region’s share of global activity remained at about 50%, making it the most active region for 8 years in a row"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data comparison across years",
+  "data_points": [
+    "Value and number of deals from 2008 to 2016"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart and bullets",
+  "layout_type": "Chart with bullet points",
+  "content_zones": {
+    "chart": "left",
+    "bullets": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight significant changes"
+  },
+  "design_language": "Professional with emphasis on data",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "Bar and line chart",
+    "title": "Announced deals",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Value $bn",
+      "Number of deals"
+    ],
+    "values": [
+      {
+        "year": "2008",
+        "value": 1197,
+        "deals": 2337
+      },
+      {
+        "year": "2009",
+        "value": 889,
+        "deals": 1607
+      },
+      {
+        "year": "2010",
+        "value": 1118,
+        "deals": 2430
+      },
+      {
+        "year": "2011",
+        "value": 1216,
+        "deals": 2599
+      },
+      {
+        "year": "2012",
+        "value": 1237,
+        "deals": 2805
+      },
+      {
+        "year": "2013",
+        "value": 1297,
+        "deals": 2573
+      },
+      {
+        "year": "2014",
+        "value": 1735,
+        "deals": 2732
+      },
+      {
+        "year": "2015",
+        "value": 2316,
+        "deals": 2813
+      },
+      {
+        "year": "2016",
+        "value": 1891,
+        "deals": 2526
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Deal statistics",
+      "description": "Yearly deal value and number comparison",
+      "headers": [
+        "Year",
+        "Deal value (bn)",
+        "% change",
+        "Number of deals",
+        "% change",
+        "Average deal value (mn)",
+        "% change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "2008",
+            "1,197",
+            "",
+            "2,337",
+            "",
+            "512",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "2009",
+            "889",
+            "-26%",
+            "1,607",
+            "-31%",
+            "553",
+            "8%"
+          ]
+        },
+        {
+          "cells": [
+            "2010",
+            "1,118",
+            "26%",
+            "2,430",
+            "51%",
+            "460",
+            "-17%"
+          ]
+        },
+        {
+          "cells": [
+            "2011",
+            "1,216",
+            "9%",
+            "2,599",
+            "7%",
+            "468",
+            "2%"
+          ]
+        },
+        {
+          "cells": [
+            "2012",
+            "1,237",
+            "2%",
+            "2,805",
+            "8%",
+            "441",
+            "-6%"
+          ]
+        },
+        {
+          "cells": [
+            "2013",
+            "1,297",
+            "5%",
+            "2,573",
+            "-8%",
+            "504",
+            "14%"
+          ]
+        },
+        {
+          "cells": [
+            "2014",
+            "1,735",
+            "34%",
+            "2,732",
+            "6%",
+            "635",
+            "26%"
+          ]
+        },
+        {
+          "cells": [
+            "2015",
+            "2,316",
+            "33%",
+            "2,813",
+            "3%",
+            "823",
+            "30%"
+          ]
+        },
+        {
+          "cells": [
+            "2016",
+            "1,891",
+            "-18%",
+            "2,526",
+            "-10%",
+            "749",
+            "-9%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present on the slide."
+  }
+}

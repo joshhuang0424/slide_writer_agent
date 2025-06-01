@@ -1,0 +1,98 @@
+{
+  "slide_id": "20",
+  "section": "Bank Analysis",
+  "purpose": "Highlight key attributes and issues of First Interstate Bank",
+  "narrative_role": "Informative",
+  "title": "First Interstate Bank headquartered in Billings, MT is Montana’s largest bank",
+  "bullets": [
+    {
+      "highlight": "A",
+      "text": "First Interstate is a community, branch-focused bank focused on its traditional client base – think established ranchers"
+    },
+    {
+      "highlight": "B",
+      "text": "Many branches and markets operate like individual banks and have a strong in ‘frontier spirit’ as a result of a large and spread out geographical footprint"
+    },
+    {
+      "highlight": "C",
+      "text": "The bank is actively acquiring new banks, including Bank of the Cascades"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of bank attributes with challenges",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with text and icons",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Attributes of First Interstate Bank",
+    "right": "Challenges faced by the bank"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "fire",
+      "position": "top-right"
+    },
+    {
+      "type": "arrow",
+      "label": "Struggling to attract the next generation of clients, under-indexing on younger generations",
+      "position": "middle-right"
+    },
+    {
+      "type": "arrow",
+      "label": "An ‘opt-out’ culture, contributing to the failure of previous efforts to standardize the client experience",
+      "position": "middle-right"
+    },
+    {
+      "type": "arrow",
+      "label": "No centralized support to ensure a consistent client experience across an expanding footprint",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text used for emphasis"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables present to provide additional data points or pyramid levels."
+  }
+}

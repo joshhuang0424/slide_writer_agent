@@ -1,0 +1,118 @@
+{
+  "slide_id": "36",
+  "section": "Enterprise Business Unit",
+  "purpose": "Outline goals and strategies for value creation and equity story development.",
+  "narrative_role": "Informative",
+  "title": "What our work together will achieve",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Consistent value creation plan aligning business, financial and investor policies"
+    },
+    {
+      "highlight": "",
+      "text": "Review of existing business plans, their quality and how each business unit will contribute to future value creation"
+    },
+    {
+      "highlight": "",
+      "text": "In-depth analysis of alternative options for key themes, and understanding of the TSR implications (e.g. Capex envelope for IT, Opex target for EBU¹, etc.)"
+    },
+    {
+      "highlight": "",
+      "text": "Deep dive on roll out scenarios for fiber and associated financials"
+    },
+    {
+      "highlight": "",
+      "text": "Integrated value creation plan, with supporting figures, high level levers to pull, and KPIs"
+    },
+    {
+      "highlight": "",
+      "text": "Empirical view on drivers of relative valuation based on BCG's SmartMultiple™ regression to identify key themes to focus on"
+    },
+    {
+      "highlight": "2",
+      "text": "Advise the storyline and develop materials for a high-impact equity story"
+    },
+    {
+      "highlight": "",
+      "text": "Articulated, compelling strategy addressing key proof points for Client's investment thesis"
+    },
+    {
+      "highlight": "",
+      "text": "Credible plans and traceable target KPIs (aimed at optimizing Client's TSR performance)"
+    },
+    {
+      "highlight": "",
+      "text": "\"Hands on\" input to craft the key themes for investor day and Client presentation materials (also serving as basis for future investor communications)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Emphasizing detailed analysis and strategic planning",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with numbered sections",
+  "layout_type": "informative",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "left of first bullet"
+    },
+    {
+      "type": "circle",
+      "label": "2",
+      "position": "left of second bullet"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 10,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Use of numbers for emphasis"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font specifics not identifiable from image",
+    "page_number": "36",
+    "copyright": "2022 BCG"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slide_id": "2",
+  "section": "Session Contents",
+  "purpose": "Outline the contents of the session",
+  "narrative_role": "Agenda",
+  "title": "Session Contents",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Background & Introduction"
+    },
+    {
+      "highlight": "2",
+      "text": "Lifecycle Stages"
+    },
+    {
+      "highlight": "3",
+      "text": "Cross-Lifecycle Elements"
+    },
+    {
+      "highlight": "4",
+      "text": "Closing Comments"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential outline",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with bulleted list",
+  "layout_type": "agenda",
+  "content_zones": {
+    "title": "top-left",
+    "bullets": "center-right",
+    "visual": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "document with magnifying glass",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numerical highlighting"
+  },
+  "design_language": "Corporate, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "slide_id": "15",
+  "section": "Internal and External Levers",
+  "purpose": "Provide a framework for action focused on diversity and inclusion.",
+  "narrative_role": "Informative",
+  "title": "Re-thinking where to focus",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Structured framework categorizing internal and external levers for diversity and inclusion.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with headers and subcategories.",
+  "layout_type": "Grid",
+  "content_zones": {
+    "left": "Internal levers",
+    "right": "External levers"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold and blue text for emphasis."
+  },
+  "design_language": "Corporate, structured",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Internal levers",
+      "description": "Focus on internal strategies for diversity.",
+      "headers": [
+        "Hiring",
+        "Promotions",
+        "Retention"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1 Talent pool expansion",
+            "5 Mentorship and sponsorship",
+            "11 Strengthened partnerships"
+          ]
+        },
+        {
+          "cells": [
+            "2 Job descriptions",
+            "6 Fair and objective performance reviews",
+            "12 Allyship programs"
+          ]
+        },
+        {
+          "cells": [
+            "3 Resume screening",
+            "7 Diverse slates for promotions",
+            "13 Frequent employee pulse surveys"
+          ]
+        },
+        {
+          "cells": [
+            "4 Diverse recruiting slates",
+            "8 Succession planning",
+            "14 Virtual / Flexible work options"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    },
+    {
+      "title": "External levers",
+      "description": "Focus on external strategies and broader community.",
+      "headers": [
+        "Products, Services and Operations",
+        "Broader Community"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "20 Supply chain and distribution channel diversity",
+            "24 Resource allocation"
+          ]
+        },
+        {
+          "cells": [
+            "21 Product & services development",
+            "25 Cradle to career initiatives"
+          ]
+        },
+        {
+          "cells": [
+            "22 Customer/network engagement",
+            "26 Leading public research"
+          ]
+        },
+        {
+          "cells": [
+            "23 Communications",
+            "27 Proactively help employees"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    },
+    {
+      "title": "Foundational Practices",
+      "description": "Key foundational practices for diversity and inclusion.",
+      "headers": [],
+      "rows": [
+        {
+          "cells": [
+            "28 Visible support and commitments"
+          ]
+        },
+        {
+          "cells": [
+            "29 Measurable aspirations and goals"
+          ]
+        },
+        {
+          "cells": [
+            "30 Thorough quantitative and qualitative DEI diagnostics"
+          ]
+        },
+        {
+          "cells": [
+            "31 Ongoing monitoring of aspirations"
+          ]
+        },
+        {
+          "cells": [
+            "32 Governance structure in place"
+          ]
+        },
+        {
+          "cells": [
+            "33 Publicly available commitments and data"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family is not specified in the slide image, and no chart is present to detail."
+  }
+}

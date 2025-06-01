@@ -1,0 +1,102 @@
+{
+  "slide_id": "9",
+  "section": "Market Analysis",
+  "purpose": "To illustrate the impact of lockdowns on car purchase intent in the EU.",
+  "narrative_role": "Informative",
+  "title": "Demand for new cars in EU dropped as a response to the second lockdown to levels of the first lockdown, used cars less affected",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of purchase intent over time",
+  "data_points": [
+    "Pre-COVID-19",
+    "May 9-17",
+    "May 27-29",
+    "June 16-18",
+    "July 15-17",
+    "Sep 2-4",
+    "Nov 6-10"
+  ],
+  "cta": null,
+  "layout": "title-top, chart-center",
+  "layout_type": "single-chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold title"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Purchase intent next 12 months for new car vs. used car",
+    "x_axis_label": "Time periods",
+    "y_axis": [
+      "60",
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "values": [
+      {
+        "series": "New car",
+        "data": [
+          100,
+          70,
+          75,
+          80,
+          85,
+          90,
+          78
+        ]
+      },
+      {
+        "series": "Used car",
+        "data": [
+          100,
+          72,
+          73,
+          74,
+          76,
+          77,
+          76
+        ]
+      }
+    ],
+    "annotations": [
+      "-13pp",
+      "-2pp"
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables present. The chart is the primary focus of the slide."
+  }
+}

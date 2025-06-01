@@ -1,0 +1,106 @@
+{
+  "slide_id": "33",
+  "section": "Case Study",
+  "purpose": "To present a predictive model for determining next best spend category and merchant to increase spend.",
+  "narrative_role": "Informative",
+  "title": "Case Study: Predicting Next Best Spend Category and Merchant to Increase Spend",
+  "bullets": [
+    {
+      "highlight": "Background:",
+      "text": "Large bank in LAC is looking to implement innovative modeling approaches to generate category expansion offers"
+    },
+    {
+      "highlight": "Client Problem Statement:",
+      "text": "How can we predict what next industry or merchant each category is going to spend in and customize marketing offers to incentivize higher levels of spend?"
+    },
+    {
+      "highlight": "Executed Solutions:",
+      "text": "Using MC Transactional Data, analyze current spend patterns for all existing client products"
+    },
+    {
+      "highlight": "",
+      "text": "Develop a Market Basket Analysis (MBA) model to detect relationships in transactional data and predict expansion into next category"
+    },
+    {
+      "highlight": "",
+      "text": "Develop campaign recommendations and calculate potential incremental spend lift from each campaign"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Utilize data analysis and predictive modeling to offer targeted marketing solutions.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and images",
+  "content_zones": {
+    "left": "textual information",
+    "right": "charts and infographics"
+  },
+  "visual_elements": [
+    {
+      "type": "chart",
+      "label": "Analyze current spend patterns",
+      "position": "top right"
+    },
+    {
+      "type": "chart",
+      "label": "Custom Market Basket Analysis model predicts next spend category for each account",
+      "position": "middle right"
+    },
+    {
+      "type": "chart",
+      "label": "Incremental spend lift from category expansion campaigns",
+      "position": "bottom right"
+    },
+    {
+      "type": "infographic",
+      "label": "category flow",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "multiple",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "MasterCard Advisors"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "bottom left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The specific data points and detailed chart values are not readable from the image."
+  }
+}

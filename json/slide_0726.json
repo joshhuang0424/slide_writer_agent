@@ -1,0 +1,135 @@
+{
+  "slide_id": "10",
+  "section": "BOC 境外消费",
+  "purpose": "展示GDV预测趋势与优化建议",
+  "narrative_role": "分析与建议",
+  "title": "BOC 境外消费GDV预测趋势(全卡别不限白金卡)",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "FY19上半年获客数低于FY18上半年表现(102K vs. 93K)。"
+    },
+    {
+      "highlight": null,
+      "text": "FY19下半年年度需有198K新获客填补差距"
+    },
+    {
+      "highlight": null,
+      "text": "建议举措: 下半年获客需达到上半年2x获客数量，才能够达到10% YOY增长目标"
+    }
+  ],
+  "supporting_facts": [
+    "FY18上半年获客贡献GDV: 176M$",
+    "FY19上半年获客贡献GDV: 171M$",
+    "FY19下半年获客贡献GDV: 250M$"
+  ],
+  "reasoning_strategy": "数据比较与趋势预测",
+  "data_points": [
+    "10% YOY增长目标",
+    "989M$预测GDV"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "chart and table",
+  "content_zones": {
+    "left": "chart",
+    "right": "tables and text"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "10% YOY 成长目标",
+      "position": "top of chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight key metrics in red"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "GDV 贡献-依获客年份区分",
+    "x_axis_label": "财务年度",
+    "y_axis": [
+      "$0",
+      "$200",
+      "$400",
+      "$600",
+      "$800",
+      "$1000",
+      "$1200",
+      "$1400"
+    ],
+    "values": [
+      {
+        "year": "2017",
+        "value": "$989M",
+        "segments": [
+          "FY19 H2 获客",
+          "FY19 H1 获客",
+          "FY18 获客",
+          "FY17 获客",
+          "FY17 前获客"
+        ]
+      }
+    ],
+    "annotations": [
+      "FY19 GDV(Predicted)"
+    ],
+    "source": "Mastercard"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "FY18 vs FY19 获客贡献",
+      "description": "比较FY18和FY19不同时间段的获客表现",
+      "headers": [
+        "",
+        "FY18 获客",
+        "FY19 获客"
+      ],
+      "rows": [
+        {
+          "row_label": "上半年获客贡献当年GDV",
+          "cells": [
+            "GDV: 176M$ (57%) 获客数: 102K (49%)",
+            "171M$ 获客数: 93K"
+          ]
+        },
+        {
+          "row_label": "下半年获客贡献当年GDV",
+          "cells": [
+            "GDV: 135M$ (43%) 获客数: 105K (51%)",
+            "250M$ 获客数: (198K)"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No pyramid infographic present; chart and table structures are clear."
+}

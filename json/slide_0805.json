@@ -1,0 +1,83 @@
+{
+  "slide_id": "19",
+  "section": "Market Projections",
+  "purpose": "To illustrate projected growth trends in MHEVs and BEVs markets in the US and EUR.",
+  "narrative_role": "Data visualization",
+  "title": "US market will see increased growth in MHEVs beginning in 2021; EUR market growth in BEVs will occur between 2023 and 2025",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven projection",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two horizontal bar charts with a title at the top.",
+  "layout_type": "dual_chart",
+  "content_zones": {
+    "title": "top",
+    "chart1": "center",
+    "chart2": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional, data-centric",
+  "color_scheme": {
+    "primary": "#006837",
+    "accent": "#FFDD44",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Volume (M)",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Volume (M)"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "US and EU Projections",
+      "description": "Comparison of projected vehicle volumes by type from 2015 to 2030.",
+      "headers": [
+        "Year",
+        "BEV",
+        "PHEV",
+        "HEV",
+        "MHEV",
+        "Diesel",
+        "Gasoline"
+      ],
+      "rows": [],
+      "position": "center",
+      "render_style": "stacked bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains complex visual data that is difficult to transcribe into table rows without OCR capabilities."
+  }
+}

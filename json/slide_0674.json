@@ -1,0 +1,153 @@
+{
+  "slide_id": "14",
+  "section": "Investment Overview",
+  "purpose": "To highlight the substantial industry-wide investments required to unlock growth areas through 2030 and 2035.",
+  "narrative_role": "Informative",
+  "title": "Substantial industry wide investments required to unlock growth areas: >$900B through 2030 (> $2.4T through 2035)",
+  "bullets": [],
+  "supporting_facts": [
+    ">5,000 additional engineers required",
+    "“57 additional Giga-factories”",
+    ">38M additional public charging spots",
+    ">72M self-driving taxis produced"
+  ],
+  "reasoning_strategy": "Quantitative analysis of investment needs across different sectors.",
+  "data_points": [
+    "$45B = 1.7% of cumulated OEMs R&D expenses through 2035",
+    "$220B = 13% of battery supplier revenue through 2035",
+    "$130B = 40% of German Federal Budget 2017",
+    "$1,800B = 4.3% of cumulated OEM car sales revenue through 2035"
+  ],
+  "cta": null,
+  "layout": "Horizontal segmented",
+  "layout_type": "Infographic with text blocks",
+  "content_zones": {
+    "top": "Title and icons",
+    "middle": "Investment categories and values",
+    "bottom": "Supporting facts and references"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "‘Classic’ components",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "New car sales (ICE and hybrids)",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Financing",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Aftermarket",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "AV and BEV components",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "New car sales (BEV)",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Data and connectivity",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "On-demand mobility",
+      "position": "top"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key investment figures"
+  },
+  "design_language": "Corporate, clear, data-driven",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Grey",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Summary of cumulated investments in different sectors",
+      "headers": [
+        "Sector",
+        "Cumulated investment, in $B"
+      ],
+      "rows": [
+        {
+          "row_label": "AV technology (R&D)",
+          "cells": [
+            "45"
+          ]
+        },
+        {
+          "row_label": "Battery prod. capacities",
+          "cells": [
+            "220"
+          ]
+        },
+        {
+          "row_label": "Charging infrastructure",
+          "cells": [
+            "130"
+          ]
+        },
+        {
+          "row_label": "Self-driving taxi fleet",
+          "cells": [
+            "1,800"
+          ]
+        }
+      ],
+      "position": "middle",
+      "render_style": "Bar chart style"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details not specified in the image."
+  }
+}

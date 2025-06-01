@@ -1,0 +1,127 @@
+{
+  "slide_id": "55",
+  "section": "Acquisition",
+  "purpose": "Present opportunities and action plans for customer acquisition",
+  "narrative_role": "Actionable insights",
+  "title": "Opportunity & Action Plan",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Frequent spender on dining and online food delivery but no spend on Menulog"
+    },
+    {
+      "highlight": "",
+      "text": "Full and frequent ticket sizes indicate loyalty to food delivery – and potentially competitors"
+    },
+    {
+      "highlight": "",
+      "text": "Reside in Sydney suburbs and CBDs across Australia with spend at direct competitors over indexed at most of the CBDs"
+    },
+    {
+      "highlight": "",
+      "text": "Large number of customers, start with High Value (XX customers) to maximize ROI"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight key insights and potential actions for market entry.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with summary and insights on the left, actions on the right.",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Summary and Key insights",
+    "right": "Potential actions"
+  },
+  "visual_elements": [
+    {
+      "type": "box",
+      "label": "Share of wallet: 0%\nHeadroom: XX customers A$YYM spend",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for emphasis"
+  },
+  "design_language": "Business professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of spend per customer, ticket size, and transaction frequency across competitors.",
+      "headers": [
+        "",
+        "Menulog",
+        "Direct Comp.1",
+        "All Comp.2",
+        "Dining3"
+      ],
+      "rows": [
+        {
+          "row_label": "Spend per customer",
+          "cells": [
+            "$XX",
+            "$YY",
+            "$ZZ"
+          ]
+        },
+        {
+          "row_label": "Ticket size",
+          "cells": [
+            "$XX",
+            "$YY",
+            "$ZZ"
+          ]
+        },
+        {
+          "row_label": "Txn freq.",
+          "cells": [
+            "X",
+            "Y",
+            "Z"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid levels detected; pyramid infographic is considered but not populated."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "slide_id": "50",
+  "section": "Advertising Insights Postal Code Analysis",
+  "purpose": "To illustrate how Mastercard's postal code analysis can identify specific segments and inform campaigns.",
+  "narrative_role": "Explainer",
+  "title": "Advertising Insights Postal Code Analysis: Reach specific prospect groups through modelled propensity to spend",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Choose from Mastercard’s 170 standard segments, such as “Online Audio Subscription Services: Likely to spend 2+ times the average at on audio subscription services”"
+    },
+    {
+      "highlight": "",
+      "text": "Or, create a custom segment, such as “Likely to spend heavily with a set of competitors”"
+    },
+    {
+      "highlight": "",
+      "text": "Mastercard draws from its transaction database and identifies the aggregate group of cardholders that fit the segment of interest"
+    },
+    {
+      "highlight": "",
+      "text": "Mastercard identifies the residential postal codes in which the cardholder group resides"
+    },
+    {
+      "highlight": "",
+      "text": "Users have the option to receive a one-time delivery of ranked postal codes per segment selected, or to refresh the listing on a monthly basis"
+    },
+    {
+      "highlight": "",
+      "text": "Users also have the option to feed the postal code targeting data into Mastercard’s campaign delivery service"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with headers and bullet points",
+  "layout_type": "Comparative",
+  "content_zones": {
+    "left": "How it Works",
+    "right": "Example of 170 Standard Segment Descriptions"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italic for segment descriptions"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Example of 170 Standard Segment Descriptions",
+      "description": "Categorizes segments into different types of propensities and likelihoods.",
+      "headers": [
+        "Spend Propensity (66 Segments)",
+        "Transaction Propensity (67 Segments)",
+        "High Likelihood of Purchase (7 Segments)",
+        "Seasonal (31 Segments)"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Home Furnishings & Furniture Stores: Likely to spend 2+ times the average at home furnishing and furniture retailers",
+            "Automotive Fuel: Likely to transact 2+ times the average on automotive gas",
+            "Automotive Card Buyers: At least 2x as likely to purchase at retailers of new and pre-owned automobiles within next 30 days",
+            "Valentine’s Day Shopper Flowers: Likely to spend 2+ times the average at florists during the 2 weeks before Valentine’s Day"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Online Audio Subscription Services: Likely to spend 2+ times the average on audio subscription services",
+            "Online Grocery Stores: Likely to transact 2+ times the average at online grocery stores",
+            "Cellular & Wireless Devices: At least 2x as likely to purchase at retailers of cell phones, cell phone plans, and wireless devices within the next 30 days",
+            "Black Friday – Cyber Monday Electronics: Likely to spend 2+ times the average at electronics stores on Black Friday through Cyber Monday each year"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The chart and infographic fields are empty because there are no charts or infographics present on the page."
+  }
+}

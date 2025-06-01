@@ -1,0 +1,102 @@
+{
+  "slide_id": "23",
+  "section": "Introduction",
+  "purpose": "Explain the types of voluntary customer attrition and retention strategies.",
+  "narrative_role": "Informative",
+  "title": "A credit card retention strategy can help prevent customer attrition and encourage ongoing use and engagement",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "There are two types of voluntary customer attrition:"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with bullet points and infographic",
+  "layout_type": "informative",
+  "content_zones": {
+    "title": "top",
+    "bullets": "below title",
+    "infographic": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "2",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italic for emphasis"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Voluntary Attrition"
+      },
+      {
+        "id": "L1",
+        "label": "Soft attrition"
+      },
+      {
+        "id": "L2",
+        "label": "Hard attrition"
+      },
+      {
+        "id": "L3",
+        "label": "Proactive retention"
+      },
+      {
+        "id": "L4",
+        "label": "Reactive retention"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No table or chart present in the slide."
+  }
+}

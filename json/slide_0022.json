@@ -1,0 +1,154 @@
+{
+  "slide_id": "22",
+  "section": "HR policies and programs in COVID-19",
+  "purpose": "To compare HR policies and programs adoption between Media & Entertainment (M&E) and all companies during COVID-19.",
+  "narrative_role": "Comparison and analysis",
+  "title": "How companies responded in 2020",
+  "bullets": [
+    {
+      "highlight": "56",
+      "text": "Training on how to foster diversity and inclusion in a virtual environment"
+    },
+    {
+      "highlight": "56",
+      "text": "Adjusted performance review process (e.g., adjusted criteria)"
+    },
+    {
+      "highlight": "56",
+      "text": "Formal sponsorship program"
+    },
+    {
+      "highlight": "67",
+      "text": "Formal mentorship program"
+    },
+    {
+      "highlight": "78",
+      "text": "Stipend to offset the costs of living at home"
+    },
+    {
+      "highlight": "67",
+      "text": "Unconscious bias training"
+    },
+    {
+      "highlight": "22",
+      "text": "Career development programs for people of color"
+    },
+    {
+      "highlight": "33",
+      "text": "Increased unpaid time off"
+    },
+    {
+      "highlight": "11",
+      "text": "Expanded how existing paid/unpaid leave can be used (e.g., to care for sick family members)"
+    },
+    {
+      "highlight": "11",
+      "text": "Allowed employees to move from a full-time schedule to a part-time schedule"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven analysis",
+  "data_points": [
+    {
+      "category": "M&E",
+      "values": [
+        39,
+        37,
+        25,
+        56,
+        44
+      ]
+    },
+    {
+      "category": "All companies",
+      "values": [
+        56,
+        56,
+        56,
+        67,
+        78,
+        79,
+        37,
+        51,
+        16,
+        25
+      ]
+    }
+  ],
+  "cta": null,
+  "layout": "Two-column layout with horizontal bar charts",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left_chart": {
+      "x": 0,
+      "y": 0,
+      "width": 640,
+      "height": 720
+    },
+    "right_chart": {
+      "x": 640,
+      "y": 0,
+      "width": 640,
+      "height": 720
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "legend",
+      "label": "M&E",
+      "position": "top-right"
+    },
+    {
+      "type": "legend",
+      "label": "All companies",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 10,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numbers highlighted"
+  },
+  "design_language": "Professional and formal",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "horizontal bar",
+    "title": "",
+    "x_axis_label": "% of companies offering policy or program",
+    "y_axis": [
+      "Training on diversity",
+      "Adjusted review process",
+      "Formal sponsorship",
+      "Formal mentorship",
+      "Stipend for living costs",
+      "Unconscious bias training",
+      "Career development",
+      "Increased unpaid time off",
+      "Expanded leave usage",
+      "Part-time schedule"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "Source: 2020 Women in the Workplace employee experience survey data for US/Canada"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "slide_id": "7",
+  "section": "Impact of Pandemic on Workforce",
+  "purpose": "To illustrate the impact of the pandemic on women's career considerations.",
+  "narrative_role": "Informative",
+  "title": "Many women are considering leaving the workforce or downshifting their careers due to the pandemic",
+  "bullets": [
+    {
+      "highlight": "1 in 4",
+      "text": "women are considering leaving the workforce or downshifting their careers"
+    },
+    {
+      "highlight": "",
+      "text": "Feeling worried their performance is judged negatively due to caregiving"
+    },
+    {
+      "highlight": "",
+      "text": "Feeling they can’t bring their whole selves to work"
+    },
+    {
+      "highlight": "",
+      "text": "Feeling like they need to be “always on”"
+    },
+    {
+      "highlight": "",
+      "text": "Discomfort sharing their challenges with co-workers"
+    },
+    {
+      "highlight": "",
+      "text": "Feeling blindsided by decisions that impact their work"
+    },
+    {
+      "highlight": "",
+      "text": "Spending additional hours on housework"
+    },
+    {
+      "highlight": "",
+      "text": "Their company not providing the flexibility they need"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlighting emotional and logistical factors driving women’s decisions.",
+  "data_points": [
+    "1 in 4 women"
+  ],
+  "cta": null,
+  "layout": "left-aligned text with large highlight",
+  "layout_type": "text-heavy",
+  "content_zones": {
+    "highlighted_stat": {
+      "position": "left",
+      "content": "1 in 4 women are considering leaving the workforce or downshifting their careers"
+    },
+    "text_block": {
+      "position": "right",
+      "content": "What drives women to consider this …"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis, blue color for statistics"
+  },
+  "design_language": "Professional and serious",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "The font family is not specified in the image.",
+    "source": "2020 Women in the Workplace research"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slide_id": "17",
+  "section": "Company Overview",
+  "purpose": "Introduce First Interstate Bank and its key attributes.",
+  "narrative_role": "Introduction",
+  "title": "First Interstate Bank headquartered in Billings, MT is Montana’s largest bank",
+  "bullets": [
+    {
+      "highlight": "$9B",
+      "text": "Total Assets"
+    },
+    {
+      "highlight": "80 branches",
+      "text": "across 3 states"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight key financial metrics and geographical presence.",
+  "data_points": [
+    "$9B",
+    "80 branches"
+  ],
+  "cta": null,
+  "layout": "Split",
+  "layout_type": "Text and Image",
+  "content_zones": {
+    "left": "Textual information and attributes",
+    "right": "Map and financial highlights"
+  },
+  "visual_elements": [
+    {
+      "type": "map",
+      "label": "MT, WY, SD",
+      "position": "right"
+    },
+    {
+      "type": "highlight_box",
+      "label": "Key First Interstate attributes...",
+      "position": "left"
+    },
+    {
+      "type": "circle_label",
+      "label": "A",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis, italics for subtler emphasis"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "#FF6F00",
+    "accent": "#FFFFFF",
+    "background": "#000000"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or complex table structures present in the slide."
+  }
+}

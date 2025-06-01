@@ -1,0 +1,141 @@
+{
+  "slide_id": "5",
+  "section": "進場規劃",
+  "purpose": "提供櫃位及ATM的進場施工計劃",
+  "narrative_role": "說明",
+  "title": "櫃位及ATM進場規劃",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "進一出：為保障客戶提現金的需求，施工採取一進一出，即鳳梨ATM先移出一台，桃子安裝完一台後再移出第二台"
+    },
+    {
+      "highlight": false,
+      "text": "施工時間：一台ATM安裝約需週間2-3晚施工時間，假日不施工原則，第二台桃子ATM預計可在一週後進場"
+    },
+    {
+      "highlight": false,
+      "text": "安裝情況：安裝上可能有三種情況，原先位置有既有ATM（鳳梨、其他行庫）及新ATM位置，各賣場內預計安裝位置、照片示意圖、線路安排等，將待桃子進場勘查後，一併討論規劃"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "分階段施工計劃，確保最小化對客戶的影響",
+  "data_points": [],
+  "cta": null,
+  "layout": "bottom",
+  "layout_type": "text and graphic",
+  "content_zones": {
+    "top": "進一出、施工時間、安裝情況",
+    "center": "示意圖",
+    "bottom": "待確認事項"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "先前初步結論",
+      "position": "left"
+    },
+    {
+      "type": "text_box",
+      "label": "示意圖",
+      "position": "center"
+    },
+    {
+      "type": "text_box",
+      "label": "待確認事項",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "標題與重要結論加粗"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#00A859",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "timeline",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "第一台施工期間"
+      },
+      {
+        "id": "L1",
+        "label": "第二次施工日"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "ATM施工排程",
+      "headers": [
+        "第一晚",
+        "第二晚",
+        "第三晚"
+      ],
+      "rows": [
+        {
+          "row_label": "ATM（大台）",
+          "cells": [
+            "鳳梨ATM",
+            "鳳梨ATM",
+            "鳳梨ATM"
+          ]
+        },
+        {
+          "row_label": "ATM（小台）",
+          "cells": [
+            "鳳梨ATM",
+            "拆除/安裝",
+            "安裝"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "桃子ATM",
+            "桃子ATM",
+            "桃子ATM"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": {
+    "_why_unknown": "沒有可識別的圖表或具體數據點"
+  }
+}

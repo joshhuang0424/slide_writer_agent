@@ -1,0 +1,85 @@
+{
+  "slide_id": "2",
+  "section": "Results Overview",
+  "purpose": "To provide a summary of key findings regarding data science in companies.",
+  "narrative_role": "Informative",
+  "title": "Results at a glance",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "Data science is one of the hottest and fastest-growing fields in companies around the world. But it remains a highly male-dominated field, with women making up as few as 15% of data science professionals globally. This gender imbalance is a significant threat to sustainable growth and to unbiased, safe AI."
+    },
+    {
+      "highlight": null,
+      "text": "Responses to a BCG global survey of over 9,000 current and former students across 10 countries make it clear that a significant share of the problem lies in the hands of companies themselves."
+    },
+    {
+      "highlight": null,
+      "text": "Despite the hype around AI, data science has an image problem with many students. Almost 50% of women studying for a relevant degree perceive the field as theoretical and low-impact, or as “nerdy” and uncomfortably competitive. Students are simply picking up on an unfortunate reality in the market: Far too many companies still continue to struggle to create real impact with AI, and many companies still fail to instill a culture of collaboration and inclusion in their analytics teams."
+    },
+    {
+      "highlight": null,
+      "text": "Given the many negative perceptions, active and open communication is key. But almost 50% of all female students surveyed feel poorly informed about their data science career options. Companies tend to emphasize the technical side of data science without addressing the practical and cultural issues that women in particular highlight as critical."
+    },
+    {
+      "highlight": null,
+      "text": "Relying on the hype around AI is not enough. Companies must pay attention to how they “live” and present their own data science cultures: celebrating real business impact, not just technical skills; and creating a work culture that is visibly collaborative rather than artificially competitive. And they must bring this transparency directly to students with tangible examples of real-life data science content and ways of working."
+    }
+  ],
+  "supporting_facts": [
+    "Women make up as few as 15% of data science professionals globally.",
+    "Almost 50% of women studying for a relevant degree perceive the field as theoretical and low-impact.",
+    "Almost 50% of all female students surveyed feel poorly informed about their data science career options."
+  ],
+  "reasoning_strategy": "Highlighting key statistics and survey responses to support the narrative.",
+  "data_points": [
+    "15% of data science professionals are women.",
+    "Survey of over 9,000 students across 10 countries.",
+    "50% of women studying for relevant degrees see the field as theoretical and low-impact."
+  ],
+  "cta": null,
+  "layout": "Text-heavy bullet points with emphasis on key statistics",
+  "layout_type": "Bulleted list",
+  "content_zones": {
+    "title_zone": "Top left",
+    "bullet_zone": "Centered",
+    "source_zone": "Bottom left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 60,
+    "emphasis_rule": "Highlighted phrases in color"
+  },
+  "design_language": "Professional and concise",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

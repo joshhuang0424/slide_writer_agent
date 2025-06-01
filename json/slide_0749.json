@@ -1,0 +1,67 @@
+{
+  "slide_id": "001",
+  "section": "Market Analysis",
+  "purpose": "To highlight the key factors driving the evolution of semiconductor demand in 2020.",
+  "narrative_role": "Informative",
+  "title": "Three key factors drove the evolution of semiconductor demand in 2020; two of them were known at the start of the year—then COVID-19 hit",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of factors into known and unexpected influences.",
+  "data_points": [],
+  "cta": null,
+  "layout": "3-column",
+  "layout_type": "informative",
+  "content_zones": {
+    "column_1": "Factors already known at the beginning of 2020",
+    "column_2": "Rollout/commercialization of highly anticipated new technology and devices",
+    "column_3": "Unexpected hit in Q1 2020"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Keywords in bold"
+  },
+  "design_language": "Professional, clean with bold headers",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#00695C",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "bullets": "The slide is structured in a paragraph format rather than bullet points.",
+    "tables": "The slide does not contain any tabular data.",
+    "chart": "No chart is present in the slide.",
+    "infographic": "No infographic is present."
+  }
+}

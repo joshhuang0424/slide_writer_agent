@@ -1,0 +1,127 @@
+{
+  "slide_id": "22",
+  "section": "Market Analysis",
+  "purpose": "To highlight the uncertainty of economic potential across different markets.",
+  "narrative_role": "Highlight",
+  "title": "There is a great degree of uncertainty on the economic potential across these markets",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of market potentials and key drivers",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "comparison",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Chart",
+    "bottom": "Illustrative players"
+  },
+  "visual_elements": [
+    {
+      "type": "color_legend",
+      "label": "Aggressive case, Base case",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "2030/40 Market potential, $B",
+    "x_axis_label": "Use case",
+    "y_axis": [
+      "Personal air mobility",
+      "Small last mile delivery",
+      "Aerial logistics",
+      "Operational efficiency"
+    ],
+    "values": [
+      {
+        "label": "Personal air mobility",
+        "aggressive": 300,
+        "base": 2
+      },
+      {
+        "label": "Small last mile delivery",
+        "aggressive": 200,
+        "base": 10
+      },
+      {
+        "label": "Aerial logistics",
+        "aggressive": 2,
+        "base": 20
+      },
+      {
+        "label": "Operational efficiency",
+        "aggressive": 80,
+        "base": 30
+      }
+    ],
+    "annotations": [],
+    "source": "Source: Company website announcements; Forbes; CNBC; Expert interviews, McKinsey analysis"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Key driver",
+      "description": "Drivers for each use case",
+      "headers": [
+        "Use case",
+        "Key driver"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Personal air mobility",
+            "Electric Propulsion, UTM, Infrastructure density"
+          ]
+        },
+        {
+          "cells": [
+            "Small last mile delivery",
+            "Regulatory enablement BVLOS (beyond visual line of sight) and Ops over people"
+          ]
+        },
+        {
+          "cells": [
+            "Aerial logistics",
+            "Electric propulsion, Operating costs"
+          ]
+        },
+        {
+          "cells": [
+            "Operational efficiency",
+            "Regulatory enablement BVLOS (beyond visual line of sight) and Ops over people"
+          ]
+        }
+      ],
+      "position": "middle",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

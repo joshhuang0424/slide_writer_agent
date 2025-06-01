@@ -1,0 +1,94 @@
+{
+  "slide_id": "15",
+  "section": "Onboarding Framework",
+  "purpose": "Illustrate the onboarding process for cardholders.",
+  "narrative_role": "Explanation",
+  "title": "Onboarding ensures that a cardholder who has been approved for a new card has received the card, activated it and has begun using it",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential Process",
+  "data_points": [],
+  "cta": "The leading practice is to employ Early Month-on-Book (“EMOB”) strategy with time-based triggers",
+  "layout": "Horizontal flowchart with bullet points",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "header": "top",
+    "infographic": "center",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Distribute Card",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Activate Card",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Trigger First Purchase",
+      "position": "center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Professional with emphasis on clarity",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "process_flow",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Distribute Card"
+      },
+      {
+        "id": "L1",
+        "label": "Activate Card"
+      },
+      {
+        "id": "L2",
+        "label": "Trigger First Purchase"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The fonts and their sizes are not specified in the image."
+  }
+}

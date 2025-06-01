@@ -1,0 +1,93 @@
+{
+  "slide_id": "10",
+  "section": "Market Analysis",
+  "purpose": "To show the decline in new car purchase intent across EU markets after COVID-19 lockdowns.",
+  "narrative_role": "Data Presentation",
+  "title": "New car purchase intent shows significant drops across all EU markets after the second COVID-19 related lockdowns",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 1 (may 9-18), wave 2 (may 27-29), wave 3 (june 16-18), wave 4 (july 15 – 17), wave 5 (sep 2-4), and wave 6 (nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparative Analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "multi-column",
+  "layout_type": "infographic",
+  "content_zones": {
+    "header": "top",
+    "charts": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "center-left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "center-left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "center-right"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar chart",
+    "title": "Purchase intent new cars vs. pre-COVID-19 level",
+    "x_axis_label": "Time Period",
+    "y_axis": [
+      "Percent Points"
+    ],
+    "values": [],
+    "annotations": [
+      "Decrease percentages",
+      "Change in % / p.p.",
+      "Premium brand customers in p.p."
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Data values and specific chart data points were not included in the image. The visual representation was prioritized over numerical data extraction."
+  }
+}

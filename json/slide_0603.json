@@ -1,0 +1,66 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To introduce the topic of LCM Leading Practices",
+  "narrative_role": "Title slide",
+  "title": "1. Background & Introduction",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction of the topic",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "title",
+  "content_zones": {
+    "left": "text",
+    "right": "design"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted number"
+  },
+  "design_language": "modern, minimalistic",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

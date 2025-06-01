@@ -1,0 +1,121 @@
+{
+  "slide_id": "5",
+  "section": "CO2 Targets",
+  "purpose": "Inform about government CO2 targets and implications.",
+  "narrative_role": "Explanatory",
+  "title": "Governments have set aggressive CO2 targets",
+  "bullets": [
+    {
+      "highlight": "max. 95g CO2/km",
+      "text": "Starting in 2021, emission of passenger car fleets in Europe limited to max. 95g CO2/km"
+    },
+    {
+      "highlight": "max. 78g CO2/km",
+      "text": "Starting in 2025, max. 78g CO2/km"
+    },
+    {
+      "highlight": "Optimization",
+      "text": "Optimization of combustion engines reaches economical limits"
+    },
+    {
+      "highlight": "xEV technologies",
+      "text": "CO2 targets in EU and US can be achieved only with xEV technologies"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of CO2 targets over time.",
+  "data_points": [
+    "CO2 (g/km)",
+    "Years",
+    "Country targets"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "chart and bullet points",
+  "content_zones": {
+    "left": "Chart",
+    "right": "Bullets with images"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key figures and terms"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Ambitious CO2 targets...",
+    "x_axis_label": "Years",
+    "y_axis": [
+      "CO2 (g/km)"
+    ],
+    "values": [
+      {
+        "label": "USA",
+        "data": [
+          139,
+          127,
+          95
+        ]
+      },
+      {
+        "label": "EU",
+        "data": [
+          172,
+          165,
+          115,
+          97,
+          78
+        ]
+      },
+      {
+        "label": "China",
+        "data": [
+          172,
+          165,
+          117
+        ]
+      },
+      {
+        "label": "Japan",
+        "data": [
+          172,
+          165,
+          115
+        ]
+      }
+    ],
+    "annotations": [
+      "Today",
+      "Proposed"
+    ],
+    "source": "BCG analysis; ICCT December 2014; AMS - Spagat zwischen Effizienz und Emission, 21.09.2015; EU-Study"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

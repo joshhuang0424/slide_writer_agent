@@ -1,0 +1,140 @@
+{
+  "slide_id": "5",
+  "section": "COVID-19 Impact on Automotive Retailers",
+  "purpose": "Compare the severity of the 2nd COVID-19 lockdown to the 1st for automotive retailers in selected countries.",
+  "narrative_role": "informative",
+  "title": "The 2nd COVID-19 lockdown is less severe than the 1st one for automotive retailers, especially in Germany, Italy, and Spain",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of lockdown stringency indices.",
+  "data_points": [],
+  "cta": null,
+  "layout": "title-top, table-center, infographic-icons",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "infographics": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Germany",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "UK",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "France",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Italy",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Spain",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for lockdown severity"
+  },
+  "design_language": "professional, data-driven",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Severity of lockdown 2 vs. 1",
+      "description": "Comparison of lockdown stringency indices for automotive retailers in selected countries.",
+      "headers": [
+        "Country",
+        "Wave 1 (Mar-May 2020)",
+        "Wave 2 (Nov 2020)"
+      ],
+      "rows": [
+        {
+          "row_label": "Germany",
+          "cells": [
+            "77",
+            "59"
+          ]
+        },
+        {
+          "row_label": "UK",
+          "cells": [
+            "80",
+            "64"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "88",
+            "79"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "94",
+            "67"
+          ]
+        },
+        {
+          "row_label": "Spain",
+          "cells": [
+            "85",
+            "71"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific pyramid infographic was detected, and no additional data points or bullets were provided."
+  }
+}

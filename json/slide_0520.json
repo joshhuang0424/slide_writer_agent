@@ -1,0 +1,111 @@
+{
+  "slide_id": "11",
+  "section": "Fraud Management",
+  "purpose": "To outline the four key pillars of the Fraud Management operating model.",
+  "narrative_role": "Informative",
+  "title": "Fraud Management Key Pillars",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Provide a structured overview of the components involved in fraud management.",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal flowchart",
+  "layout_type": "infographic",
+  "content_zones": {
+    "header": {
+      "text": "The Fraud Management operating model has four key pillars that contribute to ensuring an acceptable balance of fraud loss with customer experience",
+      "position": "top"
+    },
+    "infographic_title": {
+      "text": "Fraud Management Key Pillars",
+      "position": "center"
+    },
+    "infographic_content": {
+      "position": "center"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "I. Policy and governance",
+      "position": "top"
+    },
+    {
+      "type": "rectangle",
+      "label": "II. Strategies and analytics",
+      "position": "bottom-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "III. Operations",
+      "position": "bottom-center"
+    },
+    {
+      "type": "rectangle",
+      "label": "IV. Management Information Systems",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for key terms"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "I. Policy and governance"
+      },
+      {
+        "id": "L1",
+        "label": "II. Strategies and analytics"
+      },
+      {
+        "id": "L2",
+        "label": "III. Operations"
+      },
+      {
+        "id": "L3",
+        "label": "IV. Management Information Systems"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Fonts are not specified in the image."
+  }
+}

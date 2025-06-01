@@ -1,0 +1,203 @@
+{
+  "slide_id": "59",
+  "section": "Opportunities Analysis",
+  "purpose": "To analyze customer wallet share and identify growth opportunities.",
+  "narrative_role": "Analytical",
+  "title": "FairPrice matched customer share of wallet analysis",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of customer spending across deciles to highlight growth potential.",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal_split",
+  "layout_type": "table_and_text",
+  "content_zones": {
+    "top_left": "Title and introductory statement",
+    "center": "Table showing customer wallet analysis",
+    "right": "Opportunities and strategies"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "Opportunities",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Key opportunity",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and color for emphasis"
+  },
+  "design_language": "Corporate, clean",
+  "color_scheme": {
+    "primary": "red",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Customer Wallet Analysis",
+      "description": "Comparison of customer spending across deciles",
+      "headers": [
+        "DECILE",
+        "CUSTOMERS ('000)",
+        "%",
+        "AVG. FAIRPRICE SPEND",
+        "AVG. COMPETITOR SPEND",
+        "SHARE OF WALLET"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "4",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "9",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "10",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "TOTAL",
+            "1",
+            "10%",
+            "$10",
+            "$100",
+            "10%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Pyramid not present, table structure dominant"
+  }
+}

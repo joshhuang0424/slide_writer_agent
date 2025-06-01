@@ -1,0 +1,64 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title Slide",
+  "narrative_role": "Setting the stage",
+  "title": "The Electric Car Tipping Point",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction to topic",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title slide with background image",
+  "layout_type": "cover",
+  "content_zones": {
+    "top_left": "Logo",
+    "center": "Title",
+    "bottom_left": "Subtitle and Date"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title and subtitle bold"
+  },
+  "design_language": "Corporate and professional",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "White",
+    "background": "Dark background image with sparklers"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The image contains no charts, tables, or detailed text to extract additional data points or bullets."
+  }
+}

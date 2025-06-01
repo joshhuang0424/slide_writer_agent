@@ -1,0 +1,89 @@
+{
+  "slide_id": "8",
+  "section": "loyalty_program",
+  "purpose": "Explain the point earning mechanisms in a loyalty program",
+  "narrative_role": "Informative",
+  "title": "Sample loyalty program construct",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "left-aligned list with icons",
+  "layout_type": "list",
+  "content_zones": {
+    "left": "Icons with text",
+    "right": "Text explanation"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Earn 1 point per $ spend on your credit card",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Earn 2x points for all cross-border spend",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Earn 3x points on all dining spend",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Earn 4x points on fuel category",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Earn 5x points on select merchants",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight with orange text"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Black",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": {
+    "_why_unknown": "No chart or table is present, and no specific data points are highlighted."
+  }
+}

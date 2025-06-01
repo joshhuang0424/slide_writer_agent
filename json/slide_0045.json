@@ -1,0 +1,93 @@
+{
+  "slide_id": "2",
+  "section": "Impact and Challenges",
+  "purpose": "Highlight the economic and social impact of Asian Americans in the US, alongside the challenges they face.",
+  "narrative_role": "Informative",
+  "title": "In many ways, Asian Americans in the US have had meaningful economic and social impact... ...but they face a number of challenges that have often been overlooked",
+  "bullets": [
+    {
+      "highlight": "~2 million",
+      "text": "Asian American-owned small businesses generate $700 billion in annual GDP and employ ~3.5 million people"
+    },
+    {
+      "highlight": "38%",
+      "text": "of immigrants are projected to be Asian by 2065"
+    },
+    {
+      "highlight": "",
+      "text": "They experience some of the widest variances in corporate success, educational attainment, and income"
+    },
+    {
+      "highlight": "",
+      "text": "Asian Americans have the highest within-group income inequality in the US"
+    },
+    {
+      "highlight": "One-third",
+      "text": "of Americans have reported witnessing other individuals blame Asian Americans for the COVID-19 outbreak"
+    }
+  ],
+  "supporting_facts": [
+    "They are projected to become the largest immigrant group in the US by 2055",
+    "And have experienced longstanding—but often unacknowledged—xenophobia"
+  ],
+  "reasoning_strategy": "Comparison and projection",
+  "data_points": [
+    "2 million Asian American-owned small businesses",
+    "$700 billion in annual GDP",
+    "3.5 million people employed",
+    "38% of immigrants projected to be Asian by 2065",
+    "One-third of Americans witness xenophobia against Asian Americans"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Split narrative",
+  "content_zones": {
+    "left": "Economic impact",
+    "right": "Challenges and xenophobia"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White and dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables, charts, or infographics detected."
+  }
+}

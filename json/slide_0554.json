@@ -1,0 +1,122 @@
+{
+  "slide_id": "14",
+  "section": "Impact Assessment",
+  "purpose": "To show the performance of participants in key dimensions across Ethiopia and Swaziland.",
+  "narrative_role": "Supporting Evidence",
+  "title": "In particular, nearly all participants of FBC perform well in at least 6-out-of-8 dimensions — an indication of the ‘value added’ by our work",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "FBC (n = 20)",
+    "FS (n = 10)",
+    "FBC (n = 19)",
+    "FS (n = 13)"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparative analysis",
+  "content_zones": {
+    "left_chart": "Ethiopia",
+    "right_chart": "Swaziland"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "Ethiopia",
+      "position": "top-left"
+    },
+    {
+      "type": "flag",
+      "label": "Swaziland",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#007BC8",
+    "accent": "#A8B400",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Individuals doing well in key dimensions (in %)",
+    "x_axis_label": "Dimensions",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      {
+        "country": "Ethiopia",
+        "data": [
+          {
+            "label": "At least 6/8 dimensions",
+            "FBC": "95%",
+            "FS": "70%"
+          },
+          {
+            "label": "At least 7/8 dimensions",
+            "FBC": "90%",
+            "FS": "30%"
+          },
+          {
+            "label": "All dimensions",
+            "FBC": "75%",
+            "FS": "30%"
+          }
+        ]
+      },
+      {
+        "country": "Swaziland",
+        "data": [
+          {
+            "label": "At least 6/8 dimensions",
+            "FBC": "84%",
+            "FS": "92%"
+          },
+          {
+            "label": "At least 7/8 dimensions",
+            "FBC": "58%",
+            "FS": "46%"
+          },
+          {
+            "label": "All dimensions",
+            "FBC": "42%",
+            "FS": "38%"
+          }
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "SOS Children's Villages International"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or pyramids present; visual elements are decorative flags only."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "slide_id": "14",
+  "section": "Survey Results",
+  "purpose": "To present the impact of income level on car purchase plans post-lockdown.",
+  "narrative_role": "supporting",
+  "title": "High income respondents less influenced in their car purchase plans.",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven comparison",
+  "data_points": [
+    "Net score changes for high and low income groups"
+  ],
+  "cta": null,
+  "layout": "single column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top-left",
+    "chart": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Expected change in car characteristics",
+    "x_axis_label": "Car characteristics",
+    "y_axis": [
+      "Net score"
+    ],
+    "values": [
+      {
+        "High income": [
+          -11,
+          -4,
+          2,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "Low income": [
+          -17,
+          15,
+          -14,
+          4,
+          -7,
+          -11,
+          -9,
+          -7
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Net score changes for high and low income groups based on car characteristics.",
+      "headers": [
+        "Income Level",
+        "Pull forward purchase",
+        "Requiring higher discounts",
+        "Spend more",
+        "Buy",
+        "Electric vehicle",
+        "Bigger car",
+        "Premium brand",
+        "More ADAS features"
+      ],
+      "rows": [
+        {
+          "row_label": "High income",
+          "cells": [
+            "-11",
+            "-4",
+            "2",
+            "3",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Low income",
+          "cells": [
+            "-17",
+            "15",
+            "-14",
+            "4",
+            "-7",
+            "-11",
+            "-9",
+            "-7"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "horizontal bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullets or infographic levels present in image."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slide_id": "56",
+  "section": "PCLO Introduction",
+  "purpose": "Demonstrate the introduction and strategy behind PCLO to target customers",
+  "narrative_role": "Explanation of actions taken",
+  "title": "PCLO was introduced as a way to target customers",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Advisors worked with Loyalty Solutions and the account team to assess the right PCLO partner"
+    },
+    {
+      "highlight": false,
+      "text": "Advisors split the segments by issuer to size the opportunity"
+    },
+    {
+      "highlight": true,
+      "text": "Westpac Extras was selected due to their strategy and reach"
+    },
+    {
+      "highlight": false,
+      "text": "Pilot campaigns set to run Q2 2019"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Collaborative assessment with Loyalty Solutions",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with text and screenshot",
+  "layout_type": "text_with_visual",
+  "content_zones": {
+    "text": "left",
+    "visual": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "screenshot",
+      "label": "Rewards & Offers webpage",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Corporate, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans Serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts, tables, or detailed data points are present in the slide."
+  }
+}

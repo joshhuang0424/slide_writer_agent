@@ -1,0 +1,164 @@
+{
+  "slide_id": "53",
+  "section": "BCG TSR方案介绍",
+  "purpose": "介绍企业投资主体组合策略及投资回报政策",
+  "narrative_role": "Informative",
+  "title": "把握企业投资主体组合心理，制定最优股东回报政策以及投资者关系（IR）战略",
+  "bullets": [],
+  "supporting_facts": [
+    "涉及企业价值的投资主体",
+    "偏好以利润为核心的企业价值"
+  ],
+  "reasoning_strategy": "通过对比不同投资者类型的策略，制定合适的投资组合",
+  "data_points": [],
+  "cta": null,
+  "layout": "complex",
+  "layout_type": "comparison",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "infographic": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "highlight_box",
+      "label": "销售增长预测 & 以增长为目的的支出及融资",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "投资主体以及股权投资范畴",
+      "position": "top"
+    },
+    {
+      "type": "logo",
+      "label": "TESLA",
+      "position": "top_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "brown",
+    "background": "light_gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "核心价值型投资者"
+      },
+      {
+        "id": "L1",
+        "label": "阿尔法价值型投资者"
+      },
+      {
+        "id": "L2",
+        "label": "GARP型投资者"
+      },
+      {
+        "id": "L3",
+        "label": "核心增长型投资者"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "对比不同投资者类型的标准和策略",
+      "headers": [
+        "基金经理目标",
+        "销售增长预测",
+        "投资期限",
+        "核心标准",
+        "市盈率高效预测",
+        "目标收益率",
+        "以增长为目的的支出及融资"
+      ],
+      "rows": [
+        {
+          "row_label": "核心价值型投资者",
+          "cells": [
+            "市盈率、风险水平、收益率",
+            "0%，与GDP增长率持平",
+            "5年以上",
+            "ROIC增加，市盈率",
+            "市盈率<10，股息持续增长，净资产收益率（ROE）",
+            "“收益高于债券”",
+            "内生增长+补强并购，通过负债融资"
+          ]
+        },
+        {
+          "row_label": "阿尔法价值型投资者",
+          "cells": [
+            "自由现金流增加",
+            "2-5%内生增长，可接受补强并购",
+            "5-10年",
+            "EP增长>10%；股息持续增长，ROE高",
+            "9-15倍",
+            "6-10%，债务利率，股票和回购",
+            "内生增长+补强并购，临近过渡期负债融资"
+          ]
+        },
+        {
+          "row_label": "GARP型投资者",
+          "cells": [
+            "市盈率倍数通常较高",
+            "高于GDP增长率（4-8%），内生增长+补强并购",
+            "5-10年",
+            "未来3-5年，内生增长超10%",
+            "18-24倍，偶尔愿意支付24倍以上",
+            "3-6%，回购和股息",
+            "激进并购，聚焦增长平台+差异化（rollup），可接受任何方式融资"
+          ]
+        },
+        {
+          "row_label": "核心增长型投资者",
+          "cells": [
+            "市盈率倍数通常较高",
+            "内生增长率超10%，加上并购",
+            "3-5年",
+            "未来3-5年，内生增长超10%",
+            "无（倾向净利润），股票回购（最终手段）",
+            "0-2%股息回购",
+            "激进并购，聚焦增长平台+差异化（rollup），可接受任何方式融资"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

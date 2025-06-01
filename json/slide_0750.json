@@ -1,0 +1,90 @@
+{
+  "slide_id": "1",
+  "section": "Semiconductor Market Analysis",
+  "purpose": "To present the stability of semiconductor shipments to China despite geopolitical tensions.",
+  "narrative_role": "Informative",
+  "title": "The share of semiconductor shipments to China has remained stable; geopolitical tension does not appear to be a major factor behind the demand surge",
+  "bullets": [],
+  "supporting_facts": [
+    "Huawei typically accounted for 5% to 6% of global semiconductor demand, so it's possible that lower Huawei purchases in 2020 as a result of US export controls may have been offset by higher purchases by other Chinese OEMs."
+  ],
+  "reasoning_strategy": "Analysis based on data trends and geopolitical context.",
+  "data_points": [
+    "Total share of China as destination has remained stable since 2018"
+  ],
+  "cta": null,
+  "layout": "Title with chart and annotations",
+  "layout_type": "Chart with annotations",
+  "content_zones": {
+    "title": "top left",
+    "chart": "center",
+    "annotations": "right, bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key points"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "#004B4B",
+    "accent": "#A3D9D9",
+    "background": "#F4F4F4"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "Stacked Area Chart",
+    "title": "Breakdown of global semiconductor sales (%) by shipment-destination region",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      {
+        "region": "Europe",
+        "data": "layer 1"
+      },
+      {
+        "region": "Americas",
+        "data": "layer 2"
+      },
+      {
+        "region": "Asia Pacific/All other",
+        "data": "layer 3"
+      },
+      {
+        "region": "China",
+        "data": "layer 4"
+      }
+    ],
+    "annotations": [
+      "Total share of China as destination has remained stable since 2018"
+    ],
+    "source": "BCG analysis based on Semiconductor Industry Association data from the World Semiconductor Trade Statistics database."
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain bullets or tables, and the pyramid infographic structure is not applicable."
+  }
+}

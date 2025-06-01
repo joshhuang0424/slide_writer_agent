@@ -1,0 +1,94 @@
+{
+  "slide_id": "1",
+  "section": "Agenda",
+  "purpose": "Outline session topics",
+  "narrative_role": "overview",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Session Overview"
+    },
+    {
+      "highlight": false,
+      "text": "D&S Analytics engagement sub-types"
+    },
+    {
+      "highlight": false,
+      "text": "Analytics for Financial Institution (FI) clients"
+    },
+    {
+      "highlight": false,
+      "text": "Merchant Analytics for Retail and commerce clients"
+    },
+    {
+      "highlight": true,
+      "text": "Analytics Strategy"
+    },
+    {
+      "highlight": false,
+      "text": "Contact Us"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "hierarchical",
+  "data_points": [],
+  "cta": null,
+  "layout": "standard",
+  "layout_type": "text",
+  "content_zones": {
+    "header": "top left",
+    "bullets": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "orange",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "none",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family is not specified in the image."
+  }
+}

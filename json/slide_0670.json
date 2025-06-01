@@ -1,0 +1,178 @@
+{
+  "slide_id": "10",
+  "section": "Profit Analysis",
+  "purpose": "To present the current profit pools in the car industry.",
+  "narrative_role": "Informative",
+  "title": "Today, the long-established car business is driving industry profits",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between traditional and emerging profit pools.",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "visual-comparison",
+  "content_zones": {
+    "title": "top-left",
+    "infographic": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "67",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "79",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "24",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "54",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "< 0",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "< 0",
+      "position": "center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for key figures"
+  },
+  "design_language": "clean and modern",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "teal",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Profit pools - today (2017, in $B)",
+      "description": "Comparison of traditional and emerging profit pools.",
+      "headers": [
+        "Category",
+        "Profit ($B)",
+        "Average Profitability (RoS)"
+      ],
+      "rows": [
+        {
+          "row_label": "'Classic' components",
+          "cells": [
+            "67",
+            "~7%"
+          ]
+        },
+        {
+          "row_label": "New car sales (ICE & hybrids)",
+          "cells": [
+            "79",
+            "~5%"
+          ]
+        },
+        {
+          "row_label": "Financing",
+          "cells": [
+            "24",
+            "~13%"
+          ]
+        },
+        {
+          "row_label": "Aftermarket",
+          "cells": [
+            "54",
+            "~10%"
+          ]
+        },
+        {
+          "row_label": "AV and BEV components",
+          "cells": [
+            "1",
+            "~9%"
+          ]
+        },
+        {
+          "row_label": "New car sales (BEV)",
+          "cells": [
+            "< 0",
+            "< 0%"
+          ]
+        },
+        {
+          "row_label": "Data & Connectivity",
+          "cells": [
+            "1",
+            "n/a"
+          ]
+        },
+        {
+          "row_label": "On-demand mobility",
+          "cells": [
+            "< 0",
+            "< 0%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "source": "BCG analysis",
+    "total_profit": "$226 billion",
+    "_why_unknown": "No pyramid structure identified despite visual elements."
+  }
+}

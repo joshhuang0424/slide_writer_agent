@@ -1,0 +1,91 @@
+{
+  "slide_id": "2",
+  "section": "Case example",
+  "purpose": "To illustrate technological innovation in operations",
+  "narrative_role": "Example",
+  "title": "BASF “tank containers” and “automatic guided vehicles” provide a case study of technological innovation leading to operations disruption",
+  "bullets": [
+    {
+      "highlight": "transported on both railways and roadways",
+      "text": "BASF developed “tank containers”"
+    },
+    {
+      "highlight": "drive autonomously with traffic on normal roads (payload of 78 metric tons)",
+      "text": "BASF also designed “automatic guided vehicles” (AGV)"
+    },
+    {
+      "highlight": "from 22 hours to one hour",
+      "text": "Addresses efficacy and congestion issues in delivering tank cars from BASF’s train station to one of the more than 150 loading stations at the site, reducing time for delivery"
+    },
+    {
+      "highlight": "Rail remains essential",
+      "text": "for long-haul delivery"
+    },
+    {
+      "highlight": "New business and operating models",
+      "text": "for transport of chemicals, petroleum, and agriculture in last mile delivery"
+    },
+    {
+      "highlight": "invest ahead of trends to create differentiated offerings",
+      "text": "Opportunities to"
+    }
+  ],
+  "supporting_facts": [
+    "More than 150 loading stations at the site"
+  ],
+  "reasoning_strategy": "Illustrative example of innovation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Image on left, text on right",
+  "layout_type": "Case study",
+  "content_zones": {
+    "image": "left",
+    "text": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use bold for key phrases"
+  },
+  "design_language": "Professional, informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or detailed charts present in the slide; pyramid is not explicitly shown."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "slide_id": "10",
+  "section": "Acquisition: Targeting and Segmentation",
+  "purpose": "To illustrate how cross-selling credit cards to existing customers can be targeted based on their likelihood of approval and usage.",
+  "narrative_role": "Illustrative",
+  "title": "Cross-selling of credit cards to existing customers/members can be targeted to those who would likely be approved and use the card",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Issuers should evaluate a customer’s existing bank relationship to determine approval and usage of card considering:"
+    },
+    {
+      "highlight": false,
+      "text": "Who are your best performing customers? (cardholders or non-cardholders)"
+    },
+    {
+      "highlight": false,
+      "text": "How can you best use performance/information on other financial products to evaluate credit eligibility for a cross-sell?"
+    },
+    {
+      "highlight": false,
+      "text": "Determine loyalty of customer"
+    },
+    {
+      "highlight": false,
+      "text": "Number/types of other accounts/products"
+    },
+    {
+      "highlight": false,
+      "text": "Tenure of the relationship"
+    },
+    {
+      "highlight": false,
+      "text": "Determine if information can be proxy to be approved for credit card"
+    },
+    {
+      "highlight": false,
+      "text": "Performance and value of those relationships"
+    },
+    {
+      "highlight": false,
+      "text": "Income or expense information"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Evaluate existing relationships and performance metrics to target likely approval candidates.",
+  "data_points": [],
+  "cta": null,
+  "layout": "text and chart",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Text bullets explaining evaluation criteria",
+    "right": "Chart illustrating likelihood vs loyalty"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key actions and criteria"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "scatter plot",
+    "title": "Likelihood to be approved for credit card product",
+    "x_axis_label": "Expected card loyalty (usage)",
+    "y_axis": [
+      "Likelihood to be approved for credit card product"
+    ],
+    "values": [
+      {
+        "x": "Low",
+        "y": "Low",
+        "label": "Worst"
+      },
+      {
+        "x": "High",
+        "y": "High",
+        "label": "Best"
+      }
+    ],
+    "annotations": [],
+    "source": "©2019 Mastercard Proprietary and Confidential"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

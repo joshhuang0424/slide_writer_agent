@@ -1,0 +1,261 @@
+{
+  "slide_id": "8",
+  "section": "线上营销策略",
+  "purpose": "建议商户最佳营销时机",
+  "narrative_role": "建议",
+  "title": "线上营销活动商户选取建议",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过观察线上商户的消费季节性，建议全年或尖峰月份开展活动",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "infographic with table",
+  "content_zones": {
+    "left": "text and infographic",
+    "right": "table"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "普适性\n全平均可进行活动或做为卡片权益",
+      "position": "left top"
+    },
+    {
+      "type": "text_box",
+      "label": "主题性\n建议在尖峰月份进行活动",
+      "position": "left bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight certain merchants"
+  },
+  "design_language": "modern with clean lines",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "普适性"
+      },
+      {
+        "id": "L1",
+        "label": "主题性"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "商户活动建议月份",
+      "headers": [
+        "",
+        "一月",
+        "二月",
+        "三月",
+        "四月",
+        "五月",
+        "六月",
+        "七月",
+        "八月",
+        "九月",
+        "十月",
+        "十一月",
+        "十二月"
+      ],
+      "rows": [
+        {
+          "row_label": "Amazon",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Uber",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Airbnb",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Eastbay",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Apple",
+          "cells": [
+            "占全年58%消费",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Finish Line",
+          "cells": [
+            "",
+            "占全年20%消费",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Foot Locker",
+          "cells": [
+            "",
+            "",
+            "",
+            "占全年30%消费",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "CFA Institute (Wave 1)",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "占全年37%消费",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "CFA Institute (wave 2)",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "占全年53%消费",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體資訊在圖片中無法辨識"
+  }
+}

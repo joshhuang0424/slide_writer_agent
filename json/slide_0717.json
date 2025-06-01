@@ -1,0 +1,63 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title slide for a report",
+  "narrative_role": "Introduction",
+  "title": "World Mastercard®",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduce the topic and timeframe of the report",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "title_slide",
+  "content_zones": {
+    "left": "Text",
+    "right": "Image"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is an introductory title slide; no detailed content, tables, or infographics are present."
+  }
+}

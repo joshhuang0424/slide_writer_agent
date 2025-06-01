@@ -1,0 +1,78 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title slide for presentation",
+  "narrative_role": "Introduce the topic and survey details",
+  "title": "COVID-19 Auto & Mobility Consumer Insights",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction of survey focus amid the pandemic",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with image",
+  "layout_type": "cover",
+  "content_zones": {
+    "title": "left",
+    "subtitle": "left",
+    "image": "right",
+    "highlight_box": "left bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Car",
+      "position": "right"
+    },
+    {
+      "type": "text_box",
+      "label": "Special edition to assess impact of 2nd (partial) lock-down in Europe",
+      "position": "left bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight box with blue background"
+  },
+  "design_language": "Professional and modern",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": [
+      "Font family is not identifiable from the image alone."
+    ]
+  }
+}

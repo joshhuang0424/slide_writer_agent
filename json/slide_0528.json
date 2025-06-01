@@ -1,0 +1,106 @@
+{
+  "slide_id": "19",
+  "section": "Predictive Modeling",
+  "purpose": "To explain the importance of fraud scoring models in fraud prevention strategies and emphasize the understanding of model performance.",
+  "narrative_role": "Informative",
+  "title": "Predictive Modeling",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Authorizations are assigned a score based on the transactions’ likelihood of being fraud"
+    },
+    {
+      "highlight": false,
+      "text": "Certain scoring models are based on consortium data pulling in attributes of both the merchant and like cardholder spend"
+    },
+    {
+      "highlight": false,
+      "text": "Industry model scoring can help determine the risk of individual transactions"
+    },
+    {
+      "highlight": false,
+      "text": "Mastercard Decision Intelligence considers the risk and reward of transactions"
+    },
+    {
+      "highlight": false,
+      "text": "The use of more than one scoring model has shown to augment and enhance existing performance by reducing fraud and limiting customer impact"
+    },
+    {
+      "highlight": false,
+      "text": "Once a risk appetite is established, the model performance can be analyzed to determine appropriate score threshold settings"
+    },
+    {
+      "highlight": false,
+      "text": "Based on the score, rules can be written to decline activity, approve and queue for manual review, or approve and not queue"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explanation of scoring models and their impact on fraud prevention.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text heavy with emphasis on key understanding",
+  "layout_type": "Text and Visual",
+  "content_zones": {
+    "left": "Text description of fraud scoring models",
+    "right": "Bulleted list of model features",
+    "bottom": "Emphasis on understanding model performance"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "dollar sign with nodes",
+      "position": "bottom left"
+    },
+    {
+      "type": "icon",
+      "label": "declining graph",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for key message at bottom"
+  },
+  "design_language": "Professional with emphasis on understanding",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The specific font family and size are not visible in the image.",
+    "infographic_levels": "No pyramid levels are present in the slide."
+  }
+}

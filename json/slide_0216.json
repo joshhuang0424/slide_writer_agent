@@ -1,0 +1,157 @@
+{
+  "slide_id": "47",
+  "section": "Case Examples",
+  "purpose": "To provide a framework and roadmap for evolving IR practices.",
+  "narrative_role": "Informative",
+  "title": "Framework and roadmap: Enabling Client to continue evolving IR practices",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Framework presentation with visual elements to guide IR practices.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with visual elements",
+  "layout_type": "hybrid",
+  "content_zones": {
+    "left": "Framework for 'best in class' IR",
+    "right": "IR roadmap (8 quarters out)"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Strategic Content Pyramid",
+      "position": "left"
+    },
+    {
+      "type": "roadmap",
+      "label": "IR roadmap timeline",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted section titles"
+  },
+  "design_language": "corporate, structured",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Strategic Content"
+      },
+      {
+        "id": "L1",
+        "label": "Equity Story"
+      },
+      {
+        "id": "L2",
+        "label": "Publications"
+      },
+      {
+        "id": "L3",
+        "label": "Events"
+      },
+      {
+        "id": "L4",
+        "label": "IR information base"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Publications and Events",
+      "description": "Lists the different types of publications and events for IR.",
+      "headers": [
+        "Publications",
+        "Events"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Quarterly, annual reports",
+            "Investors' Day"
+          ]
+        },
+        {
+          "cells": [
+            "Presentations",
+            "Road shows"
+          ]
+        },
+        {
+          "cells": [
+            "Q&A",
+            "Analyst conferences"
+          ]
+        },
+        {
+          "cells": [
+            "Fact-book",
+            "Telephone conferences"
+          ]
+        },
+        {
+          "cells": [
+            "IR Monthly",
+            "Investor visits"
+          ]
+        },
+        {
+          "cells": [
+            "Articles/speeches",
+            "Annual meeting"
+          ]
+        },
+        {
+          "cells": [
+            "Website",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Market feedback (board & segments)",
+            ""
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional": {
+    "_why_unknown": "No explicit chart detected; infographic and table elements identified."
+  }
+}

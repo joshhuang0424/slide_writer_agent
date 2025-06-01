@@ -1,0 +1,80 @@
+{
+  "slide_id": "1",
+  "section": "Title Slide",
+  "purpose": "Introduction",
+  "narrative_role": "Set context",
+  "title": "Diversity wins: How inclusion matters",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Background Design",
+  "layout_type": "title",
+  "content_zones": {
+    "title": {
+      "position": "left",
+      "size": "large"
+    },
+    "subtitle": {
+      "position": "left",
+      "size": "medium"
+    },
+    "visual_design": {
+      "position": "right",
+      "size": "large"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional and Clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "bullets": "No bullet points present",
+    "supporting_facts": "No supporting facts present",
+    "reasoning_strategy": "Not applicable for title slide",
+    "data_points": "No data points present",
+    "visual_elements": "No separate visual elements with text present",
+    "chart": "No chart present",
+    "infographic": "No infographic present",
+    "tables": "No tables present"
+  }
+}

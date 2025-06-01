@@ -1,0 +1,212 @@
+{
+  "slide_id": "1",
+  "section": "High Spend Potential Behavior Management",
+  "purpose": "To drive existing customers’ cross-border spend potential through channel conversion.",
+  "narrative_role": "To demonstrate the importance of converting offline-only customers into dual-channel customers for long-term spend.",
+  "title": "High spend potential behavior management: drive existing customers’ cross-border spend potential through channel conversion",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of spending behaviors and a recommendation for channel conversion.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "Spend channels infographic with spend forecasts",
+    "right": "List of top 12 merchants and recommendations"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Online only (20%)",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Online + offline (30%)",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Offline only (50%)",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional, data-centric",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Online only (20%)"
+      },
+      {
+        "id": "L1",
+        "label": "Online + offline (30%)"
+      },
+      {
+        "id": "L2",
+        "label": "Offline only (50%)"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Spend channels in the first 3 months",
+      "description": "Comparison of spend forecasts for different channels",
+      "headers": [
+        "Channel",
+        "Bank",
+        "Benchmark"
+      ],
+      "rows": [
+        {
+          "row_label": "Online only",
+          "cells": [
+            "$XXXX",
+            "$XXXX"
+          ]
+        },
+        {
+          "row_label": "Online + offline",
+          "cells": [
+            "$XXXX",
+            "$XXXX"
+          ]
+        },
+        {
+          "row_label": "Offline only",
+          "cells": [
+            "$xxxx",
+            "$xxxx"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    },
+    {
+      "title": "Bank World Mastercard",
+      "description": "Top 12 merchants for first online purchase after cardholder makes their first purchase offline",
+      "headers": [
+        "Merchant",
+        "Recommendation (tentative)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "UBER",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "AMAZON",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "AIRBNB",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "AIRASIA",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "UNITED AIRLINES",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "BOOKING.COM",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "THETRAINLINE",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "AGODA",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "COSTA CRUISE LINES",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "VODAFONE",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "DEPARTMENT OF IMMIGRATION AND BORDER PROTECTION",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "GRAB TAXI / GRAB",
+            "Mastercard campaign: $250 cashback with purchase of $1500"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Specific font styles and other minor details are not discernible from the image."
+  }
+}

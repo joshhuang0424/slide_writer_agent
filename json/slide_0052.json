@@ -1,0 +1,79 @@
+{
+  "slide_id": "2",
+  "section": "Introduction",
+  "purpose": "Introduce the speakers for the presentation",
+  "narrative_role": "presentation",
+  "title": "Today's speakers",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "visual",
+  "content_zones": {
+    "left": "Title",
+    "right": "Images and names of speakers"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Steffen Fuchs\nSenior Partner, Dallas",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "Vik Krishnan\nPartner, San Francisco",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "Paul Jacobson\nSenior Expert, Washington DC",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for names"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family for title and body text is not specified in the image."
+  }
+}

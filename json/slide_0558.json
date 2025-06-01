@@ -1,0 +1,87 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To address the issue of homelessness in Seattle and propose potential solutions.",
+  "narrative_role": "Introduction to the problem",
+  "title": "We can address homelessness in Seattle",
+  "bullets": [
+    {
+      "highlight": "22,500 households",
+      "text": "Homelessness is getting worse. Last year, 22,500 households experienced homelessness in Seattle, the most ever"
+    },
+    {
+      "highlight": "remarkable",
+      "text": "Prosperity is part of what is driving homelessness. Seattle’s job and population growth have been remarkable. Our housing growth has been robust, but insufficient."
+    },
+    {
+      "highlight": "extremely-low-income households",
+      "text": "Additional affordable housing stock must be built. Particularly stock that is affordable for extremely-low-income households (ELI), those earning less than 30 percent of the area median income, or about $28,800 per year"
+    },
+    {
+      "highlight": "substantial incremental public spending",
+      "text": "Building this housing will require substantial incremental public spending two to five times more than current local spending"
+    },
+    {
+      "highlight": "multi-pronged approach",
+      "text": "Beyond just building, we need a multi-pronged approach to the problem—including a set of projects each with short-, medium- and long-term targets and goals."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive and prescriptive",
+  "data_points": [
+    "22,500 households experienced homelessness",
+    "Earning less than $28,800 per year"
+  ],
+  "cta": null,
+  "layout": "Title at top, bullets below",
+  "layout_type": "text-focused",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional, serious",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "none",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

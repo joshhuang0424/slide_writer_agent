@@ -1,0 +1,82 @@
+{
+  "slide_id": "20",
+  "section": "Market Projections",
+  "purpose": "To present vehicle volume projections for China and Japan with a focus on different energy vehicle types.",
+  "narrative_role": "Informative",
+  "title": "Volume in China will be driven by BEVs and PHEVs; in Japan, by HEVs and MHEVs owing to different driving patterns and OEM focus",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis between China and Japan's vehicle volume projections.",
+  "data_points": [
+    "China projections: Volume reaches 35M by 2030",
+    "Japan projections: Volume reaches 5M by 2030"
+  ],
+  "cta": null,
+  "layout": "Two horizontal bar charts stacked",
+  "layout_type": "dual_chart",
+  "content_zones": {
+    "title": "top_center",
+    "chart": "center",
+    "source": "bottom_left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is emphasized through larger font size."
+  },
+  "design_language": "Professional and data-driven with a focus on clarity",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Vehicle Volume Projections",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Volume (M)"
+    ],
+    "values": [
+      {
+        "year": 2015,
+        "China": 22,
+        "Japan": 5
+      },
+      {
+        "year": 2030,
+        "China": 35,
+        "Japan": 5
+      }
+    ],
+    "annotations": [
+      "Volume projections by vehicle type"
+    ],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid infographic present in the slide."
+  }
+}

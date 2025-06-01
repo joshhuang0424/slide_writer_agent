@@ -1,0 +1,180 @@
+{
+  "slide_id": "1",
+  "section": "Talent Mapping",
+  "purpose": "To illustrate the mapping guidelines for the news talent pipeline.",
+  "narrative_role": "Informative",
+  "title": "In collaboration with Press Forward, we developed the following mapping guidelines for the news talent pipeline",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Structured hierarchy visualization",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "pyramid_with_table",
+  "content_zones": {
+    "left": "pyramid",
+    "right": "table"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "navy",
+    "accent": "white",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Board of Directors"
+      },
+      {
+        "id": "L1",
+        "label": "C-level executives & presidents"
+      },
+      {
+        "id": "L2",
+        "label": "Senior VPs"
+      },
+      {
+        "id": "L3",
+        "label": "Vice Presidents"
+      },
+      {
+        "id": "L4",
+        "label": "Senior managers / Directors"
+      },
+      {
+        "id": "L5",
+        "label": "Managers"
+      },
+      {
+        "id": "L6",
+        "label": "Entry Level"
+      },
+      {
+        "id": "L7",
+        "label": "Field or frontline"
+      }
+    ],
+    "position": "left"
+  },
+  "table": {
+    "title": "Role mapping by media type",
+    "headers": [
+      "Digital",
+      "Broadcast",
+      "Radio",
+      "Print"
+    ],
+    "rows": [
+      {
+        "pyramid_level": "L0",
+        "cells": [
+          "Board of Directors",
+          "Board of Directors",
+          "Board of Directors",
+          "Board of Directors"
+        ]
+      },
+      {
+        "pyramid_level": "L1",
+        "cells": [
+          "President, Owner",
+          "CEO, COO, CFO",
+          "President, COO",
+          "Publisher, CEO, COO, CFO"
+        ]
+      },
+      {
+        "pyramid_level": "L2",
+        "cells": [
+          "President, Managing Editor",
+          "President",
+          "Executive Vice President",
+          "Executive Editor, Editor-in-Chief"
+        ]
+      },
+      {
+        "pyramid_level": "L3",
+        "cells": [
+          "Executive Editor, VP",
+          "Executive Producer, Anchor, Senior Broadcast Producers, Editorial Directors",
+          "Executive Producer",
+          "Deputy Editor"
+        ]
+      },
+      {
+        "pyramid_level": "L4",
+        "cells": [
+          "Senior Editor, Senior Producer",
+          "Producer, Correspondent, Operations Producer",
+          "Section/Desk Head, Senior Editor",
+          "Bureau Chief, Features Editor, Design Director, Director of Photography"
+        ]
+      },
+      {
+        "pyramid_level": "L5",
+        "cells": [
+          "Editor",
+          "Associate Producer, Assignment Editor, Researcher",
+          "Producer, Editor",
+          "Head of research, Copy Chief"
+        ]
+      },
+      {
+        "pyramid_level": "L6",
+        "cells": [
+          "Reporter, Researcher, Video journalist, Copy-editor",
+          "Desk Assistant, Production Assistant, Researcher",
+          "Reporter, Researcher, Writer",
+          "Reporter, Copy-editor, Staff Writer, Photographers"
+        ]
+      },
+      {
+        "pyramid_level": "L7",
+        "cells": [
+          "Freelancer, Permatemp",
+          "Fixer, Stringer, Desk Assistant (part time), Camera men",
+          "Temp Reporter, Anchor, Researcher, Producer",
+          "Freelancer, Researcher, Copy-editor, Contributing Writer"
+        ]
+      }
+    ],
+    "position": "right"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullets or specific supporting facts are present; the slide is purely structural."
+  }
+}

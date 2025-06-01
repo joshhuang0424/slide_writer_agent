@@ -1,0 +1,157 @@
+{
+  "slide_id": "8",
+  "section": "Smart Multiple® 及 iTSR 工具",
+  "purpose": "展示 TSR 驅動因素及其關鍵因素分析",
+  "narrative_role": "informative",
+  "title": "明確三大 TSR 驅動因子並展開關鍵因子的具體分析",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "收入增長"
+    },
+    {
+      "highlight": "",
+      "text": "淨收益或EBITDA利潤增長率%"
+    },
+    {
+      "highlight": "",
+      "text": "增長和盈利能力預期（收入、每股收益、創新、利潤、ROIC）"
+    },
+    {
+      "highlight": "",
+      "text": "保持穩定業績，達到既定期望"
+    },
+    {
+      "highlight": "",
+      "text": "對管理層有信心"
+    },
+    {
+      "highlight": "",
+      "text": "業務組合變更"
+    },
+    {
+      "highlight": "",
+      "text": "瞄準最佳投資主體"
+    },
+    {
+      "highlight": "",
+      "text": "股息和股份回購"
+    },
+    {
+      "highlight": "",
+      "text": "風險因素（債務、波動性、併購）"
+    },
+    {
+      "highlight": "",
+      "text": "資本性支出"
+    },
+    {
+      "highlight": "",
+      "text": "流動資本需求"
+    },
+    {
+      "highlight": "",
+      "text": "股息、股票回購、債務、現金"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "混合",
+  "layout_type": "infographic and bullet_points",
+  "content_zones": {
+    "title": "top_left",
+    "infographic": "center_left",
+    "bullets": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "股東總回報 (TSR)",
+      "position": "left_center"
+    },
+    {
+      "type": "rectangle",
+      "label": "資本收益",
+      "position": "center"
+    },
+    {
+      "type": "rectangle",
+      "label": "利潤增長",
+      "position": "center"
+    },
+    {
+      "type": "rectangle",
+      "label": "估值倍數變化",
+      "position": "center"
+    },
+    {
+      "type": "rectangle",
+      "label": "現金流貢獻",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 12,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "none"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "flowchart",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "資本收益"
+      },
+      {
+        "id": "L1",
+        "label": "利潤增長"
+      },
+      {
+        "id": "L2",
+        "label": "估值倍數變化"
+      },
+      {
+        "id": "L3",
+        "label": "現金流貢獻"
+      }
+    ],
+    "position": "center_left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "無法確定字型詳細信息，缺乏具體資料來源。"
+  }
+}

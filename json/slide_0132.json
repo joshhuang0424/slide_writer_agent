@@ -1,0 +1,179 @@
+{
+  "slide_id": "27",
+  "section": "Mobility Trends",
+  "purpose": "Show trends in transportation mode usage during the COVID-19 crisis",
+  "narrative_role": "Informative",
+  "title": "Walking/biking and micromobility potentially becoming more popular in the modal mix of the “next normal”",
+  "bullets": [
+    {
+      "highlight": "Increased usage",
+      "text": "Respondents expect an increased usage of walking/biking and micromobility when returning to “normal life”"
+    },
+    {
+      "highlight": "Slight decrease",
+      "text": "Slight decrease in mobility usage across all major transportation modes after 2nd lockdowns in Europe, but with less magnitude than 1st lockdown"
+    }
+  ],
+  "supporting_facts": [
+    "Results of wave 1 (May 9-18), wave 2 (May 27-29), wave 3 (Jun 16-18), wave 4 (Jul 15-17), wave 5 (Sep 2-4), and wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic and bullet points",
+  "layout_type": "Comparative",
+  "content_zones": {
+    "left": "Infographic with transportation usage data",
+    "right": "Bullet points with insights"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Mobility usage during crisis",
+      "position": "top right"
+    },
+    {
+      "type": "icon",
+      "label": "Mobility usage pre- vs. post-crisis",
+      "position": "top right"
+    },
+    {
+      "type": "icon",
+      "label": "Mobility decrease, in pp.",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Usage of transportation modes on a regular basis",
+    "x_axis_label": "",
+    "y_axis": [
+      "Private car",
+      "Public transport",
+      "Walking or biking with private bike",
+      "Micromobility (e.g., e-scooter, e-bike)",
+      "Car sharing (e.g., ShareNow)",
+      "Ride hailing (e.g., Uber, Lyft, taxis)"
+    ],
+    "values": [
+      {
+        "Before crisis": [
+          81,
+          35,
+          66,
+          8,
+          7,
+          8
+        ]
+      },
+      {
+        "Wave 1": [
+          60,
+          15,
+          61,
+          7,
+          5,
+          6
+        ]
+      },
+      {
+        "Wave 2": [
+          68,
+          17,
+          66,
+          7,
+          5,
+          6
+        ]
+      },
+      {
+        "Wave 3": [
+          73,
+          18,
+          67,
+          7,
+          5,
+          5
+        ]
+      },
+      {
+        "Wave 4": [
+          78,
+          21,
+          67,
+          7,
+          6,
+          6
+        ]
+      },
+      {
+        "Wave 5": [
+          79,
+          24,
+          67,
+          9,
+          7,
+          7
+        ]
+      },
+      {
+        "Wave 6": [
+          75,
+          22,
+          64,
+          9,
+          7,
+          7
+        ]
+      },
+      {
+        "Return to “normal life”": [
+          81,
+          35,
+          73,
+          10,
+          8,
+          9
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Source: McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid present, infographic section is a bar chart instead."
+  }
+}

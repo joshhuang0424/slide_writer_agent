@@ -1,0 +1,145 @@
+{
+  "slide_id": "80",
+  "section": "Market Analysis",
+  "purpose": "To illustrate Sony's future value creation from 2018 to 2022.",
+  "narrative_role": "Analytical",
+  "title": "Market's view on Sony's future value creation",
+  "bullets": [],
+  "supporting_facts": [
+    "Cash Flow yield is after reinvestment in respective businesses.",
+    "Numbers displayed may not sum due to rounding.",
+    "Numbers in circle represent % value creation by each business unit."
+  ],
+  "reasoning_strategy": "Comparative analysis of cash flow and capital gain.",
+  "data_points": [
+    "2018 Value: 6,000",
+    "2022 Value: 8,025",
+    "Cash Flow: 3",
+    "Capital Gain: 5",
+    "Total iTSR: 8"
+  ],
+  "cta": null,
+  "layout": "chart-focused",
+  "layout_type": "single-chart",
+  "content_zones": {
+    "chart_area": "center",
+    "legend": "bottom",
+    "annotations": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentages in circles."
+  },
+  "design_language": "Analytical",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Change in Value from 2018-2022 Including accumulated cash flow",
+    "x_axis_label": "Business Segments",
+    "y_axis": [
+      "Estimated Value/Share (¥)"
+    ],
+    "values": [
+      {
+        "segment": "Game and Network",
+        "value": 6000,
+        "label": "69%"
+      },
+      {
+        "segment": "Music",
+        "value": 1400,
+        "label": "19%"
+      },
+      {
+        "segment": "Pictures",
+        "value": 385,
+        "label": "2%"
+      },
+      {
+        "segment": "HE&S",
+        "value": 35,
+        "label": "4%"
+      },
+      {
+        "segment": "Imaging",
+        "value": 90,
+        "label": "8%"
+      },
+      {
+        "segment": "Mobile Comm",
+        "value": 170,
+        "label": "-11%"
+      },
+      {
+        "segment": "Semiconductors",
+        "value": 70,
+        "label": "4%"
+      },
+      {
+        "segment": "Financial Services",
+        "value": 155,
+        "label": "8%"
+      },
+      {
+        "segment": "All Other",
+        "value": -70,
+        "label": "-4%"
+      }
+    ],
+    "annotations": [],
+    "source": "Analyst segment estimates; BCG ValueScience Center"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Annual percentage contribution by business segment.",
+      "headers": [
+        "Cash Flow",
+        "Capital gain",
+        "Total iTSR"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "3",
+            "5",
+            "8"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid infographic detected in the slide."
+  }
+}

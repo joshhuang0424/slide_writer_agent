@@ -1,0 +1,88 @@
+{
+  "slide_id": "1",
+  "section": "Executive summary",
+  "purpose": "Provide an overview of changes and trends in the automotive industry.",
+  "narrative_role": "Summarize key industry shifts and emerging trends.",
+  "title": "Executive summary",
+  "bullets": [
+    {
+      "highlight": "Auto industry is facing unprecedented change",
+      "text": "in technology, society and regulatory trends"
+    },
+    {
+      "highlight": "Automotive is being re-shaped by shifts towards electrification, self-driving vehicles and shared mobility",
+      "text": ""
+    },
+    {
+      "highlight": "significant effect",
+      "text": "on the vehicle and mobility market"
+    },
+    {
+      "highlight": "players in the industry and their profitability",
+      "text": ""
+    },
+    {
+      "highlight": "Value creation is likely to shift away from traditional OEMs",
+      "text": "and move more towards suppliers"
+    },
+    {
+      "highlight": "technology players and profit pools that emerge",
+      "text": "driving new value in the space"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight major industry shifts and their impacts.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text-heavy with emphasis on key phrases",
+  "layout_type": "Single column text",
+  "content_zones": {
+    "left": "Title",
+    "right": "Bulleted text"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 6,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Key phrases highlighted in color"
+  },
+  "design_language": "Modern, minimalistic",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Teal",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts, tables, or infographics present on the slide."
+  }
+}

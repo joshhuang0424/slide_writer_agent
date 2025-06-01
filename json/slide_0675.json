@@ -1,0 +1,95 @@
+{
+  "slide_id": "15",
+  "section": "Financial Analysis",
+  "purpose": "To highlight the challenges OEMs face with declining margins and the need for new investments.",
+  "narrative_role": "Informative",
+  "title": "OEMs face a ‘double whammy’ challenge: margins will decline while growth areas require new investments",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of current and future financial metrics for OEMs.",
+  "data_points": [
+    "6.6%",
+    "5.5%",
+    "6.8%",
+    "8.0%"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "While profit goes down...",
+    "right": "...Investments will need to go up"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use color and size for emphasis"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      {
+        "x": "2017",
+        "y": "6.6",
+        "category": "Ø OEM RoS"
+      },
+      {
+        "x": "2025",
+        "y": "5.5",
+        "category": "Ø OEM RoS"
+      },
+      {
+        "x": "2017",
+        "y": "6.8",
+        "category": "Ø OEM CAPEX/revenue"
+      },
+      {
+        "x": "2025",
+        "y": "8.0",
+        "category": "Ø OEM CAPEX/revenue"
+      }
+    ],
+    "annotations": [
+      "~ -1%pt",
+      "~ +1%pt"
+    ],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or pyramid levels are present in the slide."
+  }
+}

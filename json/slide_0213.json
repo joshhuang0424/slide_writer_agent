@@ -1,0 +1,156 @@
+{
+  "slide_id": "44",
+  "section": "Case Example",
+  "purpose": "Highlight shareholder value implications of diverse corporate strategy alternatives",
+  "narrative_role": "Informative",
+  "title": "iTSR will be brought in to highlight shareholder value implications of diverse corporate strategy alternatives",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of different corporate strategy alternatives based on estimated TSR.",
+  "data_points": [
+    "Estimated 3 yr. iTSR (%)",
+    "Client management focus",
+    "Other Corporate Strategy Alternatives"
+  ],
+  "cta": null,
+  "layout": "single column",
+  "layout_type": "text-chart combo",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "table": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "S&P Median",
+      "position": "right"
+    },
+    {
+      "type": "legend",
+      "label": "Alternatives considered by Management Plans",
+      "position": "bottom"
+    },
+    {
+      "type": "legend",
+      "label": "TSR Strategy Alternatives",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Estimated 3 yr. iTSR (%)",
+    "x_axis_label": "Strategy",
+    "y_axis": [
+      "Momentum",
+      "Super regional",
+      "Super regional plus California",
+      "Universal Bank"
+    ],
+    "values": [
+      10.4,
+      7.4,
+      15.6,
+      22.3,
+      13.9
+    ],
+    "annotations": [],
+    "source": "Value Line; BCG analysis"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of key metrics for different strategies",
+      "headers": [
+        "Strategy",
+        "P/E EoP",
+        "Market Cap EoP",
+        "Share Price EoP",
+        "Risk"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Initial management plan",
+            "100",
+            "100",
+            "100",
+            "Moderate"
+          ]
+        },
+        {
+          "cells": [
+            "Major acquisition",
+            "91",
+            "162",
+            "89",
+            "Very high"
+          ]
+        },
+        {
+          "cells": [
+            "Organic growth/cost strategy",
+            "111",
+            "121",
+            "114",
+            "Low-moderate"
+          ]
+        },
+        {
+          "cells": [
+            "Organic growth/cost plus financial strategy",
+            "122",
+            "135",
+            "135",
+            "Moderate"
+          ]
+        },
+        {
+          "cells": [
+            "M&A to migrate portfolio",
+            "108",
+            "124",
+            "108",
+            "Moderate-High"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic section is not applicable as there is no pyramid or similar diagram."
+  }
+}

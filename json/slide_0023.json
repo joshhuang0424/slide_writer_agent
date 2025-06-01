@@ -1,0 +1,132 @@
+{
+  "slide_id": "23",
+  "section": "Diversity and Inclusion",
+  "purpose": "To present actionable strategies for enhancing diversity and inclusion within an organization.",
+  "narrative_role": "Informative",
+  "title": "Taking action across diversity and inclusion can drive change",
+  "bullets": [
+    {
+      "highlight": "Diversity",
+      "text": "Share of employees with underrepresented identities (e.g., gender, racial/ethnic, LGBTQ+)"
+    },
+    {
+      "highlight": "Recruiting",
+      "text": "Ensure representation through scholarships and additional funding for first year assistants and interns for key decision roles"
+    },
+    {
+      "highlight": "Retention",
+      "text": "Provide and encourage flexible options to present an alternative to freelance tracks – promote a broad spectrum of experiences / trajectories to reduce stigma"
+    },
+    {
+      "highlight": "Advancement",
+      "text": "Create systematic apprenticeship and succession plan through the pipeline to ensure women are promoted specifically into key decision-making roles"
+    },
+    {
+      "highlight": "Inclusion",
+      "text": "Degree to which employees perceive they are accepted and respected"
+    },
+    {
+      "highlight": "Belonging",
+      "text": "Proactively seek input and guidance from underrepresented groups and involve them in core processes to build expertise and credibility"
+    },
+    {
+      "highlight": "Openness",
+      "text": "Create clear and strong consequences for discrimination with a centralized body enforcing clear guidelines and policies"
+    },
+    {
+      "highlight": "Equity",
+      "text": "Require a minimum number of diverse candidates to be considered for each position with diverse individuals on hiring / promotion committees"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight specific actions to improve diversity and inclusion",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with text and icons",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": [
+      "Diversity",
+      "Recruiting",
+      "Retention",
+      "Advancement"
+    ],
+    "right": [
+      "Inclusion",
+      "Belonging",
+      "Openness",
+      "Equity"
+    ]
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Recruiting",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Retention",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Advancement",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Belonging",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Openness",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Equity",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for section headers"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "White",
+    "background": "Dark Blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font specifics were not discernible from the image."
+  }
+}

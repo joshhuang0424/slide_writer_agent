@@ -1,0 +1,62 @@
+{
+  "slide_id": "14",
+  "section": "BCG分析工具",
+  "purpose": "展示BCG的專有資料庫工具及其分析結果範例",
+  "narrative_role": "展示",
+  "title": "BCG還有專有資料庫工具，能快速生成標準化分析結果",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "展示多個分析結果範例以支持主張",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "gallery",
+  "content_zones": {
+    "header": "top",
+    "subheader": "below header",
+    "examples": "grid"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "header emphasized"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "頁面主要為展示範例圖片，無法深入分析具體內容及數據"
+}

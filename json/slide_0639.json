@@ -1,0 +1,103 @@
+{
+  "slide_id": "39",
+  "section": "Advisory Services",
+  "purpose": "To outline Mastercard's advisory services and their specific applications.",
+  "narrative_role": "Informative",
+  "title": "How can we help?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of services into stages",
+  "data_points": [],
+  "cta": null,
+  "layout": "Four-column process infographic",
+  "layout_type": "infographic",
+  "content_zones": {
+    "header": "top",
+    "infographic": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "KNOW",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "DEVELOP",
+      "position": "center-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "ACT",
+      "position": "center-right"
+    },
+    {
+      "type": "rectangle",
+      "label": "ANALYZE",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold headers, regular list items"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "process",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Discovery and Insights"
+      },
+      {
+        "id": "L1",
+        "label": "Strategic Direction"
+      },
+      {
+        "id": "L2",
+        "label": "Consumer-Facing Impacts"
+      },
+      {
+        "id": "L3",
+        "label": "Data-based Evaluations"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "The font family and size are not discernible from the image."
+  }
+}

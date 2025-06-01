@@ -1,0 +1,87 @@
+{
+  "slide_id": "10",
+  "section": "Workforce Trends",
+  "purpose": "Highlight reasons for women leaving or downshifting careers",
+  "narrative_role": "Informative",
+  "title": "Many employees are now considering leaving the workforce or downshifting their careers",
+  "bullets": [
+    {
+      "highlight": "worried",
+      "text": "Feeling worried their performance is judged negatively due to caregiving"
+    },
+    {
+      "highlight": "can't bring their whole selves to work",
+      "text": "Feeling they can't bring their whole selves to work"
+    },
+    {
+      "highlight": "always on",
+      "text": "Feeling like they need to be always on"
+    },
+    {
+      "highlight": "Discomfort",
+      "text": "Discomfort sharing their challenges with co-workers"
+    },
+    {
+      "highlight": "blindsided",
+      "text": "Feeling blindsided by decisions that impact their work"
+    },
+    {
+      "highlight": "additional hours on housework",
+      "text": "Spending additional hours on housework"
+    },
+    {
+      "highlight": "not providing the flexibility",
+      "text": "Their company not providing the flexibility they need"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "List of reasons",
+  "data_points": [],
+  "cta": null,
+  "layout": "text-image",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Image of a woman with a tablet",
+    "right": "Title and bullet points"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 7,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Some words in bold"
+  },
+  "design_language": "Professional and informational",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "None",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or additional data points present on the slide"
+  }
+}

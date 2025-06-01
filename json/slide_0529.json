@@ -1,0 +1,71 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To introduce the topic of authentication",
+  "narrative_role": "Title Slide",
+  "title": "Authentication",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Establish the topic and set the stage for further details.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "single-centered",
+  "content_zones": {
+    "title_zone": "center",
+    "logo_zone": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title case for slide title."
+  },
+  "design_language": "Minimalist and modern",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "grey",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "normal"
+    },
+    "body": {
+      "font_family": "",
+      "size": ""
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

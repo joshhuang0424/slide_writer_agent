@@ -1,0 +1,185 @@
+{
+  "slide_id": "76",
+  "section": "Financial Analysis",
+  "purpose": "To demonstrate the impact of strategic decisions on financial metrics.",
+  "narrative_role": "Evidence",
+  "title": "Microsoft reignited value creation by focusing on strongest value-creation moves",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Client's TSR performance had softened after decade+ boom"
+    },
+    {
+      "highlight": "",
+      "text": "Client used the TSR lens to inform important decisions around capital allocation and portfolio choices"
+    },
+    {
+      "highlight": "",
+      "text": "Key management choices included:"
+    },
+    {
+      "highlight": "",
+      "text": "- Exiting underperforming segments (e.g., mobile handsets)"
+    },
+    {
+      "highlight": "",
+      "text": "- Focusing on high value opportunities (e.g., cloud)"
+    },
+    {
+      "highlight": "",
+      "text": "- Supporting the journey through significant dividend"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of financial metrics before and after strategic decisions.",
+  "data_points": [
+    {
+      "metric": "P/E (x)",
+      "prior": "15",
+      "present": "38"
+    }
+  ],
+  "cta": null,
+  "layout": "Two-column layout with text and table",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Textual synopsis",
+    "right": "Data table"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Green arrow",
+      "position": "middle"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for emphasis"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Financial Metrics Comparison",
+      "description": "Comparison of key financial metrics prior to and after the project",
+      "headers": [
+        "",
+        "Prior to project",
+        "Present day:"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Price ($)",
+            "X",
+            "2.3X"
+          ]
+        },
+        {
+          "cells": [
+            "Market cap ($B)",
+            "Y",
+            "2.1Y"
+          ]
+        },
+        {
+          "cells": [
+            "P/E¹ (x)",
+            "15",
+            "38"
+          ]
+        },
+        {
+          "cells": [
+            "5 year TSR (vs. S&P²) (%)",
+            "20% (26%)",
+            "Top Quartile"
+          ]
+        },
+        {
+          "cells": [
+            "Forward revenue growth",
+            "10.0%",
+            "13.8%"
+          ]
+        },
+        {
+          "cells": [
+            "1 year dividend payout (%)",
+            "75.2%",
+            "112.8%"
+          ]
+        },
+        {
+          "cells": [
+            "1 year dividend yield (%)",
+            "3.1%",
+            "2.0%"
+          ]
+        },
+        {
+          "cells": [
+            "Gross margin (%)",
+            "69.9%",
+            "62.7%"
+          ]
+        },
+        {
+          "cells": [
+            "Investor type",
+            "Value",
+            "Growth"
+          ]
+        },
+        {
+          "cells": [
+            "EV/EBITDA (x)",
+            "~9",
+            "~17"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "Font not specified in the image"
+  }
+}

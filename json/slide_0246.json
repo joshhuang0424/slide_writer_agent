@@ -1,0 +1,73 @@
+{
+  "slide_id": "77",
+  "section": "Value Management",
+  "purpose": "To emphasize the importance of long-term value management over short-term metrics.",
+  "narrative_role": "Supporting Argument",
+  "title": "關注長期價值",
+  "bullets": [
+    {
+      "highlight": "只關注短期 EPS (每股盈利)，季度盈利和 TSR (股東總回報)",
+      "text": "容易犧牲企業長期的競爭力"
+    },
+    {
+      "highlight": "同時也為其他利益相關者產生不理想的結果",
+      "text": "由於未來的利益越少，則代表利益相關者只能分到更少的利益"
+    },
+    {
+      "highlight": "將長期的 TSR 納入考量，是對於股東價值管理至關重要的事情",
+      "text": "為了保持長期目標與短期成長動能方向的一致性"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlighting the risks of focusing solely on short-term metrics.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Side by side text and visual",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Main text",
+    "right": "Bullet points with lines"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight important points with different colors."
+  },
+  "design_language": "Professional and clean.",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#008000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains no data points, tables, or charts."
+  }
+}

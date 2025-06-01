@@ -1,0 +1,72 @@
+{
+  "slide_id": "15",
+  "section": "Member Experience Promise",
+  "purpose": "To convey the commitment to meet members where they are with what they need.",
+  "narrative_role": "Demonstrative",
+  "title": "MEMBER EXPERIENCE PROMISE",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight the importance of accessibility and personalized service for members.",
+  "data_points": [],
+  "cta": null,
+  "layout": "centered text with highlighted quote",
+  "layout_type": "textual emphasis",
+  "content_zones": {
+    "header": "top",
+    "main_text": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "highlighted_text",
+      "label": "We will meet our members where they are with what they need",
+      "position": "center",
+      "style": "orange text"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use orange color for emphasis"
+  },
+  "design_language": "professional and clear",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family and size are not specified in the image."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "slide_id": "17",
+  "section": "Methodology",
+  "purpose": "Explain the metrics and grading criteria for CO2e and energy intensity.",
+  "narrative_role": "Informative",
+  "title": "Methodology: Dimension 2: CO2e and energy intensity",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven explanation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Table",
+  "layout_type": "Side by side",
+  "content_zones": {
+    "title": "top-center",
+    "table": "center",
+    "infographic": "top-left"
+  },
+  "visual_elements": [
+    {
+      "type": "pie_chart_icon",
+      "label": "25%",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Green color for emphasis"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Metrics and grading criteria for CO2e and energy intensity.",
+      "headers": [
+        "Indicator",
+        "Type",
+        "Metric",
+        "Weight",
+        "Grading criteria"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "CO2e intensity - scope 1 & 2 emissions",
+            "N",
+            "CO2e emissions total / IP data traffic",
+            "20%",
+            "100 = 0 kt / Exabyte 0 >= 150 kt / Exabyte"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "N",
+            "CO2e emissions total / revenue",
+            "20%",
+            "100 = 0 t / USD Mio. 0 >= 60 t / USD Mio.1"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "N",
+            "CO2e emissions total / # customers",
+            "20%",
+            "100 = 0 t / 1,000 customers 0 >= 50 t / 1,000 customers1"
+          ]
+        },
+        {
+          "cells": [
+            "Energy intensity",
+            "N",
+            "Energy use total / IP data traffic",
+            "7%",
+            "100 = 400,000 GJ / Exabyte 0 >= 750,000 GJ / Exabyte1"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "N",
+            "Energy use total / revenue",
+            "7%",
+            "100 = 200 GJ / USD Mio. 0 >= 600 GJ / USD Mio.1"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "N",
+            "Energy use total / # customers",
+            "7%",
+            "100 = 50 GJ / 1,000 customers 0 >= 250 GJ / 1,000 customers1"
+          ]
+        },
+        {
+          "cells": [
+            "Energy sourcing",
+            "N",
+            "Renewable energy use ratio",
+            "20%",
+            "100 = 100% 0 = 0%1"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional visual elements or charts beyond the table and pie chart icon."
+  }
+}

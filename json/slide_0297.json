@@ -1,0 +1,87 @@
+{
+  "slide_id": "13",
+  "section": "Security Framework",
+  "purpose": "To explain the use and benefits of a cloud-security framework and its components.",
+  "narrative_role": "Informative",
+  "title": "The right security framework and automation can enable protection and agility",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Classifying workloads and getting to a complete and specific set of standards per segment"
+    },
+    {
+      "highlight": "",
+      "text": "Providing an aspirational multi-cloud architecture by segment"
+    },
+    {
+      "highlight": "",
+      "text": "Identifying major automation use cases by application life cycle"
+    },
+    {
+      "highlight": "",
+      "text": "Defining a comprehensive operating model to instantiate the “security as code” vision"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explain the components and flow of the framework to demonstrate its role in enabling security and agility.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and infographic",
+  "content_zones": {
+    "left": "Infographic showing flow of framework use",
+    "right": "Text outlining framework benefits"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Flow of framework use",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional, structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "diagram",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic is not a pyramid or chart, so it doesn't fit the predefined categories."
+  }
+}

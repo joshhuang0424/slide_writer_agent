@@ -1,0 +1,74 @@
+{
+  "slide_id": "1",
+  "section": "Cross-Lifecycle Elements",
+  "purpose": "Introduce the concept of issuer brand reinforcement.",
+  "narrative_role": "introduction",
+  "title": "Issuer Brand Reinforcement",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "visual introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "title-slide",
+  "content_zones": {
+    "left": "text",
+    "right": "visual"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard",
+      "position": "bottom-left"
+    },
+    {
+      "type": "abstract-shape",
+      "label": "",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for section title"
+  },
+  "design_language": "modern, corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullets, tables, or charts present in the slide. The slide primarily serves as an introductory title page with visual elements."
+  }
+}

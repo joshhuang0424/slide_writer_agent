@@ -1,0 +1,87 @@
+{
+  "slide_id": "18",
+  "section": "Company Overview",
+  "purpose": "Highlight key attributes of First Interstate Bank.",
+  "narrative_role": "Informative",
+  "title": "First Interstate Bank headquartered in Billings, MT is Montana’s largest bank",
+  "bullets": [],
+  "supporting_facts": [
+    "$9B Total Assets",
+    "80 branches across 3 states"
+  ],
+  "reasoning_strategy": "Presenting geographical and financial data to emphasize the bank's size and reach.",
+  "data_points": [
+    "$9B Total Assets",
+    "80 branches"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text-graphic",
+  "content_zones": {
+    "left": "text",
+    "right": "map and highlights"
+  },
+  "visual_elements": [
+    {
+      "type": "map",
+      "label": "MT, WY, SD",
+      "position": "right"
+    },
+    {
+      "type": "highlight_box",
+      "label": "Key First Interstate attributes...",
+      "position": "left-top"
+    },
+    {
+      "type": "label",
+      "label": "A",
+      "position": "left-middle"
+    },
+    {
+      "type": "label",
+      "label": "B",
+      "position": "left-bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key attributes"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_information": {
+    "_why_unknown": "The page does not contain a standard chart or table, hence those fields are marked as unknown."
+  }
+}

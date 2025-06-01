@@ -1,0 +1,198 @@
+{
+  "slide_id": "40",
+  "section": "Line Item Definitions",
+  "purpose": "Define and explain various financial terms and costs associated with credit card transactions.",
+  "narrative_role": "Informative",
+  "title": "Line Item Definitions",
+  "bullets": [
+    {
+      "highlight": "Acquisition Cost",
+      "text": "Cost of acquiring a new customer through marketing campaigns and purchasing name lists from the credit bureau"
+    },
+    {
+      "highlight": "Acquisition Incentive Cost",
+      "text": "The cost of offering promotions in order to push customers to sign up"
+    },
+    {
+      "highlight": "Annual Fee Income",
+      "text": "Some credit cards, usually on the premium side, charge an annual fee in exchange for extra benefits or rewards."
+    },
+    {
+      "highlight": "Balance Transfer Fees",
+      "text": "Fees associated with transferring debt from one credit card to another."
+    },
+    {
+      "highlight": "Cash Advance Fees",
+      "text": "Fees charged to customers who withdraw cash from an ATM using a credit card (instead of a debit card traditionally)"
+    },
+    {
+      "highlight": "Chargeoffs",
+      "text": "Money that has not been repaid in typically 90-180 days is written off by issuer."
+    },
+    {
+      "highlight": "Collection Ops Cost",
+      "text": "The issuer’s cost to try and collect the money that is owed, i.e. through mail reminders, phone calls from the issuer, or in-person debt collectors."
+    },
+    {
+      "highlight": "Credit Protection",
+      "text": "Credit Protection works as a form of insurance for the consumer. Every month, they pay a fee for the program, which allows them to stop making minimum monthly payments in the case of disability or sudden unemployment. Because Jamie was recently fired, but pays for credit protection, he is insured. This also works as a form of income for the issuer. With the monthly payments for the credit protection, total other income increases. However, when Jamie files for credit protection, there is a cost for the issuer involved in that - credit protection claims."
+    },
+    {
+      "highlight": "Credit Protection Claims",
+      "text": "When consumers claim for credit protection, the issuer needs to internalize this cost"
+    },
+    {
+      "highlight": "Credit Protection Fees",
+      "text": "If cardholders opt for credit protection, they are required to pay a monthly fee in return for coverage if they are unable to pay in the future."
+    },
+    {
+      "highlight": "Finance Charges",
+      "text": "The interest charged if Jamie decides to keep his balance next month (‘revolves’)"
+    },
+    {
+      "highlight": "Foreign Exchange Fee",
+      "text": "Fee credit card issuers charge to convert abroad and domestic currencies"
+    },
+    {
+      "highlight": "Fraud Losses",
+      "text": "Cost issuer incurs from fraud-related card activity such as stolen cards or counterfeit transactions."
+    },
+    {
+      "highlight": "Interchange Fees",
+      "text": "The fee that an issuer earns on transactions"
+    },
+    {
+      "highlight": "Interest Expense",
+      "text": "For transactions that incur balances, issuers pay back merchants on cardholder’s behalf and must pay interest on outstanding balances until cardholders pay back the issuer."
+    },
+    {
+      "highlight": "Late Fees",
+      "text": "Charges consumers if they fail to make their minimum monthly payments on time, as per the 2009 Card Act."
+    },
+    {
+      "highlight": "Loan Loss Provision Adjustment",
+      "text": "An accounting adjustment for pre-emptively replenishing the balance sheet to mitigate future forecasted chargeoffs"
+    },
+    {
+      "highlight": "Miscellaneous Fees",
+      "text": "examples include statement reprints, expedited shipping for lost/stolen card replacement items"
+    },
+    {
+      "highlight": "Net Credit Losses",
+      "text": "This is a cost for the issuer. It is equal to Chargeoffs plus or minus Loan Loss Provision Adjustment, minus Recoveries"
+    },
+    {
+      "highlight": "Net Income After Tax",
+      "text": "The total net income after taxes are considered. This is equal to the Pre-Tax Net Income minus the Income Tax Expense/Credit."
+    },
+    {
+      "highlight": "Net Interest Income",
+      "text": "This is revenue for the issuer. It is equal to Finance Charges plus Transfer Pricing Interest Income, minus Interest Expense"
+    },
+    {
+      "highlight": "Net Lending Margin",
+      "text": "This is the overall revenue from balance-related revenues and expenses. It is equal to the Net Interest Income minus the Net Credit Losses."
+    },
+    {
+      "highlight": "Network Fees",
+      "text": "fees paid to the networks that facilitate credit card transactions"
+    },
+    {
+      "highlight": "Overlimit Fee",
+      "text": "an issuer can choose to authorize consumers to spend over their prescribed credit limits. Alternatively, issuers might choose to let consumers go over their limit if they opt in to an overlimit fee. If Jamie opted in, then the issuer could make him pay the fee for going over his limit"
+    },
+    {
+      "highlight": "Plastic Reissue Costs",
+      "text": "In case Jamie breaks or loses his credit card, ABC will need to reissue the card, thereby incurring costs for the plastic."
+    },
+    {
+      "highlight": "Portfolio Marketing Costs",
+      "text": "lifecycle marketing to keep the consumer engaged. This would include direct mail, targeted advertising and sales channel management."
+    },
+    {
+      "highlight": "Potential Fraud Costs",
+      "text": "the potential losses that an issuer might incur due to fraud and associated fees – what if Jamie had not told them about the trip to Cancun? The issuer may assume that someone stole Jamie’s card and will have to pay any fees incurred by the thief"
+    },
+    {
+      "highlight": "Processor Fees",
+      "text": "Fees paid to processors of credit card transactions"
+    },
+    {
+      "highlight": "Recoveries",
+      "text": "similarly, sometimes an issuer might get back some of the money that they had previously charged off. For example, if someone was down on their luck and couldn’t pay back their debts at all but then manages to win the lottery"
+    },
+    {
+      "highlight": "Reward Costs",
+      "text": "If Jamie redeems cashback from ABC, the issuer will incur a cost for every point"
+    },
+    {
+      "highlight": "Total Costs",
+      "text": "Costs that are not directly related to the Net Credit Losses. This is equal to Acquisition Costs plus Acquisition Incentive Costs plus Variable Servicing Costs plus Reward Costs plus Collection Ops Costs plus Credit Protection Claims plus Portfolio Marketing Costs plus Plastic reissue Costs plus Network Fees plus Processor Fees plus Fraud Losses."
+    },
+    {
+      "highlight": "Total Other Income",
+      "text": "Revenue that is not directly related to the Net Interest Income."
+    },
+    {
+      "highlight": "Transfer Pricing Interest Income",
+      "text": "The income issuers generate from lending out secured card’s deposits on interest internally."
+    },
+    {
+      "highlight": "Variable Servicing Costs",
+      "text": "includes customer service and payments to the processor companies. Essentially, any servicing cost that will increase if the number of cards issued increases."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explaining financial terms and costs to clarify financial concepts related to credit card operations.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column text layout",
+  "layout_type": "textual",
+  "content_zones": {
+    "header": "top",
+    "left_column": "definitions",
+    "right_column": "definitions"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlights with bold"
+  },
+  "design_language": "Corporate, clear and informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

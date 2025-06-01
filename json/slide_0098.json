@@ -1,0 +1,161 @@
+{
+  "slide_id": "24",
+  "section": "",
+  "purpose": "To present data on the usage of different transportation modes during and after the crisis.",
+  "narrative_role": "Informative",
+  "title": "Walking/biking and micromobility potentially becoming more popular in the modal mix of the 'next normal'",
+  "bullets": [
+    {
+      "highlight": "Increased usage",
+      "text": "Respondents expect an increased usage of walking/biking and micromobility when returning to 'normal life'"
+    },
+    {
+      "highlight": "Slight decrease",
+      "text": "Slight decrease in mobility usage across all major transportation modes after 2nd lockdowns in Europe, but with less magnitude than 1st lockdown"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with bar charts and text",
+  "layout_type": "Infographic and text",
+  "content_zones": {
+    "left": "Bar charts showing usage of transportation modes",
+    "right": "Narrative text"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted words in bullets"
+  },
+  "design_language": "Professional, data-driven",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Dark",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "Bar",
+    "title": "Usage of transportation modes on a regular basis",
+    "x_axis_label": "Transportation Modes",
+    "y_axis": [
+      "Before crisis",
+      "Wave 1",
+      "Wave 2",
+      "Wave 3",
+      "Wave 4",
+      "Wave 5",
+      "Wave 6",
+      "Return to 'normal life'"
+    ],
+    "values": [
+      {
+        "Private car": [
+          81,
+          60,
+          68,
+          73,
+          78,
+          79,
+          75,
+          81
+        ]
+      },
+      {
+        "Public transport": [
+          35,
+          15,
+          17,
+          18,
+          21,
+          24,
+          22,
+          35
+        ]
+      },
+      {
+        "Walking or biking with private bike": [
+          66,
+          61,
+          66,
+          67,
+          67,
+          67,
+          64,
+          73
+        ]
+      },
+      {
+        "Micromobility (e.g., e-scooter, e-bike)": [
+          8,
+          7,
+          7,
+          7,
+          7,
+          9,
+          9,
+          10
+        ]
+      },
+      {
+        "Car sharing (e.g., ShareNow)": [
+          7,
+          5,
+          5,
+          5,
+          6,
+          7,
+          7,
+          8
+        ]
+      },
+      {
+        "Ride hailing (e.g., Uber, Lyft, taxis)": [
+          8,
+          6,
+          6,
+          5,
+          6,
+          7,
+          7,
+          9
+        ]
+      }
+    ],
+    "annotations": [
+      "-20",
+      "-20",
+      "-6",
+      "-2",
+      "-1"
+    ],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

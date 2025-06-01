@@ -1,0 +1,129 @@
+{
+  "slide_id": "11",
+  "section": "Case Study",
+  "purpose": "To evaluate the cost of declines on new cards for a payment tech company.",
+  "narrative_role": "Informative",
+  "title": "Operations and Risk: Mastercard Advisors evaluated the cost of Declines on New Cards for Small Business Debit portfolio of a Payment Tech Company",
+  "bullets": [
+    {
+      "highlight": "custom post decline analysis",
+      "text": "Using Mastercard’s Auth Data, perform custom post decline analysis that measures and compares impact of declines in different entry modes, ticket sizes industries etc. on future spend"
+    },
+    {
+      "highlight": "recommendations for fraud rule and policy changes",
+      "text": "Findings of the analysis informed recommendations for fraud rule and policy changes"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Analysis of transaction data to determine impact of declines on future spending.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with text on the left and visual elements on the right.",
+  "layout_type": "comparison",
+  "content_zones": {
+    "text": "left",
+    "visuals": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and corporate with emphasis on data-driven insights.",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "line and bar",
+    "title": "Custom analysis of a decline on future spend",
+    "x_axis_label": "Months",
+    "y_axis": [
+      "Indexed monthly spend"
+    ],
+    "values": [
+      {
+        "label": "Cards with only 1 transaction",
+        "data": [
+          1.0,
+          0.95,
+          0.9
+        ]
+      },
+      {
+        "label": "Cards with 2 transactions",
+        "data": [
+          1.0,
+          1.02,
+          1.05
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "text": "$169m in spend over the period Apr’16 – Sep’16 for cards declined in March 2016",
+        "position": "top"
+      }
+    ],
+    "source": "Mastercard data"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Impact of initial transaction declines on overall card behavior.",
+      "headers": [
+        "Color Code",
+        "Segment",
+        "Number of Cards",
+        "Decreased spend amount (cumulative)",
+        "Decreased spend amount monthly/card"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Red",
+            "Cards with only 1 transaction",
+            "126,509",
+            "$1,217k",
+            "$10k"
+          ]
+        },
+        {
+          "cells": [
+            "Orange",
+            "Cards with 2 transactions",
+            "80,000",
+            "$813k",
+            "$8k"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "Font details not specified in the slide."
+}

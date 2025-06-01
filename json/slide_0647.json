@@ -1,0 +1,106 @@
+{
+  "slide_id": "7",
+  "section": "2a",
+  "purpose": "Highlight geographic distribution of Black labor force in the US",
+  "narrative_role": "Informative",
+  "title": "Geographic mismatches between Black workers and opportunity",
+  "bullets": [
+    {
+      "highlight": "Almost 60%",
+      "text": "of the Black labor force (11.8M people) live in the South, compared to 1/3 of the rest of the private sectors"
+    },
+    {
+      "highlight": "",
+      "text": "Efforts to improve Black employment rates can have an outsize impact if focused on these states"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and emphasis on geographic concentration",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with map and text",
+  "layout_type": "map and text",
+  "content_zones": {
+    "map": "left",
+    "text": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight important statistics"
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#0072C6",
+    "background": "#00263A"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Concentration of Black labor force, % share of total",
+      "description": "Map showing percentage share of Black labor force by region",
+      "headers": [
+        "Region",
+        "% Share"
+      ],
+      "rows": [
+        {
+          "row_label": "West and Pacific",
+          "cells": [
+            "8.8%"
+          ]
+        },
+        {
+          "row_label": "Midwest",
+          "cells": [
+            "17.3%"
+          ]
+        },
+        {
+          "row_label": "Northeast",
+          "cells": [
+            "17.6%"
+          ]
+        },
+        {
+          "row_label": "South",
+          "cells": [
+            "56.5%"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "heat map"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Specific font details and some visual element positions are not discernible from the image."
+  }
+}

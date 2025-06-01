@@ -1,0 +1,91 @@
+{
+  "slide_id": "3",
+  "section": "Introduction",
+  "purpose": "To present opportunities for participants to engage with Mastercard's analytics capabilities.",
+  "narrative_role": "Informative",
+  "title": "This session presents an opportunity for participants to–",
+  "bullets": [
+    {
+      "highlight": "Impact",
+      "text": "Get an overview of how Mastercard’s data assets and analytics capabilities act as powerful differentiators in D&S engagements – which are jointly powered by in-region capabilities and COE expertise"
+    },
+    {
+      "highlight": "Breadth",
+      "text": "Understand more about a range of standardized and custom data analytics solutions developed for clients all across Financial institutions, merchants in the retail and commerce space"
+    },
+    {
+      "highlight": "Outreach",
+      "text": "Interact with the global experts who power Mastercard’s analytics capabilities. Receive follow up information on Sales and PEM needs and know whom to reach out for more information"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight key areas of impact, breadth, and outreach.",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "text and icon",
+  "content_zones": {
+    "title": "top",
+    "bullet_points": "center",
+    "icons": "left"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Impact Icon",
+      "position": "left-top"
+    },
+    {
+      "type": "icon",
+      "label": "Breadth Icon",
+      "position": "left-center"
+    },
+    {
+      "type": "icon",
+      "label": "Outreach Icon",
+      "position": "left-bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for key terms"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FF5F00",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

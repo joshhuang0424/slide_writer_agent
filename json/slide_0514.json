@@ -1,0 +1,106 @@
+{
+  "slide_id": "5",
+  "section": "Fraud Management",
+  "purpose": "Introduce basic concepts of fraud management",
+  "narrative_role": "Informative",
+  "title": "Fraud Management Basics",
+  "bullets": [
+    {
+      "highlight": "unauthorized",
+      "text": "The unauthorized use of card information or identity credentials to complete unauthorized transactions or maintenance on a card account"
+    },
+    {
+      "highlight": "",
+      "text": "The cardholder does not benefit from the unauthorized transaction"
+    },
+    {
+      "highlight": "",
+      "text": "Data and analytics are the foundation of effective fraud management"
+    },
+    {
+      "highlight": "",
+      "text": "Both Gross and Net losses are measured in dollars, transaction count, number of impacted card accounts, and basis points (bps)"
+    },
+    {
+      "highlight": "X 10,000",
+      "text": "Total Fraud / Total Cleared Authorizations X 10,000 = BPS"
+    },
+    {
+      "highlight": "",
+      "text": "Fraud management no longer means stopping fraud. It is proactively managing, monitoring and balancing fraud loss with revenue, profitability, operating expense and customer satisfaction"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Emphasize proactive and analytical approaches to fraud management",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text with highlighted sections",
+  "layout_type": "informative",
+  "content_zones": {
+    "header": "top",
+    "body": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "highlighted_box",
+      "label": "What is Card Fraud?",
+      "position": "top"
+    },
+    {
+      "type": "highlighted_box",
+      "label": "Measuring Fraud",
+      "position": "middle"
+    },
+    {
+      "type": "highlighted_box",
+      "label": "Advisors’ Philosophy to Fraud Management",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key terms"
+  },
+  "design_language": "Professional with emphasis on key terms",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "black",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables detected. Content primarily consists of text and highlighted sections."
+  }
+}

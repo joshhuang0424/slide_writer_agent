@@ -1,0 +1,82 @@
+{
+  "slide_id": "3",
+  "section": "Diversity, Equity, and Inclusion",
+  "purpose": "To explain the importance of understanding diversity, equity, and inclusion in organizations.",
+  "narrative_role": "Informative",
+  "title": "Addressing and responding to Diversity, Equity, and Inclusion requires an understanding of all three dimensions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive explanation of the three dimensions and how each is measured.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title at top, infographic on left, text explanations on right",
+  "layout_type": "infographic with text",
+  "content_zones": {
+    "title": "top",
+    "infographic": "left",
+    "text": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Diversity\nWho is represented in the workforce",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Equity\nHow we ensure equality of opportunity",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "Inclusion\nHow the workforce experiences the workplace",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold titles"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Dark Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "venn_diagram",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "infographic_type": "Three-circle Venn diagram illustrating Diversity, Equity, and Inclusion",
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

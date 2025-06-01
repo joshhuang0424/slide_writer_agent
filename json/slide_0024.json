@@ -1,0 +1,68 @@
+{
+  "slide_id": "1",
+  "section": "Conclusion",
+  "purpose": "Thank the audience and provide contact information for further engagement.",
+  "narrative_role": "Closing",
+  "title": "Thank you",
+  "bullets": [
+    {
+      "highlight": "www.womenintheworkplace.com",
+      "text": "Read the full report"
+    },
+    {
+      "highlight": "here",
+      "text": "To sign up to participate in 2021, fill out the survey linked"
+    },
+    {
+      "highlight": "workplaceSurvey@mckinsey.com",
+      "text": "Contact"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Provide a clear call to action by offering resources and contact details.",
+  "data_points": [],
+  "cta": "Visit the website and contact via email.",
+  "layout": "Title and contact information at the bottom",
+  "layout_type": "Thank You slide",
+  "content_zones": {
+    "header": "Thank you",
+    "footer": "Contact details and links"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Links and contact email are emphasized using color."
+  },
+  "design_language": "Professional and formal",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "blue",
+    "background": "dark blue gradient"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

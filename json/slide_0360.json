@@ -1,0 +1,75 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title slide for the webinar",
+  "narrative_role": "Introduction",
+  "title": "Cloud value in cash management",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "N/A",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "Single Title",
+  "content_zones": {
+    "title": "center",
+    "logo": "top-left",
+    "decorative_element": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "McKinsey & Company",
+      "position": "top-left"
+    },
+    {
+      "type": "decorative_line",
+      "label": "",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "This slide is a title slide with no numerical data, tables, or infographics beyond branding and title."
+  }
+}

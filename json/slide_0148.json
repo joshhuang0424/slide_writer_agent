@@ -1,0 +1,82 @@
+{
+  "slide_id": "1",
+  "section": "Employee Insights",
+  "purpose": "Highlight the lack of employee benefits.",
+  "narrative_role": "reveal",
+  "title": "... But employees are not benefiting",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual emphasis on employee support statistics.",
+  "data_points": [
+    "1 of 6"
+  ],
+  "cta": null,
+  "layout": "centered",
+  "layout_type": "visual_with_text",
+  "content_zones": {
+    "header": {
+      "position": "top",
+      "content": "... But employees are not benefiting"
+    },
+    "main_visual": {
+      "position": "center",
+      "content": "Infographic showing 1 of 6 employees supported"
+    },
+    "subtext": {
+      "position": "bottom",
+      "content": "employees surveyed feel more supported by their employers"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "1 of 6",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of larger font for emphasis on '1 of 6'"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "light blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No tables or charts detected, emphasis on visual infographic."
+  }
+}

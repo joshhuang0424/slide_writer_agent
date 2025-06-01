@@ -1,0 +1,103 @@
+{
+  "slide_id": "12",
+  "section": "Inclusion and Leadership",
+  "purpose": "To illustrate the impact of leadership and employee engagement on a culture of inclusion.",
+  "narrative_role": "Supporting evidence",
+  "title": "A culture of inclusion is supported by committed leadership from the top and broad employee engagement",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual comparison and statistics",
+  "data_points": [
+    "82",
+    "80",
+    "52",
+    "92",
+    "40",
+    "54",
+    "92",
+    "60",
+    "100"
+  ],
+  "cta": null,
+  "layout": "Title, three columns of icons with text, three donut charts",
+  "layout_type": "Infographic with charts",
+  "content_zones": {
+    "header": "top",
+    "icons_with_text": "center",
+    "charts": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Mentorship programs",
+      "position": "center left"
+    },
+    {
+      "type": "icon",
+      "label": "Intersectionality education",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Employee wellbeing policies",
+      "position": "center right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italic and bold for key terms"
+  },
+  "design_language": "Modern and professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "donut",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      [
+        82,
+        80,
+        52
+      ],
+      [
+        92,
+        40,
+        54
+      ],
+      [
+        92,
+        60,
+        100
+      ]
+    ],
+    "annotations": [],
+    "source": "Source: 2021 Women in the Workplace research, McKinsey & Company and LeanIn.Org"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "Font not specified in the image"
+  }
+}

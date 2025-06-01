@@ -1,0 +1,157 @@
+{
+  "slide_id": "01",
+  "section": "Assessment of status quo",
+  "purpose": "Benchmarking loyalty programs",
+  "narrative_role": "Comparison",
+  "title": "Assessment of status quo",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight best practices in loyalty programs",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center",
+    "notes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "textbox",
+      "label": "Illustrative data",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight best practices"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#FF5733",
+    "accent": "#FFC300",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Benchmarking",
+      "description": "Comparison of key factors across banks",
+      "headers": [
+        "",
+        "Bank A",
+        "Bank B",
+        "Bank C",
+        "Bank D",
+        "Bank X"
+      ],
+      "rows": [
+        {
+          "row_label": "Give back rate",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Annual fees",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Fee waiver",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Bonus points",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Redemption options",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Redemption channels",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Other features*",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "dashed borders"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The specific data points for each bank's performance are not provided, hence cells are empty."
+  }
+}

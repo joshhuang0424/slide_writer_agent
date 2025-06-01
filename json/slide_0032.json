@@ -1,0 +1,137 @@
+{
+  "slide_id": "2",
+  "section": "Data Science Culture",
+  "purpose": "Highlight the competitive perception of data science culture among students, particularly affecting STEM women.",
+  "narrative_role": "Evidence",
+  "title": "Data science culture is seen as \"more competition-based\" than other jobs, a strong disincentive for many STEM women",
+  "bullets": [
+    {
+      "highlight": "81% of women",
+      "text": "and 74% of men pursuing a data-science-related degree view the field's work culture as significantly more competitive"
+    },
+    {
+      "highlight": "picking up on the reality",
+      "text": "of how many employers present data science to them"
+    }
+  ],
+  "supporting_facts": [
+    "Frequent emphasis in recruiting on coding competitions",
+    "Recruiting 'hackathons' with a boiler-room atmosphere"
+  ],
+  "reasoning_strategy": "Comparison with other jobs",
+  "data_points": [
+    "81% of women",
+    "74% of men"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Text and Chart",
+  "content_zones": {
+    "left": "Chart",
+    "right": "Text"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and color for emphasis"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "",
+    "x_axis_label": "Countries",
+    "y_axis": [
+      "Women",
+      "Men"
+    ],
+    "values": [
+      {
+        "country": "All countries",
+        "women": 81,
+        "men": 74
+      },
+      {
+        "country": "China",
+        "women": 91,
+        "men": 79
+      },
+      {
+        "country": "Australia",
+        "women": 89,
+        "men": 75
+      },
+      {
+        "country": "Japan",
+        "women": 88,
+        "men": 70
+      },
+      {
+        "country": "India",
+        "women": 81,
+        "men": 79
+      },
+      {
+        "country": "Canada",
+        "women": 81,
+        "men": 79
+      },
+      {
+        "country": "France",
+        "women": 76,
+        "men": 76
+      },
+      {
+        "country": "United Kingdom",
+        "women": 87,
+        "men": 67
+      },
+      {
+        "country": "Germany",
+        "women": 67,
+        "men": 80
+      },
+      {
+        "country": "United States",
+        "women": 82,
+        "men": 66
+      },
+      {
+        "country": "Spain",
+        "women": 75,
+        "men": 63
+      }
+    ],
+    "annotations": [],
+    "source": "BCG Women in Data survey 2020"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic or other additional elements detected in the slide."
+  }
+}

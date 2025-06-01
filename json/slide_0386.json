@@ -1,0 +1,135 @@
+{
+  "slide_id": "22",
+  "section": "專案綜覽",
+  "purpose": "描述聯名卡發卡與轉卡行銷計畫的時間表和各階段活動",
+  "narrative_role": "timeline overview",
+  "title": "聯名卡發卡轉卡行銷計畫",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "時間軸展示和活動列表",
+  "data_points": [],
+  "cta": null,
+  "layout": "timeline with supporting activities",
+  "layout_type": "horizontal_timeline",
+  "content_zones": {
+    "timeline": "top",
+    "activities": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "timeline_node",
+      "label": "2023/2",
+      "position": "top_left"
+    },
+    {
+      "type": "timeline_node",
+      "label": "2023/5",
+      "position": "top_center"
+    },
+    {
+      "type": "timeline_node",
+      "label": "2023/8",
+      "position": "top_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": "bold dates and key actions"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#00A3E0",
+    "accent": "#FF5733",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "行銷計畫活動",
+      "description": "描述每個階段的具體行動",
+      "headers": [
+        "活動",
+        "細節"
+      ],
+      "rows": [
+        {
+          "row_label": "桃子自有通路",
+          "cells": [
+            "2/1桃子記者會（聯名卡發行）",
+            "2月線上、線下、社群通路全面上線\n3-5月子公司獎勵活動"
+          ]
+        },
+        {
+          "row_label": "桃子實場行員",
+          "cells": [
+            "進駐賣場日：5/1已確認",
+            ""
+          ]
+        },
+        {
+          "row_label": "椰子自有通路",
+          "cells": [
+            "2月官網、App全面上線\n2月MVM、Connection雜誌、eDM開始持續納入聯名卡廣告",
+            ""
+          ]
+        },
+        {
+          "row_label": "椰子店內廣宣",
+          "cells": [
+            "店內廣宣與桃子賣場行員入場同步5/1開始",
+            ""
+          ]
+        },
+        {
+          "row_label": "椰子分眾行銷",
+          "cells": [
+            "視進件數依客群優先順序以信函、SMS、電話行銷加量溝通",
+            ""
+          ]
+        },
+        {
+          "row_label": "主要辦卡通路",
+          "cells": [
+            "線上、桃子通路、企業團辦\n線上、椰子賣場",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "未偵測到圖表或金字塔結構"
+  }
+}

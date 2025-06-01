@@ -1,0 +1,102 @@
+{
+  "slide_id": "16",
+  "section": "Program Overview",
+  "purpose": "Compare and contrast two leadership programs",
+  "narrative_role": "Informative",
+  "title": "McKinsey’s Black Leadership Academy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column comparison with image",
+  "layout_type": "comparison",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "image": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for headers"
+  },
+  "design_language": "corporate, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of Black Executive Leadership Program and Management Accelerator",
+      "headers": [
+        "Black Executive Leadership Program",
+        "Management Accelerator"
+      ],
+      "rows": [
+        {
+          "row_label": "Audience",
+          "cells": [
+            "Black executives, 1-2 levels below C-suite",
+            "Early- to mid-career Black leaders"
+          ]
+        },
+        {
+          "row_label": "Objective",
+          "cells": [
+            "Hones executive leadership capabilities with focus on real-world challenges and driving transformative personal and professional change",
+            "Enhances leadership and general management skills focused on setting and leading a business strategy, problem solving for impact and 9 functional deep dives"
+          ]
+        },
+        {
+          "row_label": "Timing",
+          "cells": [
+            "12 weeks, 1.5 hours per week",
+            "24 weeks, 1.5 hours per week"
+          ]
+        },
+        {
+          "row_label": "Experience",
+          "cells": [
+            "Virtual facilitated workshops to anchor content\nPeer connectivity\n• Larger cohort connectivity\n• Small cohort progression of concepts and discussion\nFireside chats with notable leader\nVirtual exchanges to explore ideas",
+            "Digital courses to anchor content\nPeer connectivity\n• Larger cohort connectivity\n• Small cohort progression of concepts and discussion\nFireside chats with notable leader\nVirtual exchanges to explore ideas"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No charts or infographics detected. Image identified but not analyzed for content."
+  }
+}

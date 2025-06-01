@@ -1,0 +1,82 @@
+{
+  "slide_id": "6",
+  "section": "Women in Leadership",
+  "purpose": "Highlight the contributions of women leaders during COVID.",
+  "narrative_role": "Informative",
+  "title": "Women leaders have taken on the lion’s share of work to support employees and invest in DEI during COVID",
+  "bullets": [
+    {
+      "highlight": "60% more",
+      "text": "Investing 60% more in providing emotional support to their teams"
+    },
+    {
+      "highlight": "2.5x",
+      "text": "Taking up to 2.5x the sponsorship load"
+    },
+    {
+      "highlight": "2x",
+      "text": "Up to 2x as likely as men at their level to spend a substantial amount of time on DEI"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Quantitative comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with image",
+  "layout_type": "Text and image",
+  "content_zones": {
+    "left": "Title and image",
+    "right": "Bullet points"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Woman working on a laptop",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numeric values highlighted"
+  },
+  "design_language": "Professional and modern",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "gradient dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or table present; infographic pyramid is not applicable."
+  }
+}

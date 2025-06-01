@@ -1,0 +1,118 @@
+{
+  "slide_id": "4",
+  "section": "Cloud Migration",
+  "purpose": "Highlight improvements in agility and resilience post cloud migration.",
+  "narrative_role": "Data presentation",
+  "title": "Developers report improved agility and resilience in cloud environments",
+  "bullets": [],
+  "supporting_facts": [
+    "Release frequency average reduced from 'every quarter' to 'every month'",
+    "Lead time to deploy average reduced from 1-2 days to 7-12 hours",
+    "Mean time to recover (MTTR) average reduced from 12-18 hours to 4-6 hours"
+  ],
+  "reasoning_strategy": "Comparison of pre and post cloud migration performance metrics.",
+  "data_points": [
+    "Release frequency: Prior 100, Post 100",
+    "Lead time to deploy: Prior 100, Post 100",
+    "Mean time to recover (MTTR): Prior 100, Post 100"
+  ],
+  "cta": null,
+  "layout": "Three-column comparison",
+  "layout_type": "Data-driven",
+  "content_zones": {
+    "header": "top",
+    "charts": "center",
+    "footnote": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for headers"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#0070C0",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "",
+    "x_axis_label": "Migration Phases",
+    "y_axis": [
+      "Release frequency",
+      "Lead time to deploy",
+      "Mean time to recover"
+    ],
+    "values": [
+      {
+        "Prior": [
+          35,
+          25,
+          40
+        ],
+        "Post": [
+          17,
+          26,
+          57
+        ]
+      },
+      {
+        "Prior": [
+          26,
+          19,
+          22,
+          11,
+          22
+        ],
+        "Post": [
+          11,
+          22,
+          7,
+          11,
+          48
+        ]
+      },
+      {
+        "Prior": [
+          26,
+          26,
+          11,
+          30,
+          7
+        ],
+        "Post": [
+          4,
+          21,
+          11,
+          50,
+          14
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "footnote": "Excludes respondents who answered 'not applicable' for prior to cloud migration."
+  }
+}

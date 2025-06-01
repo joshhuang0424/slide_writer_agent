@@ -1,0 +1,80 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To introduce support options and resources.",
+  "narrative_role": "Informative",
+  "title": "Let's Get Started!",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide presents support categories with specific questions to guide the audience.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with highlighted support categories.",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Support categories with questions",
+    "right": "NAM in-region Delivery and Analytics Product managers details"
+  },
+  "visual_elements": [
+    {
+      "type": "box",
+      "label": "Sales Support",
+      "position": "left"
+    },
+    {
+      "type": "box",
+      "label": "PEM Support",
+      "position": "left"
+    },
+    {
+      "type": "box",
+      "label": "Learn more!",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text for support categories"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font family specifics and pyramid levels not defined in the image."
+  }
+}

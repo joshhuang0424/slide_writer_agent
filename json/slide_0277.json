@@ -1,0 +1,110 @@
+{
+  "slide_id": "7",
+  "section": "Cloud Infrastructure",
+  "purpose": "Explain how organizations can break even on cloud programs through eventual run-rate savings.",
+  "narrative_role": "Informative",
+  "title": "Organizations can break even on cloud programs through eventual run-rate savings",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of investment and savings related to cloud infrastructure.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-thirds chart with annotations",
+  "layout_type": "graphical",
+  "content_zones": {
+    "title": "top-left",
+    "chart": "center",
+    "annotations": "around chart"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "cloud",
+      "position": "top-center"
+    },
+    {
+      "type": "icon",
+      "label": "building",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "hourglass",
+      "position": "bottom-left"
+    },
+    {
+      "type": "icon",
+      "label": "gear",
+      "position": "bottom-right"
+    },
+    {
+      "type": "icon",
+      "label": "piggy bank",
+      "position": "bottom-center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "line chart",
+    "title": "Investment vs Savings over time",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "Investment",
+      "Savings"
+    ],
+    "values": [],
+    "annotations": [
+      "Investments in cloud infrastructure and assets",
+      "Investments for existing on-premises infrastructure",
+      "Rising costs of legacy infrastructure (eg, due to obsolescence)",
+      "Over and above this, there are tangible business agility and revenue benefits",
+      "Run-rate savings in Infrastructure",
+      "Time horizon that extends typical business-case horizon in regulated industries (ie, ~5 years)"
+    ],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "",
+      "headers": [],
+      "rows": [],
+      "position": "",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "No bullet points or table data present in the slide."
+  }
+}

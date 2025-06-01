@@ -1,0 +1,100 @@
+{
+  "slide_id": "24",
+  "section": "Retention -- Proactive",
+  "purpose": "To describe proactive retention strategies to identify warning signs of at-risk accounts and prevent attrition.",
+  "narrative_role": "Informative",
+  "title": "Proactive retention helps identify the warning signs of at-risk accounts and is a leading practice to combat attrition before it happens",
+  "bullets": [
+    {
+      "highlight": "100%",
+      "text": "redemption of rewards"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explains the presence of attrition triggers and corresponding marketing actions.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Visuals",
+  "layout_type": "Visual-based",
+  "content_zones": {
+    "title": "top",
+    "text": "middle",
+    "visuals": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Cancellation of recurring payments",
+      "position": "center-left"
+    },
+    {
+      "type": "icon",
+      "label": "\"One and done\" behavior",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Cessation or significant reduction in spend",
+      "position": "center-right"
+    },
+    {
+      "type": "icon",
+      "label": "100% redemption of rewards",
+      "position": "bottom-left"
+    },
+    {
+      "type": "icon",
+      "label": "Cancellation of additional cards or fee services",
+      "position": "bottom-center"
+    },
+    {
+      "type": "icon",
+      "label": "Balance pay down or additional balance transfers out",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for emphasis"
+  },
+  "design_language": "Professional and minimalist",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No numerical data or charts present, and no tables detected."
+  }
+}

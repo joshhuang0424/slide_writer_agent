@@ -1,0 +1,92 @@
+{
+  "slide_id": "35",
+  "section": "BCG TSR方案介绍",
+  "purpose": "介绍TSR驱动因素及管理抓手",
+  "narrative_role": "说明",
+  "title": "明确三大TSR驱动抓手并展开具体分析",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "text_and_diagram",
+  "content_zones": {
+    "left": "diagram",
+    "right": "text"
+  },
+  "visual_elements": [
+    {
+      "type": "pyramid",
+      "label": "TSR驱动因素",
+      "position": "left"
+    },
+    {
+      "type": "note",
+      "label": "TSR公式与注释",
+      "position": "top_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight keywords"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#00A551",
+    "accent": "#F0F0F0",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "资本收益"
+      },
+      {
+        "id": "L1",
+        "label": "利润增长"
+      },
+      {
+        "id": "L2",
+        "label": "估值倍数变化"
+      },
+      {
+        "id": "L3",
+        "label": "现金流贡献"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "此頁面不包含表格或典型圖表，僅含圖形和文本框。"
+  }
+}

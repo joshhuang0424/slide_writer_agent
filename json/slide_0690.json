@@ -1,0 +1,190 @@
+{
+  "slide_id": "11",
+  "section": "Premium Analysis",
+  "purpose": "To show the increase in premiums paid in 2016 compared to 2014 and 2015.",
+  "narrative_role": "Data presentation",
+  "title": "Premiums paid saw an uptick in 2016 when compared with premiums in 2014 and 2015",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison across years and regions",
+  "data_points": [
+    {
+      "year": "FY '14",
+      "one_day": 26,
+      "one_week": 28,
+      "one_month": 31
+    },
+    {
+      "year": "FY '15",
+      "one_day": 27,
+      "one_week": 29,
+      "one_month": 32
+    },
+    {
+      "year": "FY '16",
+      "one_day": 28,
+      "one_week": 32,
+      "one_month": 38
+    }
+  ],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Yearly premium comparison",
+    "right": "Distribution and regional comparison"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Distribution of one-month premiums (FY 2016), Percent",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numerical data highlighted"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "#0077b5",
+    "accent": "#00b2a9",
+    "background": "#f5f5f5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Median premium paid in 2014-16",
+    "x_axis_label": "Fiscal Year",
+    "y_axis": [
+      "Percent"
+    ],
+    "values": [
+      {
+        "label": "FY '14",
+        "one_day": 26,
+        "one_week": 28,
+        "one_month": 31
+      },
+      {
+        "label": "FY '15",
+        "one_day": 27,
+        "one_week": 29,
+        "one_month": 32
+      },
+      {
+        "label": "FY '16",
+        "one_day": 28,
+        "one_week": 32,
+        "one_month": 38
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Distribution of one-month premiums (FY 2016)",
+      "description": "Shows the percentage distribution of one-month premiums",
+      "headers": [
+        "Range",
+        "Percent"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "0%-10%",
+            "9"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "10%-20%",
+            "13"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "20%-30%",
+            "16"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "30%-40%",
+            "16"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            ">40%",
+            "45"
+          ]
+        }
+      ],
+      "position": "top-right",
+      "render_style": "standard"
+    },
+    {
+      "title": "Comparison of region-wise median premiums (FY 2016)",
+      "description": "Compares median premiums across regions",
+      "headers": [
+        "Region",
+        "One week",
+        "One month"
+      ],
+      "rows": [
+        {
+          "row_label": "Americas",
+          "cells": [
+            "37",
+            "39"
+          ]
+        },
+        {
+          "row_label": "EMEA",
+          "cells": [
+            "24",
+            "28"
+          ]
+        },
+        {
+          "row_label": "APAC",
+          "cells": [
+            "27",
+            "32"
+          ]
+        }
+      ],
+      "position": "bottom-right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No pyramid levels detected in infographic."
+}

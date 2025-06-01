@@ -1,0 +1,90 @@
+{
+  "slide_id": "10",
+  "section": "Data Flow Mapping",
+  "purpose": "To illustrate the integrated data flow for tracking and analyzing each channel, audience, and creatives to optimize acquisition strategies.",
+  "narrative_role": "Explain the process and tools used in the data flow.",
+  "title": "An Integrated Data Flow for Acquisition Strategy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Process Mapping",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal flowchart",
+  "layout_type": "process",
+  "content_zones": {
+    "header": "An integrated data flow was mapped to enable tracking and analysis of each channel, audience and creatives to optimize the acquisition strategies",
+    "flowchart": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "1\nMastercard Data",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "2\nDigital Marketing",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "3\nWebsite Traffic",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "4\nApplications & Submissions",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "5\nApprovals",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "6\nAcquisition Strategy",
+      "position": "far-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for main titles"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "orange",
+    "background": "light blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "22px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No bullets, charts, or tables were detected. The slide primarily contains a flowchart with labeled steps."
+}

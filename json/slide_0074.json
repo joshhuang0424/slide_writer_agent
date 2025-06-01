@@ -1,0 +1,92 @@
+{
+  "slide_id": "24",
+  "section": "Conclusion",
+  "purpose": "Express gratitude and provide contact information",
+  "narrative_role": "Closing",
+  "title": "Thank you",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Direct communication",
+  "data_points": [],
+  "cta": null,
+  "layout": "contact_info_with_images",
+  "layout_type": "text_and_images",
+  "content_zones": {
+    "header": "Thank you",
+    "left_contact": "Steffen Fuchs\nSenior Partner, Dallas\nSteffen_Fuchs@mckinsey.com",
+    "center_contact": "Vik Krishnan\nPartner, San Francisco\nVik_Krishnan@mckinsey.com",
+    "right_contact": "Paul Jacobson\nSenior Expert, Washington DC\nPaul_Jacobson@McKinsey.com",
+    "read_related": "Read related literature"
+  },
+  "visual_elements": [
+    {
+      "type": "circle_image",
+      "label": "Steffen Fuchs",
+      "position": "left"
+    },
+    {
+      "type": "circle_image",
+      "label": "Vik Krishnan",
+      "position": "center"
+    },
+    {
+      "type": "circle_image",
+      "label": "Paul Jacobson",
+      "position": "right"
+    },
+    {
+      "type": "qr_code",
+      "label": "Flying-cab drivers wanted",
+      "position": "bottom_left"
+    },
+    {
+      "type": "qr_code",
+      "label": "Change vehicles: How robo-taxis and shuttles will reinvent mobility",
+      "position": "bottom_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font family could not be identified from the image alone."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slide_id": "1",
+  "section": "Technology Trends",
+  "purpose": "To outline the six trends transforming infrastructure asset management.",
+  "narrative_role": "Informative",
+  "title": "Today's technology is creating a new paradigm for infrastructure assets through six trends",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "multi-column",
+  "layout_type": "grid",
+  "content_zones": {
+    "header": "top",
+    "columns": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentages and numbers in blue."
+  },
+  "design_language": "Modern with emphasis on key metrics",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Technology Trends",
+      "description": "Displays six trends with corresponding data points in a grid format.",
+      "headers": [
+        "Trend",
+        "Metric"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Assets will be operated and monetized real time through data analytics and connectivity",
+            "18%\nCAGR in global smart highway systems 2020-2025"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "The automation of systems is accelerating and expanding",
+            "15%\nOf all new vehicles in 2030 could be autonomous"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Consumers are shifting to new mobility options\nLogistics seeing demand for speed and transparency",
+            "74%\nIncrease in ride-sharing from 2019-2023"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Environmental changes will require assets to be flexible, resilient and sustainable",
+            "5-10%\nCAGR in modular construction market 2018-2023"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Energy continues to transition to sustainable and decentralized systems",
+            "3-4x\nIncrease in energy storage capacity 2019-2024"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Cybersecurity is becoming one of the biggest risks and threats to asset operations",
+            "$575B\nIn cybercrime cost in 2016"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The specific font family is not discernible from the image."
+  }
+}

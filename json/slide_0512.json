@@ -1,0 +1,76 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduction to the presentation",
+  "narrative_role": "Title Slide",
+  "title": "Overview",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "N/A",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Only",
+  "layout_type": "Single Title",
+  "content_zones": {
+    "title": {
+      "position": "center",
+      "alignment": "left"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom left"
+    },
+    {
+      "type": "circle",
+      "label": "decorative",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "N/A"
+  },
+  "design_language": "Modern, Minimalist",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "red",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is primarily a title page with no detailed content or data points."
+  }
+}

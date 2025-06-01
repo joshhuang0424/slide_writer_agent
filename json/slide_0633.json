@@ -1,0 +1,123 @@
+{
+  "slide_id": "33",
+  "section": "Cross-Lifecycle -- Segmentation",
+  "purpose": "To present a behavioral segmentation model for credit card issuers based on cardholder tenure, spend, and balances.",
+  "narrative_role": "Informative",
+  "title": "Leading practices among credit card issuers include development of a behavioral segmentation model based on cardholder tenure, spend and balances",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Model presentation",
+  "data_points": [],
+  "cta": "Segmented promotions are more effective to drive broad usage of cards",
+  "layout": "Title, subtitle, table, and CTA",
+  "layout_type": "Text and table",
+  "content_zones": {
+    "title": "top",
+    "subtitle": "below title",
+    "table": "center",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "USAGE",
+      "position": "left of table"
+    },
+    {
+      "type": "arrow",
+      "label": "TENURE",
+      "position": "below table"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Sample issuer segmentation model",
+      "description": "A table showing segmentation based on tenure and usage.",
+      "headers": [
+        "Months 0-3",
+        "Months 4-6",
+        "Months 7-12"
+      ],
+      "rows": [
+        {
+          "row_label": "Transactor/Revolver",
+          "cells": [
+            "NUTURE\nPromote card \"stickiness\"",
+            "NUTURE\nCross sell activity",
+            "PROTECT & NUTURE\nCross sell activity"
+          ]
+        },
+        {
+          "row_label": "Revolver",
+          "cells": [
+            "ENGAGE & EDUCATE\nCross sell activity",
+            "DEVELOP\nMotivate spend",
+            "DEVELOP & DEEPEN\nDefend balance\nMotivate spend"
+          ]
+        },
+        {
+          "row_label": "Transactor",
+          "cells": [
+            "ENGAGE & EDUCATE\nBalance build activity",
+            "DEVELOP\nBalance build activity",
+            "DEVELOP & DEEPEN\nBalance build activity\nBreadth of spend"
+          ]
+        },
+        {
+          "row_label": "Purchase Inactive",
+          "cells": [
+            "ENGAGE & EDUCATE\nUsage activity",
+            "ENGAGE\nUsage activity",
+            "ENGAGE/DORMANCY\nUsage activity"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid levels were identified."
+  }
+}

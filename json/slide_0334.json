@@ -1,0 +1,120 @@
+{
+  "slide_id": "35",
+  "section": "Case Study",
+  "purpose": "Illustrate the effects of tokenization on credit portfolio",
+  "narrative_role": "Informative",
+  "title": "Effects of Tokenization (Mobile Wallets) on a Credit Portfolio",
+  "bullets": [
+    {
+      "highlight": "custom dashboard",
+      "text": "Create a custom dashboard that compares traditional Card Present transactions and in-store Wallet transactions across key KPIs"
+    },
+    {
+      "highlight": "Benchmark",
+      "text": "Benchmark banks fraud and auth rates to peerset of US banks"
+    },
+    {
+      "highlight": "test & control analysis",
+      "text": "Construct a test & control analysis to measure impact of wallet transaction on card’s behavior"
+    }
+  ],
+  "supporting_facts": [
+    "Large US issuer tasked MC with creating dashboard that monitors performance of Mobile Wallet transactions across auth and fraud rates"
+  ],
+  "reasoning_strategy": "Analytical comparison",
+  "data_points": [
+    "Authorization rate by top merchants",
+    "Authorization rate by ticket size",
+    "Authorization rate by product"
+  ],
+  "cta": null,
+  "layout": "Text on left, charts on right",
+  "layout_type": "Side by side",
+  "content_zones": {
+    "text": "left",
+    "charts": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "chart",
+      "label": "Authorization rate by MCC",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional, corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16"
+    }
+  },
+  "chart": {
+    "type": "Bar",
+    "title": "Tokenization Dashboard including benchmarks",
+    "x_axis_label": "Time Period",
+    "y_axis": [
+      "Authorization Rate"
+    ],
+    "values": [
+      "Pre Period: 5%",
+      "Wallet Period: 36%",
+      "Post Period: 6%"
+    ],
+    "annotations": [],
+    "source": "Mastercard"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Authorization Rate by Top Merchants",
+      "description": "Comparison of authorization rates",
+      "headers": [
+        "Merchant",
+        "Rate"
+      ],
+      "rows": [
+        {
+          "row_label": "Merchant A",
+          "cells": [
+            "90%"
+          ]
+        },
+        {
+          "row_label": "Merchant B",
+          "cells": [
+            "85%"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Specific merchant names and detailed chart values are not readable in the image."
+  }
+}

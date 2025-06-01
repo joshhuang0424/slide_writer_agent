@@ -1,0 +1,122 @@
+{
+  "slide_id": "2",
+  "section": "Urban Mobility",
+  "purpose": "Compare expected vs. actual intra-city private car use.",
+  "narrative_role": "Informative",
+  "title": "Intra-city private car use is far lower than expected",
+  "bullets": [],
+  "supporting_facts": [
+    "Source: BCG Urban Mobility Surveys, April and August 2020.",
+    "Note: 'Expected use' refers to respondents’ answers to our April survey, in which they were asked how they expected to use transportation modes once lockdowns were lifted, compared with their pre-COVID-19 use.",
+    "'Actual use,' based on our August survey, reflects how their use has actually changed.",
+    "Based on April and August 2020 surveys of residents of major cities in the US, Europe, and China; in each survey, n=approximately 5,000 respondents.",
+    "Shared mobility includes taxi/ride hailing, pooled ride hailing, car sharing, bike sharing, and scooter sharing."
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Icons with labels for different transport modes",
+    "center": "Bar charts for US, EU, and China",
+    "bottom": "Legend and source notes"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Public transit",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Private car",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Shared mobility",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Private bike/scooter & walking",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Average across modes",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight differences in expected vs. actual use"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Residents’ expected use (April) vs. actual use (August)",
+    "x_axis_label": "Usage (%)",
+    "y_axis": [
+      "Public transit",
+      "Private car",
+      "Shared mobility",
+      "Private bike/scooter & walking",
+      "Average across modes"
+    ],
+    "values": [
+      {
+        "region": "US",
+        "expected": 50,
+        "actual": 30
+      },
+      {
+        "region": "EU",
+        "expected": 60,
+        "actual": 40
+      },
+      {
+        "region": "China",
+        "expected": 70,
+        "actual": 80
+      }
+    ],
+    "annotations": [
+      "Lower than expected usage",
+      "Higher than expected usage"
+    ],
+    "source": "BCG Urban Mobility Surveys"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Specific numerical values for expected and actual usage for each transport mode are not provided in the image."
+  }
+}

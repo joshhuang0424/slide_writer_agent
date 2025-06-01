@@ -1,0 +1,140 @@
+{
+  "slide_id": "3",
+  "section": "Market Requirements",
+  "purpose": "To outline necessary conditions for market launch and scale.",
+  "narrative_role": "Informative",
+  "title": "A clear set of unlocks will likely have to be achieved to see these markets launch and scale",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Logical breakdown of market prerequisites",
+  "data_points": [],
+  "cta": null,
+  "layout": "table-centric",
+  "layout_type": "single-table",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Professional and minimalist",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "qualitative",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Details key areas and their criticality for market readiness",
+      "headers": [
+        "Pillar",
+        "Unlock",
+        "Criticality"
+      ],
+      "rows": [
+        {
+          "row_label": "Regulation",
+          "cells": [
+            "Regulation",
+            "High"
+          ]
+        },
+        {
+          "row_label": "Regulation",
+          "cells": [
+            "Certification process",
+            "High"
+          ]
+        },
+        {
+          "row_label": "Infrastructure",
+          "cells": [
+            "Physical infrastructure",
+            "Moderate"
+          ]
+        },
+        {
+          "row_label": "Infrastructure",
+          "cells": [
+            "Unmanned traffic management",
+            "Moderate"
+          ]
+        },
+        {
+          "row_label": "Technology",
+          "cells": [
+            "Battery technology",
+            "High"
+          ]
+        },
+        {
+          "row_label": "Technology",
+          "cells": [
+            "Autonomy",
+            "Moderate"
+          ]
+        },
+        {
+          "row_label": "Public acceptance",
+          "cells": [
+            "Customer acceptance",
+            "Moderate"
+          ]
+        },
+        {
+          "row_label": "Public acceptance",
+          "cells": [
+            "Noise / Emissions",
+            "Low"
+          ]
+        },
+        {
+          "row_label": "Economic drivers",
+          "cells": [
+            "Economics",
+            "Moderate"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No additional elements outside of table"
+}

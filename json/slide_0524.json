@@ -1,0 +1,110 @@
+{
+  "slide_id": "15",
+  "section": "Fraud Management",
+  "purpose": "To recommend the use of decision trees for accurate rule performance prediction.",
+  "narrative_role": "Illustrative and instructional",
+  "title": "To achieve an accurate prediction of the rule’s performance, it is recommended to apply decision trees to forecast the results",
+  "bullets": [
+    {
+      "highlight": "Effective fraud management requires robust, relevant and accessible data",
+      "text": "Effective fraud management requires robust, relevant and accessible data"
+    },
+    {
+      "highlight": "Issuers should maintain a role in fraud strategies and policies even when outsourcing parts of the fraud management / operations",
+      "text": "Issuers should maintain a role in fraud strategies and policies even when outsourcing parts of the fraud management / operations"
+    },
+    {
+      "highlight": "The false-positive simulation is key to determining the quality of the rule, as well as the criteria to decline or approve a transaction",
+      "text": "The false-positive simulation is key to determining the quality of the rule, as well as the criteria to decline or approve a transaction"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of decision trees to forecast results.",
+  "data_points": [
+    "FPR: 10,0000 : 1",
+    "FPR: 1,000 : 1",
+    "FPR: 10 : 1",
+    "FPR: 200 : 1",
+    "FPR: 100 : 1",
+    "FPR: 6 : 1",
+    "FPR: 5 : 1",
+    "FPR: 8 : 1",
+    "FPR: 3 : 1"
+  ],
+  "cta": null,
+  "layout": "Decision tree diagram with supporting text",
+  "layout_type": "Visual with text explanation",
+  "content_zones": {
+    "top": "Title",
+    "center": "Decision tree diagram",
+    "right": "Text explanation",
+    "bottom": "Highlighted bullet points"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Fraud Cases",
+      "position": "center top"
+    },
+    {
+      "type": "rectangle",
+      "label": "Credit",
+      "position": "center"
+    },
+    {
+      "type": "rectangle",
+      "label": "Debit",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "FPR: 10,0000 : 1",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight important phrases in bold"
+  },
+  "design_language": "Professional and clear with emphasis on data",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "decision tree",
+    "title": "Fraud Cases Decision Tree",
+    "x_axis_label": "Decision Points",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "Mastercard"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic pyramid levels are not present in the image, and the table structure is not applicable as the content is presented in a decision tree format."
+  }
+}

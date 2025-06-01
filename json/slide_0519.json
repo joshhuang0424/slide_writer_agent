@@ -1,0 +1,108 @@
+{
+  "slide_id": "10",
+  "section": "Risk Management",
+  "purpose": "To outline the necessary actions and considerations regarding risk tolerance.",
+  "narrative_role": "Instructional",
+  "title": "Risk Appetite",
+  "bullets": [
+    {
+      "highlight": "Issuers Must:",
+      "text": "Determine if they have a low, medium, or high risk tolerance"
+    },
+    {
+      "highlight": "",
+      "text": "Convey established tolerance and loss goals to all stakeholders and across all impacted lines of business"
+    },
+    {
+      "highlight": "",
+      "text": "Measure effectiveness of performance against established risk tolerance"
+    },
+    {
+      "highlight": "",
+      "text": "Revisit risk appetite question regularly and adjust if applicable"
+    },
+    {
+      "highlight": "Issuer Considerations:",
+      "text": "Fraud will never be eliminated, but it can be controlled"
+    },
+    {
+      "highlight": "",
+      "text": "Are we more of a risk focused or customer focused organization?"
+    },
+    {
+      "highlight": "",
+      "text": "Are we willing to impact one or more (Risk, Profit, Customer Satisfaction) to control the other?"
+    },
+    {
+      "highlight": "",
+      "text": "Is the appropriate support in place within the organization to meet the objective?"
+    },
+    {
+      "highlight": "",
+      "text": "What level of investment are we willing to make to reach that objective?"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing key actions and considerations for risk management.",
+  "data_points": [],
+  "cta": null,
+  "layout": "standard",
+  "layout_type": "text and image",
+  "content_zones": {
+    "title": "top-left",
+    "bullets": "center-left",
+    "visual_elements": "top-right"
+  },
+  "visual_elements": [
+    {
+      "type": "graphic",
+      "label": "Risk tolerance scale",
+      "position": "top-center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key sections"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables were identified in the slide. The slide is primarily textual with a supporting graphic."
+  }
+}

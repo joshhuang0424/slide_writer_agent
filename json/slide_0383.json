@@ -1,0 +1,150 @@
+{
+  "slide_id": "1",
+  "section": "產品規劃",
+  "purpose": "規劃摘要",
+  "narrative_role": "提供聯名卡權益資訊",
+  "title": "產品規劃｜聯名卡權益初步規劃摘要",
+  "bullets": [
+    {
+      "highlight": "已決定",
+      "text": "完成餐飲夥伴優惠洽談，目標獨家優惠夥伴10-15家"
+    },
+    {
+      "highlight": "已決定",
+      "text": "目標配合優惠活動餐廳及飯店家數超過800家"
+    },
+    {
+      "highlight": "已決定",
+      "text": "持續與Line Taxi/ inline 討論合作意向"
+    },
+    {
+      "highlight": "待研究",
+      "text": "鉅商卡收入要求"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "條列出相關行動與目標",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "grid",
+  "content_zones": {
+    "left": "權益表格",
+    "right": "下一步規劃"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "基礎權益",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "關鍵店外加碼",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "首刷禮及早鳥優惠",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "數位體驗",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "產品與關鍵資格",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "紅色字體表示待研究"
+  },
+  "design_language": "商業簡報風格",
+  "color_scheme": {
+    "primary": "藍色",
+    "accent": "紅色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "Microsoft JhengHei",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Microsoft JhengHei",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "聯名卡權益",
+      "description": "顯示不同類型的權益與優惠",
+      "headers": [
+        "基礎權益",
+        "關鍵店外加碼",
+        "首刷禮及早鳥優惠",
+        "數位體驗",
+        "產品與關鍵資格"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "x% 店內回饋",
+            "指定通路10%回饋",
+            "新卡首刷提供XXX點富御金",
+            "桃子奕戶享秒核/快核",
+            "世界卡: 收入200萬以上"
+          ]
+        },
+        {
+          "cells": [
+            "x% 店外回饋",
+            "購票最高12%回饋",
+            "新卡首/次年自動續約提供XXX點富御金",
+            "核卡後可快速綁卡至椰子Pay",
+            "鈦金卡: 收入70萬以上為黑鑽會員"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "各式餐飲獨家優惠",
+            "LINE Pay 店外消費加碼",
+            "",
+            "鈦商卡: 收入20萬以上"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "圖表與金字塔圖形不存在"
+  }
+}

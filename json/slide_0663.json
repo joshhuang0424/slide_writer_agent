@@ -1,0 +1,126 @@
+{
+  "slide_id": "3",
+  "section": "Industry Overview",
+  "purpose": "To highlight the various changes impacting the auto industry",
+  "narrative_role": "Illustrative",
+  "title": "The auto industry faces never-before seen change",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "visual-centric",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top",
+    "infographics": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "ellipse",
+      "label": "Technological",
+      "position": "left"
+    },
+    {
+      "type": "ellipse",
+      "label": "Social",
+      "position": "center"
+    },
+    {
+      "type": "ellipse",
+      "label": "Regulatory",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "Autonomous driving",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Electrification",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Connectivity",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Urbanization",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "New way of working",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "Sharing",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "City regulation",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "Emission standards",
+      "position": "right"
+    },
+    {
+      "type": "text",
+      "label": "Integrated view necessary to assess implications",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted text in green and red"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or table data present in the slide."
+  }
+}

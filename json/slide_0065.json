@@ -1,0 +1,82 @@
+{
+  "slide_id": "15",
+  "section": "Use Cases",
+  "purpose": "To illustrate potential applications of the discussed use cases in different freight hubs.",
+  "narrative_role": "Informative",
+  "title": "Many of these use cases could apply in other freight hubs",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Rail will maintain its vital role in the cargo logistics chain, but is likely to see increased demand for faster delivery time and greater transparency on status"
+    },
+    {
+      "highlight": "",
+      "text": "Can be used to transfer shipping containers from truck to train or train to train"
+    },
+    {
+      "highlight": "",
+      "text": "Can be used in high-security areas to reduce likelihood of security lapse"
+    },
+    {
+      "highlight": "",
+      "text": "Can be used overseas to reduce the number of soldiers required"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use case examples in specific sectors",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with images",
+  "layout_type": "Text and images",
+  "content_zones": {
+    "left_text": "Rail Yards",
+    "right_text": "Military",
+    "left_image": "image of rail yards",
+    "right_image": "image of military logistics"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or tables present. Infographic type not applicable."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "slide_id": "36",
+  "section": "CROSS-LIFECYCLE -- MESSAGING",
+  "purpose": "To outline guidelines for effective communication through card positioning, messaging, and imagery.",
+  "narrative_role": "Informative",
+  "title": "Communications should follow well-established general guidelines to most effectively convey salient points via card positioning, messaging and imagery",
+  "bullets": [
+    {
+      "highlight": "POSITIONING",
+      "text": "Practice consistency to develop familiarity across all media"
+    },
+    {
+      "highlight": "",
+      "text": "Prioritize core value proposition reinforcement"
+    },
+    {
+      "highlight": "",
+      "text": "Include card art prominently"
+    },
+    {
+      "highlight": "MESSAGING",
+      "text": "Establish proper cadence to develop recall and retention"
+    },
+    {
+      "highlight": "",
+      "text": "Feature calls-to-action"
+    },
+    {
+      "highlight": "",
+      "text": "Employ charts or tables"
+    },
+    {
+      "highlight": "",
+      "text": "Conduct champion/challenger testing"
+    },
+    {
+      "highlight": "",
+      "text": "Promote sociability ('shareability')"
+    },
+    {
+      "highlight": "LOOK & FEEL",
+      "text": "Establish graphic and tonal consistency"
+    },
+    {
+      "highlight": "",
+      "text": "Refrain from clutter – convey one main message per communication"
+    },
+    {
+      "highlight": "",
+      "text": "Utilize visual icons, which are more impactful than words"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Provide structured communication strategies",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column layout with emphasis on positioning, messaging, and look & feel",
+  "layout_type": "column",
+  "content_zones": {
+    "left": "POSITIONING",
+    "center": "MESSAGING",
+    "right": "LOOK & FEEL"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "check mark",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "message",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "masks",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of icons for emphasis"
+  },
+  "design_language": "Modern, clean layout with emphasis through icons",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "Font family is not specified in the image."
+  }
+}

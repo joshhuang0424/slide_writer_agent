@@ -1,0 +1,146 @@
+{
+  "slide_id": "9",
+  "section": "Analysis of 'Onlys'",
+  "purpose": "Highlight challenges faced by 'Double Onlys' in professional settings.",
+  "narrative_role": "Illustrative",
+  "title": "And it is even worse for ‘Onlys’ – especially ‘Double Onlys’",
+  "bullets": [
+    {
+      "highlight": "1 in 8",
+      "text": "women of color is a “Double Only”"
+    },
+    {
+      "highlight": "2-3x",
+      "text": "more likely than women who are not Onlys to experience disrespectful “othering” microaggressions"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between different groups of women in workplace challenges.",
+  "data_points": [
+    "31% of all women face judgement challenges",
+    "45% of Gender Onlys face judgement challenges",
+    "46% of Double Onlys face judgement challenges"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Table of challenges with percentages",
+    "right": "Highlighted statistics about Double Onlys"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and color for emphasis"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Table showing different challenges faced by women groups",
+      "headers": [
+        "Challenge",
+        "All women",
+        "All women: Gender Onlys",
+        "Women of color: Double Onlys"
+      ],
+      "rows": [
+        {
+          "row_label": "Challenge of competence",
+          "cells": [
+            "Having your judgement questioned in your area of expertise",
+            "31%",
+            "45%",
+            "46%"
+          ]
+        },
+        {
+          "row_label": "Challenge of interruption",
+          "cells": [
+            "Being interrupted or spoken over more than others",
+            "28%",
+            "47%",
+            "48%"
+          ]
+        },
+        {
+          "row_label": "Emotional state comments",
+          "cells": [
+            "Having others comment on your emotional state",
+            "18%",
+            "28%",
+            "28%"
+          ]
+        },
+        {
+          "row_label": "Disrespectful behavior",
+          "cells": [
+            "Hearing people express surprise at your language skills or other abilities",
+            "8%",
+            "13%",
+            "24%"
+          ]
+        },
+        {
+          "row_label": "Identity confusion",
+          "cells": [
+            "Being confused with someone else of the same race/ethnicity",
+            "7%",
+            "10%",
+            "18%"
+          ]
+        },
+        {
+          "row_label": "Insults about culture",
+          "cells": [
+            "Hearing or overhearing insults about your culture or people like you",
+            "7%",
+            "12%",
+            "19%"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid present; infographic levels are empty."
+  }
+}

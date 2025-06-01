@@ -1,0 +1,148 @@
+{
+  "slide_id": "7b",
+  "section": "Gender Parity",
+  "purpose": "Highlight gender parity differences among employee groups and roles.",
+  "narrative_role": "Informative",
+  "title": "Gender parity is closer for Black employees, with standout results among managers",
+  "bullets": [
+    {
+      "highlight": "45%",
+      "text": "of all Black employees, compared to 34-37% for all other groups"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "Percentage-point differences in gender parity for different employee groups and roles."
+  ],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "table",
+    "right": "highlighted bullet"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentage with color"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "gray",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Distance from parity, percentage-point difference, men and women",
+      "description": "Comparison of gender parity across different employee roles and groups.",
+      "headers": [
+        "",
+        "Frontline hourly",
+        "Frontline salary",
+        "Entry level",
+        "Manager",
+        "Senior manager",
+        "Vice president",
+        "Senior vice president",
+        "Executive",
+        "Board of directors"
+      ],
+      "rows": [
+        {
+          "row_label": "Black employees",
+          "cells": [
+            "12",
+            "16",
+            "12",
+            "2",
+            "4",
+            "8",
+            "32",
+            "30",
+            "10"
+          ]
+        },
+        {
+          "row_label": "Hispanic/Latino employees",
+          "cells": [
+            "20",
+            "24",
+            "6",
+            "16",
+            "22",
+            "38",
+            "46",
+            "22",
+            "48"
+          ]
+        },
+        {
+          "row_label": "Asian employees",
+          "cells": [
+            "14",
+            "24",
+            "16",
+            "24",
+            "40",
+            "38",
+            "44",
+            "36",
+            "24"
+          ]
+        },
+        {
+          "row_label": "White employees",
+          "cells": [
+            "28",
+            "24",
+            "14",
+            "22",
+            "26",
+            "36",
+            "48",
+            "46",
+            "36"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "matrix"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present; only table and bullet points shown."
+  }
+}

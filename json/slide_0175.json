@@ -1,0 +1,98 @@
+{
+  "slide_id": "5",
+  "section": "BCG TSR Strategy",
+  "purpose": "Explain the components of the BCG TSR strategy for maximizing corporate value.",
+  "narrative_role": "informative",
+  "title": "BCG TSR 協助建立企業價值最大化策略",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrative infographic to demonstrate strategic components.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text-infographic",
+  "content_zones": {
+    "left": "text",
+    "right": "infographic"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "優異且可持續的 TSR",
+      "position": "center"
+    },
+    {
+      "type": "sector",
+      "label": "業務策略",
+      "position": "top-right"
+    },
+    {
+      "type": "sector",
+      "label": "投資主體策略",
+      "position": "bottom-left"
+    },
+    {
+      "type": "sector",
+      "label": "財務策略",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "text on infographic should be concise"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#007D5C",
+    "accent": "#FFFFFF",
+    "background": "#E5F5ED"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "業務策略"
+      },
+      {
+        "id": "L1",
+        "label": "投資主體策略"
+      },
+      {
+        "id": "L2",
+        "label": "財務策略"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "bullets": "No bullet points present in the slide."
+  }
+}

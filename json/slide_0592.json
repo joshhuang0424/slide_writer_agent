@@ -1,0 +1,134 @@
+{
+  "slide_id": "02",
+  "section": "Evaluation of current financial margin",
+  "purpose": "To calculate the contribution margin by breaking down revenue and cost components",
+  "narrative_role": "Informative",
+  "title": "Evaluation of current financial margin",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide visually breaks down revenue and cost components to illustrate contribution margin.",
+  "data_points": [
+    "Typically ~30-40% of total revenue for mass / non-premier portfolio",
+    "Typically ~15-25% of total revenue",
+    "Contribution margin is ~23% in our example"
+  ],
+  "cta": null,
+  "layout": "Horizontal",
+  "layout_type": "Waterfall chart",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "notes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "Illustrative data",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for key figures"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "Waterfall",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [
+      "2,400",
+      "3,600",
+      "1,200",
+      "600",
+      "12,000",
+      "1,800",
+      "2,400",
+      "600",
+      "1,800",
+      "48",
+      "120",
+      "60",
+      "2,772"
+    ],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Breakdown of revenue and cost components",
+      "headers": [
+        "Annual fees",
+        "I/C Purchase",
+        "Interest income",
+        "FX fees",
+        "Cash advance",
+        "Other income",
+        "Total Revenue",
+        "CAF",
+        "Cust. Acq.",
+        "Loyalty costs",
+        "Hygiene benefits cost",
+        "Network costs",
+        "Cost of funds",
+        "I/C ATM",
+        "Shared costs",
+        "Other costs"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "2,400",
+            "3,600",
+            "1,200",
+            "600",
+            "12,000",
+            "1,800",
+            "2,400",
+            "600",
+            "1,800",
+            "48",
+            "120",
+            "60",
+            "2,772"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Pyramid not present; Waterfall chart used instead"
+  }
+}

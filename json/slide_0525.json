@@ -1,0 +1,275 @@
+{
+  "slide_id": "16",
+  "section": "Authorization Data",
+  "purpose": "To illustrate the variety of data fields available for fraud rule derivation.",
+  "narrative_role": "Informative",
+  "title": "Authorization data usage",
+  "bullets": [],
+  "supporting_facts": [
+    "Authorization is a powerful source of data that can be used to derive fraud rules.",
+    "More than 70 fields enable billions of rule decision combinations."
+  ],
+  "reasoning_strategy": "Listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "text and table",
+  "layout_type": "single-page",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Authorization Data Available for Fraud Rules",
+      "description": "List of data fields relevant to fraud prevention.",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "DE 2 - Primary Account Number",
+            "DE 43.1 - Merchant Name",
+            "DE 48.83 - AVS Response"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 3.1 - Cardholder Transaction Type",
+            "DE 43.3 - Merchant City",
+            "DE 48.84 - Merchant Advice"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 3.2 - Cardholder \"From Account\" Type",
+            "DE 43.5 - Merchant's State",
+            "DE 48.87 - Card Validation Result"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 3.3 - Cardholder \"To Account\" Type",
+            "DE 48 - Transaction Category",
+            "DE 48.88 - Mag Stripe Compliance Status"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 4 - Transaction Amount",
+            "DE 48.2 - CH Verification Method",
+            "DE 48.89 - Mag Stripe Compliance Error"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 5 - Settlement Amount",
+            "DE 48.33.01 - Account Number Indicator",
+            "DE 48.92 - CVC 2 Presence Indicator"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 6 - Cardholder Billing Amount",
+            "DE 48.33.03 - Expiration Date",
+            "DE 48.95 - Mastercard Promotion"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 7 - Transmission Date and Time",
+            "DE 48.38 - Account Category",
+            "DE 50 - Settlement Currency"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 7 - SF 1 Transmission Date",
+            "DE 48.39.03 - Case Key",
+            "DE 55 - Chip Presence Indicator"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 7 - SF 2 Transmission Time",
+            "DE 48.39.04 - Case Key",
+            "DE 60 – Advice Reason"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 12 & DE13 - Local Transaction Date Time",
+            "DE 48.39.05 - Case Key",
+            "DE 61.01 - POS Terminal Attendance"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 12 - Local Transaction Time",
+            "DE 48.39.06 - # Events for Acct Number",
+            "DE 61.03 - POS Terminal Location"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 13 - Local Transaction Date",
+            "DE 48.39.07 - # Events for Expiry Date",
+            "DE 61.04 - POS Cardholder Presence"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 14 - Expiration Date",
+            "DE 48.39.08 - # Events for CVC2",
+            "DE 61.05 - POS Card Presence"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 18 - Merchant Category (Merchant Type)",
+            "DE 48.39.09 - # Events for PIN",
+            "DE 61.06 - POS Card Capture Capability"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 20 - Primary Acct Number (PAN) Country",
+            "DE 48.39.10 - # Events for Mag Stripe",
+            "DE 61.07 - POS Transaction Status"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 22.1 - POS Terminal PAN Entry Mode",
+            "DE 48.39.11 - # Events for Personal Info",
+            "DE 61.08 - POS Transaction Security"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 22.2 - POS Terminal PIN Entry Mode",
+            "DE 48.42 - Electronic Commerce Indicator",
+            "DE 61.10 - CAT Level"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 23 - Card Sequence Number",
+            "DE 48.43 - Universal Cardholder Auth",
+            "DE 61.11 - POS Card Term Input Capability"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 32 - Acquiring Institution ID",
+            "DE 48.56 - Security Svc Add Data Issuers",
+            "DE 61.13 - POS Country"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 33 - Forwarding Institution ID",
+            "DE 48.57 - Security Svc Add Data Acquirers",
+            "DE 61.14 - POS Postal"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 35.5 - Track 2 Extended Service",
+            "DE 48.75 - Fraud Assessment Score",
+            "DE 63.1 - Financial Network"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 39 - Response",
+            "DE 48.75.2 - Fraud Score Reason",
+            "DE 63.2 - Banknet Reference Number"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 41 - Card Acceptor Terminal ID",
+            "DE 48.82 - AVS Request",
+            "DE 121 - Authorizing Agent ID"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "DE 42 - Card Acceptor ID"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No infographic or specific chart elements detected."
+  }
+}

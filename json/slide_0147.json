@@ -1,0 +1,77 @@
+{
+  "slide_id": "1",
+  "section": "COVID-19 Impact",
+  "purpose": "Highlight the impact of COVID-19 on business innovation and policies.",
+  "narrative_role": "Informative",
+  "title": "COVID-19 has forced global innovation...",
+  "bullets": [
+    {
+      "highlight": "9 in 10",
+      "text": "companies say DEI is an important priority"
+    },
+    {
+      "highlight": "96%",
+      "text": "of companies have modified policies and resources for employees during COVID-19"
+    },
+    {
+      "highlight": "9 in 10",
+      "text": "companies say they are offering improved work-from-home policies and resources"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of statistics to emphasize change.",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "statistical highlights",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Highlight key statistics with larger font"
+  },
+  "design_language": "Professional and bold",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "18pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables were present in the slide, and infographic type not applicable."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "slide_id": "4",
+  "section": "Diversity Impact",
+  "purpose": "Illustrate the correlation between diversity and financial performance",
+  "narrative_role": "Supportive evidence",
+  "title": "There is a stronger likelihood of financial outperformance for companies who are at the top quartile for diversity",
+  "bullets": [],
+  "supporting_facts": [
+    "Likelihood of financial outperformance vs the national industry median. P < 0.05.",
+    "N = 319 for female executives, N = 311 for female board members; 2017 North American companies with gender data available in 2019; EBIT 2014-2018",
+    "N = 314; North American companies with ethnicity data available in 2019; EBIT margin 2014-2018. Board was excluded as results were statistically insignificant (P > 0.05)"
+  ],
+  "reasoning_strategy": "Quantitative comparison",
+  "data_points": [
+    "Gender Executives: +38%",
+    "Gender Board: +80%",
+    "Ethnic Executives: +48%"
+  ],
+  "cta": null,
+  "layout": "three-column comparison",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Gender Executives",
+    "center": "Gender Board",
+    "right": "Ethnic Executives"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "USA",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentage increase highlighted"
+  },
+  "design_language": "Corporate professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "bar chart",
+    "title": "Likelihood of financial outperformance by diversity in leadership teams in 2019, %",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Likelihood (%)"
+    ],
+    "values": [
+      {
+        "label": "Gender Executives",
+        "quartile_4": 40,
+        "quartile_1": 54
+      },
+      {
+        "label": "Gender Board",
+        "quartile_4": 33,
+        "quartile_1": 58
+      },
+      {
+        "label": "Ethnic Executives",
+        "quartile_4": 41,
+        "quartile_1": 61
+      }
+    ],
+    "annotations": [
+      "+38%",
+      "+80%",
+      "+48%"
+    ],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Number of companies in each quartile",
+      "description": "Displays the number of companies analyzed in each quartile",
+      "headers": [
+        "Quartile",
+        "Gender Executives",
+        "Gender Board",
+        "Ethnic Executives"
+      ],
+      "rows": [
+        {
+          "row_label": "Quartile 4",
+          "cells": [
+            "Q4",
+            "81",
+            "80",
+            "98"
+          ]
+        },
+        {
+          "row_label": "Quartile 1",
+          "cells": [
+            "Q1",
+            "68",
+            "77",
+            "76"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic detected; additional emphasis on flag icon for geographical context."
+  }
+}

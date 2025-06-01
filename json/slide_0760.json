@@ -1,0 +1,116 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Provide key insights into the sustainability index for the telecom industry",
+  "narrative_role": "Informative",
+  "title": "BCG Telco Sustainability Index: Key insights",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Over the last years the TMT sector in general and the telco and tech industry in particular have increased their sustainability ambitions: net zero targets have been pulled forward from often 2050 to even 2035"
+    },
+    {
+      "highlight": "",
+      "text": "The motivation for telco operators is clear: their carbon footprint has exceeded the footprint of the airline industry and will continue to grow with the increased data transportation in fixed and mobile networks if not managed proactively"
+    },
+    {
+      "highlight": "",
+      "text": "The historical focus of telco operators has been on scope 1 and scope 2 emissions - now scope 3 is very often focused (i.e. covering the entire supply chain) - two third of all emissions of a telco operator are typically scope 3 emissions"
+    },
+    {
+      "highlight": "",
+      "text": "In addition, “scope 4”, i.e. offering digital sustainability services which enable other industry sectors to become more sustainable, are becoming more important"
+    },
+    {
+      "highlight": "",
+      "text": "Hence, embracing sustainability is much more of an opportunity for telco operators than a burden - the business potential is enormous!"
+    },
+    {
+      "highlight": "",
+      "text": "Even some consumer segments show an increased interest to buy green telco services/products and even paying more for it!"
+    },
+    {
+      "highlight": "",
+      "text": "While the business opportunity is obvious, telco operators also need to watch out for liabilities in their balance sheets, i. e. (old) assets that consume a lot of energy - cost of capital will increase and share price will suffer if not managed proactively"
+    },
+    {
+      "highlight": "",
+      "text": "In 2020, performance of top scorer improved further, while bottom scorer had no overall improvement"
+    },
+    {
+      "highlight": "",
+      "text": "European telcos maintain sustainability index leadership"
+    },
+    {
+      "highlight": "",
+      "text": "However, significant improvements can be observed in Europe and in North American as well"
+    },
+    {
+      "highlight": "",
+      "text": "Main driver for 2020 sustainability improvement were the announcement of new targets - execution is still open"
+    },
+    {
+      "highlight": "",
+      "text": "While the best telco operator has reached two thirds of the best possible score, on average the telco industry has not even reached the 50% mark!"
+    },
+    {
+      "highlight": "",
+      "text": "Enabling other industries to become more sustainable is still the most neglected dimension"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Logical analysis of industry trends and opportunities",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text-heavy with emphasis on bullet points",
+  "layout_type": "Bullet list",
+  "content_zones": {
+    "title_zone": "top",
+    "bullet_zone": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "Bold text for section headers"
+  },
+  "design_language": "Professional and formal",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "gray",
+    "background": "dark gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables are present on this slide."
+  }
+}

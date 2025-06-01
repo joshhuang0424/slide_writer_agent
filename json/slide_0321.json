@@ -1,0 +1,145 @@
+{
+  "slide_id": "22",
+  "section": "Case Study",
+  "purpose": "To illustrate how customer data enhancement can leverage category spend metrics and propensity scores for improving customer acquisition, growth, and retention strategies.",
+  "narrative_role": "Informative",
+  "title": "Customer Data Enhancement (CDE): Leverage category spend metrics and propensity scores to identify customer acquisition, growth, and retention strategies",
+  "bullets": [
+    {
+      "highlight": "Retaining High Value customers",
+      "text": "Where else are your best customers spending? Who should you target for a new email campaign?"
+    },
+    {
+      "highlight": "Reactivating Churned Segment",
+      "text": "With which customer segments are you losing share? Which segments have the best reactivation potential?"
+    },
+    {
+      "highlight": "Growing Customer Loyalty",
+      "text": "Which customers are likely to move to higher loyalty tiers or become cardholders? How do different loyalty tiers spend with you vs. the industry?"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explaining specific objectives and approaches for customer data enhancement.",
+  "data_points": [
+    "Customer ID",
+    "Grocery Share",
+    "Spend with Competitive Grocers",
+    "Spend in Fuel",
+    "Spend with Quick Service Restaurants",
+    "Propensity to be a Travel Intl"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with objectives, approach, and case study sections.",
+  "layout_type": "Informative with bullet points and tables",
+  "content_zones": {
+    "left": "Objectives of CDE and Approach for CDE",
+    "right": "Case Study - FairPrice"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Mastercard logo",
+      "position": "bottom-left"
+    },
+    {
+      "type": "icon",
+      "label": "Process flow icons",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Corporate with emphasis on data and process visualization",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Purchase Data Appended Back to Your CRM File Using Customer IDs",
+      "description": "Shows customer spend metrics and propensity scores",
+      "headers": [
+        "Customer ID",
+        "Grocery Share",
+        "Spend with Competitive Grocers",
+        "Spend in Fuel",
+        "Spend with Quick Service Restaurants",
+        "Propensity to be a Travel Intl"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "11111",
+            "15%",
+            "$1000",
+            "$1000",
+            "$1000",
+            "0.9384"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "22222",
+            "35%",
+            "$1000",
+            "$1000",
+            "$1000",
+            "0.5990"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "33333",
+            "40%",
+            "$1000",
+            "$1000",
+            "$1000",
+            "0.3087"
+          ]
+        }
+      ],
+      "position": "top-right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic pyramid levels are not distinctly labeled or visible on this page."
+  }
+}

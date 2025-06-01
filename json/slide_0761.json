@@ -1,0 +1,93 @@
+{
+  "slide_id": "1",
+  "section": "BCG Sustainability",
+  "purpose": "To present the four dimensions of the BCG Sustainability in Telco Index.",
+  "narrative_role": "Overview",
+  "title": "BCG Sustainability in Telco Index: 4 dimensions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorical breakdown",
+  "data_points": [],
+  "cta": null,
+  "layout": "quadrant",
+  "layout_type": "infographic",
+  "content_zones": {
+    "top_left": "Commitment to sustainability",
+    "top_right": "CO₂ intensity",
+    "bottom_left": "Customer enablement",
+    "bottom_right": "Circular economy",
+    "center": "BCG Sustainability in Telco Index: 4 dimensions"
+  },
+  "visual_elements": [
+    {
+      "type": "text",
+      "label": "Commitment to sustainability",
+      "position": "top_left"
+    },
+    {
+      "type": "text",
+      "label": "CO₂ intensity",
+      "position": "top_right"
+    },
+    {
+      "type": "text",
+      "label": "Customer enablement",
+      "position": "bottom_left"
+    },
+    {
+      "type": "text",
+      "label": "Circular economy",
+      "position": "bottom_right"
+    },
+    {
+      "type": "circle",
+      "label": "BCG Sustainability in Telco Index: 4 dimensions",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted keywords in yellow"
+  },
+  "design_language": "modern, corporate",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "yellow",
+    "background": "varied images"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "quadrant",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "Font details are not specified in the image; no numerical data or bullet points presented."
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "slide_id": "4",
+  "section": "Affinity Analysis",
+  "purpose": "Identify high-value prospects and potential partnerships",
+  "narrative_role": "Analysis",
+  "title": "High-value prospects are frequent travelers who appear to be affluent – partnerships could include department stores or airlines",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [
+    "Indexed to market share of spend",
+    "Share of spend",
+    "Base index"
+  ],
+  "cta": null,
+  "layout": "Chart and Table",
+  "layout_type": "Visual Analysis",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "table": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "label",
+      "label": "AFFINITY INDUSTRIES¹ AND MERCHANTS²,³",
+      "position": "top-center"
+    },
+    {
+      "type": "legend",
+      "label": "Overindexed",
+      "position": "bottom-left"
+    },
+    {
+      "type": "legend",
+      "label": "Underindexed",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "red",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "Line and Bar",
+    "title": "",
+    "x_axis_label": "Categories",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      {
+        "Grocery": "12%"
+      },
+      {
+        "Dining": "12%"
+      },
+      {
+        "Shopping": "9%"
+      },
+      {
+        "Fuel": "4%"
+      },
+      {
+        "Hotels": "3%"
+      },
+      {
+        "Public Admin.": "3%"
+      },
+      {
+        "Taxi": "2%"
+      },
+      {
+        "Airlines": "2%"
+      },
+      {
+        "Electronics": "2%"
+      },
+      {
+        "Insurance": "2%"
+      },
+      {
+        "Others": "49%"
+      }
+    ],
+    "annotations": [],
+    "source": "Mastercard processed data, Nov'17-Oct'18"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Merchant affiliation by index",
+      "headers": [
+        "Grocery",
+        "Dining",
+        "Shopping",
+        "Fuel",
+        "Hotels",
+        "Public Admin.",
+        "Taxi",
+        "Airlines",
+        "Electronics",
+        "Insurance",
+        "Others"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Aldi / Hofer",
+            "-",
+            "Big W",
+            "7-eleven",
+            "Airbnb",
+            "Gvt. Of WA",
+            "GM Cabs",
+            "Emirates Airlines",
+            "Harvey Norman",
+            "Bupa",
+            "Afterpay"
+          ]
+        },
+        {
+          "cells": [
+            "Caltex Star Mart",
+            "-",
+            "David Jones",
+            "Bp",
+            "Alh Group",
+            "Reserve Bank Of AU",
+            "Ingogo",
+            "Jetstar Airways",
+            "Jb Hifi",
+            "HBF",
+            "Bunnings Warehouse"
+          ]
+        },
+        {
+          "cells": [
+            "Coles",
+            "-",
+            "Kmart Australia",
+            "Caltex",
+            "Novotel",
+            "Revenue NSW",
+            "Ola Cabs",
+            "Qantas",
+            "Kogan.Com / Dick Smith",
+            "Medibank",
+            "Optus"
+          ]
+        },
+        {
+          "cells": [
+            "Iga",
+            "-",
+            "Myer",
+            "Caltex Woolworths",
+            "Peppers",
+            "Service NSW",
+            "Uber",
+            "Tiger Airways",
+            "The Good Guys AU",
+            "Nrma",
+            "Sportsbet"
+          ]
+        },
+        {
+          "cells": [
+            "Woolworths Australia",
+            "-",
+            "Target Australia",
+            "Coles Express",
+            "Stayz",
+            "Transport mainrds",
+            "Silver Sydney",
+            "Virgin Australia",
+            "Winning",
+            "QBE",
+            "Telstra"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "Font details not visible, narrative strategy not explicitly stated."
+  }
+}

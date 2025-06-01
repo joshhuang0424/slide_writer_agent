@@ -1,0 +1,100 @@
+{
+  "slide_id": "66",
+  "section": "Analysis",
+  "purpose": "To explain the role of SmartMultiple® analysis in identifying key drivers of valuation.",
+  "narrative_role": "Informative",
+  "title": "Smart multiple® analysis allows to identify key multiple drivers",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide uses graphical representations to show the relationship between historical performance, investor community valuations, SmartMultiple® analysis, and valuation/TSR.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Visual and text elements arranged horizontally",
+  "layout_type": "3-column with visual infographics",
+  "content_zones": {
+    "left": "Historical performance of peers form the basis for capital market valuation",
+    "center": "Investors incorporate financial performance in their valuation (reflected in >2300 BCG interviews)",
+    "right": "iTSR simulation uses a financial plan and forecast of valuation drivers to simulate future iTSR"
+  },
+  "visual_elements": [
+    {
+      "type": "chart",
+      "label": "Stock price comparison",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "Capital gains and valuation multiple",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Green text for emphasis"
+  },
+  "design_language": "Professional with a focus on financial analysis",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "White",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Line and Scatter",
+    "title": "Stock price and Actual vs. simulated value",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "Stock Price",
+      "Actual Value"
+    ],
+    "values": [
+      "Client",
+      "Peer 1",
+      "Peer 2"
+    ],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Capital gains"
+      },
+      {
+        "id": "L1",
+        "label": "Profit growth"
+      },
+      {
+        "id": "L2",
+        "label": "Valuation multiple (P/E)"
+      },
+      {
+        "id": "L3",
+        "label": "Free cash flow yield (dividends and share repurchase)"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide uses complex visual representations that do not fit neatly into basic schema categories."
+  }
+}

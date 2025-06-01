@@ -1,0 +1,137 @@
+{
+  "slide_id": "23",
+  "section": "Service and Repair Outlook",
+  "purpose": "To present survey results on customer service and repair expectations.",
+  "narrative_role": "Informative",
+  "title": "Service and repair outlook for next month is still showing a high share of customers that plan to do more work than usual ...",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of current and future expectations across countries.",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "table_with_bars",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "footnotes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Survey results on changes in maintenance and repair since beginning of COVID-19.",
+      "headers": [
+        "Country",
+        "Up until now (%)",
+        "Plan for next month (%)",
+        "Net impact",
+        "Net impact wave 5"
+      ],
+      "rows": [
+        {
+          "row_label": "UK",
+          "cells": [
+            "10%",
+            "26%",
+            "0",
+            "-3"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "4%",
+            "7%",
+            "+7",
+            "+5"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "10%",
+            "19%",
+            "0",
+            "+3"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "17%",
+            "14%",
+            "-1",
+            "0"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "horizontal bar chart"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "slide_id": "5",
+  "section": "Economic Growth",
+  "purpose": "To illustrate the economic growth of Seattle in comparison to other US cities and highlight the rapid increase in income and population.",
+  "narrative_role": "Informative",
+  "title": "Seattle’s economy, population and incomes have grown quickly",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and trend analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Textual data and bar chart",
+    "right": "Infographic with trend lines"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "GDP growth 2017-2018 for 25 largest MSAs, %",
+    "x_axis_label": "Cities",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "trend",
+    "levels": [],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "GDP Growth by City",
+      "description": "Comparison of GDP growth rates among major US cities.",
+      "headers": [
+        "City",
+        "Growth %"
+      ],
+      "rows": [
+        {
+          "row_label": "San Jose-Sunnyvale-Santa Clara, CA",
+          "cells": [
+            "San Jose-Sunnyvale-Santa Clara, CA",
+            "10.8"
+          ]
+        },
+        {
+          "row_label": "Seattle-Tacoma-Bellevue, WA",
+          "cells": [
+            "Seattle-Tacoma-Bellevue, WA",
+            "8.6"
+          ]
+        },
+        {
+          "row_label": "San Francisco-Oakland-Berkeley, CA",
+          "cells": [
+            "San Francisco-Oakland-Berkeley, CA",
+            "7.7"
+          ]
+        },
+        {
+          "row_label": "Houston-The Woodlands-Sugar Land, TX",
+          "cells": [
+            "Houston-The Woodlands-Sugar Land, TX",
+            "7.0"
+          ]
+        },
+        {
+          "row_label": "Phoenix-Mesa-Chandler, AZ",
+          "cells": [
+            "Phoenix-Mesa-Chandler, AZ",
+            "6.8"
+          ]
+        },
+        {
+          "row_label": "Dallas-Fort Worth-Arlington, TX",
+          "cells": [
+            "Dallas-Fort Worth-Arlington, TX",
+            "6.3"
+          ]
+        },
+        {
+          "row_label": "San Diego-Chula Vista-Carlsbad, CA",
+          "cells": [
+            "San Diego-Chula Vista-Carlsbad, CA",
+            "6.2"
+          ]
+        },
+        {
+          "row_label": "Denver-Aurora-Lakewood, CO *",
+          "cells": [
+            "Denver-Aurora-Lakewood, CO *",
+            "6.0"
+          ]
+        },
+        {
+          "row_label": "Riverside-San Bernardino-Ontario, CA",
+          "cells": [
+            "Riverside-San Bernardino-Ontario, CA",
+            "5.7"
+          ]
+        },
+        {
+          "row_label": "Boston-Cambridge-Newton, MA-NH",
+          "cells": [
+            "Boston-Cambridge-Newton, MA-NH",
+            "5.6"
+          ]
+        },
+        {
+          "row_label": "Los Angeles-Long Beach-Anaheim, CA",
+          "cells": [
+            "Los Angeles-Long Beach-Anaheim, CA",
+            "5.3"
+          ]
+        },
+        {
+          "row_label": "Minneapolis-St. Paul-Bloomington, MN-WI",
+          "cells": [
+            "Minneapolis-St. Paul-Bloomington, MN-WI",
+            "5.2"
+          ]
+        },
+        {
+          "row_label": "Miami-Fort Lauderdale-Pompano Beach, FL",
+          "cells": [
+            "Miami-Fort Lauderdale-Pompano Beach, FL",
+            "5.1"
+          ]
+        },
+        {
+          "row_label": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+          "cells": [
+            "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+            "5.1"
+          ]
+        },
+        {
+          "row_label": "Washington-Arlington-Alexandria, DC-VA-MD-WV *",
+          "cells": [
+            "Washington-Arlington-Alexandria, DC-VA-MD-WV *",
+            "4.9"
+          ]
+        },
+        {
+          "row_label": "Baltimore-Columbia-Towson, MD",
+          "cells": [
+            "Baltimore-Columbia-Towson, MD",
+            "4.9"
+          ]
+        },
+        {
+          "row_label": "Chicago-Naperville-Elgin, IL-IN-WI",
+          "cells": [
+            "Chicago-Naperville-Elgin, IL-IN-WI",
+            "4.5"
+          ]
+        },
+        {
+          "row_label": "Atlanta-Sandy Springs-Alpharetta, GA",
+          "cells": [
+            "Atlanta-Sandy Springs-Alpharetta, GA",
+            "4.5"
+          ]
+        },
+        {
+          "row_label": "New York-Newark-Jersey City, NY-NJ-PA",
+          "cells": [
+            "New York-Newark-Jersey City, NY-NJ-PA",
+            "4.4"
+          ]
+        },
+        {
+          "row_label": "Detroit-Warren-Dearborn, MI",
+          "cells": [
+            "Detroit-Warren-Dearborn, MI",
+            "4.0"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic uses trend lines and annotations which are not fully described in the schema. The exact fonts are not specified in the image."
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "slide_id": "9",
+  "section": "Financing Methods",
+  "purpose": "To show the preferred financing methods for top deals in 2016 globally",
+  "narrative_role": "Informative",
+  "title": "Cash financing was a preferred financing method in 2016 globally",
+  "bullets": [
+    {
+      "highlight": "44%",
+      "text": "Deals financed by cash represented the main financing method"
+    },
+    {
+      "highlight": "globally",
+      "text": "Equity only continues to remain least preferred method of payment"
+    },
+    {
+      "highlight": "2015",
+      "text": "Mix equity/cash deals fell as compared with"
+    },
+    {
+      "highlight": "62%",
+      "text": "Share of deals financed by cash increased significantly during 2016; highest level in the past 5 years"
+    },
+    {
+      "highlight": "51 percent points",
+      "text": "Share of deals financed by mix equity/cash decreased by"
+    },
+    {
+      "highlight": "52%",
+      "text": "Cash-only continues to be most preferred method representing"
+    },
+    {
+      "highlight": "11 percent points",
+      "text": "Share of deals financed by equity fell by"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Infographic and Bullets",
+  "content_zones": {
+    "left": "Infographic with bar charts",
+    "right": "Bullets with highlights"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 7,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key percentages and years"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "#0070C0",
+    "accent": "#00B050",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "Bar Chart",
+    "title": "Top deals by financing means available",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Cash",
+      "Equity",
+      "Mix equity/cash"
+    ],
+    "values": [
+      {
+        "year": "2011",
+        "cash": 703,
+        "equity": 57,
+        "mix": 21
+      },
+      {
+        "year": "2012",
+        "cash": 674,
+        "equity": 50,
+        "mix": 17
+      },
+      {
+        "year": "2013",
+        "cash": 794,
+        "equity": 41,
+        "mix": 16
+      },
+      {
+        "year": "2014",
+        "cash": 1093,
+        "equity": 32,
+        "mix": 16
+      },
+      {
+        "year": "2015",
+        "cash": 1892,
+        "equity": 21,
+        "mix": 21
+      },
+      {
+        "year": "2016",
+        "cash": 1139,
+        "equity": 44,
+        "mix": 25
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Top deals by financing means",
+      "description": "Comparison of financing methods globally, EMEA, and APAC",
+      "headers": [
+        "Year",
+        "Cash",
+        "Equity",
+        "Mix equity/cash"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "2011",
+            "57%",
+            "21%",
+            "22%"
+          ]
+        },
+        {
+          "cells": [
+            "2012",
+            "50%",
+            "17%",
+            "33%"
+          ]
+        },
+        {
+          "cells": [
+            "2013",
+            "41%",
+            "17%",
+            "42%"
+          ]
+        },
+        {
+          "cells": [
+            "2014",
+            "32%",
+            "16%",
+            "51%"
+          ]
+        },
+        {
+          "cells": [
+            "2015",
+            "21%",
+            "21%",
+            "58%"
+          ]
+        },
+        {
+          "cells": [
+            "2016",
+            "44%",
+            "25%",
+            "32%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Pyramid levels and additional infographic details not present."
+  }
+}

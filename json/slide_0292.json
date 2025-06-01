@@ -1,0 +1,98 @@
+{
+  "slide_id": "8",
+  "section": "Cloud Savings Analysis",
+  "purpose": "To demonstrate how organizations can achieve cost savings with cloud investments over time.",
+  "narrative_role": "explanatory",
+  "title": "Organizations can break even on cloud programs through eventual run-rate savings",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of cost dynamics between cloud and on-premises infrastructure.",
+  "data_points": [],
+  "cta": null,
+  "layout": "title and chart",
+  "layout_type": "text_above_chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "annotations": "around_chart"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Investments in cloud infrastructure and assets",
+      "position": "chart_top"
+    },
+    {
+      "type": "icon",
+      "label": "Investments for existing on-premises infrastructure",
+      "position": "chart_middle"
+    },
+    {
+      "type": "icon",
+      "label": "Rising costs of legacy infrastructure (eg, due to obsolescence)",
+      "position": "chart_top_right"
+    },
+    {
+      "type": "icon",
+      "label": "Time horizon that extends typical business-case horizon in regulated industries (ie, ~5 years)",
+      "position": "chart_bottom_left"
+    },
+    {
+      "type": "icon",
+      "label": "Run-rate savings in Infrastructure",
+      "position": "chart_bottom_right"
+    },
+    {
+      "type": "icon",
+      "label": "Over and above this, there are tangible business agility and revenue benefits",
+      "position": "bottom_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold_title"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "area",
+    "title": "",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "Investment",
+      "Savings"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or values are provided in the chart; it is illustrative."
+  }
+}

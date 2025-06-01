@@ -1,0 +1,160 @@
+{
+  "slide_id": "14",
+  "section": "Electrified Vehicles",
+  "purpose": "Compare payback periods for HEV and BEV versus ICE across regions and mileage rates.",
+  "narrative_role": "Analytical comparison",
+  "title": "Electrified vehicles are increasingly attractive at high mileage rates",
+  "bullets": [],
+  "supporting_facts": [
+    "Based on 2017 prices without incentives",
+    "Source: BCG analysis"
+  ],
+  "reasoning_strategy": "Comparison of payback periods across different regions and mileage rates.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "table",
+  "content_zones": {
+    "title": "top_center",
+    "tables": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Green text for emphasis"
+  },
+  "design_language": "Professional with emphasis on green",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "2017 payback period, HEV versus ICE (years)",
+      "description": "Comparison of payback periods for HEVs",
+      "headers": [
+        "Miles/yr",
+        "USA",
+        "China",
+        "EU"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "25,000",
+            "6",
+            "4",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "50,000",
+            "3",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "75,000",
+            "2",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "100,000",
+            "2",
+            "1",
+            "1"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    },
+    {
+      "title": "2017 payback period, BEV versus ICE (years)",
+      "description": "Comparison of payback periods for BEVs",
+      "headers": [
+        "Miles/yr",
+        "USA",
+        "China",
+        "EU"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "25,000",
+            "11",
+            "5",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "50,000",
+            "6",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "75,000",
+            "4",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "100,000",
+            "3",
+            "2",
+            "2"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or chart elements present on the slide."
+  }
+}

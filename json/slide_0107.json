@@ -1,0 +1,74 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To highlight the humanitarian challenge of COVID-19 and introduce the document's focus on consumer insights.",
+  "narrative_role": "Introduction",
+  "title": "COVID-19 Humanitarian Challenge",
+  "bullets": [
+    {
+      "highlight": "COVID-19 is first and foremost a major humanitarian challenge.",
+      "text": "Thousands of health professionals are battling the virus, putting their own lives at risk. Overstretched health systems will need time and help to return to a semblance of normalcy."
+    },
+    {
+      "highlight": "Solving the humanitarian challenge is, of course, priority #1.",
+      "text": "Much remains to be done globally to respond and recover, from counting the humanitarian costs of the virus, to supporting the victims and families, to finding a vaccine."
+    },
+    {
+      "highlight": "This document is meant to help with a narrower goal: provide consumer insights during the current COVID-19 situation.",
+      "text": "In addition to the humanitarian challenge, there are implications for the wider economy, businesses, and employment. This document includes consumer insights from a survey conducted between May 9-17, May 27-29, June 16-18, July 15-17, Sep 2-4, and Nov 6-10 in the UK, Germany, France, and Italy."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive and informative with emphasis on priorities and goals.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three main text blocks with highlights.",
+  "layout_type": "Text-focused",
+  "content_zones": {
+    "header": "Top",
+    "body": "Center",
+    "footer": "Bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "none",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

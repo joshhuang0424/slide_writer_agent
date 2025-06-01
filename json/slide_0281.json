@@ -1,0 +1,326 @@
+{
+  "slide_id": "11",
+  "section": "Infrastructure Teams",
+  "purpose": "To illustrate the various tribes and product-based services provided by infrastructure teams after cloud migration.",
+  "narrative_role": "Informative",
+  "title": "Infrastructure teams need to provide numerous product-based services even after migration to cloud",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "complex",
+  "content_zones": {
+    "title": "top",
+    "content": "center",
+    "footer": "bottom-right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for titles"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Business-aligned tribe",
+      "description": "Lists of business units and their focus areas.",
+      "headers": [
+        "Business Unit"
+      ],
+      "rows": [
+        {
+          "row_label": "Business unit 1",
+          "cells": [
+            "Business-aligned tribe"
+          ]
+        },
+        {
+          "row_label": "Business unit 2",
+          "cells": [
+            "Business-aligned tribe"
+          ]
+        },
+        {
+          "row_label": "Business unit 3",
+          "cells": [
+            "Business-aligned tribe"
+          ]
+        },
+        {
+          "row_label": "Business unit 4",
+          "cells": [
+            "Business-aligned tribe"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    },
+    {
+      "title": "End-user tribe",
+      "description": "Services and tools for end-users.",
+      "headers": [
+        "Endpoint",
+        "Collaboration"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Windows",
+            "Messaging"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Mac",
+            "Unified communications"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Mobile",
+            "Content management"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Virtual desktop infrastructure (VDI)",
+            ""
+          ]
+        }
+      ],
+      "position": "top-center",
+      "render_style": ""
+    },
+    {
+      "title": "Cloud-platforms tribe",
+      "description": "Tools and services related to cloud platforms.",
+      "headers": [
+        "DevOps/CloudOps",
+        "System tooling",
+        "Cloud foundation"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "DevOps",
+            "Infrastructure as code tooling",
+            "Cloud landing zones"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "CloudOps",
+            "System management and monitoring tools",
+            "Cloud logging, network, compliance"
+          ]
+        }
+      ],
+      "position": "top-right",
+      "render_style": ""
+    },
+    {
+      "title": "Developer-platforms tribe",
+      "description": "Databases and integration tools for developers.",
+      "headers": [
+        "Databases",
+        "Integrations"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "NoSQL databases",
+            "Enterprise service buses"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Relational databases",
+            "Real-time messaging"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Data-governance tools",
+            "Message queues"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "ETL / data-ingestion tools",
+            "Web/app middleware"
+          ]
+        },
+        {
+          "row_label": "CI/CD",
+          "cells": [
+            "Configuration management",
+            "Supply-chain management"
+          ]
+        },
+        {
+          "row_label": "AI/RPA",
+          "cells": [
+            "AI/ML tools",
+            ""
+          ]
+        },
+        {
+          "row_label": "Configurable platforms",
+          "cells": [
+            "Power platforms",
+            ""
+          ]
+        }
+      ],
+      "position": "center-left",
+      "render_style": ""
+    },
+    {
+      "title": "On-premises tribe",
+      "description": "Services related to on-premises infrastructure.",
+      "headers": [
+        "On-premises compute",
+        "On-premises data storage and replication",
+        "On-premises tooling"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Virtual (VMware ESX)",
+            "Backup and archival",
+            "Infrastructure tooling"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Physical (pSeries, Sparc, x86)",
+            "Tier 0/1 (SAN) block storage",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Operating system (Linux, AIX, Windows)",
+            "Tier 2/3 (NAS) network storage",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    },
+    {
+      "title": "Network and security tribe",
+      "description": "Security and network services.",
+      "headers": [
+        "Security",
+        "Identity",
+        "Network/connectivity",
+        "Access control"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Logging, monitoring, threat detection, and analytics",
+            "Identity governance and provisioning",
+            "On-premises to cloud connectivity",
+            "Directories"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Threat and vulnerability management",
+            "Certifications",
+            "Data-center networks",
+            "Credential management"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Endpoint",
+            "",
+            "Reserve Bank networks",
+            "Enterprise access management"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Data-loss prevention",
+            "",
+            "Remote access",
+            "Customer access management"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "",
+            "DNS and load balancing",
+            "Privileged access management"
+          ]
+        }
+      ],
+      "position": "bottom-center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No charts or infographics detected. The slide uses tables to organize information."
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "slide_id": "1",
+  "section": "貸款余額與結構",
+  "purpose": "展示光大銀行貸款余額的變化及其結構比重",
+  "narrative_role": "數據展示",
+  "title": "貸款余額：光大銀行落實國家發展戰略",
+  "bullets": [],
+  "supporting_facts": [
+    "政策引導銀行監管會著力推動金融機構支持實體經濟發展"
+  ],
+  "reasoning_strategy": "數據比較",
+  "data_points": [
+    "2017-2021年光大及其對標公司整體貸款余額（萬億元）",
+    "2017-2021年光大及其對標公司貸款余額結構（%）"
+  ],
+  "cta": null,
+  "layout": "雙列，左圖右表",
+  "layout_type": "圖表併行",
+  "content_zones": {
+    "chart_zone": "left",
+    "table_zone": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "textBox",
+      "label": "貸款余額：光大貸款余額較小，體量上與平安相似",
+      "position": "top"
+    },
+    {
+      "type": "textBox",
+      "label": "貸款余額結構：光大貸款結構優化，零售和對公占比更加均衡",
+      "position": "top"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "粗體強調"
+  },
+  "design_language": "專業、數據驅動",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "黑體",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "宋體",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "2017-2021年光大及其對標公司整體貸款余額（萬億元）",
+    "x_axis_label": "年份",
+    "y_axis": [
+      "0.0",
+      "1.0",
+      "2.0",
+      "3.0",
+      "4.0",
+      "5.0"
+    ],
+    "values": [
+      {
+        "label": "招商銀行",
+        "data": [
+          2.0,
+          2.5,
+          3.0,
+          3.5,
+          4.0
+        ]
+      },
+      {
+        "label": "民生銀行",
+        "data": [
+          2.2,
+          2.6,
+          3.1,
+          3.6,
+          4.1
+        ]
+      },
+      {
+        "label": "光大銀行",
+        "data": [
+          1.8,
+          2.3,
+          2.8,
+          3.3,
+          3.8
+        ]
+      },
+      {
+        "label": "平安銀行",
+        "data": [
+          1.9,
+          2.4,
+          2.9,
+          3.4,
+          3.9
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "公司年報"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "2017-2021年光大及其對標公司貸款余額結構（%）",
+      "description": "展示各銀行不同年份的貸款結構比例",
+      "headers": [
+        "年份",
+        "零售貸款",
+        "對公貸款",
+        "票據貼現"
+      ],
+      "rows": [
+        {
+          "row_label": "招商銀行",
+          "cells": [
+            "2017",
+            "48.28%",
+            "47.04%",
+            "4.68%"
+          ]
+        },
+        {
+          "row_label": "平安銀行",
+          "cells": [
+            "2018",
+            "49.82%",
+            "50.18%",
+            "0.00%"
+          ]
+        },
+        {
+          "row_label": "民生銀行",
+          "cells": [
+            "2019",
+            "39.43%",
+            "60.57%",
+            "0.00%"
+          ]
+        },
+        {
+          "row_label": "光大銀行",
+          "cells": [
+            "2020",
+            "41.30%",
+            "58.70%",
+            "0.00%"
+          ]
+        },
+        {
+          "row_label": "光大銀行",
+          "cells": [
+            "2021",
+            "44.41%",
+            "55.59%",
+            "0.00%"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "stacked bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "無金字塔圖形，無法填充infographic.levels"
+  }
+}

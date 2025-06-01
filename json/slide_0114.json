@@ -1,0 +1,166 @@
+{
+  "slide_id": "9",
+  "section": "Impact Analysis",
+  "purpose": "To compare the perception of lockdown challenges between high and low-income respondents across different countries.",
+  "narrative_role": "Data Presentation",
+  "title": "High-income respondents feel slightly less challenged by 2nd lockdown, especially in Italy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title at top, chart below",
+  "layout_type": "Chart with legend",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "legend": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "legend",
+      "label": "Significantly more challenging",
+      "position": "right"
+    },
+    {
+      "type": "legend",
+      "label": "Slightly more challenging",
+      "position": "right"
+    },
+    {
+      "type": "legend",
+      "label": "Slightly less challenging",
+      "position": "right"
+    },
+    {
+      "type": "legend",
+      "label": "Significantly less challenging",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key differences"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Perception of lockdown 2 vs. 1",
+    "x_axis_label": "Income Level",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "country": "EU",
+        "high_income": [
+          3,
+          14,
+          -32,
+          -19
+        ],
+        "low_income": [
+          9,
+          12,
+          -26,
+          -17
+        ]
+      },
+      {
+        "country": "UK",
+        "high_income": [
+          3,
+          13,
+          -37,
+          -20
+        ],
+        "low_income": [
+          5,
+          11,
+          -33,
+          -16
+        ]
+      },
+      {
+        "country": "DE",
+        "high_income": [
+          3,
+          15,
+          -30,
+          -17
+        ],
+        "low_income": [
+          8,
+          12,
+          -26,
+          -15
+        ]
+      },
+      {
+        "country": "FR",
+        "high_income": [
+          7,
+          19,
+          -14,
+          -8
+        ],
+        "low_income": [
+          13,
+          14,
+          -15,
+          -8
+        ]
+      },
+      {
+        "country": "IT",
+        "high_income": [
+          4,
+          9,
+          -35,
+          -24
+        ],
+        "low_income": [
+          10,
+          10,
+          -30,
+          -27
+        ]
+      }
+    ],
+    "annotations": [
+      "+3",
+      "+1",
+      "+2",
+      "+1",
+      "+7"
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "bullets": "The slide primarily uses charts and legends, not bullet points."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "slide_id": "3",
+  "section": "Diversity Progress",
+  "purpose": "To show the slow progress in diversity representation before COVID-19.",
+  "narrative_role": "Supporting evidence",
+  "title": "We were making slow progress before COVID-19",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison over time",
+  "data_points": [
+    {
+      "year": 2019,
+      "executive_team_gender": "20%",
+      "board_gender": "28%",
+      "executive_team_ethnic": "13%",
+      "board_ethnic": "17%"
+    }
+  ],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "narrative text",
+    "right": "data visualizations"
+  },
+  "visual_elements": [
+    {
+      "type": "text",
+      "label": "We were making slow progress before COVID-19",
+      "position": "left"
+    },
+    {
+      "type": "text",
+      "label": "+1.1 / year",
+      "position": "top-left"
+    },
+    {
+      "type": "text",
+      "label": "+1.3 / year",
+      "position": "top-right"
+    },
+    {
+      "type": "text",
+      "label": "+.8 / year",
+      "position": "bottom-left"
+    },
+    {
+      "type": "text",
+      "label": "+1.1 / year",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "donut",
+    "title": "Representation in the US and UK, %",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "year": "2019",
+        "executive_team": "20%",
+        "board": "28%"
+      },
+      {
+        "year": "2017",
+        "executive_team": "19%",
+        "board": "24%"
+      },
+      {
+        "year": "2014",
+        "executive_team": "15%",
+        "board": "21%"
+      }
+    ],
+    "annotations": [],
+    "source": "Diversity wins: How inclusion matters, McKinsey 2020"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables present in the slide."
+  }
+}

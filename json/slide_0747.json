@@ -1,0 +1,110 @@
+{
+  "slide_id": "1",
+  "section": "Semiconductor Industry Overview",
+  "purpose": "To illustrate the recovery of semiconductor sales post-COVID-19.",
+  "narrative_role": "informative",
+  "title": "Demand Recovery in Automotive",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "comparative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "title-chart-table",
+  "layout_type": "mixed",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "table": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "green",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Monthly global sales of semiconductors ($)",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "50",
+      "60",
+      "70",
+      "80",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "BCG analysis based on Semiconductor Industry Association data"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Sales Comparison",
+      "description": "Comparison of semiconductor sales in 2020 versus 2018.",
+      "headers": [
+        "Category",
+        "Change (%)"
+      ],
+      "rows": [
+        {
+          "row_label": "Non-memory semiconductors excluding auto-specific",
+          "cells": [
+            "+4%"
+          ]
+        },
+        {
+          "row_label": "Automotive-specific",
+          "cells": [
+            "-11%"
+          ]
+        },
+        {
+          "row_label": "Total semiconductors",
+          "cells": [
+            "-6%"
+          ]
+        },
+        {
+          "row_label": "Memory",
+          "cells": [
+            "-24%"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Pyramid levels are not applicable or present in the image."
+  }
+}

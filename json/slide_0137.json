@@ -1,0 +1,125 @@
+{
+  "slide_id": "32",
+  "section": "Future Mobility",
+  "purpose": "To highlight the increased importance of direct vehicle access and willingness to expand vehicle use cases among younger consumers.",
+  "narrative_role": "Data Presentation",
+  "title": "Increased importance of direct vehicle access and willingness to expand this to new use cases, especially for younger consumers",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparative analysis by age group",
+  "data_points": [
+    "Importance of constant access to a private vehicle",
+    "Willingness to expand private vehicles to new use cases"
+  ],
+  "cta": null,
+  "layout": "Two bar charts side by side",
+  "layout_type": "comparative",
+  "content_zones": {
+    "chart_left": "Importance of constant access to a private vehicle",
+    "chart_right": "Willingness to expand private vehicles to new use cases"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "EU Flag",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "EU Flag",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Small"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "By age",
+    "y_axis": [
+      "Percent of respondents",
+      "Percent of vehicle owners"
+    ],
+    "values": [
+      {
+        "chart": "left",
+        "age_groups": [
+          "18-34",
+          "35-54",
+          "55-70"
+        ],
+        "increased": [
+          36,
+          24,
+          21
+        ],
+        "decreased": [
+          -16,
+          -14,
+          -13
+        ]
+      },
+      {
+        "chart": "right",
+        "age_groups": [
+          "18-34",
+          "35-54",
+          "55-70"
+        ],
+        "yes": [
+          51,
+          43,
+          29
+        ],
+        "no": [
+          -22,
+          -27,
+          -37
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "text": "3",
+        "position": "near EU flags"
+      }
+    ],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "slide_id": "38",
+  "section": "Investor Relations Best Practices",
+  "purpose": "To outline strategies for business, financial, and investor relations.",
+  "narrative_role": "Informational",
+  "title": "\"Best in class\" equity story will be grounded in investor relations best practices",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of efforts and out of scope items",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column layout with icons",
+  "layout_type": "Three-column",
+  "content_zones": {
+    "left": "Business strategy",
+    "center": "Financial strategy",
+    "right": "Investor strategy"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Chess knight",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Dollar sign with leaves",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Person with stars",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 10,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Use of icons and bold text for section titles"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Segoe UI",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Segoe UI",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Effort Allocation",
+      "description": "Distribution of effort in different strategies",
+      "headers": [
+        "Strategy",
+        "Effort"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Business strategy",
+            "80% of effort"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Financial strategy",
+            "20% of effort"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Investor strategy",
+            "Out of scope"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide primarily contains structured text and icons without complex data points or chart elements."
+  }
+}

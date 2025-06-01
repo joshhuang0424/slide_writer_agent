@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "信用卡業務",
+  "purpose": "比較信用卡累計卡量與消費總額的趨勢",
+  "narrative_role": "展示數據趨勢",
+  "title": "信用卡業務：光大銀行信用卡累計卡量較高，但信用卡消費總額表現不佳，待探究流通卡量或卡均消費等數據",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "比較不同銀行的信用卡數據趨勢",
+  "data_points": [
+    "2017-2021年光大及其對標公司信用卡累計卡量（萬張）",
+    "2017-2021年光大及其對標公司信用卡消費總額（億元）"
+  ],
+  "cta": null,
+  "layout": "dual_chart",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top",
+    "charts": "center",
+    "note": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "",
+    "x_axis_label": "年份",
+    "y_axis": [
+      "信用卡累計卡量（萬張）",
+      "信用卡消費總額（億元）"
+    ],
+    "values": [],
+    "annotations": [
+      "招商銀行",
+      "光大銀行",
+      "平安銀行",
+      "民生銀行"
+    ],
+    "source": "公司年報"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

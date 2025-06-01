@@ -1,0 +1,83 @@
+{
+  "slide_id": "52",
+  "section": "BCG TSR方案介绍",
+  "purpose": "介绍TSR方案的三大策略角度",
+  "narrative_role": "说明",
+  "title": "BCG TSR方案从业务、投资主体以及财务三大角度出发，制定企业价值最大化战略",
+  "bullets": [],
+  "supporting_facts": [
+    "BCG 2016年投资主体调查显示，57%的调查对象认为公司的业务战略、财务战略和投资主体战略未能很好地协调配合"
+  ],
+  "reasoning_strategy": "从三个主要策略角度出发优化企业战略",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "pyramid",
+    "right": "circle diagram"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "制定商业战略"
+      },
+      {
+        "id": "L1",
+        "label": "制定财务战略"
+      },
+      {
+        "id": "L2",
+        "label": "出售给投资主体"
+      },
+      {
+        "id": "L3",
+        "label": "TSR结果"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體資訊未明顯顯示，無法辨識"
+  }
+}

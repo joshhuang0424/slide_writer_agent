@@ -1,0 +1,97 @@
+{
+  "slide_id": "7",
+  "section": "初期規劃",
+  "purpose": "探討客戶溝通策略關鍵原則",
+  "narrative_role": "說明策略",
+  "title": "新卡客戶溝通 | 客戶溝通策略關鍵原則討論",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "左列三項目標是否已完整捕捉轉卡的相關需求？"
+    },
+    {
+      "highlight": false,
+      "text": "在需要取捨的狀況下，請問有哪一目標須優先考量？"
+    },
+    {
+      "highlight": true,
+      "text": "循序漸進 – 所有的溝通本質上都在加速轉卡，但並無理想絕車機制，所以寧慢不快以免導致核卡塞車"
+    },
+    {
+      "highlight": true,
+      "text": "動態調整 – 當有實時追蹤機制，以了解是否需要加速轉卡，避免用置過多的核卡量能"
+    },
+    {
+      "highlight": true,
+      "text": "測試優化 – 針對高成本或高風險的舉措，應先進行小規模測試後，再擇優執行"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "考慮目標優先順序及關鍵原則",
+  "data_points": [],
+  "cta": null,
+  "layout": "左圖右文",
+  "layout_type": "雙欄",
+  "content_zones": {
+    "left": "三個圓形圖形",
+    "right": "文本列表"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "流暢 客戶申辦體驗（月37萬核卡量）",
+      "position": "left_top"
+    },
+    {
+      "type": "circle",
+      "label": "最快速度 轉換多數會員（數位優先）",
+      "position": "left_bottom_left"
+    },
+    {
+      "type": "circle",
+      "label": "最低成本 完成轉卡溝通",
+      "position": "left_bottom_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "使用顏色區分重點"
+  },
+  "design_language": "企業風格",
+  "color_scheme": {
+    "primary": "藍色",
+    "accent": "橘色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "未知",
+      "size": "未知",
+      "weight": "粗體"
+    },
+    "body": {
+      "font_family": "未知",
+      "size": "未知"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "字體信息和大小未在頁面中標示"
+  }
+}

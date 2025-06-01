@@ -1,0 +1,64 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To question and provoke thought",
+  "narrative_role": "Set the stage for discussion",
+  "title": "What is the path forward?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Open-ended question",
+  "data_points": [],
+  "cta": null,
+  "layout": "centered title",
+  "layout_type": "title slide",
+  "content_zones": {
+    "title": {
+      "position": "center"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "minimal",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#000000",
+    "background": "#002040"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "",
+      "size": ""
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional content or elements are present on the slide."
+  }
+}

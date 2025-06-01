@@ -1,0 +1,201 @@
+{
+  "slide_id": "22",
+  "section": "Circular Economy",
+  "purpose": "To present the circular economy and waste metrics across different players.",
+  "narrative_role": "Informative",
+  "title": "Dimension 3: Circular economy and waste (2/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of waste metrics across different players.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title, table with metrics and scores",
+  "layout_type": "Table-centric",
+  "content_zones": {
+    "title": "top-center",
+    "table": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "pie_chart",
+      "label": "25%",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Dimension Score and Metrics",
+      "description": "Comparison of circular economy metrics for different players.",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 11\nNorth America",
+        "Player 12\nAsia & Middle E",
+        "Player 13\nEurope",
+        "Player 14\nAsia & Middle E",
+        "Player 15\nEurope & other",
+        "Player 16\nAsia & Middle E",
+        "Player 17\nNorth America",
+        "Player 18\nNorth America",
+        "Player 19\nAsia & Middle E",
+        "Player 20\nAsia & Middle E",
+        "Player 21\nAsia & Middle E"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Dimension score",
+            "",
+            "35",
+            "37",
+            "45",
+            "51",
+            "66",
+            "46",
+            "3",
+            "37",
+            "47",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Waste total / IP data traffic",
+            "17%",
+            "60",
+            "0",
+            "63",
+            "69",
+            "78",
+            "48",
+            "0",
+            "43",
+            "89",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Waste total / revenue",
+            "17%",
+            "0",
+            "0",
+            "25",
+            "48",
+            "74",
+            "41",
+            "0",
+            "31",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Waste total / # customers",
+            "17%",
+            "0",
+            "0",
+            "83",
+            "61",
+            "98",
+            "53",
+            "0",
+            "41",
+            "81",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Waste recycled / total",
+            "25%",
+            "37",
+            "99",
+            "44",
+            "62",
+            "84",
+            "64",
+            "0",
+            "56",
+            "76",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Mobile phones collected / revenue",
+            "25%",
+            "61",
+            "50",
+            "24",
+            "24",
+            "15",
+            "24",
+            "12",
+            "16",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No explicit reasoning strategy or call to action detected. The slide primarily presents data."
+  }
+}

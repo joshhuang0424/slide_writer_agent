@@ -1,0 +1,103 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Highlight the importance of data and analytics in business.",
+  "narrative_role": "Informative",
+  "title": "With the exponential growth of data, there has been increased focus on the importance of Data & Analytics, and benefits are immense",
+  "bullets": [
+    {
+      "highlight": "26%",
+      "text": "Increase in profitability at companies that demonstrated the highest levels of digital maturity"
+    },
+    {
+      "highlight": "82%",
+      "text": "Of companies at which all employees are responsible for analytics insights exceeded business goals"
+    },
+    {
+      "highlight": "48%",
+      "text": "Of companies with the strongest analytics cultures significantly exceeded business goals in the past year"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of statistics to emphasize benefits",
+  "data_points": [
+    "26%",
+    "82%",
+    "48%"
+  ],
+  "cta": null,
+  "layout": "Split with graphics and text",
+  "layout_type": "Two column",
+  "content_zones": {
+    "left": "Analytics trends",
+    "right": "Areas that organizations are leveraging analytics for"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Arrow graph",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "People graph",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Line graph",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentages"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "infographic_right": [
+      "Enhancing customer experience",
+      "Informing marketing strategy",
+      "Business process improvement",
+      "Guiding company strategy"
+    ],
+    "_why_unknown": "No pyramid infographic detected on this slide."
+  }
+}

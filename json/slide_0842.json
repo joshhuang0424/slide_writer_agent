@@ -1,0 +1,143 @@
+{
+  "slide_id": "15",
+  "section": "Model Integration",
+  "purpose": "Identify the most suitable recommendation period for each customer based on different period models.",
+  "narrative_role": "explanatory",
+  "title": "模型整合：根据同期数建立模型，为每一顾客找出最适推荐期数",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of predicted benefits from various discount models.",
+  "data_points": [
+    "10010",
+    "10012",
+    "10017"
+  ],
+  "cta": null,
+  "layout": "infographic and table",
+  "layout_type": "mixed",
+  "content_zones": {
+    "top": "Title and introduction",
+    "center": "Infographic of model selection",
+    "right": "Table of predicted benefits"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Person",
+      "position": "top-center"
+    },
+    {
+      "type": "arrow",
+      "label": "Model Selection Flow",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlights are shown in red"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "风险模型筛选白名单"
+      },
+      {
+        "id": "L1",
+        "label": "推荐涨价预测收益模型"
+      },
+      {
+        "id": "L2",
+        "label": "推荐八折预测收益模型"
+      },
+      {
+        "id": "L3",
+        "label": "推荐六折预测收益模型"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "预测收益",
+      "description": "Based on different discount models",
+      "headers": [
+        "账单代号",
+        "推荐涨价预估收益",
+        "推荐八折预估收益",
+        "推荐六折预估收益",
+        "最适推荐期数"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "10010",
+            "15",
+            "56",
+            "43",
+            "八折"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "10012",
+            "-",
+            "-",
+            "-",
+            "风险过高"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "10017",
+            "56",
+            "86",
+            "100",
+            "六折"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No additional data points or bullet points detected."
+  }
+}

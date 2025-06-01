@@ -1,0 +1,116 @@
+{
+  "slide_id": "29",
+  "section": "Segmentation Deep Dive: E.Sun x JAL",
+  "purpose": "To analyze segmentation and propose next steps to enhance campaign effectiveness.",
+  "narrative_role": "Analysis and recommendation",
+  "title": "Segmentation Deep Dive: E.Sun x JAL",
+  "bullets": [
+    {
+      "highlight": "Additional SMS",
+      "text": "can drive XB spend for existing XB spender"
+    },
+    {
+      "highlight": "",
+      "text": "Send SMS to 43K customers in control with previous XB spend can generate additional 475K XB spend"
+    },
+    {
+      "highlight": "Potential traveler",
+      "text": "can be tested with additional incentive"
+    },
+    {
+      "highlight": "",
+      "text": "Customer with hotel, airline, travel agencies spend in last 6 months are more likely to have XB spend"
+    },
+    {
+      "highlight": "Target 13K potential travel spenders",
+      "text": "in non-XB spender segment will yield additional return"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data analysis and testing",
+  "data_points": [
+    "43K customers",
+    "475K XB spend",
+    "13K potential travel spenders"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart and bullet points",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Chart and Segmentation information",
+    "right": "Next Steps and Recommendations"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "checkmark",
+      "position": "right"
+    },
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color and bold for emphasis"
+  },
+  "design_language": "Corporate and data-driven",
+  "color_scheme": {
+    "primary": "#FF5F00",
+    "accent": "#000000",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "Bar Chart",
+    "title": "",
+    "x_axis_label": "Segmentation",
+    "y_axis": [
+      "Number of Customers"
+    ],
+    "values": [
+      {
+        "segment": "Test",
+        "had_XB_spend": 8,
+        "no_XB_spend": 17
+      },
+      {
+        "segment": "Remaining Pool",
+        "had_XB_spend": 43,
+        "no_XB_spend": 87
+      }
+    ],
+    "annotations": [
+      "Had XB spend in last 6 months",
+      "No XB spend in last 6 months"
+    ],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific table data or pyramid infographic present."
+  }
+}

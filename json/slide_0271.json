@@ -1,0 +1,72 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title Slide",
+  "narrative_role": "Introduce the topic and set the context",
+  "title": "Accelerating hybrid-cloud adoption in banking and securities",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and background",
+  "layout_type": "Title Slide",
+  "content_zones": {
+    "header": "Top left",
+    "title": "Center left",
+    "subtitle": "Center left below title",
+    "date": "Center left below subtitle",
+    "footer": "Bottom left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "McKinsey & Company",
+      "position": "Top left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "White",
+    "background": "Gradient blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "unknown",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "unknown"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "This slide serves as a title page, hence lacks detailed data points, reasoning strategy, or charts."
+  }
+}

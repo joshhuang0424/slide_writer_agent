@@ -1,0 +1,86 @@
+{
+  "slide_id": "31",
+  "section": "Contents",
+  "purpose": "To outline the main topics for the year 2016 in M&A",
+  "narrative_role": "Overview",
+  "title": "Contents: Year 2016 in M&A",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Key facts on global M&A"
+    },
+    {
+      "highlight": "",
+      "text": "Regional and cross-border M&A activity"
+    },
+    {
+      "highlight": "",
+      "text": "PE and hostile deals"
+    },
+    {
+      "highlight": "",
+      "text": "Key findings from \"value creation in M&A\" initiative"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "List",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and image",
+  "content_zones": {
+    "left": "Text",
+    "right": "Image"
+  },
+  "visual_elements": [
+    {
+      "type": "illustration",
+      "label": "Globe with handshake motifs",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Last bullet in teal"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "Teal",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "No chart or table present; infographic is an illustration without specific data."
+  }
+}

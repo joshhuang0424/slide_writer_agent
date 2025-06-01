@@ -1,0 +1,110 @@
+{
+  "slide_id": "3",
+  "section": "分期定位与策略优化",
+  "purpose": "介绍优化分期业务的关键因素",
+  "narrative_role": "说明",
+  "title": "了解[某行]分期定位以及经营策略以优化分期业务",
+  "bullets": [
+    {
+      "highlight": "最大化",
+      "text": "总分期收益"
+    },
+    {
+      "highlight": "最大化",
+      "text": "办理分期人数"
+    },
+    {
+      "highlight": "最大化",
+      "text": "分期利润率"
+    },
+    {
+      "highlight": "风险",
+      "text": "忍耐程度"
+    },
+    {
+      "highlight": "风险",
+      "text": "白名单筛选及业务部门合作方式"
+    },
+    {
+      "highlight": "资金成本",
+      "text": "ROI考量"
+    },
+    {
+      "highlight": "分期业务",
+      "text": "金额上限"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "列举与分类",
+  "data_points": [],
+  "cta": "哪一项为[某行]最重点KPI？经营策略以何者为重？",
+  "layout": "三栏图文并列",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "营收",
+    "center": "风险",
+    "right": "成本"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "营收",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "风险",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "成本",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "高亮关键词"
+  },
+  "design_language": "简约现代",
+  "color_scheme": {
+    "primary": "黑色",
+    "accent": "橙色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "未知",
+      "size": "未知",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "未知",
+      "size": "未知"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體及尺寸未在圖片中標明，無法確定"
+  }
+}

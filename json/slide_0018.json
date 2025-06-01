@@ -1,0 +1,132 @@
+{
+  "slide_id": "18",
+  "section": "Opportunity to step up allyship to support Black women",
+  "purpose": "Highlight the positive workplace experiences and reduced micro-aggressions for Black women with allies.",
+  "narrative_role": "Informative",
+  "title": "",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text and table",
+  "content_zones": {
+    "left": "Title and section information",
+    "right": "Data visualization with tables"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use bold for emphasis"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Black women who have allies are more likely to have positive workplace experiences, % of employees who agree",
+      "description": "",
+      "headers": [
+        "Statement",
+        "All non-Black women",
+        "Black women with allies",
+        "Black women without allies"
+      ],
+      "rows": [
+        {
+          "row_label": "I feel I can bring my whole self to work",
+          "cells": [
+            "80",
+            "81",
+            "41"
+          ]
+        },
+        {
+          "row_label": "Compared to my peers in this company, I have an equal opportunity for advancement.",
+          "cells": [
+            "58",
+            "54",
+            "23"
+          ]
+        },
+        {
+          "row_label": "I would recommend this company as a great place to work",
+          "cells": [
+            "86",
+            "87",
+            "65"
+          ]
+        }
+      ],
+      "position": "top",
+      "render_style": "bubble"
+    },
+    {
+      "title": "… and less likely to experience micro-aggressions, % of employees who experienced",
+      "description": "",
+      "headers": [
+        "Statement",
+        "All non-Black women",
+        "Black women with allies",
+        "Black women without allies"
+      ],
+      "rows": [
+        {
+          "row_label": "Feeling like I can’t talk about the impact current events are having on me or people in my community",
+          "cells": [
+            "8",
+            "18",
+            "29"
+          ]
+        },
+        {
+          "row_label": "Discomfort sharing the challenges I am facing with my teammates or manager",
+          "cells": [
+            "13",
+            "10",
+            "25"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "bubble"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific title or pyramid infographic present in the slide."
+  }
+}

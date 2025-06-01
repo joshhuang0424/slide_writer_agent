@@ -1,0 +1,74 @@
+{
+  "slide_id": "1",
+  "section": "Conclusion",
+  "purpose": "To invite questions and conclude the presentation.",
+  "narrative_role": "closure",
+  "title": "Questions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "open-ended",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "simple",
+  "content_zones": {
+    "title": "center",
+    "visual_elements": "background"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "decorative",
+      "position": "background"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": "title only"
+  },
+  "design_language": "minimalistic with emphasis on branding",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "white",
+    "background": "dark gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No body text or detailed data is present on the slide."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slide_id": "4",
+  "section": "Transportation Trends",
+  "purpose": "Compare mobility recovery across regions",
+  "narrative_role": "Data Presentation",
+  "title": "The slowest recovery is expected for public transit, while bikes are going strong",
+  "bullets": [],
+  "supporting_facts": [
+    "Number of weekly trips over time (indexed to 2019 pre-COVID-19 levels)"
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    "US: Bikes 113%, Cars 87%, Shared Mobility 81%, Public Transit 78%",
+    "EU: Bikes 132%, Cars 109%, Shared Mobility 98%, Public Transit 87%",
+    "China: Bikes 117%, Cars 117%, Shared Mobility 110%, Public Transit 105%"
+  ],
+  "cta": null,
+  "layout": "Three-column chart comparison",
+  "layout_type": "Chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Bicycle",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Car",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Shared Mobility",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Public Transit",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentages highlighted"
+  },
+  "design_language": "Modern with a focus on data visualization",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "light green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "Line Chart",
+    "title": "Mobility Recovery Over Time",
+    "x_axis_label": "Time Period",
+    "y_axis": [
+      "Percentage of Pre-COVID-19 Levels"
+    ],
+    "values": [
+      "US",
+      "EU",
+      "China"
+    ],
+    "annotations": [
+      "Private car and privately owned bike/scooter run almost in parallel"
+    ],
+    "source": "BCG Urban Mobility Surveys, April and August 2020"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or additional tables present in the slide."
+  }
+}

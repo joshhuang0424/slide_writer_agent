@@ -1,0 +1,126 @@
+{
+  "slide_id": "52",
+  "section": "Segment Identification",
+  "purpose": "To identify focus segments for profiling based on customer spend",
+  "narrative_role": "Analytical",
+  "title": "Menulog: Focus Segments Identification",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data segmentation based on spend",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid and table",
+  "layout_type": "hybrid",
+  "content_zones": {
+    "title": "top-left",
+    "grid": "center-left",
+    "table": "center-right"
+  },
+  "visual_elements": [
+    {
+      "type": "grid",
+      "label": "Spend by Segment",
+      "position": "center-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight numbers"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "red",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Segment Identification",
+      "description": "Mapping of spend by segment",
+      "headers": [
+        "Seg No.",
+        "Segment Name",
+        "Strategy"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "4",
+            "High Value Prospects",
+            "Acquisition"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Medium Value Prospects",
+            "Acquisition"
+          ]
+        },
+        {
+          "cells": [
+            "1",
+            "High Value Menulog Devotees",
+            "Retain"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "High Value Menulog Loyalists",
+            "Grow SOW"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "High Value Menulog Non-Loyalists",
+            "Grow SOW"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Medium Value Menulog Loyalists",
+            "Grow SOW"
+          ]
+        }
+      ],
+      "position": "center-right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullet points or chart present in the slide."
+  }
+}

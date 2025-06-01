@@ -1,0 +1,174 @@
+{
+  "slide_id": "6",
+  "section": "Media and Entertainment Analysis",
+  "purpose": "To compare the gender distribution in media and entertainment against average across all companies.",
+  "narrative_role": "Data presentation and comparison",
+  "title": "In Media and Entertainment, the pipeline of women is better than the average across all companies but still drops off at the C-suite",
+  "bullets": [],
+  "supporting_facts": [
+    "2019 EOY data prior to COVID-19"
+  ],
+  "reasoning_strategy": "Comparison across different levels within companies",
+  "data_points": [
+    "White men, Entry level: 38%",
+    "Men of color, Entry level: 14%",
+    "White women, Entry level: 33%",
+    "Women of color, Entry level: 15%",
+    "Total % of women by level in industry, 2019 EOY: 47%",
+    "Total % of women by level in industry, 2018 EOY: 51%",
+    "Total % of women by level across all companies: 47%"
+  ],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "chart with tables",
+  "content_zones": {
+    "chart": "center",
+    "tables": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentages are highlighted in blue"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "3D cylinder",
+    "title": "",
+    "x_axis_label": "Company Levels",
+    "y_axis": [
+      "White men",
+      "Men of color",
+      "White women",
+      "Women of color"
+    ],
+    "values": [
+      [
+        38,
+        14,
+        33,
+        15
+      ],
+      [
+        43,
+        15,
+        30,
+        12
+      ],
+      [
+        44,
+        10,
+        36,
+        10
+      ],
+      [
+        50,
+        7,
+        37,
+        6
+      ],
+      [
+        51,
+        8,
+        37,
+        3
+      ],
+      [
+        60,
+        6,
+        30,
+        5
+      ],
+      [
+        75,
+        13,
+        13,
+        0
+      ]
+    ],
+    "annotations": [],
+    "source": "Source: 2020 Women in the Workplace pipeline data for U.S./Canada"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Total % of women by level",
+      "description": "Comparison of % of women by level in industry and across all companies",
+      "headers": [
+        "",
+        "Entry level",
+        "Manager",
+        "Sr. Manager/Director",
+        "VP",
+        "SVP",
+        "C-Suite",
+        "Board"
+      ],
+      "rows": [
+        {
+          "row_label": "2019 EOY",
+          "cells": [
+            "47%",
+            "43%",
+            "46%",
+            "43%",
+            "40%",
+            "34%",
+            "13%"
+          ]
+        },
+        {
+          "row_label": "2018 EOY",
+          "cells": [
+            "49%",
+            "46%",
+            "38%",
+            "42%",
+            "27%",
+            "36%",
+            ""
+          ]
+        },
+        {
+          "row_label": "Total % of women by level across all companies",
+          "cells": [
+            "47%",
+            "38%",
+            "33%",
+            "29%",
+            "28%",
+            "21%",
+            "26%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "slide_id": "152",
+  "section": "Hospitality Partnership/Affinity",
+  "purpose": "Present the strategy and results of a hospitality company's loyalty program initiative.",
+  "narrative_role": "Informative and strategic overview",
+  "title": "Hospitality Partnership/Affinity",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of proprietary data and analysis to identify potential partnerships.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-section strategy overview",
+  "layout_type": "text with highlights",
+  "content_zones": {
+    "situation": {
+      "header": "Situation",
+      "description": "Hospitality company wanted to make loyalty program more compelling for its guests.",
+      "bullets": [
+        "Be more selective in choosing partners",
+        "Partner with merchants who would resonate with clientele"
+      ]
+    },
+    "approach": {
+      "header": "Approach",
+      "description": "Utilizing proprietary spending data and analytical solutions.",
+      "bullets": [
+        "Provided a view into how segments of hotel guests spend across other industries and merchant categories",
+        "Helped hotel identify prospective new partnerships and fuel conversations."
+      ]
+    },
+    "results": {
+      "header": "Results",
+      "description": "",
+      "bullets": [
+        {
+          "highlight": "Uncovered synergies and affinities",
+          "text": "identified in the analysis results"
+        },
+        {
+          "highlight": "Loyalty-program team at the hotel company is re-evaluating current partnerships and seeking new ones",
+          "text": ""
+        },
+        {
+          "highlight": "Cross-spend data is a valuable proof point for the mutual value of a relationship",
+          "text": ""
+        }
+      ]
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold and color for emphasis"
+  },
+  "design_language": "Professional with strategic emphasis",
+  "color_scheme": {
+    "primary": "#FF6600",
+    "accent": "#333333",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts, tables, or pyramids detected on this slide. The layout is primarily text-based with emphasis through color and font weight."
+  }
+}

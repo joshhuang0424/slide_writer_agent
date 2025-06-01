@@ -1,0 +1,117 @@
+{
+  "slide_id": "6",
+  "section": "NLM",
+  "purpose": "Explain the components of Net Lending Margin and the role of Revolvers.",
+  "narrative_role": "Informative",
+  "title": "\"Revolvers\" typically account for most of an Issuers Net Lending Margin",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Cardholders are typically classified into one of two categories based on how much they pay on their account monthly:"
+    },
+    {
+      "highlight": false,
+      "text": "1) Transactors – pay off balance in full at the end of each month and are not charged interest."
+    },
+    {
+      "highlight": false,
+      "text": "2) Revolvers – cardholders who typically incur finance charges at applicable APR(s)."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of cardholders and breakdown of financial charges.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic with textual explanation",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "top": "Title and cardholder classification",
+    "center": "Finance charge components",
+    "bottom": "Net Lending Margin equation"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "Finance Charges",
+      "position": "center-left"
+    },
+    {
+      "type": "text_box",
+      "label": "Transfer Pricing Income",
+      "position": "center"
+    },
+    {
+      "type": "text_box",
+      "label": "Interest Expense",
+      "position": "center-right"
+    },
+    {
+      "type": "text_box",
+      "label": "Bad Debt",
+      "position": "bottom-left"
+    },
+    {
+      "type": "text_box",
+      "label": "Recoveries",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for important terms"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Yellow",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Net Lending Margin"
+      },
+      {
+        "id": "L1",
+        "label": "Interest Income"
+      },
+      {
+        "id": "L2",
+        "label": "Net Credit Losses"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "Font details not specified in the image."
+  }
+}

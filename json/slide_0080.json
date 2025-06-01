@@ -1,0 +1,172 @@
+{
+  "slide_id": "6",
+  "section": "COVID-19 Impact",
+  "purpose": "To illustrate the perception of second lockdown's challenge compared to the first one across various income groups in different countries.",
+  "narrative_role": "Data visualization",
+  "title": "High income respondents feel slightly less challenged by second lockdown, especially in Italy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "visual",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Perception of second lockdown vs. first one",
+    "x_axis_label": "Countries",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "country": "EU",
+        "income_group": "High",
+        "values": [
+          3,
+          14,
+          -32,
+          -19
+        ]
+      },
+      {
+        "country": "EU",
+        "income_group": "Low",
+        "values": [
+          9,
+          12,
+          -26,
+          -17
+        ]
+      },
+      {
+        "country": "UK",
+        "income_group": "High",
+        "values": [
+          3,
+          13,
+          -37,
+          -20
+        ]
+      },
+      {
+        "country": "UK",
+        "income_group": "Low",
+        "values": [
+          5,
+          11,
+          -33,
+          -16
+        ]
+      },
+      {
+        "country": "Germany",
+        "income_group": "High",
+        "values": [
+          3,
+          15,
+          -30,
+          -17
+        ]
+      },
+      {
+        "country": "Germany",
+        "income_group": "Low",
+        "values": [
+          8,
+          12,
+          -26,
+          -15
+        ]
+      },
+      {
+        "country": "France",
+        "income_group": "High",
+        "values": [
+          7,
+          19,
+          -14,
+          -8
+        ]
+      },
+      {
+        "country": "France",
+        "income_group": "Low",
+        "values": [
+          13,
+          14,
+          -15,
+          -8
+        ]
+      },
+      {
+        "country": "Italy",
+        "income_group": "High",
+        "values": [
+          4,
+          9,
+          -35,
+          -24
+        ]
+      },
+      {
+        "country": "Italy",
+        "income_group": "Low",
+        "values": [
+          10,
+          10,
+          -30,
+          -27
+        ]
+      }
+    ],
+    "annotations": [
+      "+3",
+      "+1",
+      "+2",
+      "+7"
+    ],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_information": {
+    "_why_unknown": "No pyramid infographic present in the slide."
+  }
+}

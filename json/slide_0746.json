@@ -1,0 +1,99 @@
+{
+  "slide_id": "1",
+  "section": "Summary",
+  "purpose": "To summarize the current state and challenges in the semiconductor and automotive industries.",
+  "narrative_role": "Conclusion",
+  "title": "Summary",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive summary of trends and challenges.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column grid",
+  "layout_type": "grid",
+  "content_zones": {
+    "left_column": "icons with text boxes",
+    "right_column": "text boxes"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Graph with arrow",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "Bar chart",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "Car",
+      "position": "middle-left"
+    },
+    {
+      "type": "icon",
+      "label": "Gear with arrow",
+      "position": "middle-right"
+    },
+    {
+      "type": "icon",
+      "label": "Computer screen",
+      "position": "bottom-left"
+    },
+    {
+      "type": "icon",
+      "label": "Gears",
+      "position": "bottom-right"
+    },
+    {
+      "type": "icon",
+      "label": "Globe with arrows",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Icons emphasize key points"
+  },
+  "design_language": "Modern and clean with icons",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "green and blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or bullet list present; content is descriptive without numerical data."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title Slide",
+  "narrative_role": "Introduction",
+  "title": "Fundamentals of Fraud Management",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "Title Only",
+  "content_zones": {
+    "title_position": "center",
+    "logo_position": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Design Element",
+      "position": "center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Modern and Minimalistic",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "grey",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "normal"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is a title slide with minimal information, no tables, charts, or detailed text content."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "slide_id": "4",
+  "section": "Disruption Analysis",
+  "purpose": "Illustrate the tipping point of digital disruption in financial services and compare it to other industries.",
+  "narrative_role": "Informative",
+  "title": "Financial Services are likely approaching a tipping point that will shift share and impact revenue similar to other industries",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison with other industries and visualization of digital disruption impact.",
+  "data_points": [
+    "44% Average Share Shift",
+    "30% decline in core revenues",
+    "Profits increased (for winners)"
+  ],
+  "cta": null,
+  "layout": "dual-section",
+  "layout_type": "comparison and infographic",
+  "content_zones": {
+    "left": "Chart showing digital disruption tipping points",
+    "right": "Infographic of digital disruptors in financial services"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "30% decline in core revenues",
+      "position": "bottom-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Profits increased (for winners)",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "modern, corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "line chart",
+    "title": "Digital Disruption Tipping Points in Other Industries",
+    "x_axis_label": "Year of Disruption",
+    "y_axis": [
+      "Physical Market Share (% value)"
+    ],
+    "values": [
+      "Expedia",
+      "iTunes",
+      "Netflix"
+    ],
+    "annotations": [
+      {
+        "text": "Digital disruption accelerates over time",
+        "position": "mid-chart"
+      }
+    ],
+    "source": "Mastercard"
+  },
+  "infographic": {
+    "type": "network",
+    "levels": [],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "The infographic does not follow a pyramid structure."
+  }
+}

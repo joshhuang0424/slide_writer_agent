@@ -1,0 +1,129 @@
+{
+  "slide_id": "34",
+  "section": "BCG TSR方案介紹",
+  "purpose": "展示企業投資策略及回報政策",
+  "narrative_role": "解釋投資主體組合心理及策略",
+  "title": "把握企業投資主體組合心理，制定最優股東回報政策以及投資（IR）戰略",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "對比不同投資策略的特點和預期回報",
+  "data_points": [],
+  "cta": null,
+  "layout": "text and table",
+  "layout_type": "text-over-table",
+  "content_zones": {
+    "text": "top",
+    "table": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "投資主體以及股權投資範疇",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted text in yellow box"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#00B050",
+    "accent": "#FF0000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "投資策略比較",
+      "description": "展示不同類型投資者的特點與回報",
+      "headers": [
+        "基金經理目標",
+        "銷售增長預期",
+        "投資期",
+        "核心標準",
+        "市盈率效應測",
+        "目標收益率",
+        "以增長為目的的支出以及融資"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "共同目標：投資組合TSR高于平均基準水平",
+            "0%，與GDP增長率持平",
+            "如債券，根據標普波動性投資",
+            "市盈率，風險水平，收益率",
+            "市盈率低於10倍；股息支付超過標準",
+            "“收益高于債券”",
+            "內生增長+補強并購，通過資本融資"
+          ]
+        },
+        {
+          "cells": [
+            "2-5%內生增長，可接受補強并購",
+            "根據市盈率波動性投資",
+            "ROIC增加，市盈率",
+            "12倍，低于正常水平的市盈率支付12倍以上可能性不大",
+            "6-10%，債務測試，股票回購",
+            "內生增長+補強并購，通過資本融資"
+          ]
+        },
+        {
+          "cells": [
+            "高于GDP增長率（4-8%），內生增長+補強并購",
+            "5-10年",
+            "自由現金流增加",
+            "9-15倍",
+            "3-6%，回購和股息",
+            "內生增長+補強并購+臨近投資，通過現金流或股權融資"
+          ]
+        },
+        {
+          "cells": [
+            "內生增長率超過10%，加上并購",
+            "3-5年",
+            "市盈率低於10倍，股息支付超過標準",
+            "18-24倍，債務支付24倍以上",
+            "2-3%股息收益，0-2%股份回購",
+            "激進并購，累積增長平台+發行（rollup），可接受任何方式融資"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "pyramid levels are not clear from the visual"
+  }
+}

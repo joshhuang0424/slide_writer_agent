@@ -1,0 +1,136 @@
+{
+  "slide_id": "90",
+  "section": "TSR Strategy",
+  "purpose": "To explain the integration of TSR strategy into the overall value-based management framework.",
+  "narrative_role": "Informative",
+  "title": "TSR strategy needs to be integrated in overall value based management framework",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "Have we set the right TSR goals, and do we have a clear roadmap for achieving the same; are our plans linked to the fundamental drivers of the business"
+    },
+    {
+      "highlight": null,
+      "text": "Are we effectively balancing short and long term TSR goals with other key metrics (top line growth, EPS etc.)"
+    },
+    {
+      "highlight": null,
+      "text": "Are we consistently allocating enough capital to our highest impact business units & projects and withholding capital from low impact ones"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Logical alignment of business strategies with TSR goals.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two columns with infographic",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "left": "Bullets and text",
+    "right": "Infographic"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Use of colored bullets"
+  },
+  "design_language": "Professional with emphasis on integration",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Yellow",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Optimal TSR"
+      },
+      {
+        "id": "L1",
+        "label": "Business strategy"
+      },
+      {
+        "id": "L2",
+        "label": "Investor strategy"
+      },
+      {
+        "id": "L3",
+        "label": "Financial strategy"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "Metric design/selection usage",
+      "description": "Framework supporting the TSR strategy",
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Target setting",
+            "Planning/Budgeting",
+            "Resource allocation"
+          ]
+        },
+        {
+          "cells": [
+            "Incentives",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Systems reporting",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Training & capability building",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic does not contain typical chart elements like axes or continuous scales, so it is described in the infographic section."
+  }
+}

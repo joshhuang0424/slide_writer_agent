@@ -1,0 +1,94 @@
+{
+  "slide_id": "25",
+  "section": "Customer Performance Drivers",
+  "purpose": "Highlight the impact of cardholder performance drivers on issuer P&L.",
+  "narrative_role": "Informative",
+  "title": "Cardholder performance drivers are critical to the issuer P&L",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of performance drivers and their impact.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic with text and visual elements",
+  "layout_type": "pyramid",
+  "content_zones": {
+    "top": "Title and driver impact indicator",
+    "middle": "Pyramid infographic with labels",
+    "bottom": "Section navigation"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Net Lending Margin",
+      "position": "top-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Other Income",
+      "position": "top-center"
+    },
+    {
+      "type": "arrow",
+      "label": "Total Costs",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for key drivers"
+  },
+  "design_language": "Corporate with clear, bold headings and structured layout",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Credit Limit"
+      },
+      {
+        "id": "L1",
+        "label": "Purchase Active Rate\nSpend per Purchase Active\nCash per Purchase Active"
+      },
+      {
+        "id": "L2",
+        "label": "Attrition Rate – Voluntary\nAttrition Rate – Involuntary\nBalance Active Rate"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No data points, bullets, or tables are present in the slide."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "slide_id": "34",
+  "section": "Market Scan",
+  "purpose": "Comparative analysis of bank card features",
+  "narrative_role": "Informative",
+  "title": "Market Scan example",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "single_table",
+  "layout_type": "full",
+  "content_zones": {
+    "header": "top",
+    "table": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold and italic text for emphasis"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "navy blue",
+    "accent": "light pink",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Bank Card Comparison",
+      "description": "Comparison of features and offers for various bank cards",
+      "headers": [
+        "Summary",
+        "Citi Cashback",
+        "DBS Cashback",
+        "SCB cashback",
+        "HSBC Cashback",
+        "Fubon J card",
+        "Esun Ubear"
+      ],
+      "rows": [
+        {
+          "row_label": "Tagline",
+          "cells": [
+            "喜歡的就給你多一點",
+            "不只生活 更要炫活",
+            "豐富體驗 多重回饋",
+            "-",
+            "旅日神卡",
+            "享受美好 鍾愛你"
+          ]
+        },
+        {
+          "row_label": "Card faces",
+          "cells": [
+            "image",
+            "image",
+            "image",
+            "image",
+            "image",
+            "image"
+          ]
+        },
+        {
+          "row_label": "Welcome offer",
+          "cells": [
+            "Extra 1% cashback or suitcase",
+            "300 NTD",
+            "8.88% cashback up to 500 NT or suitcase",
+            "100 NTD for electronic bill",
+            "1,500 Suica card",
+            "NA"
+          ]
+        },
+        {
+          "row_label": "Annual fee(NT)",
+          "cells": [
+            "2,400",
+            "3,000",
+            "-",
+            "2,000",
+            "1,800",
+            "3,000"
+          ]
+        },
+        {
+          "row_label": "Annual income",
+          "cells": [
+            "250K",
+            "220K",
+            "360K",
+            "300K",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "Annual fees waivers",
+          "cells": [
+            "1st yr waiver ; 2nd yr requires 12txn or NTD 60K per year",
+            "1st yr waiver ; 2nd yr requires 12txn or NTD 30K per year",
+            "-",
+            "1st yr waiver",
+            "1st yr waiver ; 2nd yr requires 12txn",
+            "1st yr waiver ; 2nd yr requires any txn"
+          ]
+        },
+        {
+          "row_label": "TBR relationship",
+          "cells": [
+            "Extra 1% cashback for digital acct",
+            "-",
+            "-",
+            "-",
+            "-",
+            "+3% on conven. store for Esun Wallet linked"
+          ]
+        },
+        {
+          "row_label": "Referral program",
+          "cells": [
+            "Received NT 600~1,000 and iPod for referral",
+            "-",
+            "Receive NT 600 for referral",
+            "Receive 100 NT for referrer and referee",
+            "Referral for 10 ppl will received iPod"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font details are not specified on the slide.",
+    "header_note": "Internal use only",
+    "highlight_note": "Best in the class highlighted in light pink"
+  }
+}

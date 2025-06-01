@@ -1,0 +1,70 @@
+{
+  "slide_id": "10",
+  "section": "Financial Impact",
+  "purpose": "To explain the concept of Social Return on Investment (SROI) and its benefits.",
+  "narrative_role": "Introduction",
+  "title": "Social return on investment (SROI)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explain the importance of measuring financial impact through SROI.",
+  "data_points": [],
+  "cta": "How many dollars worth of benefit for society are created by my 1-dollar investment?",
+  "layout": "text and image side by side",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Text content explaining SROI",
+    "right": "Image of a tree made of money being watered"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Tree made of money being watered",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for 'Social return on investment (SROI)'"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points, tables, or charts present in the slide."
+  }
+}

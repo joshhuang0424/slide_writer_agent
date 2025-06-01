@@ -1,0 +1,75 @@
+{
+  "slide_id": "11",
+  "section": "unknown",
+  "purpose": "Highlight employee beliefs about company responsibilities",
+  "narrative_role": "Data presentation",
+  "title": "Employees believe companies have a responsibility to their people and society",
+  "bullets": [
+    {
+      "highlight": "39%",
+      "text": "of global survey respondents have turned down or decided not to pursue a job opportunity because of a perceived lack of inclusion"
+    },
+    {
+      "highlight": "78%",
+      "text": "of Millennials believe their companies have a responsibility to better the world"
+    },
+    {
+      "highlight": "52%",
+      "text": "of respondents of color will not work for a company that fails to speak out on addressing racial inequality"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Present survey results about employee perspectives",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and image",
+  "content_zones": {
+    "left": "Image of a person",
+    "right": "Text with statistics and insights"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentages are emphasized"
+  },
+  "design_language": "Professional and modern",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "The document does not specify font details or section name."
+}

@@ -1,0 +1,155 @@
+{
+  "slide_id": "18",
+  "section": "Market Forecast",
+  "purpose": "To present the projected market forecast for vehicles up to 2030, with a global perspective.",
+  "narrative_role": "informative",
+  "title": "BCG market forecast to 2030 (global view)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "projection analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "chart-centric",
+  "layout_type": "single chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Volume (M)",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Volume (M)"
+    ],
+    "values": [
+      {
+        "2015": "87"
+      },
+      {
+        "2016": "90"
+      },
+      {
+        "2017": "91"
+      },
+      {
+        "2018": "93"
+      },
+      {
+        "2019": "96"
+      },
+      {
+        "2020": "98"
+      },
+      {
+        "2021": "100"
+      },
+      {
+        "2022": "102"
+      },
+      {
+        "2023": "104"
+      },
+      {
+        "2024": "104"
+      },
+      {
+        "2025": "105"
+      },
+      {
+        "2026": "105"
+      },
+      {
+        "2027": "106"
+      },
+      {
+        "2028": "107"
+      },
+      {
+        "2029": "108"
+      },
+      {
+        "2030": "109"
+      }
+    ],
+    "annotations": [
+      {
+        "year": "2018",
+        "note": "-19%"
+      },
+      {
+        "year": "2020",
+        "note": "-14%"
+      },
+      {
+        "year": "2021",
+        "note": "-76%"
+      },
+      {
+        "year": "2023",
+        "note": "4%"
+      },
+      {
+        "year": "2025",
+        "note": "6%"
+      },
+      {
+        "year": "2026",
+        "note": "7%"
+      },
+      {
+        "year": "2027",
+        "note": "8%"
+      },
+      {
+        "year": "2028",
+        "note": "10%"
+      },
+      {
+        "year": "2029",
+        "note": "12%"
+      },
+      {
+        "year": "2030",
+        "note": "14%"
+      }
+    ],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

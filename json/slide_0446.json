@@ -1,0 +1,73 @@
+{
+  "slide_id": "final_slide",
+  "section": "conclusion",
+  "purpose": "To invite questions and express gratitude",
+  "narrative_role": "closure",
+  "title": "Questions?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Direct engagement",
+  "data_points": [],
+  "cta": null,
+  "layout": "single",
+  "layout_type": "question_invitation",
+  "content_zones": {
+    "left": {
+      "text": "Questions?\nThank you for your time."
+    },
+    "bottom_left": {
+      "logo": "mastercard"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "modern, minimal",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "black",
+    "background": "light_gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Slide contains minimal text and no data visuals or tables. Focus is on question invitation and branding."
+  }
+}

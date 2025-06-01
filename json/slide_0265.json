@@ -1,0 +1,134 @@
+{
+  "slide_id": "96",
+  "section": "Incentive Schemes",
+  "purpose": "To explain how iTSR based incentive schemes close the gap in landscape.",
+  "narrative_role": "Informative",
+  "title": "iTSR based incentive schemes close gap in landscape",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Pay for performance can be realized with different compensation strategies"
+    },
+    {
+      "highlight": false,
+      "text": "Equity schemes that reward high shareholder return with equity participation (stock awards)"
+    },
+    {
+      "highlight": false,
+      "text": "Internal models that link internal company (or BU/individual) performance to a cash payout or hybrid models e.g. based on iTSR with a clever combination of measures"
+    },
+    {
+      "highlight": false,
+      "text": "However best practice compensation schemes have one thing in common - they are performance based"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text and matrix",
+  "content_zones": {
+    "left": "bullets",
+    "right": "matrix"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Hierarchical Level",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Time horizon",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Incentive Schemes Matrix",
+      "description": "Matrix showing incentive schemes based on hierarchical level and time horizon",
+      "headers": [
+        "",
+        "Cash based",
+        "Cash & equity",
+        "Equity based"
+      ],
+      "rows": [
+        {
+          "row_label": "Group level",
+          "cells": [
+            "Group level",
+            "",
+            "",
+            "Equity schemes"
+          ]
+        },
+        {
+          "row_label": "Divisional level",
+          "cells": [
+            "Divisional level",
+            "",
+            "iTSR schemes",
+            ""
+          ]
+        },
+        {
+          "row_label": "Business unit level",
+          "cells": [
+            "Business unit level",
+            "Internal bonus schemes",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific chart type or pyramid levels were identified beyond the matrix structure."
+  }
+}

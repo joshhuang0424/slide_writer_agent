@@ -1,0 +1,136 @@
+{
+  "slide_id": "93",
+  "section": "TSR Strategy",
+  "purpose": "Illustrate the integration of TSR strategy into a value-based management framework",
+  "narrative_role": "Explanation",
+  "title": "TSR strategy needs to be integrated in overall value based management framework",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Do our incentives clearly align with other key management practices and TSR"
+    },
+    {
+      "highlight": false,
+      "text": "Do they reinforce focus on value creation drivers and corresponding business behavior"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and diagram",
+  "layout_type": "Visual explanation",
+  "content_zones": {
+    "title": "top",
+    "diagram": "center",
+    "bullets": "left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Optimal TSR",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "Business strategy",
+      "position": "top"
+    },
+    {
+      "type": "circle",
+      "label": "Investor strategy",
+      "position": "bottom left"
+    },
+    {
+      "type": "circle",
+      "label": "Financial strategy",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Management processes"
+      },
+      {
+        "id": "L1",
+        "label": "Enablers"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Metric design/selection usage",
+      "description": "Illustrates the processes and enablers for TSR management",
+      "headers": [],
+      "rows": [
+        {
+          "cells": [
+            "Target setting",
+            "Planning/Budgeting",
+            "Resource allocation"
+          ]
+        },
+        {
+          "cells": [
+            "Incentives"
+          ]
+        },
+        {
+          "cells": [
+            "Systems reporting"
+          ]
+        },
+        {
+          "cells": [
+            "Training & capability building"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "flowchart"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The chart section is empty as no typical chart elements are present. The infographic section was used for the pyramid-like structure."
+  }
+}

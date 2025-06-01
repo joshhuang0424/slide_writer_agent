@@ -1,0 +1,182 @@
+{
+  "slide_id": "8",
+  "section": "Survey Results",
+  "purpose": "To compare the perceptions and mobility behavior disruptions of the second lockdown versus the first in the EU.",
+  "narrative_role": "Analytical Comparison",
+  "title": "Overall, the 2nd lockdown in the EU is perceived as less challenging and disruptive, French respondents feel most affected",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of survey results",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Perception of lockdown 2 vs. 1",
+    "right": "Mobility behavior disruption of lockdown 2 vs. 1"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key findings"
+  },
+  "design_language": "Corporate, data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Perception of lockdown 2 vs. 1",
+      "description": "Percent of respondents",
+      "headers": [
+        "Significantly more challenging",
+        "Slightly more challenging",
+        "Slightly less challenging",
+        "Significantly less challenging"
+      ],
+      "rows": [
+        {
+          "row_label": "EU",
+          "cells": [
+            "9",
+            "12",
+            "-27",
+            "-17"
+          ]
+        },
+        {
+          "row_label": "UK",
+          "cells": [
+            "5",
+            "12",
+            "-34",
+            "-17"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "8",
+            "12",
+            "-27",
+            "-15"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "13",
+            "15",
+            "-15",
+            "-8"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "9",
+            "10",
+            "-30",
+            "-27"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "stacked bar"
+    },
+    {
+      "title": "Mobility behavior disruption of lockdown 2 vs. 1",
+      "description": "Percent of respondents",
+      "headers": [
+        "Significantly more disruptive",
+        "Slightly more disruptive",
+        "Slightly less disruptive",
+        "Much less disruptive"
+      ],
+      "rows": [
+        {
+          "row_label": "EU",
+          "cells": [
+            "6",
+            "10",
+            "-19",
+            "-8"
+          ]
+        },
+        {
+          "row_label": "UK",
+          "cells": [
+            "3",
+            "8",
+            "-21",
+            "-7"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "3",
+            "6",
+            "-16",
+            "-4"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "9",
+            "15",
+            "-18",
+            "-6"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "8",
+            "12",
+            "-23",
+            "-14"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "stacked bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific bullets or additional textual data points provided."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "slide_id": "17",
+  "section": "Fraud Management",
+  "purpose": "To present an overview of fraud management metrics.",
+  "narrative_role": "Informative",
+  "title": "Overview of Fraud Management Metrics",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Definition of key fraud management metrics to emphasize their importance.",
+  "data_points": [],
+  "cta": "It is important to not only focus on these metrics. The key to a successful Fraud Operating Model is balancing fraud risk and the customer experience.",
+  "layout": "Title with table and callout",
+  "layout_type": "table_with_callout",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "callout": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title and callout"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Fraud Management Metrics",
+      "description": "Defines various metrics used in fraud management.",
+      "headers": [
+        "Metrics",
+        "Definition"
+      ],
+      "rows": [
+        {
+          "row_label": "TDR",
+          "cells": [
+            "TDR",
+            "Number of detected fraudulent transactions during the fraud cycle, divided by the total number of fraudulent transactions"
+          ]
+        },
+        {
+          "row_label": "ADR",
+          "cells": [
+            "ADR",
+            "Number of fraudulent accounts with at least one detected transaction occurring during the fraud cycle, divided by the total number of fraudulent accounts"
+          ]
+        },
+        {
+          "row_label": "VDR",
+          "cells": [
+            "VDR",
+            "Amount of detected fraudulent transactions, divided by the total amount of fraudulent transactions"
+          ]
+        },
+        {
+          "row_label": "TFPR",
+          "cells": [
+            "TFPR",
+            "Ratio of genuine transactions to fraudulent transactions by threshold"
+          ]
+        },
+        {
+          "row_label": "AFPR",
+          "cells": [
+            "AFPR",
+            "Ratio of genuine accounts to fraudulent accounts by threshold"
+          ]
+        },
+        {
+          "row_label": "VFPR",
+          "cells": [
+            "VFPR",
+            "Ratio of genuine dollars to fraud dollars by threshold"
+          ]
+        },
+        {
+          "row_label": "ARR",
+          "cells": [
+            "ARR",
+            "Average daily percentage of all accounts that are alerted at a given threshold"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": [
+    "No charts or infographics present in the slide."
+  ]
+}

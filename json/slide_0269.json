@@ -1,0 +1,63 @@
+{
+  "slide_id": "100",
+  "section": "Disclaimer",
+  "purpose": "Inform the audience about the terms and conditions of the document usage.",
+  "narrative_role": "Cautionary",
+  "title": "Disclaimer",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Caution the reader about the limitations and confidentiality requirements.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and text",
+  "layout_type": "Simple",
+  "content_zones": {
+    "title": "left",
+    "text": "center-right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional with emphasis on simplicity",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid or infographic present on the slide."
+  }
+}

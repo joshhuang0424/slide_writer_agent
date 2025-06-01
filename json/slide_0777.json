@@ -1,0 +1,218 @@
+{
+  "slide_id": "18",
+  "section": "Sustainability",
+  "purpose": "Compare CO2e and energy intensity across different players in Europe.",
+  "narrative_role": "Data presentation",
+  "title": "Dimension 2: CO2e and energy intensity (1/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of numerical scores representing CO2e and energy intensity metrics.",
+  "data_points": [
+    "CO2e emissions total / IP data traffic",
+    "CO2e emissions total / revenue",
+    "CO2e emissions total / # customers",
+    "Energy use total / IP data traffic",
+    "Energy use total / revenue",
+    "Energy use total / # customers",
+    "Renewable energy use ratio"
+  ],
+  "cta": null,
+  "layout": "Scorecard",
+  "layout_type": "Table",
+  "content_zones": {
+    "header": "Top",
+    "table": "Center",
+    "footer": "Bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "25%",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numerical scores are highlighted with colors."
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Yellow",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Dimension score",
+      "description": "Scores for each metric across different players.",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 1 Europe",
+        "Player 2 Europe & other",
+        "Player 3 Europe & other",
+        "Player 4 Europe",
+        "Player 5 Europe",
+        "Player 6 Europe",
+        "Player 7 Europe",
+        "Player 8 Europe",
+        "Player 9 Europe",
+        "Player 10 Europe"
+      ],
+      "rows": [
+        {
+          "row_label": "CO2e emissions total / IP data traffic",
+          "cells": [
+            "N",
+            "20%",
+            "95",
+            "75",
+            "86",
+            "89",
+            "70",
+            "90",
+            "86",
+            "67",
+            "61",
+            "92"
+          ]
+        },
+        {
+          "row_label": "CO2e emissions total / revenue",
+          "cells": [
+            "N",
+            "20%",
+            "99",
+            "86",
+            "94",
+            "100",
+            "84",
+            "97",
+            "96",
+            "91",
+            "78",
+            "100"
+          ]
+        },
+        {
+          "row_label": "CO2e emissions total / # customers",
+          "cells": [
+            "N",
+            "20%",
+            "98",
+            "58",
+            "76",
+            "100",
+            "65",
+            "93",
+            "86",
+            "56",
+            "42",
+            "98"
+          ]
+        },
+        {
+          "row_label": "Energy use total / IP data traffic",
+          "cells": [
+            "N",
+            "7%",
+            "98",
+            "92",
+            "95",
+            "100",
+            "83",
+            "96",
+            "90",
+            "90",
+            "86",
+            "99"
+          ]
+        },
+        {
+          "row_label": "Energy use total / revenue",
+          "cells": [
+            "N",
+            "7%",
+            "100",
+            "85",
+            "89",
+            "69",
+            "69",
+            "95",
+            "98",
+            "100",
+            "68",
+            "100"
+          ]
+        },
+        {
+          "row_label": "Energy use total / # customers",
+          "cells": [
+            "N",
+            "7%",
+            "100",
+            "70",
+            "53",
+            "67",
+            "69",
+            "89",
+            "76",
+            "66",
+            "55",
+            "59"
+          ]
+        },
+        {
+          "row_label": "Renewable energy use ratio",
+          "cells": [
+            "N",
+            "20%",
+            "71",
+            "95",
+            "89",
+            "56",
+            "58",
+            "70",
+            "34",
+            "90",
+            "83",
+            "48"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Colored cells with highlights"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "The specific font family is not provided in the image.",
+    "source": "BCG Sustainability in Telco Index 2020, N=21"
+  }
+}

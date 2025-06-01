@@ -1,0 +1,184 @@
+{
+  "slide_id": "7a",
+  "section": "workplace diversity",
+  "purpose": "Show representation by role and race",
+  "narrative_role": "Data Presentation",
+  "title": "A double broken rung with lower odds of advancement and higher attrition for frontline & entry-level jobs",
+  "bullets": [
+    {
+      "highlight": "Frontline representation is higher than 12%; entry-level is at 12% parity",
+      "text": "Frontline representation for Black employees is higher than 12%; entry-level is at 12% parity"
+    },
+    {
+      "highlight": "Management level representation range from 4-7% for Black employees",
+      "text": "Management level representation range from 4-7% for Black employees"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis by role and race",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Data chart and annotations",
+    "right": "Text highlights"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key representation statistics"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Representation by role, by race",
+    "x_axis_label": "Role",
+    "y_axis": [
+      "% of employees"
+    ],
+    "values": [],
+    "annotations": [
+      "Average Black representation in the private sector = 12%"
+    ],
+    "source": "Race in the Workplace 2021 Participating Company data set, McKinsey analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Representation by role, by race",
+      "description": "Percentage of employees by race and role",
+      "headers": [
+        "Role",
+        "Hispanic/Latino",
+        "Asian",
+        "Other employees of color",
+        "White",
+        "Black"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Frontline (hourly)",
+            "18",
+            "6",
+            "5",
+            "52",
+            "19"
+          ]
+        },
+        {
+          "cells": [
+            "Frontline (salary)",
+            "14",
+            "9",
+            "4",
+            "60",
+            "13"
+          ]
+        },
+        {
+          "cells": [
+            "Entry level",
+            "11",
+            "13",
+            "5",
+            "59",
+            "12"
+          ]
+        },
+        {
+          "cells": [
+            "Manager",
+            "8",
+            "15",
+            "4",
+            "66",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Senior manager",
+            "6",
+            "13",
+            "4",
+            "72",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "VP",
+            "5",
+            "10",
+            "3",
+            "76",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "SVP",
+            "6",
+            "9",
+            "3",
+            "77",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Executive",
+            "6",
+            "9",
+            "3",
+            "76",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Board of directors",
+            "6",
+            "7",
+            "3",
+            "73",
+            "11"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "stacked bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional data points or infographic levels were provided in the image."
+  }
+}

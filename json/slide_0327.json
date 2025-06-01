@@ -1,0 +1,122 @@
+{
+  "slide_id": "28",
+  "section": "Case Study",
+  "purpose": "Identify most likely cardholders to receive upgrade offers",
+  "narrative_role": "Supporting evidence for client solutions",
+  "title": "Case Study: Identify most likely cardholders to receive upgrade offers",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Background: Large issuer in Brazil has 3 tiers of credit products: Standard, Gold, Platinum and Black"
+    },
+    {
+      "highlight": "",
+      "text": "Client Problem Statement: Client asked Mastercard to develop multiple upgrade models that predict which card should be offered to existent clients to keep or increase their usage behavior"
+    },
+    {
+      "highlight": "",
+      "text": "Executed Solutions: 1. Analyze the overall portfolio and create usage profiles by product"
+    },
+    {
+      "highlight": "5 look-a-like models",
+      "text": "2. Develop 5 look-a-like models that identify behavior patterns of similarity using banks own data as well as market’s behavior for development purposes"
+    },
+    {
+      "highlight": "periodic upgrade campaigns",
+      "text": "3. Based on the model scores provide recommendations for periodic upgrade campaigns"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two columns with a chart on the right",
+  "layout_type": "text and chart",
+  "content_zones": {
+    "left": "Textual information and bullet points",
+    "right": "Chart depicting customer base overview"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key phrases in orange"
+  },
+  "design_language": "Professional with emphasis on key points",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Standard and Gold portfolios customer base overview",
+    "x_axis_label": "Customer segments",
+    "y_axis": [
+      "Very high",
+      "High",
+      "Medium",
+      "Low",
+      "Very low"
+    ],
+    "values": [
+      {
+        "label": "Gold + Inter",
+        "percentages": [
+          9,
+          26,
+          20,
+          24,
+          21
+        ]
+      },
+      {
+        "label": "w/ Gold",
+        "percentages": [
+          11,
+          28,
+          20,
+          22,
+          18
+        ]
+      },
+      {
+        "label": "Inter only",
+        "percentages": [
+          20,
+          27,
+          29,
+          20,
+          4
+        ]
+      }
+    ],
+    "annotations": [
+      "35%",
+      "40%",
+      "24%"
+    ],
+    "source": "MasterCard Advisors"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional infographic or table structures present"
+  }
+}

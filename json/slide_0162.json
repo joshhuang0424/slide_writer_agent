@@ -1,0 +1,103 @@
+{
+  "slide_id": "7",
+  "section": "Impact of Manager Actions",
+  "purpose": "To highlight the benefits of manager actions on employee wellbeing and the lack of recognition for these efforts.",
+  "narrative_role": "Informative",
+  "title": "And while this mission critical work benefits all employees...",
+  "bullets": [],
+  "supporting_facts": [
+    "When managers take action to support employee wellbeing, employees are happier, less burned out, and less likely to consider leaving."
+  ],
+  "reasoning_strategy": "Contrast between benefits and lack of recognition.",
+  "data_points": [
+    "27% more likely to be happy in their job",
+    "28% less likely to be burned out",
+    "32% less likely to consider leaving their company",
+    "87% of companies say the work to support wellbeing is critical",
+    "70% of companies say the work to champion DEI is critical",
+    "1 in 4 companies formally recognize this work"
+  ],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Benefits of manager actions",
+    "right": "Lack of recognition"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "27%",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "28%",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "32%",
+      "position": "left"
+    },
+    {
+      "type": "text_highlight",
+      "label": "87%",
+      "position": "right"
+    },
+    {
+      "type": "text_highlight",
+      "label": "70%",
+      "position": "right"
+    },
+    {
+      "type": "text_highlight",
+      "label": "1 in 4",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentages and critical points."
+  },
+  "design_language": "professional, contrasting",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white and dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "none",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The specific fonts used in the slide are not identifiable from the image."
+  }
+}

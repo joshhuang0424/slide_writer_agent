@@ -1,0 +1,88 @@
+{
+  "slide_id": "42",
+  "section": "Case Example",
+  "purpose": "Illustrate the empirical point of view on key drivers in relative valuation.",
+  "narrative_role": "Explain the variance in valuation using statistical comparison and factor analysis.",
+  "title": "Relative valuation: We will develop an empirical point of view on key drivers",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Statistical and factor analysis",
+  "data_points": [
+    "Adjusted R² = 88%",
+    "F stat 142"
+  ],
+  "cta": null,
+  "layout": "chart and bar chart side by side",
+  "layout_type": "dual-chart",
+  "content_zones": {
+    "left_chart": "scatter plot",
+    "right_chart": "stacked bar chart"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Data points highlighted in text"
+  },
+  "design_language": "Professional with emphasis on data visualization",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "teal",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "scatter",
+    "title": "Predicted versus actual multiples",
+    "x_axis_label": "Predicted multiple",
+    "y_axis": [
+      "Actual multiple"
+    ],
+    "values": [],
+    "annotations": [
+      "Adjusted R² = 88%",
+      "F stat 142"
+    ],
+    "source": "unknown"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "right_chart": {
+      "type": "stacked bar",
+      "title": "88% of the variance in valuation explained by 7 factors",
+      "x_axis_label": "Contribution to differences in valuation among peers 2001-2012",
+      "y_axis": [
+        "% of variance explained"
+      ],
+      "layers": [
+        "Other",
+        "Size",
+        "Proj. EPS growth",
+        "Debt",
+        "Annuity liabilities",
+        "Credit rating",
+        "Dividends",
+        "ROTE > CoE²"
+      ]
+    }
+  }
+}

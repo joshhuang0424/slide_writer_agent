@@ -1,0 +1,137 @@
+{
+  "slide_id": "33",
+  "section": "會員分群與溝通",
+  "purpose": "展示會員分群的溝通順序與時程",
+  "narrative_role": "informative",
+  "title": "會員分群與溝通 | TM 額外溝通順序與時程",
+  "bullets": [
+    {
+      "highlight": "二月",
+      "text": "賣場尚未開放轉卡，需導引至線上/分行辦卡，因此優先溝通近三個月有EC消費的會員（線上辦卡的機率高）"
+    },
+    {
+      "highlight": "三至四月",
+      "text": "賣場轉卡開始後，優先溝通消費貢獻度高的高價值會員，以避免營收流失"
+    },
+    {
+      "highlight": "四至六月",
+      "text": "線上及加油站消費暫僅接受聯名卡，客戶體驗斷點大，因此將鎖定近一年EC會員及加油站會員進行溝通"
+    },
+    {
+      "highlight": "七月後",
+      "text": "溝通消費貢獻度高的黑鑽會員"
+    },
+    {
+      "highlight": "TM外",
+      "text": "會員也會透過其他管道獲得相關訊息並轉卡，若既有名單的會員於TM溝通前即完成轉卡，將討論新增其他溝通名單"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "依據會員消費行為和時程進行分群溝通",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "timeline and bullet points",
+  "content_zones": {
+    "timeline": "top",
+    "bullets": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "highlight important months and actions"
+  },
+  "design_language": "professional and informative",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "溝通名單順序",
+      "description": "不同類型會員的溝通時程與人數",
+      "headers": [
+        "溝通名單順序",
+        "時程",
+        "人數"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "近三個月EC會員（近三個月有EC消費）",
+            "2月",
+            "~27萬"
+          ]
+        },
+        {
+          "cells": [
+            "高價值會員（消費前20萬）",
+            "3月",
+            "~15萬"
+          ]
+        },
+        {
+          "cells": [
+            "近一年EC會員（近一年有EC消費，近三個月無EC消費）",
+            "4月",
+            "~34萬"
+          ]
+        },
+        {
+          "cells": [
+            "加油站會員（近一年有加油站消費）",
+            "4月",
+            "~18萬"
+          ]
+        },
+        {
+          "cells": [
+            "黑鑽會員",
+            "7月",
+            "~31萬"
+          ]
+        },
+        {
+          "cells": [
+            "TM溝通名單總人數",
+            "",
+            "~124萬"
+          ]
+        }
+      ],
+      "position": "top",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or infographic detected; tables are used to represent data."
+  }
+}

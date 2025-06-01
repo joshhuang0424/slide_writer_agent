@@ -1,0 +1,128 @@
+{
+  "slide_id": "2",
+  "section": "Reward Economics",
+  "purpose": "Overview of loyalty campaigns and consulting initiatives",
+  "narrative_role": "Introduction",
+  "title": "Loyalty Campaigns and Consulting PAG",
+  "bullets": [
+    {
+      "highlight": "Objective",
+      "text": "To conduct loyalty trainings and workshops across the globe"
+    },
+    {
+      "highlight": "Meet the team",
+      "text": "Led by Prashant Mantri, Content creation by Prerna, Arihant, Anjali, Soumyadip, PMO and Degreed by Navya, Munish, Madhulagna, Vansh"
+    },
+    {
+      "highlight": "Activities completed",
+      "text": "Training of Loyalty 101 across all geographies"
+    },
+    {
+      "highlight": "Trainings planned",
+      "text": "Reward Economics, Loyalty Analytics, Loyalty Optimizer"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic",
+  "layout_type": "infographic and text",
+  "content_zones": {
+    "left": "Infographic with training and development sections",
+    "right": "Key objectives and team details"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Training and development",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "Group Engagement",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "Knowledge Management",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "Partnering with others",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "Project Financials and knowledge tracking",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of highlight and icons for section headers"
+  },
+  "design_language": "Professional with emphasis on orange highlights",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Black",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Training and development"
+      },
+      {
+        "id": "L1",
+        "label": "Group Engagement"
+      },
+      {
+        "id": "L2",
+        "label": "Knowledge Management"
+      },
+      {
+        "id": "L3",
+        "label": "Partnering with others"
+      },
+      {
+        "id": "L4",
+        "label": "Project Financials and knowledge tracking"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font details not specified in the image."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "slide_id": "12",
+  "section": "Consumer Behavior",
+  "purpose": "To illustrate changes in consumer preferences for car characteristics due to the second lockdown.",
+  "narrative_role": "evidence",
+  "title": "Since second lockdown, EU respondents show signs of delaying purchase and reduced spending / higher discount expectation",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 6 (nov 6-10)"
+  ],
+  "reasoning_strategy": "comparative",
+  "data_points": [
+    "Pull forward purchase: 14",
+    "Delay purchase: -16",
+    "Requiring higher discounts: 14",
+    "Requiring less discounts: -16",
+    "Spend more: 5",
+    "Spend less: -12",
+    "Buy: 5",
+    "Finance/lease: 5",
+    "Electric vehicle: -5",
+    "Vehicle with ICE: -5",
+    "Bigger car: -9",
+    "Smaller car: -9",
+    "Premium brand: -7",
+    "Budget/volume brand: -7",
+    "More ADAS features: -6",
+    "Less ADAS features: -6"
+  ],
+  "cta": null,
+  "layout": "bar_chart",
+  "layout_type": "visual",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "EU",
+      "position": "top_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for key terms"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FFFFFF",
+    "background": "#F7F7F7"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Expected change in car characteristics",
+    "x_axis_label": "Car Characteristics",
+    "y_axis": [
+      "Net Score"
+    ],
+    "values": [
+      {
+        "label": "Pull forward purchase",
+        "value": 14
+      },
+      {
+        "label": "Delay purchase",
+        "value": -16
+      },
+      {
+        "label": "Requiring higher discounts",
+        "value": 14
+      },
+      {
+        "label": "Requiring less discounts",
+        "value": -16
+      },
+      {
+        "label": "Spend more",
+        "value": 5
+      },
+      {
+        "label": "Spend less",
+        "value": -12
+      },
+      {
+        "label": "Buy",
+        "value": 5
+      },
+      {
+        "label": "Finance/lease",
+        "value": 5
+      },
+      {
+        "label": "Electric vehicle",
+        "value": -5
+      },
+      {
+        "label": "Vehicle with ICE",
+        "value": -5
+      },
+      {
+        "label": "Bigger car",
+        "value": -9
+      },
+      {
+        "label": "Smaller car",
+        "value": -9
+      },
+      {
+        "label": "Premium brand",
+        "value": -7
+      },
+      {
+        "label": "Budget/volume brand",
+        "value": -7
+      },
+      {
+        "label": "More ADAS features",
+        "value": -6
+      },
+      {
+        "label": "Less ADAS features",
+        "value": -6
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points present; pyramid infographic not applicable."
+  }
+}

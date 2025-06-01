@@ -1,0 +1,127 @@
+{
+  "slide_id": "3",
+  "section": "Forces influencing the development of Skyports",
+  "purpose": "To describe the forces shaping the air transport industry",
+  "narrative_role": "Informative",
+  "title": "Forces influencing the development of Skyports",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "New technologies: Robotics"
+    },
+    {
+      "highlight": "",
+      "text": "Autonomous vehicles on the airside and landside"
+    },
+    {
+      "highlight": "",
+      "text": "Advanced Analytics using unprecedented levels of data"
+    },
+    {
+      "highlight": "",
+      "text": "Unprecedented levels of data on airplanes and customers"
+    },
+    {
+      "highlight": "",
+      "text": "Accessed more easily through data lakes"
+    },
+    {
+      "highlight": "",
+      "text": "40x increase in processing power between 2010-2016"
+    },
+    {
+      "highlight": "",
+      "text": "Solve large-scale traffic management problems in near real-time"
+    },
+    {
+      "highlight": "",
+      "text": "Digitizing paper based processes"
+    },
+    {
+      "highlight": "",
+      "text": "Digitizing maintenance processes, airway bills, etc."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Venn diagram with icons",
+    "right": "Bullet points with icons"
+  },
+  "visual_elements": [
+    {
+      "type": "venn_diagram",
+      "label": "New business models",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Robotics",
+      "position": "top left"
+    },
+    {
+      "type": "icon",
+      "label": "Analytics",
+      "position": "top right"
+    },
+    {
+      "type": "icon",
+      "label": "Processes",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "New business models"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts present in the slide. Infographic is a Venn diagram, not a pyramid."
+  }
+}

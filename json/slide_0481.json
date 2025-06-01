@@ -1,0 +1,114 @@
+{
+  "slide_id": "6",
+  "section": "Digital Transformation",
+  "purpose": "To illustrate how banks can compete with digital giants by evolving into platform providers.",
+  "narrative_role": "Informative",
+  "title": "To compete with Digital Giants, banks are evolving into platform providers; in this process, banks must decide how close to the core business they want to remain",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Digital Giants have leveraged the scale of their platforms to enter the payments space and capture market share"
+    },
+    {
+      "highlight": false,
+      "text": "While banks have invested heavily in digital offerings, they must offer compelling digital platforms to mitigate attrition"
+    },
+    {
+      "highlight": false,
+      "text": "There are two ways that banks can offer digital platforms"
+    },
+    {
+      "highlight": true,
+      "text": "Leverage existing platforms"
+    },
+    {
+      "highlight": true,
+      "text": "Build new platforms"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "Digital Platform, Leverage Existing Platforms",
+    "right": "Standard Bank, Build New Platforms"
+  },
+  "visual_elements": [
+    {
+      "type": "arrows",
+      "label": "DIGITAL GIANTS <-> TRADITIONAL BANKS",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Digital Platform",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Standard Bank",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Modern, corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "1. Leverage Existing Platforms"
+      },
+      {
+        "id": "L1",
+        "label": "A. Partnerships with Merchants"
+      },
+      {
+        "id": "L2",
+        "label": "B. Partnerships with Fintechs"
+      }
+    ],
+    "position": "bottom"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or tables detected, visual emphasis through bold text and icons."
+  }
+}

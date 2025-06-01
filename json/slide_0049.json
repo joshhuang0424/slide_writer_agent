@@ -1,0 +1,93 @@
+{
+  "slide_id": "6",
+  "section": "public_private_social_sector",
+  "purpose": "Highlight actions for different sectors to address issues",
+  "narrative_role": "informative",
+  "title": "What public, private, and social sector leaders can do",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Understand the data - Organizations should gather data that disaggregates Asian subgroups to extract insights"
+    },
+    {
+      "highlight": "2",
+      "text": "Combat bias and xenophobia - Organizations and individuals should take concrete steps to counter implicit bias, micro aggressions, and overt xenophobia"
+    },
+    {
+      "highlight": "3",
+      "text": "Serve Asian American communities - Organizations can tailor their products and services to Asian American businesses and consumers, for example by offering language assistance"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Providing actionable steps",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "content_and_visual",
+  "content_zones": {
+    "left": "text and bullets",
+    "right": "visual elements"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "data gathering",
+      "position": "below"
+    },
+    {
+      "type": "icon",
+      "label": "combat bias",
+      "position": "below"
+    },
+    {
+      "type": "icon",
+      "label": "serve communities",
+      "position": "below"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "The font family is not specified in the image itself."
+  }
+}

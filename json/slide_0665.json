@@ -1,0 +1,120 @@
+{
+  "slide_id": "5",
+  "section": "Market Analysis",
+  "purpose": "To illustrate the predicted stagnation in global car sales volume.",
+  "narrative_role": "Supporting evidence",
+  "title": "Car sales volume will stall—bringing decades of growth to an end",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Trend analysis over time",
+  "data_points": [
+    "New car sales from 1900 to 2030"
+  ],
+  "cta": null,
+  "layout": "Title and chart",
+  "layout_type": "chart",
+  "content_zones": {
+    "title": "top-left",
+    "chart": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use green for emphasis"
+  },
+  "design_language": "Informative with emphasis on trend lines",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "New car sales (Global, in M units)",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Sales volume"
+    ],
+    "values": [
+      {
+        "year": "1900",
+        "sales": 0
+      },
+      {
+        "year": "1920",
+        "sales": 1
+      },
+      {
+        "year": "1930",
+        "sales": 5
+      },
+      {
+        "year": "1950",
+        "sales": 13
+      },
+      {
+        "year": "1970",
+        "sales": 22
+      },
+      {
+        "year": "1980",
+        "sales": 30
+      },
+      {
+        "year": "1990",
+        "sales": 46
+      },
+      {
+        "year": "2000",
+        "sales": 66
+      },
+      {
+        "year": "2010",
+        "sales": 91
+      },
+      {
+        "year": "2020",
+        "sales": 104
+      },
+      {
+        "year": "2030",
+        "sales": 108
+      }
+    ],
+    "annotations": [
+      "First mass-produced car",
+      "Golden 20ies",
+      "Postwar boom years",
+      "Oil crisis",
+      "Chinese market opening up",
+      "Global financial crisis",
+      "Emergence of self-driving, on-demand mobility models"
+    ],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid or table structures present, visual elements are mostly chart annotations."
+  }
+}

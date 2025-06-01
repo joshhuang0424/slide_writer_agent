@@ -1,0 +1,92 @@
+{
+  "slide_id": "73",
+  "section": "Microsoft TSR transformation context",
+  "purpose": "Discuss the context of Microsoft's TSR transformation",
+  "narrative_role": "Background information",
+  "title": "Microsoft TSR transformation context",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Microsoft's TSR performance softened after decades of boom"
+    },
+    {
+      "highlight": false,
+      "text": "Satya Nadella, incoming CEO in 2014, facing a lot of questions"
+    },
+    {
+      "highlight": false,
+      "text": "Why is our multiple low?"
+    },
+    {
+      "highlight": false,
+      "text": "The shape and size of transformation"
+    },
+    {
+      "highlight": false,
+      "text": "What capital allocation & portfolio choices should I make?"
+    },
+    {
+      "highlight": false,
+      "text": "We seem bloated - do I need to cut costs & where? Would it add value?"
+    },
+    {
+      "highlight": false,
+      "text": "How to get investors to come along with us?"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullet points",
+  "layout_type": "Text-focused",
+  "content_zones": {
+    "title": "top-left",
+    "bullets": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional, modern",
+  "color_scheme": {
+    "primary": "#00B050",
+    "accent": "#000000",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points, charts, or infographics present."
+  }
+}

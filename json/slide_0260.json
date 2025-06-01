@@ -1,0 +1,82 @@
+{
+  "slide_id": "91",
+  "section": "Long-term Strategy",
+  "purpose": "To emphasize the importance of focusing on long-term sustainable Total Shareholder Return (TSR) over short-term earnings.",
+  "narrative_role": "Highlight",
+  "title": "Importance of Long-term TSR",
+  "bullets": [
+    {
+      "highlight": "Main goal",
+      "text": "is to deliver above average long-term TSR; it is not about focusing on short term EPS & quarterly earnings"
+    },
+    {
+      "highlight": "Drives value creation",
+      "text": ""
+    },
+    {
+      "highlight": "Is compatible with long term sustainability",
+      "text": ""
+    },
+    {
+      "highlight": "Serves a broad set of stakeholders including shareholders",
+      "text": ""
+    }
+  ],
+  "supporting_facts": [
+    "Managing for SV gets management teams thinking of the company's owners",
+    "Most investors are professional and long term oriented fund managers, not short term speculators",
+    "Benefits to stakeholders when the size of economic pie increases"
+  ],
+  "reasoning_strategy": "Comparative analysis between long-term and short-term focus.",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "dual-pane",
+  "content_zones": {
+    "left": "Main message and highlights",
+    "right": "Supporting arguments and details"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for main goals"
+  },
+  "design_language": "Professional and authoritative",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans Serif",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans Serif",
+      "size": "16"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No chart or table present; infographic not applicable.",
+    "source": "Source: BCG analysis, EPS: earning per share"
+  }
+}

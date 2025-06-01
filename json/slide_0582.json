@@ -1,0 +1,130 @@
+{
+  "slide_id": "11",
+  "section": "Reward Economics",
+  "purpose": "To explain the calculation of the earn rate using a weighted average of categories.",
+  "narrative_role": "Explaining calculation methodology",
+  "title": "To find the earn rate, we calculate weighted average of the categories",
+  "bullets": [],
+  "supporting_facts": [
+    "Weighted average of 2 points / $",
+    "i.e. on spending $1, 2 points are earned"
+  ],
+  "reasoning_strategy": "Illustrative example with table and diagram",
+  "data_points": [
+    "5x merchant categories: 10%, 5 points / $",
+    "Fuel: 5%, 4 points / $",
+    "Dining: 10%, 3 points / $",
+    "Cross-border: 20%, 2 points / $",
+    "Domestic regular: 55%, 1 point / $"
+  ],
+  "cta": null,
+  "layout": "Text and table with infographic",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "top": "Title and explanation",
+    "center": "Table",
+    "bottom": "Supporting facts",
+    "right": "Infographic"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Earn Rate (avg.)",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text for weighted average and earn rate"
+  },
+  "design_language": "Professional with emphasis on clarity",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "none",
+    "levels": [],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "This table shows the spend distribution and earnings for different categories.",
+      "headers": [
+        "Categories",
+        "Spend distribution",
+        "Earning"
+      ],
+      "rows": [
+        {
+          "row_label": "5x merchant categories",
+          "cells": [
+            "10%",
+            "5 points / $"
+          ]
+        },
+        {
+          "row_label": "Fuel",
+          "cells": [
+            "5%",
+            "4 points / $"
+          ]
+        },
+        {
+          "row_label": "Dining",
+          "cells": [
+            "10%",
+            "3 points / $"
+          ]
+        },
+        {
+          "row_label": "Cross-border (remaining after above categories are removed)",
+          "cells": [
+            "20%",
+            "2 points / $"
+          ]
+        },
+        {
+          "row_label": "Domestic regular",
+          "cells": [
+            "55%",
+            "1 point / $"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Infographic does not contain pyramid or additional levels beyond basic icon and label."
+  }
+}

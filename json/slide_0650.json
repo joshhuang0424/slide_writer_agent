@@ -1,0 +1,223 @@
+{
+  "slide_id": "5",
+  "section": "4",
+  "purpose": "Highlight underrepresentation of Black workers in high-wage and in-demand jobs",
+  "narrative_role": "Informative",
+  "title": "Underrepresentation of Black workers in the higher-wage and most in-demand jobs",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of occupational groups with representation percentages and mean annual wage",
+  "data_points": [
+    "25.2%",
+    "17.5%",
+    "13.0%",
+    "12.5%",
+    "12.1%",
+    "10.9%",
+    "10.8%",
+    "9.5%",
+    "9.0%",
+    "7.4%",
+    "6.6%",
+    "6.5%",
+    "6.2%",
+    "6.2%",
+    "5.8%",
+    "5.0%"
+  ],
+  "cta": null,
+  "layout": "Two-column with infographic",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "Table with data on representation and mean annual wage",
+    "right": "Textual description and callout"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and color for emphasis"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Black worker representation by occupational group %, 2019",
+      "description": "Shows overrepresented and underrepresented occupation groups with representation percentages and mean annual wages",
+      "headers": [
+        "Occupation Group",
+        "Representation %",
+        "Mean annual wage"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Healthcare Support",
+            "25.2%",
+            "$28k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Transportation and Material Moving",
+            "17.5%",
+            "$38k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Office and Administrative Support",
+            "13.0%",
+            "$41k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Food Preparation and Serving Related",
+            "12.5%",
+            "$27k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Production",
+            "12.1%",
+            "$40k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Healthcare Practitioners and Technical",
+            "10.9%",
+            "$84k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Sales and Related",
+            "10.8%",
+            "$43k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Educational Instruction and Library",
+            "9.5%",
+            "$58k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Business and Financial Operations",
+            "9.0%",
+            "$78k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Computer and Mathematical",
+            "7.4%",
+            "$94k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Arts, Design, Entertainment, Sports, and Media",
+            "6.6%",
+            "$62k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Legal",
+            "6.5%",
+            "$110k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Life, Physical, and Social Science",
+            "6.2%",
+            "$76k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Management",
+            "6.2%",
+            "$122k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Construction and Extraction",
+            "5.8%",
+            "$53k"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Architecture and Engineering",
+            "5.0%",
+            "$89k"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font details and emphasis rules are not specified in the image."
+  }
+}

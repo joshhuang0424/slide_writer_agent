@@ -1,0 +1,119 @@
+{
+  "slide_id": "8",
+  "section": "Fraud Types",
+  "purpose": "To categorize and describe different fraud types and their characteristics.",
+  "narrative_role": "informative",
+  "title": "Fraud Types",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "title and table",
+  "layout_type": "informative",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Table categorizing different types of fraud with descriptions and characteristics.",
+      "headers": [
+        "Type",
+        "Description",
+        "Fraudster Characteristics"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Lost / Stolen (L/S)",
+            "The card plastic is no longer in the possession of the true customer",
+            "Opportunist; local to lost or stolen event; use of card is immediate and aggressive"
+          ]
+        },
+        {
+          "cells": [
+            "Never Received (NRI)",
+            "The card plastic was intercepted before reaching the true customer",
+            "Amateur or organized mail theft; takes advantage of weak Activation requirements"
+          ]
+        },
+        {
+          "cells": [
+            "Counterfeit (CTF)",
+            "The card credentials (front of card for CTF Keyed and Mag Stripe for CTF Swipe) were duplicated for use to impersonate the true plastic",
+            "Use of skimming machines/software; Can stem from small to large scale merchant data breaches; sophisticated, organized fraudsters sell card credentials or duplicate plastics"
+          ]
+        },
+        {
+          "cells": [
+            "Card Not Present (CNP)",
+            "eCommerce, Keyed, Mail Order, Phone Order, Recurring Payments",
+            "Ranges from individual hackers to sophisticated, organized rings; often a small transaction is attempted to test the card"
+          ]
+        },
+        {
+          "cells": [
+            "Account Takeover (ATO)",
+            "Maintenance performed on an account that allows unauthorized use of the card funds",
+            "Identity fraud; Can be perpetrated through hacking, phishing, or other; Includes account changes such as address change, card request, addition of authorized users; sometimes familiar fraud"
+          ]
+        },
+        {
+          "cells": [
+            "Fraud Application (FAP)",
+            "True victim did not apply for or have knowledge of initial card set up",
+            "Identify fraud; primarily seen on credit portfolios; sometimes familiar fraud"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

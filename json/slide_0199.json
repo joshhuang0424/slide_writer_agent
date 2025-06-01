@@ -1,0 +1,131 @@
+{
+  "slide_id": "20",
+  "section": "Value Creation Analysis",
+  "purpose": "To illustrate the value creation from 2013 to 2018 driven by specific sectors.",
+  "narrative_role": "Data visualization",
+  "title": "Actual value creation in 2013 - 2018 driven by Games and Semiconductors",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual comparison of sector contributions to value creation over time.",
+  "data_points": [],
+  "cta": null,
+  "layout": "single chart with annotations",
+  "layout_type": "visual",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "annotations": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "text_label",
+      "label": "Estimated Value/Share (¥)",
+      "position": "left"
+    },
+    {
+      "type": "text_label",
+      "label": "Annual percentage",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "percentages highlighted in circles"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Change in Value from 2013-2018 Including accumulated cash flow",
+    "x_axis_label": "Business Units",
+    "y_axis": [
+      "0",
+      "2,000",
+      "4,000",
+      "6,000"
+    ],
+    "values": [
+      {
+        "label": "2013 value Game and Network",
+        "value": 1800,
+        "annotation": "43%"
+      },
+      {
+        "label": "Music",
+        "value": 1820,
+        "annotation": "14%"
+      },
+      {
+        "label": "Pictures",
+        "value": 1720,
+        "annotation": "-2%"
+      },
+      {
+        "label": "HE&S",
+        "value": 280,
+        "annotation": "7%"
+      },
+      {
+        "label": "Imaging",
+        "value": 550,
+        "annotation": "13%"
+      },
+      {
+        "label": "Mobile Comm",
+        "value": 350,
+        "annotation": "-5%"
+      },
+      {
+        "label": "Semiconductors",
+        "value": 1300,
+        "annotation": "24%"
+      },
+      {
+        "label": "Financial Services",
+        "value": 300,
+        "annotation": "7%"
+      },
+      {
+        "label": "All Other",
+        "value": 250,
+        "annotation": "-1%"
+      },
+      {
+        "label": "2018 value",
+        "value": 6000
+      }
+    ],
+    "annotations": [],
+    "source": "Company reporting, BCG estimates; BCG ValueScience® Center"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family and specific design elements require access to original document styles."
+  }
+}

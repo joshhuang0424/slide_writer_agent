@@ -1,0 +1,133 @@
+{
+  "slide_id": "14",
+  "section": "Addressing Racial Equity",
+  "purpose": "To provide examples of strategies for addressing racial equity and justice both internally and externally.",
+  "narrative_role": "Example illustration",
+  "title": "Example: Addressing racial equity & racial justice internally and externally",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrative examples",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-row comparison",
+  "layout_type": "mixed",
+  "content_zones": {
+    "top": "Title and introduction",
+    "middle": "Internal and external strategies comparison",
+    "bottom": "Example actions"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Internal",
+      "position": "left-top"
+    },
+    {
+      "type": "icon",
+      "label": "External",
+      "position": "left-bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key phrases"
+  },
+  "design_language": "Professional and formal",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Level of challenge, impact and sustainability",
+      "description": "Comparison of internal and external strategies for racial equity",
+      "headers": [
+        "Internal: Aspiration-Back",
+        "A diverse organization",
+        "An inclusive environment",
+        "Equitable access to opportunities & benefits"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Focused on improving the organization",
+            "Creating a diversity of racial/ethnic identities at each level of the organization",
+            "Ensuring employees of varying racial/ethnic identities all feel a sense of belonging and the ability to contribute to their fullest",
+            "Ensuring all staff have the opportunity to grow, contribute, and develop; power is shared in the workplace"
+          ]
+        },
+        {
+          "row_label": "Example McKinsey actions",
+          "cells": [
+            "Double our Black leadership and hiring of Black colleagues in the next 4 years",
+            "Engage all 32,000 colleagues in anti-racism and inclusion programs",
+            "Ensure our processes are free from bias and support retention, attraction of Black and diverse colleagues"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "External: Capability-Forward",
+            "Corporate and social responsibility",
+            "Operational impact",
+            "Strategic to create shared value"
+          ]
+        },
+        {
+          "row_label": "Example McKinsey actions",
+          "cells": [
+            "Focused on improving community and/or society",
+            "Using organization’s platform to influence changes in institutional and structural disparities; take clear stance on racial equity",
+            "Explicitly designing operations & investment processes to improve outcomes & minimize downstream impacts",
+            "Embedding racial equity considerations at all levels of strategy development"
+          ]
+        },
+        {
+          "row_label": "Example McKinsey actions",
+          "cells": [
+            "Commit $200 million over the next 10 years in pro bono work globally to advance racial equity",
+            "Double our spending with diverse suppliers in the next 3 years",
+            "Create a Black Economic Institute to help clients with practical tools on Black economic empowerment"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No charts or infographics present, only tables and text with icons."
+  }
+}

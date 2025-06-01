@@ -1,0 +1,86 @@
+{
+  "slide_id": "14",
+  "section": "Reward Economics",
+  "purpose": "Explain the calculation and significance of Cost per Point (CPP) for banks.",
+  "narrative_role": "Informative",
+  "title": "Cost per point (CPP) gives the dollar cost for one point for the bank",
+  "bullets": [
+    {
+      "highlight": "CPP is always less than the value derived per point by the customer",
+      "text": ""
+    },
+    {
+      "highlight": "CPP is provided by the client and in case it is not available, burn rate (with reasonable margin) can be used as a proxy",
+      "text": ""
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrative formula and bullet points",
+  "data_points": [],
+  "cta": null,
+  "layout": "Centralized content with emphasis on a formula illustration",
+  "layout_type": "Graphic with text",
+  "content_zones": {
+    "header": "Title and subtitle",
+    "main": "Formula illustration and key points",
+    "footer": "Note"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Cost per point",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Cost per point",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color and icons to emphasize key points"
+  },
+  "design_language": "Clean and professional with emphasis on clarity",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "Light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "formula",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      "Cost per point (Average cost per point to the bank)",
+      "=",
+      "1 / Average points required to redeem USD 1 x Cost to bank (% of $ value to the customers)"
+    ],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family could not be determined from the image.",
+    "note": "Cost to bank is either provided by the client or is based on reasonable assumptions"
+  }
+}

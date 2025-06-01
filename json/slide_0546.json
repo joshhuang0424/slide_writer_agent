@@ -1,0 +1,72 @@
+{
+  "slide_id": "6",
+  "section": "Impact Assessment",
+  "purpose": "To present the components of impact assessment considering both non-financial and financial impacts.",
+  "narrative_role": "Informative",
+  "title": "We assess three components of impact, considering both non-financial and financial impact of our programmes",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of impact into individual, community, and societal levels.",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "content with images",
+  "content_zones": {
+    "header": "Top",
+    "images": "Middle",
+    "text_blocks": "Bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "top"
+    },
+    {
+      "type": "rectangle",
+      "label": "Impact on individuals, the community and the society",
+      "position": "middle"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

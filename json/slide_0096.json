@@ -1,0 +1,82 @@
+{
+  "slide_id": "22",
+  "section": "Contents",
+  "purpose": "Overview of topics",
+  "narrative_role": "Table of contents",
+  "title": "Contents",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Car buying"
+    },
+    {
+      "highlight": false,
+      "text": "Aftermarket"
+    },
+    {
+      "highlight": true,
+      "text": "Mobility"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "List main topics",
+  "data_points": [],
+  "cta": null,
+  "layout": "left text, right image",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "text",
+    "right": "image"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Bicycle rider",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 2,
+    "emphasis_rule": "Highlight key topic"
+  },
+  "design_language": "modern, minimalist",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or detailed data points present on this slide."
+  }
+}

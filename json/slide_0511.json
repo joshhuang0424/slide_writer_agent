@@ -1,0 +1,111 @@
+{
+  "slide_id": "2",
+  "section": "Agenda",
+  "purpose": "Outline the topics to be covered in the presentation.",
+  "narrative_role": "Organizing",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Welcome"
+    },
+    {
+      "highlight": false,
+      "text": "Overview and Objectives"
+    },
+    {
+      "highlight": false,
+      "text": "Fraud Types"
+    },
+    {
+      "highlight": false,
+      "text": "Fundamentals of Fraud Management"
+    },
+    {
+      "highlight": false,
+      "text": "Strategy and Analytics"
+    },
+    {
+      "highlight": false,
+      "text": "Fraud Operations"
+    },
+    {
+      "highlight": false,
+      "text": "Authentication"
+    },
+    {
+      "highlight": false,
+      "text": "MIS"
+    },
+    {
+      "highlight": false,
+      "text": "Advisors’ Projects"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_columns",
+  "layout_type": "text",
+  "content_zones": {
+    "left": [
+      "Welcome",
+      "Overview and Objectives",
+      "Fraud Types",
+      "Fundamentals of Fraud Management",
+      "Strategy and Analytics"
+    ],
+    "right": [
+      "Fraud Operations",
+      "Authentication",
+      "MIS",
+      "Advisors’ Projects"
+    ]
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 10,
+    "max_words_per_bullet": 5,
+    "emphasis_rule": ""
+  },
+  "design_language": "clean, professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts, tables, or infographics were present on the slide."
+  }
+}

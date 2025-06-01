@@ -1,0 +1,74 @@
+{
+  "slide_id": "6",
+  "section": "Fraud Management",
+  "purpose": "Illustrate the balance between customer experience and profitability in fraud management.",
+  "narrative_role": "Informative",
+  "title": "The challenge in fraud is to balance customer experience and profitability, which is an important and challenging task",
+  "bullets": [],
+  "supporting_facts": [
+    "Incorrectly declined transactions intended to prevent fraud can have an adverse impact on consumer experience and FI profitability.",
+    "In a recent case study of the US credit portfolio, nearly 20% of consumers who had experienced a fraud decline had no future spend 6 months after event."
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with central infographic",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "Expected Customer Experience",
+    "right": "Maximized Financial Institution Profitability",
+    "center": "Balance scale infographic"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Balance scale",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key differences in balancing customer experience and profitability."
+  },
+  "design_language": "Professional with emphasis on balance",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or table structures detected; infographic is a scale, not a pyramid."
+  }
+}

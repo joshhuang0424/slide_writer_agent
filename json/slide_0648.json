@@ -1,0 +1,193 @@
+{
+  "slide_id": "8",
+  "section": "Geographic mismatches",
+  "purpose": "Highlight the disparity between job opportunities and Black workers.",
+  "narrative_role": "Illustrate the mismatch in job opportunities.",
+  "title": "Geographic mismatches between Black workers and opportunity",
+  "bullets": [
+    {
+      "highlight": "1 in 10",
+      "text": "Fewer than 1 in 10 Black workers live in the counties with the highest projected job growth"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of job growth and Black worker representation.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "content with sidebar",
+  "content_zones": {
+    "left": "Table and chart comparing job opportunities.",
+    "right": "Textual highlight emphasizing disparity."
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Top 3 highest growth",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistic in larger font."
+  },
+  "design_language": "Professional with a focus on data presentation.",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "bubble chart",
+    "title": "",
+    "x_axis_label": "Communities",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "Bureau of Labor Statistics; US Census Bureau; Moody's Analytics"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Projected net job growth by community archetype, 2017-2030",
+      "description": "",
+      "headers": [
+        "Community archetype",
+        "Black representation gap, 2019 %",
+        "Black private sector workers, 2019 million"
+      ],
+      "rows": [
+        {
+          "row_label": "Urban periphery",
+          "cells": [
+            "13%",
+            "2.8%",
+            "2.7M"
+          ]
+        },
+        {
+          "row_label": "Stable cities",
+          "cells": [
+            "8%",
+            "2.6%",
+            "2.6M"
+          ]
+        },
+        {
+          "row_label": "Megacities",
+          "cells": [
+            "11%",
+            "2.1%",
+            "4.8M"
+          ]
+        },
+        {
+          "row_label": "Distressed Americana",
+          "cells": [
+            "-3%",
+            "1.9%",
+            "0.6M"
+          ]
+        },
+        {
+          "row_label": "Trailing cities",
+          "cells": [
+            "6%",
+            "-1.3%",
+            "0.5M"
+          ]
+        },
+        {
+          "row_label": "Silver cities",
+          "cells": [
+            "15%",
+            "-1.8%",
+            "0.2M"
+          ]
+        },
+        {
+          "row_label": "College-centric towns",
+          "cells": [
+            "11%",
+            "-1.9%",
+            "0.2M"
+          ]
+        },
+        {
+          "row_label": "Americana",
+          "cells": [
+            "-1%",
+            "-2.7%",
+            "1.2M"
+          ]
+        },
+        {
+          "row_label": "Independent economies",
+          "cells": [
+            "9%",
+            "-2.9%",
+            "0.9M"
+          ]
+        },
+        {
+          "row_label": "High growth hubs",
+          "cells": [
+            "17%",
+            "-3.0%",
+            "1.0M"
+          ]
+        },
+        {
+          "row_label": "America’s makers",
+          "cells": [
+            "8%",
+            "-3.2%",
+            "0.4M"
+          ]
+        },
+        {
+          "row_label": "Small powerhouses",
+          "cells": [
+            "15%",
+            "-6.5%",
+            "0.1M"
+          ]
+        },
+        {
+          "row_label": "Rural outliers",
+          "cells": [
+            "3%",
+            "-6.7%",
+            "<0.1M"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not provided in the image."
+  }
+}

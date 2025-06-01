@@ -1,0 +1,116 @@
+{
+  "slide_id": "30",
+  "section": "Case Study",
+  "purpose": "To present travel segmentation and profiling for retail co-brand portfolio.",
+  "narrative_role": "Inform and guide on customer profiling for travel segmentation.",
+  "title": "Case Study: Retail Co-Brand Portfolio Customer Profiling: Travel Segmentation",
+  "bullets": [
+    {
+      "highlight": "1.",
+      "text": "Create travel segmentation of Sam’s Club cardholders based on overall spend and travel score utilizing MCW transactional data"
+    },
+    {
+      "highlight": "2.",
+      "text": "Profile key travel segments to identify travel categories and merchants"
+    },
+    {
+      "highlight": "3.",
+      "text": "Benchmark segments spend behaviors to similar credit portfolios in the US."
+    },
+    {
+      "highlight": "4.",
+      "text": "Provide strategic recommendations on targeting cardholders for travel portal promotions"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Segment analysis and strategic profiling.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with graphics and text",
+  "layout_type": "Infographic and text",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Segments and Sub-Segments based on travel behaviors",
+      "position": "top-right"
+    },
+    {
+      "type": "infographic",
+      "label": "Detailed Profiles and Benchmark comparison",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Detailed Profiles and Benchmark comparison",
+      "description": "Comparison of segment descriptions and overall benchmarks.",
+      "headers": [
+        "Segment Description",
+        "Spend",
+        "Overall"
+      ],
+      "rows": [
+        {
+          "row_label": "Segment 1",
+          "cells": [
+            "Description for segment 1",
+            "Data 1",
+            "Overall 1"
+          ]
+        },
+        {
+          "row_label": "Segment 2",
+          "cells": [
+            "Description for segment 2",
+            "Data 2",
+            "Overall 2"
+          ]
+        }
+      ],
+      "position": "bottom-right",
+      "render_style": "Standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

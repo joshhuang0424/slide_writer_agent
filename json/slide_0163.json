@@ -1,0 +1,186 @@
+{
+  "slide_id": "8",
+  "section": "Research Findings",
+  "purpose": "Highlight disparities in experiences of microaggressions among different groups of women.",
+  "narrative_role": "Data Presentation",
+  "title": "Women of color, LGBTQ+, and women with disabilities are more likely to face microaggressions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative Analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "Table with Highlighted Cells",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Table",
+    "bottom": "Source"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and color-coded for emphasis"
+  },
+  "design_language": "Professional and Data-centric",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of microaggression experiences among different groups of women.",
+      "headers": [
+        "Group",
+        "Women with disabilities",
+        "LGBTQ+ women",
+        "White women",
+        "Asian women",
+        "Latinas",
+        "Black women"
+      ],
+      "rows": [
+        {
+          "row_label": "Being interrupted or spoken over more than others",
+          "cells": [
+            "15%",
+            "28%",
+            "40%",
+            "34%",
+            "27%",
+            "29%",
+            "27%",
+            "32%"
+          ]
+        },
+        {
+          "row_label": "Having your judgment questioned",
+          "cells": [
+            "24%",
+            "31%",
+            "46%",
+            "37%",
+            "31%",
+            "25%",
+            "29%",
+            "38%"
+          ]
+        },
+        {
+          "row_label": "Having others comment on your emotional state",
+          "cells": [
+            "12%",
+            "18%",
+            "30%",
+            "25%",
+            "18%",
+            "13%",
+            "16%",
+            "21%"
+          ]
+        },
+        {
+          "row_label": "Hearing people express surprise at your language skills or other abilities",
+          "cells": [
+            "6%",
+            "8%",
+            "13%",
+            "10%",
+            "5%",
+            "11%",
+            "13%",
+            "18%"
+          ]
+        },
+        {
+          "row_label": "Hearing or overhearing insults about your culture or people like you",
+          "cells": [
+            "7%",
+            "7%",
+            "14%",
+            "12%",
+            "5%",
+            "9%",
+            "9%",
+            "16%"
+          ]
+        },
+        {
+          "row_label": "Being confused with someone else of the same race/ethnicity",
+          "cells": [
+            "5%",
+            "7%",
+            "9%",
+            "9%",
+            "4%",
+            "17%",
+            "6%",
+            "17%"
+          ]
+        },
+        {
+          "row_label": "Feeling like you are expected to speak on behalf of all people with your identity",
+          "cells": [
+            "6%",
+            "9%",
+            "13%",
+            "16%",
+            "5%",
+            "14%",
+            "11%",
+            "31%"
+          ]
+        },
+        {
+          "row_label": "Having others comment on your hair or appearance",
+          "cells": [
+            "4%",
+            "6%",
+            "11%",
+            "11%",
+            "5%",
+            "5%",
+            "5%",
+            "14%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Highlighted cells indicating better to worse experiences"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

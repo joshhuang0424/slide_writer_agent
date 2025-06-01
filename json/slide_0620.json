@@ -1,0 +1,126 @@
+{
+  "slide_id": "20",
+  "section": "Usage - Tactical Levers",
+  "purpose": "To present the tactical levers supporting leading usage strategies.",
+  "narrative_role": "Informative",
+  "title": "The leading usage strategies are supported by an array of tactical levers",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive",
+  "data_points": [],
+  "cta": null,
+  "layout": "Single table layout with title",
+  "layout_type": "Table",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is bold and larger than table text"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Table outlining various tactical levers and their descriptions along with remarks/best practices.",
+      "headers": [
+        "Levers",
+        "Description",
+        "Remarks / best practices"
+      ],
+      "rows": [
+        {
+          "row_label": "Communications",
+          "cells": [
+            "Timely and relevant communication via multiple channels is critical to maintain top-of-mind awareness",
+            "A well-defined social media strategy will reduce marketing costs, increase speed-to-market, and reach the optimal target audience"
+          ]
+        },
+        {
+          "row_label": "Promotional Tactics",
+          "cells": [
+            "Effective promotions can change customer behavior, e.g.,\n- Credit line increases\n- Spend & get\n- Pricing promos",
+            "Promotions can be more effective used in combination rather than used alone for specific segments"
+          ]
+        },
+        {
+          "row_label": "Measuring Usage",
+          "cells": [
+            "KPIs are tracked to measure the different stages including spend stimulation, balance build and stickiness",
+            "Key usage KPIs combine to inform the general health of the portfolio"
+          ]
+        },
+        {
+          "row_label": "Data & Analytics",
+          "cells": [
+            "Use data analytics to design targeting offers based on individual preferences and usage patterns",
+            "Analyze transaction data to understand usage patterns, then design targeted promotions to stimulate desired usage patterns"
+          ]
+        },
+        {
+          "row_label": "Segmentation",
+          "cells": [
+            "Behavioral segmentation helps inform issuers about their card portfolios and impacts on their overall performance",
+            "There are different effective segmentation approaches, including:\n- High level schema utilizing spend, payment behaviors and tenure\n- Detailed decision trees to define and describe segments\n- Card usage segments to distinguish accounts by wallet position"
+          ]
+        },
+        {
+          "row_label": "Test & Learn",
+          "cells": [
+            "The process of testing the impact of a program with a select customer pool to compare the performance of test customers to a well-matched control group across a pre-determined list of performance metrics",
+            "Issuers should be able to anticipate expected program impact, e.g.,\n- What is the impact across key performance metrics?\n- What is the target customer group, i.e., the group of customers that responds most positively to the tested concept?\n- How can elements be modified for maximum impact?"
+          ]
+        },
+        {
+          "row_label": "Model Solutions",
+          "cells": [
+            "Propensity models can be developed to address specific needs across the usage phase of the credit lifecycle and target treatments with exceptional accuracy",
+            "There are many types of propensity models including spend attrition, recurring payments, and luxury spend etc."
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "//": {
+    "_why_unknown": "No pyramid infographic or additional visual elements detected in the image."
+  }
+}

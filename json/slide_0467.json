@@ -1,0 +1,72 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduce the project case study.",
+  "narrative_role": "Title Slide",
+  "title": "First Interstate Bank (FIB) Customer Experience Program",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presentation of case study title and project context.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "Single",
+  "content_zones": {
+    "title": {
+      "position": "center",
+      "size": "large"
+    },
+    "logo": {
+      "position": "bottom_left",
+      "size": "small"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "All text is centered and large."
+  },
+  "design_language": "Modern",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "orange",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

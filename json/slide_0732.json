@@ -1,0 +1,95 @@
+{
+  "slide_id": "L6",
+  "section": "Forecast Methodology overview",
+  "purpose": "To illustrate the forecast of the long-term value of cardholders making their first purchase abroad using AIM.",
+  "narrative_role": "Informative",
+  "title": "Mastercard used AIM to forecast the long-term value of cardholders who made their first purchase abroad",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of actual vs. forecasted data",
+  "data_points": [
+    "Issuer actual",
+    "Issuer forecasted",
+    "benchmark actual",
+    "benchmark forecasted"
+  ],
+  "cta": null,
+  "layout": "Chart with supporting text",
+  "layout_type": "Visual with narrative",
+  "content_zones": {
+    "header": "top-left",
+    "chart": "center",
+    "legend": "bottom-center"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "World Mastercard cardholders who made their first cross-border purchase in Oct 2018 from the top 10 issuers (excluding Bank)",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold header"
+  },
+  "design_language": "Professional and clean with emphasis on data visualization",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "First year average spend per card forecast by month",
+    "x_axis_label": "Month",
+    "y_axis": [
+      "$",
+      "$200",
+      "$400",
+      "$600",
+      "$800",
+      "$1,000",
+      "$1,200",
+      "$1,400"
+    ],
+    "values": [
+      "0 month",
+      "1st month",
+      "2nd month",
+      "3rd month",
+      "4th month",
+      "5th month",
+      "6th month",
+      "7th month",
+      "8th month",
+      "9th month",
+      "10th month",
+      "11th month",
+      "12th month"
+    ],
+    "annotations": [],
+    "source": "Illustrative, not actual data"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family and size were not specified within the image or accompanying text."
+  }
+}

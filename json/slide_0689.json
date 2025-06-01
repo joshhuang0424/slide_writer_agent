@@ -1,0 +1,156 @@
+{
+  "slide_id": "10",
+  "section": "Market Analysis",
+  "purpose": "To illustrate the distribution of global M&A deals by sector from 2012 to 2016.",
+  "narrative_role": "Data Presentation",
+  "title": "TMT and Industrials together represent more than a third of total M&A activity globally",
+  "bullets": [
+    {
+      "highlight": "20%",
+      "text": "In 2016, the share of TMT slightly declined but still represents ~20% of total M&A activity globally"
+    },
+    {
+      "highlight": "doubled",
+      "text": "Activity in Energy & Utility and TTL almost doubled after reporting declines for last 2 years"
+    },
+    {
+      "highlight": "44%",
+      "text": "Healthcare declined by 44% vs 2015; sector one of the biggest decline"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative Analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "one chart with bullet points",
+  "layout_type": "mixed",
+  "content_zones": {
+    "chart": "left",
+    "bullets": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numeric emphasis"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Global M&A deals by sector, 2012-16",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Value, $ bn",
+      "% of total"
+    ],
+    "values": [
+      {
+        "year": "2012",
+        "values": [
+          185,
+          367,
+          281,
+          290,
+          164,
+          134,
+          155,
+          304,
+          259,
+          368
+        ]
+      },
+      {
+        "year": "2013",
+        "values": [
+          110,
+          232,
+          270,
+          254,
+          290,
+          144,
+          191,
+          420,
+          205,
+          560
+        ]
+      },
+      {
+        "year": "2014",
+        "values": [
+          109,
+          286,
+          285,
+          350,
+          438,
+          254,
+          246,
+          542,
+          372,
+          631
+        ]
+      },
+      {
+        "year": "2015",
+        "values": [
+          151,
+          279,
+          488,
+          526,
+          556,
+          285,
+          217,
+          532,
+          519,
+          1007
+        ]
+      },
+      {
+        "year": "2016",
+        "values": [
+          106,
+          260,
+          302,
+          304,
+          313,
+          368,
+          372,
+          482,
+          505,
+          766
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid infographic present; data is represented in a chart."
+  }
+}

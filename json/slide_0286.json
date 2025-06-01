@@ -1,0 +1,82 @@
+{
+  "slide_id": "2",
+  "section": "Polling Results",
+  "purpose": "To show the current and future adoption of public cloud environments.",
+  "narrative_role": "Data Presentation",
+  "title": "Polling results from our webinar indicate a clear desire to aggressively adopt cloud in the next five years",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Compare current vs. future adoption percentages.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two side-by-side bar charts",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "% of respondents",
+    "y_axis": [
+      "<5%",
+      "5–25%",
+      "26–50%",
+      "51–75%",
+      ">75%"
+    ],
+    "values": [
+      [
+        39,
+        42,
+        6,
+        3,
+        10
+      ],
+      [
+        0,
+        12,
+        33,
+        27,
+        27
+      ]
+    ],
+    "annotations": [],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or additional facts were present in the slide. The slide focuses on visual data representation through bar charts."
+  }
+}

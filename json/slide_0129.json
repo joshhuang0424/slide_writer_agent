@@ -1,0 +1,102 @@
+{
+  "slide_id": "24",
+  "section": "Results",
+  "purpose": "To illustrate the decrease in net intent to do maintenance work across regions, particularly in Italy.",
+  "narrative_role": "Evidence",
+  "title": "... however, net intent to do maintenance work in the next month decreased across all regions vs. September survey, especially in Italy",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 5 (Sep 2-4), and wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparison of survey results over time",
+  "data_points": [
+    "UK: -3",
+    "Germany: -3",
+    "France: -5",
+    "Italy: -11"
+  ],
+  "cta": null,
+  "layout": "Horizontal bar chart",
+  "layout_type": "Data visualization",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source_note": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "left of bar"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "left of bar"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "left of bar"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "left of bar"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "horizontal bar",
+    "title": "Net impact Nov vs. Sep in 'plan for next month'",
+    "x_axis_label": "Net impact",
+    "y_axis": [
+      "UK",
+      "Germany",
+      "France",
+      "Italy"
+    ],
+    "values": [
+      -3,
+      -3,
+      -5,
+      -11
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic field is empty because there is no pyramid infographic present on the slide."
+  }
+}

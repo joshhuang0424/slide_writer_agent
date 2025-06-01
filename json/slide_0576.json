@@ -1,0 +1,76 @@
+{
+  "slide_id": "5",
+  "section": "Agenda",
+  "purpose": "Outline the topics to be covered in the presentation.",
+  "narrative_role": "Informative",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": "Chapter 1: Key terms of reward economics",
+      "text": "Earn rate, Burn rate, Give back rate, Cost per point, Active engagement rate & Customer satisfaction, Redeemed vs earned & Expired vs earned"
+    },
+    {
+      "highlight": "Chapter 2: Financial impact evaluation",
+      "text": "Framework for impact calculation, Assessment of status quo, Evaluation of current financial impact, Creation of loyalty proposition and comparative analysis, Validation and finalization of proposition"
+    },
+    {
+      "highlight": "Chapter 3: Integrated loyalty",
+      "text": "Customer lifecycle, Pan bank loyalty program"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text on left, background image on right",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Text",
+    "right": "Image"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for chapter titles"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Red",
+    "background": "White with blurred image"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The specific font family and size are not discernible from the image."
+  }
+}

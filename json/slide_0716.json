@@ -1,0 +1,110 @@
+{
+  "slide_id": "37",
+  "section": "Financial Analysis",
+  "purpose": "To illustrate the difference in DVA between pure cash and pure stock deals over time.",
+  "narrative_role": "present_data",
+  "title": "Difference in DVA between Pure Cash and Pure Stock Deals",
+  "bullets": [
+    {
+      "highlight": "18%",
+      "text": "Difference in DVA between pure cash and pure stock deals, higher than long term average of 15%."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "comparative_analysis",
+  "data_points": [
+    "14.2",
+    "6.7",
+    "0.4"
+  ],
+  "cta": null,
+  "layout": "chart_above_text",
+  "layout_type": "single_chart",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "notes": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight_percentages"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "line_chart",
+    "title": "Average Deal Value Added – Target and Acquirer",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "-15",
+      "30"
+    ],
+    "values": [
+      {
+        "DVA Total": [
+          133,
+          89,
+          39,
+          49,
+          78,
+          93,
+          154,
+          206,
+          106,
+          77,
+          102,
+          114,
+          98,
+          77,
+          129,
+          182,
+          154
+        ]
+      },
+      {
+        "DVA Pure cash deals": [
+          14.2
+        ]
+      },
+      {
+        "DVA pure stock deals": [
+          6.7
+        ]
+      }
+    ],
+    "annotations": [
+      "Average, %"
+    ],
+    "source": "Dealogic; Datastream; McKinsey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional infographic levels or tables identified."
+  }
+}

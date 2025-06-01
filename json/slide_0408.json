@@ -1,0 +1,77 @@
+{
+  "slide_id": "8",
+  "section": "Execution Clarity",
+  "purpose": "Provide guidance on execution clarity within organizations.",
+  "narrative_role": "Informative",
+  "title": "Execution Clarity",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Suggests actionable strategies and frameworks to ensure clarity in execution across different organizational areas.",
+  "data_points": [],
+  "cta": null,
+  "layout": "4-column grid",
+  "layout_type": "grid",
+  "content_zones": {
+    "A": "Coordinate and scale response and planning",
+    "B": "Empower the team",
+    "C": "Engage the organization",
+    "D": "Lead with purpose and integrity"
+  },
+  "visual_elements": [
+    {
+      "type": "link box",
+      "label": "CLICK HERE FOR SAMPLE RAPID RESPONSE PMO STRUCTURE",
+      "position": "A"
+    },
+    {
+      "type": "link box",
+      "label": "CLICK HERE FOR MORE ON TEAM HEALTH & SAFETY",
+      "position": "A"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color and bolding for emphasis"
+  },
+  "design_language": "Professional and structured with emphasis on clarity.",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "light teal",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "normal"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No numerical data, charts, or explicit CTAs present on the slide."
+  }
+}

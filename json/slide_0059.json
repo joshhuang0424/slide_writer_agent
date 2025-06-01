@@ -1,0 +1,165 @@
+{
+  "slide_id": "9",
+  "section": "Investment Analysis",
+  "purpose": "To present the investment potential for smart tech in tolled highways globally.",
+  "narrative_role": "Informative",
+  "title": "Global smart tech opportunity pool for tolled highways is ~$120B",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "Total market potential: 652",
+    "Non-tolled roads: 532",
+    "Tolled roads: 120",
+    "Existing road assets: 98",
+    "Ongoing & planned projects: 22",
+    "China: 8.8",
+    "Rest of Asia: 5.3",
+    "Eastern Europe: 3.2",
+    "Africa: 2.0",
+    "North America: 1.5",
+    "Latin America: 0.9",
+    "Western Europe: 0.4",
+    "Middle East: <0.1",
+    "India: <0.1"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Chart and Table",
+  "content_zones": {
+    "left": "Bar chart showing investment potential by road type",
+    "right": "Bar chart showing investment potential by region"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional, Data-driven",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#0070C0",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "Bar",
+    "title": "Investment potential for smart tech by road type",
+    "x_axis_label": "",
+    "y_axis": [
+      "Total market potential",
+      "Non-tolled roads",
+      "Tolled roads",
+      "Existing road assets",
+      "Ongoing & planned projects"
+    ],
+    "values": [
+      652,
+      532,
+      120,
+      98,
+      22
+    ],
+    "annotations": [
+      "1. Share of tolled roads estimated as the same proportion as the share of tolled roads from the ongoing and planned road infra capex of ~18% as estimated from a database of all ongoing or planned investments that include projects in bidding, design and study, with an expectation to be awarded in the period 2020-2025"
+    ],
+    "source": "Source: McKinsey IPAT database; McKinsey analysis; literature search"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Smart system investment potential by region",
+      "description": "Bar chart showing investment potential for ongoing and planned tolled road projects by region",
+      "headers": [
+        "Region",
+        "Investment ($ billion)"
+      ],
+      "rows": [
+        {
+          "row_label": "China",
+          "cells": [
+            "China",
+            "8.8"
+          ]
+        },
+        {
+          "row_label": "Rest of Asia",
+          "cells": [
+            "Rest of Asia",
+            "5.3"
+          ]
+        },
+        {
+          "row_label": "Eastern Europe",
+          "cells": [
+            "Eastern Europe",
+            "3.2"
+          ]
+        },
+        {
+          "row_label": "Africa",
+          "cells": [
+            "Africa",
+            "2.0"
+          ]
+        },
+        {
+          "row_label": "North America",
+          "cells": [
+            "North America",
+            "1.5"
+          ]
+        },
+        {
+          "row_label": "Latin America",
+          "cells": [
+            "Latin America",
+            "0.9"
+          ]
+        },
+        {
+          "row_label": "Western Europe",
+          "cells": [
+            "Western Europe",
+            "0.4"
+          ]
+        },
+        {
+          "row_label": "Middle East",
+          "cells": [
+            "Middle East",
+            "<0.1"
+          ]
+        },
+        {
+          "row_label": "India",
+          "cells": [
+            "India",
+            "<0.1"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No additional bullet points or infographics detected."
+  }
+}

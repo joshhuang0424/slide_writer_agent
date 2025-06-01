@@ -1,0 +1,78 @@
+{
+  "slide_id": "3",
+  "section": "FINANCIAL RESILIENCE",
+  "purpose": "Provide strategies for financial resilience.",
+  "narrative_role": "Instruction",
+  "title": "FINANCIAL RESILIENCE",
+  "bullets": [
+    {
+      "highlight": "A",
+      "text": "Manage cash and liquidity"
+    },
+    {
+      "highlight": "B",
+      "text": "Ensure cost discipline"
+    },
+    {
+      "highlight": "C",
+      "text": "Revise financial plan and perform scenario-based stress tests"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide divides strategies into three categories: managing cash, ensuring cost discipline, and revising financial plans.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column",
+  "layout_type": "Grid",
+  "content_zones": {
+    "column_1": "Manage cash and liquidity",
+    "column_2": "Ensure cost discipline",
+    "column_3": "Revise financial plan and perform scenario-based stress tests"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold and color for emphasis"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "White",
+    "background": "Light Gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family and specific infographic levels not available in the image."
+  }
+}

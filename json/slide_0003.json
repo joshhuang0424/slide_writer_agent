@@ -1,0 +1,112 @@
+{
+  "slide_id": "3",
+  "section": "Diversity, Equity, and Inclusion",
+  "purpose": "To present the business case for diversity, equity, and inclusion.",
+  "narrative_role": "Support",
+  "title": "The business case for Diversity, Equity and Inclusion",
+  "bullets": [
+    {
+      "highlight": "+36%",
+      "text": "Ethnically diverse companies are 36% more likely to outperform less diverse organizations"
+    },
+    {
+      "highlight": "+25%",
+      "text": "Gender diverse companies are 25% more likely to outperform less diverse organizations"
+    },
+    {
+      "highlight": "3x",
+      "text": "Employees who perceived that their organization offers both opportunity and fairness are 3x more likely to stay and 3x more likely to recommend it"
+    },
+    {
+      "highlight": "+52%",
+      "text": "Of employees of color, 52% will not work for a company that fails to speak out on addressing racial inequality"
+    },
+    {
+      "highlight": "47%",
+      "text": "Employees are 47% more likely to stay with their company when they perceive it to be inclusive"
+    },
+    {
+      "highlight": "39%",
+      "text": "Of global job seekers, 39% have turned down or decided not to pursue a job opportunity because of a perceived lack of inclusion"
+    }
+  ],
+  "supporting_facts": [
+    "Source: Diversity Wins 2020; 2019 Women in the Workplace research; Edelman Trust Barometer 2020"
+  ],
+  "reasoning_strategy": "Statistical evidence",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic",
+  "layout_type": "Text and visual",
+  "content_zones": {
+    "left": "Infographic",
+    "right": "Bullet points"
+  },
+  "visual_elements": [
+    {
+      "type": "hexagon",
+      "label": "Diversity\nWho is represented in the workforce",
+      "position": "left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Equity\nHow we ensure equality of opportunity",
+      "position": "left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Inclusion\nHow the workforce experiences the workplace",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentage and multipliers are emphasized"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "hexagon",
+    "levels": [],
+    "position": "left"
+  },
+  "table": {
+    "title": "",
+    "headers": [],
+    "rows": [],
+    "position": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or table present in the slide."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slide_id": "1",
+  "section": "戰略願景",
+  "purpose": "展示集團的戰略願景和銀行發展策略",
+  "narrative_role": "說明與強調",
+  "title": "戰略願景：2021-2022年，光大圍繞“打造一流財富管理銀行”戰略願景，聚焦實現在盈利能力、經營規模、財富管理、客戶管理、風險管控五個方面的“跨越計劃”",
+  "bullets": [
+    {
+      "highlight": "集團使命",
+      "text": "中國光大，讓生活更美好（Everbright, forever）"
+    },
+    {
+      "highlight": "集團戰略願景",
+      "text": "以財富管理和服務民生為特色的世界一流金融控股集團"
+    },
+    {
+      "highlight": "集團發展策略",
+      "text": "E-SBU生態圈戰略，包括“大財富”——財富、投資、投行；“大民生”——環保、旅遊、健康"
+    },
+    {
+      "highlight": "銀行戰略願景",
+      "text": "打造一流財富管理銀行（通過財富管理進行綜合協同，為集團保險、證券等業務賦能）"
+    },
+    {
+      "highlight": "銀行發展策略",
+      "text": "推進“敏捷、科技、生態”轉型，在財富管理和金融科技的現有競爭優勢下，逐步樹立一流財富管理銀行的社會形象"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "強調公司使命與策略，並以具體措施支持",
+  "data_points": [],
+  "cta": null,
+  "layout": "標題與段落",
+  "layout_type": "文字與條列式",
+  "content_zones": {
+    "header": "top",
+    "main_content": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "粗體"
+  },
+  "design_language": "正式與企業風格",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "圖片中無法辨識字體信息，沒有圖表或金字塔結構。"
+  }
+}

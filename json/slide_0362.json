@@ -1,0 +1,84 @@
+{
+  "slide_id": "3",
+  "section": "Cloud Adoption",
+  "purpose": "Illustrate the estimated EBITDA value benefits from cloud adoption across the Fortune 500.",
+  "narrative_role": "Informative",
+  "title": "There is an estimated $1 trillion in EBITDA value from cloud adoption across the Fortune 500.",
+  "bullets": [
+    {
+      "highlight": "$430bn",
+      "text": "1. Rejuvenate: IT cost optimization, Cost optimization of application development and maintenance and IT infrastructure, Risk reduction, Improved business resilience of the organization, Core operations digitization, Implementation of latest technological/digitization achievements in core operations"
+    },
+    {
+      "highlight": "$770bn",
+      "text": "2. Innovate: Innovation-driven growth, Business growth from new and enhanced use cases in analytics, IoT, and automation, Accelerated product development, Enhancement of operating-model agility, ease of cloud configuration, and democratized access to computational power, Hyper-scalability, Access to instant on-demand elasticity in compute and storage capacity to scale across customer segments, geographies, and channels"
+    },
+    {
+      "highlight": "Additional opportunity",
+      "text": "3. Pioneer: Early adoption of cloud technology, Embracing culture of experimentation with low cost of failure and gaining experience in cloud technology, which is an enabler for early adoption of future tech such as quantum computing, AR/VR/MR (mixed reality), blockchain, and 3D/4D printing"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Quantitative and qualitative benefits analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column with central infographic",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "Rejuvenate benefits",
+    "center": "Infographic",
+    "right": "Innovate and Pioneer benefits"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "3D circular diagram",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted monetary values"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No specific chart or table data is visible beyond the infographic."
+  }
+}

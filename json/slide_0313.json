@@ -1,0 +1,128 @@
+{
+  "slide_id": "14",
+  "section": "Solution Overview",
+  "purpose": "To describe the Portfolio Optimizer service and its benefits for issuing banks.",
+  "narrative_role": "Informative",
+  "title": "Portfolio Optimizer: PO is a service for issuing banks that identifies opportunities to optimize cardholder engagement",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic and text",
+  "layout_type": "mixed",
+  "content_zones": {
+    "top_left": "Title and subtitle",
+    "top_center": "Infographic with pie chart and house diagram",
+    "bottom": "Text descriptions and logos"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "House diagram showing card usage segmentation",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Gear icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Graph icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Person icon",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numbers and key terms highlighted"
+  },
+  "design_language": "Modern with emphasis on clarity and engagement",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "pie",
+    "title": "Card segmentation pie chart",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Card Usage Segmentation"
+      },
+      {
+        "id": "L1",
+        "label": "High Active"
+      },
+      {
+        "id": "L2",
+        "label": "Compartmentalized"
+      },
+      {
+        "id": "L3",
+        "label": "Seasonal"
+      },
+      {
+        "id": "L4",
+        "label": "New Primary"
+      },
+      {
+        "id": "L5",
+        "label": "New Secondary"
+      },
+      {
+        "id": "L6",
+        "label": "New Lapsed"
+      },
+      {
+        "id": "L7",
+        "label": "Low Active"
+      },
+      {
+        "id": "L8",
+        "label": "Very Low Active"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No standalone data points or tables present",
+    "highlighted_texts": [
+      "200+ propensity and look-alike models predict card spend trends over the next 3 months",
+      "Summary Report with high level recommendations",
+      "Targeting PAN-level file with necessary segment designations and scores"
+    ]
+  }
+}

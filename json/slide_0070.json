@@ -1,0 +1,149 @@
+{
+  "slide_id": "3",
+  "section": "Activity Overview",
+  "purpose": "Showcase the activity in the ecosystem",
+  "narrative_role": "Informative",
+  "title": "There is a considerable amount of activity in the ecosystem",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight new entrants, capital inflow, media coverage, and activity by traditional players.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column layout with text and logos",
+  "layout_type": "tabular",
+  "content_zones": {
+    "left_column": "New entrants with logos and text",
+    "middle_column": "Capital inflow with amount and investment description",
+    "right_column": "Media coverage and activity by traditional players with logos and text"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "KITTYHAWK",
+      "position": "top-left"
+    },
+    {
+      "type": "logo",
+      "label": "TERRAFUGIA",
+      "position": "left"
+    },
+    {
+      "type": "logo",
+      "label": "JOBY AVIATION",
+      "position": "left"
+    },
+    {
+      "type": "logo",
+      "label": "VOLOCOPTER",
+      "position": "left"
+    },
+    {
+      "type": "logo",
+      "label": "AIRBUS",
+      "position": "top-right"
+    },
+    {
+      "type": "logo",
+      "label": "SIKORSKY",
+      "position": "right"
+    },
+    {
+      "type": "logo",
+      "label": "BELL HELICOPTER",
+      "position": "right"
+    },
+    {
+      "type": "logo",
+      "label": "BOEING",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional, clean, and modern",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Ecosystem Activity",
+      "description": "Overview of new entrants, capital inflow, media coverage, and traditional players' activities",
+      "headers": [
+        "New entrants",
+        "Capital inflow",
+        "Media coverage",
+        "Activity by traditional players"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "KITTYHAWK\nFunding from Larry Page",
+            "$250M+\nInvestment in personal air vehicles",
+            "Dubai is towards a future with… flying taxis by kicking off Volocopter trials.",
+            "AIRBUS\nA3 / Project Vahana"
+          ]
+        },
+        {
+          "cells": [
+            "TERRAFUGIA\nPurchased by Geely/Volvo",
+            "$750M+\nInvestment in small autonomous vehicles",
+            "Lilium raises $90M Series B for all-electric flying taxi to fund its 5-seat, electric jet taxi.",
+            "SIKORSKY\nPursing VERT project"
+          ]
+        },
+        {
+          "cells": [
+            "JOBY AVIATION\nRaised $100M in 2018",
+            "",
+            "",
+            "BELL HELICOPTER\nUber partnership"
+          ]
+        },
+        {
+          "cells": [
+            "VOLOCOPTER\nRaised $30M from Daimler",
+            "",
+            "",
+            "BOEING\nHorizonX"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard table layout"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font specifics not provided in image"
+  }
+}

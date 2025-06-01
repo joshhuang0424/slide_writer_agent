@@ -1,0 +1,81 @@
+{
+  "slide_id": "22",
+  "section": "BCG TSR 案例流程分享",
+  "purpose": "介紹TSR考量下的併購策略與實施方式",
+  "narrative_role": "提供關於併購的策略建議",
+  "title": "TSR 角度看併購：基於TSR考量選擇合理的交易結構與交易實施方式",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "比較不同策略對TSR的影響",
+  "data_points": [],
+  "cta": null,
+  "layout": "3-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "zone_1": "EPS vs. 倍數",
+    "zone_2": "股權融資 vs. 債權融資",
+    "zone_3": "衡量綜效 vs. 併購溢價"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "EPS",
+      "position": "zone_1"
+    },
+    {
+      "type": "icon",
+      "label": "股權融資",
+      "position": "zone_2"
+    },
+    {
+      "type": "icon",
+      "label": "衡量綜效",
+      "position": "zone_3"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight key financial principles"
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "頁面中未出現具體數據或表格，主要為文字描述與圖標。"
+  }
+}

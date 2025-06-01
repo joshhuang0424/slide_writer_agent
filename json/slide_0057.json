@@ -1,0 +1,93 @@
+{
+  "slide_id": "7",
+  "section": "Deep Dives",
+  "purpose": "Highlight three key areas of technological advancement.",
+  "narrative_role": "Informative",
+  "title": "Deep Dives",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual segmentation of topics",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "visual",
+  "content_zones": {
+    "zone1": {
+      "title": "Smart highways: the potential of digitization",
+      "image": "Left image of a smart highway camera",
+      "position": "left"
+    },
+    "zone2": {
+      "title": "Intermodal ports: reshaping rail, road and port operations through automation",
+      "image": "Center image of intermodal transport vehicles",
+      "position": "center"
+    },
+    "zone3": {
+      "title": "Urban air mobility: the emergence of skyports",
+      "image": "Right image of drones and skyports",
+      "position": "right"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "1",
+      "position": "top-left"
+    },
+    {
+      "type": "image",
+      "label": "2",
+      "position": "top-center"
+    },
+    {
+      "type": "image",
+      "label": "3",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold key terms"
+  },
+  "design_language": "Modern and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark teal",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or data points were present, the slide primarily consists of images and titles."
+  }
+}

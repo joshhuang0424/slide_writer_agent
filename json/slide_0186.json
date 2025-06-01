@@ -1,0 +1,147 @@
+{
+  "slide_id": "17",
+  "section": "投資主體偏好調察",
+  "purpose": "展示從TSR角度出發的權衡策略和增長標準",
+  "narrative_role": "說明TSR增長標準和方式",
+  "title": "從TSR角度出發權衡策略(1/2)：根據企業體質與投資主體的偏好，決定採用的TSR增長標準和方式",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "比較不同投資主體的偏好與策略",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "table-focused",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "投資主體以及股權投資光譜",
+      "position": "top"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "#0c6a56",
+    "accent": "#b71c1c",
+    "background": "#ffffff"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "投資主體偏好對比",
+      "description": "比較不同類型投資者的偏好與策略，從收益型到核心增長型",
+      "headers": [
+        "投資主體偏好",
+        "收益型投資者",
+        "“核心價值型”投資者",
+        "“阿尔法價值型”投資者",
+        "GARP型投資者",
+        "“核心增長型”投資者"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "基金經理目標",
+            "共同目標：投資組合TSR高於平均基準水平"
+          ]
+        },
+        {
+          "cells": [
+            "銷售增長目標",
+            "0%，與GDP增長率持平",
+            "0%，與GDP增長率持平，對持有時候穩定度",
+            "2-5%內生增長，可接受補強並購",
+            "高於GDP增長率（4-8%），內生增長+補強並購",
+            "內生增長率超過10%，加上並購"
+          ]
+        },
+        {
+          "cells": [
+            "投資期",
+            "如債券，根據收益率決定投資期",
+            "根據市場需求決定投資期",
+            "5年以上",
+            "5-10年",
+            "3-5年"
+          ]
+        },
+        {
+          "cells": [
+            "核心標準",
+            "市盈率，風險水平，收益率",
+            "ROIC增加，市盈率",
+            "自由現金流增加",
+            "EPS增長>10%；股息持續增長，淨資產收益率（ROE）長，ROE高",
+            "EPS增長>10%；股息持續增長，淨資產收益率（ROE）長，ROE高"
+          ]
+        },
+        {
+          "cells": [
+            "市盈率倍數預測",
+            "市盈率低",
+            "12倍，低于正常水平的市盈率支支付12倍以上可能性不太",
+            "9-15倍",
+            "18-24倍，偶爾支支付24倍以上",
+            "有可能支支付30倍以上"
+          ]
+        },
+        {
+          "cells": [
+            "目標收益率",
+            "“收益高于債券”",
+            "6-10%，債務削減，股票和回購",
+            "3-6%，回購和股息",
+            "2-3%股息收益，0-2%股息回購",
+            "股息收益不斷增長，0-2%的股息回購"
+          ]
+        },
+        {
+          "cells": [
+            "以增長為目的的支出以及融資",
+            "內生增長+補強並購，通過貸款融資",
+            "內生增長+補強並購，通過貸款和自由現金流動資金",
+            "內生增長+補強並購+臨近投資，通過現金流或股權融資",
+            "激進並購，累積增長平台+差價內部（rollup），可接受任何方式融資",
+            "激進並購，累積增長平台+差價內部（rollup），可接受任何方式融資"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

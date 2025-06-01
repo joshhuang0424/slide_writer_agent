@@ -1,0 +1,107 @@
+{
+  "slide_id": "5",
+  "section": "Customer Experience Management",
+  "purpose": "To explain the CEM operating philosophy using the 'circle of life' concept.",
+  "narrative_role": "Illustrative",
+  "title": "Our Customer Experience Management (CEM) operating philosophy is expressed in the “circle of life”",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of a cyclical process.",
+  "data_points": [],
+  "cta": null,
+  "layout": "graphic-centered",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top-left",
+    "infographic": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Circle of Life",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "An understanding of customers’",
+      "position": "top-left"
+    },
+    {
+      "type": "box",
+      "label": "Strategies and actions",
+      "position": "top-right"
+    },
+    {
+      "type": "box",
+      "label": "Maximize the value of customer relationships",
+      "position": "bottom-left"
+    },
+    {
+      "type": "box",
+      "label": "Customer strategies delivered consistently",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and clean with a focus on clarity.",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "An understanding of customers’"
+      },
+      {
+        "id": "L1",
+        "label": "Strategies and actions"
+      },
+      {
+        "id": "L2",
+        "label": "Maximize the value of customer relationships"
+      },
+      {
+        "id": "L3",
+        "label": "Customer strategies delivered consistently"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The slide focuses on a visual representation without quantitative data or bullet points."
+  }
+}

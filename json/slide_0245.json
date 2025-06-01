@@ -1,0 +1,52 @@
+{
+  "slide_id": "245",
+  "section": "unknown",
+  "purpose": "unknown",
+  "narrative_role": "unknown",
+  "title": "unknown",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "unknown",
+  "layout_type": "unknown",
+  "content_zones": {},
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "unknown"
+  },
+  "design_language": "unknown",
+  "color_scheme": {
+    "primary": "unknown",
+    "accent": "unknown",
+    "background": "unknown"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "unknown",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "unknown"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

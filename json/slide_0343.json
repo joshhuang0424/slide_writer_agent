@@ -1,0 +1,106 @@
+{
+  "slide_id": "44",
+  "section": "National Airline Use Case",
+  "purpose": "To outline the use case for cobranded credit card customer lifecycle management.",
+  "narrative_role": "Informative",
+  "title": "Cobrand credit card customer lifecycle management",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "After initial credit card sign up, the airline saw low spending in the first few months of card ownership"
+    },
+    {
+      "highlight": null,
+      "text": "What activities and capabilities should the airline take to increase the scope of its customer lifecycle strategies?"
+    },
+    {
+      "highlight": null,
+      "text": "Facilitated a cross-functional workshop to create a sense of urgency and brainstorm pain points / ideas"
+    },
+    {
+      "highlight": null,
+      "text": "Analyzed customer spending data to validate pain points and segment customers by level of card engagement"
+    },
+    {
+      "highlight": "22 customer engagement initiatives",
+      "text": "A robust schedule of 22 customer engagement initiatives was developed to drive early lift in card spend"
+    },
+    {
+      "highlight": null,
+      "text": "Cross-functional stakeholders were engaged to create alignment for a coordinated implementation effort"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Structured problem-solving approach with workshops and data analysis.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three sections highlighting Situation, Approach, and Path Forward.",
+  "layout_type": "Text-heavy",
+  "content_zones": {
+    "Situation": "top",
+    "Approach": "middle",
+    "Path Forward": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Situation",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "Approach",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "Path Forward",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key figures and initiatives"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No chart or pyramid levels present. The infographic type is set to pyramid with no levels because no pyramid structure is present."
+  }
+}

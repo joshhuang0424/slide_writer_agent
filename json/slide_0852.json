@@ -1,0 +1,185 @@
+{
+  "slide_id": "001",
+  "section": "零售業務分析",
+  "purpose": "比較不同銀行的零售客戶AUM總額及私行發展優勢",
+  "narrative_role": "數據分析",
+  "title": "零售客戶AUM總額分析",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "數據驅動分析",
+  "data_points": [],
+  "cta": null,
+  "layout": "複合式",
+  "layout_type": "圖表與表格結合",
+  "content_zones": {
+    "header": "top",
+    "chart": "left",
+    "table": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "textbox",
+      "label": "零售客戶AUM總額",
+      "position": "top-center"
+    },
+    {
+      "type": "textbox",
+      "label": "三個等級：大眾／Affluent／私人",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "商業簡報風格",
+  "color_scheme": {
+    "primary": "黑色",
+    "accent": "橙色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "黑體",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "黑體",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "2017-2021年光大及其對標公司零售客戶AUM總額（億元）",
+    "x_axis_label": "年份",
+    "y_axis": [
+      "AUM總額"
+    ],
+    "values": [
+      {
+        "label": "招商銀行",
+        "data": [
+          40000,
+          50000,
+          60000,
+          70000,
+          80000
+        ]
+      },
+      {
+        "label": "中國銀行",
+        "data": [
+          20000,
+          25000,
+          30000,
+          35000,
+          40000
+        ]
+      },
+      {
+        "label": "平安銀行",
+        "data": [
+          15000,
+          20000,
+          25000,
+          30000,
+          35000
+        ]
+      },
+      {
+        "label": "光大銀行",
+        "data": [
+          10000,
+          15000,
+          20000,
+          25000,
+          30000
+        ]
+      },
+      {
+        "label": "民生銀行",
+        "data": [
+          5000,
+          10000,
+          15000,
+          20000,
+          25000
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "公司年報"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "私行客戶AUM總額及排名",
+      "description": "比較各銀行私行客戶AUM總額及其在零售中的比例及排名",
+      "headers": [
+        "銀行",
+        "私行客戶AUM總額（億元）",
+        "私行AUM/零售AUM",
+        "私行/零售排名"
+      ],
+      "rows": [
+        {
+          "row_label": "招商銀行",
+          "cells": [
+            "招商銀行",
+            "33,939",
+            "31.54%",
+            "2"
+          ]
+        },
+        {
+          "row_label": "中國銀行",
+          "cells": [
+            "中國銀行",
+            "21,600",
+            "26.71%",
+            "3"
+          ]
+        },
+        {
+          "row_label": "平安銀行",
+          "cells": [
+            "平安銀行",
+            "14,069",
+            "44.18%",
+            "1"
+          ]
+        },
+        {
+          "row_label": "光大銀行",
+          "cells": [
+            "光大銀行",
+            "5,322",
+            "25.43%",
+            "4"
+          ]
+        },
+        {
+          "row_label": "民生銀行",
+          "cells": [
+            "民生銀行",
+            "5,011",
+            "24.61%",
+            "5"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "此頁面主要是數據圖表與表格，沒有明確的bullet points"
+  }
+}

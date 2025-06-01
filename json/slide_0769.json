@@ -1,0 +1,133 @@
+{
+  "slide_id": "10",
+  "section": "Sustainability",
+  "purpose": "To highlight the main driver for score improvement in 2020.",
+  "narrative_role": "Informative",
+  "title": "2020 score improvement main driver was new targets",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Emphasize the impact of new targets on sustainability scores.",
+  "data_points": [
+    "Overall score: 4",
+    "Targets: 9",
+    "Culture: 1",
+    "Transparency & Reporting: 3",
+    "Sustainable sourcing: 4",
+    "CO2 & energy intensity: 4",
+    "Circular economy & waste: 2",
+    "Customer enablement: 5"
+  ],
+  "cta": null,
+  "layout": "Horizontal bar chart with annotations",
+  "layout_type": "Chart",
+  "content_zones": {
+    "title_zone": "Top center",
+    "chart_zone": "Center",
+    "annotation_zone": "Below chart"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use green for highlights"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Dark green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Average score Δ 2020-2019",
+    "x_axis_label": "",
+    "y_axis": [
+      "Score"
+    ],
+    "values": [
+      {
+        "label": "Overall score",
+        "value": 4
+      },
+      {
+        "label": "Targets",
+        "value": 9
+      },
+      {
+        "label": "Culture",
+        "value": 1
+      },
+      {
+        "label": "Transparency & Reporting",
+        "value": 3
+      },
+      {
+        "label": "Sustainable sourcing",
+        "value": 4
+      },
+      {
+        "label": "CO2 & energy intensity",
+        "value": 4
+      },
+      {
+        "label": "Circular economy & waste",
+        "value": 2
+      },
+      {
+        "label": "Customer enablement",
+        "value": 5
+      }
+    ],
+    "annotations": [
+      {
+        "label": "~50% operators introduced new targets for emission reduction (primarily scope 1 & 2) or for waste reduction",
+        "position": "Targets"
+      },
+      {
+        "label": "CDP rating decreased/increased for ~25% of telcos each. Detailing of env. data and external assurance has improved for some telcos",
+        "position": "Transparency & Reporting"
+      },
+      {
+        "label": "Integration of sustainability in supplier selection improved for ~30% of telcos",
+        "position": "Sustainable sourcing"
+      },
+      {
+        "label": "Waste over IP traffic indicator increased for 65% of telcos, while waste over customers only for 35%. Mobile phone collection indicator decreased for 30% of telcos, improved only for 20%",
+        "position": "Circular economy & waste"
+      },
+      {
+        "label": "Energy use/emissions over IP traffic criteria has improved for 80% of telcos due to increasing traffic, while emissions/energy over customers only improved for 30-60%",
+        "position": "CO2 & energy intensity"
+      },
+      {
+        "label": "Green initiatives & R&D expenditure improved for ~25% of telcos, 10% of telcos improved cust. enablement reporting",
+        "position": "Customer enablement"
+      }
+    ],
+    "source": "BCG Sustainability in Telco Index 2020, N=22"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid or additional tables detected."
+  }
+}

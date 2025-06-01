@@ -1,0 +1,124 @@
+{
+  "slide_id": "95",
+  "section": "Compensation Plans",
+  "purpose": "Highlight pitfalls and best practices in designing compensation plans.",
+  "narrative_role": "informative",
+  "title": "Pitfalls to be aware of when designing compensation plans",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column table",
+  "layout_type": "table",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "source": "bottom left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "title in green font"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Pitfalls and Best Practices",
+      "description": "Comparison of potential pitfalls and best practice principals.",
+      "headers": [
+        "Potential pitfalls",
+        "Best practice principals"
+      ],
+      "rows": [
+        {
+          "row_label": "Weak focus on TSR",
+          "cells": [
+            "Use of proxy metrics not well correlated with TSR such as EPS growth, revenue growth",
+            "Incorporate TSR/iTSR as metric and target setting device in incentive system"
+          ]
+        },
+        {
+          "row_label": "Short term orientation",
+          "cells": [
+            "Lack of reward for well thought through investing for long term success",
+            "Ensure long term results strongly incorporated into incentives & intelligent investing for the future is encouraged"
+          ]
+        },
+        {
+          "row_label": "Asymmetric risks",
+          "cells": [
+            "Executives rewarded for short term performance even if it creates risks to business long term",
+            "Use holistic measures such a iTSR balanced with long term horizons"
+          ]
+        },
+        {
+          "row_label": "Internally focused",
+          "cells": [
+            "Internal stretch may not equal external expectations",
+            "Use TSR benchmarks along with portfolio roles & business potential to set external expectations & performance targets"
+          ]
+        },
+        {
+          "row_label": "Wrong targets",
+          "cells": [
+            "Employees either coasting or giving up because targets are too low or too high",
+            "Set targets based on an appropriate TSR success goals, business roles and potential"
+          ]
+        },
+        {
+          "row_label": "High complexity",
+          "cells": [
+            "Compensation metrics not transparent and/or based on too many variables to be sufficiently understood or managed",
+            "Identify minimum number of high priority metrics(e.g. iTSR) that are linked and transparent to executives"
+          ]
+        },
+        {
+          "row_label": "Weak governance",
+          "cells": [
+            "Inconsistent application of incentives, frequent expectations, little respect for rules",
+            "Design and stick with a system, enforce equally throughout, modify rarely"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font family not specified in the image.",
+    "source": "Source: BCG analysis"
+  }
+}

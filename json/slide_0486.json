@@ -1,0 +1,111 @@
+{
+  "slide_id": "11",
+  "section": "Phase 0",
+  "purpose": "To understand emerging trends and technologies in retail banking and payments.",
+  "narrative_role": "Introduction",
+  "title": "Better understand emerging trends and technologies in retail banking and payments, including current competitive offerings and gaps in digital capabilities",
+  "bullets": [
+    {
+      "highlight": "digital self-service & payments",
+      "text": "What are the key trends in digital self-service & payments that are most pertinent?"
+    },
+    {
+      "highlight": "innovative trends in retail banking",
+      "text": "What are the innovative trends in retail banking such as artificial intelligence, risk management, etc.?"
+    },
+    {
+      "highlight": "adoption of emerging platforms",
+      "text": "What are main barriers and challenges to adoption of emerging platforms?"
+    },
+    {
+      "highlight": "future proofing",
+      "text": "What are the key vectors of “future proofing” required by retail banks?"
+    },
+    {
+      "highlight": "define a path forward",
+      "text": "How can financial institutions define a path forward with constant new developments?"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Question-based exploration",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and content with infographic",
+  "layout_type": "Informative",
+  "content_zones": {
+    "left": "Digital trends and landscape report description",
+    "right": "Main questions and icons"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "phone",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "network",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "barrier",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "strategy",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "path",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold key terms"
+  },
+  "design_language": "Modern, professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid elements present on this slide."
+  }
+}

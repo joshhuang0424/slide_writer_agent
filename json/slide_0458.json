@@ -1,0 +1,133 @@
+{
+  "slide_id": "7",
+  "section": "CEM Programs",
+  "purpose": "To present CEM packaged engagements and their costs.",
+  "narrative_role": "Informative",
+  "title": "CEM Packaged Engagements",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Cost breakdown of different CEM engagements.",
+  "data_points": [
+    "$200K",
+    "$45K",
+    "$45K-$280",
+    "$45K / $200K",
+    "$35K / $52K / $150",
+    "$80K + ClickFox",
+    "$1 MILLION+"
+  ],
+  "cta": null,
+  "layout": "infographic",
+  "layout_type": "two_column",
+  "content_zones": {
+    "left": [
+      "CEM Design Engine",
+      "CEM Design Engine Light",
+      "Onboarding Design Engine",
+      "Journey Design Engine"
+    ],
+    "right": [
+      "Journey Mapping",
+      "Journey Analytics"
+    ]
+  },
+  "visual_elements": [
+    {
+      "type": "hexagon",
+      "label": "CEM Design Engine $200K",
+      "position": "left"
+    },
+    {
+      "type": "hexagon",
+      "label": "CEM Design Engine Light $45K",
+      "position": "left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Onboarding Design Engine $45K-$280",
+      "position": "left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Journey Design Engine $45K / $200K",
+      "position": "left"
+    },
+    {
+      "type": "hexagon",
+      "label": "Journey Mapping $35K / $52K / $150",
+      "position": "right"
+    },
+    {
+      "type": "hexagon",
+      "label": "Journey Analytics $80K + ClickFox",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main program cost"
+  },
+  "design_language": "Modern, corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "CEM Design Engine $200K"
+      },
+      {
+        "id": "L1",
+        "label": "CEM Design Engine Light $45K"
+      },
+      {
+        "id": "L2",
+        "label": "Onboarding Design Engine $45K-$280"
+      },
+      {
+        "id": "L3",
+        "label": "Journey Design Engine $45K / $200K"
+      },
+      {
+        "id": "L4",
+        "label": "Journey Mapping $35K / $52K / $150"
+      },
+      {
+        "id": "L5",
+        "label": "Journey Analytics $80K + ClickFox"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slide_id": "21",
+  "section": "Phase 1: Design",
+  "purpose": "To outline the approach and elements involved in defining a Target State vision using the CEP Model.",
+  "narrative_role": "Descriptive",
+  "title": "Defining the Target State",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Developed a Target State vision based on the CEP Model and tailored to the bank’s unique culture"
+    },
+    {
+      "highlight": "",
+      "text": "Defined 8 principles that encompass the values and initiatives of CEP, in the clients’ words and signed by First Interstate executives"
+    },
+    {
+      "highlight": "",
+      "text": "Transformed the Target State vision into a strategic Roadmap that became the execution playbook for Phases 2 and 3, including:"
+    },
+    {
+      "highlight": "",
+      "text": "CEP foundational tasks"
+    },
+    {
+      "highlight": "",
+      "text": "Immediate opportunities to address First Interstate’s specific client experience pain points"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Logical sequencing of steps involved in defining the Target State.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text with visual",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Textual content outlining Target State, Guiding Principles, and Roadmap",
+    "right": "Image of Guiding Principles document"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Phase 1: Design",
+      "position": "top"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for headings"
+  },
+  "design_language": "Professional and structured with emphasis on phases",
+  "color_scheme": {
+    "primary": "Red",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are unknown due to image quality."
+  }
+}

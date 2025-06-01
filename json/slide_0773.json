@@ -1,0 +1,220 @@
+{
+  "slide_id": "14",
+  "section": "Dimension 1",
+  "purpose": "Evaluate commitment to sustainability among different players.",
+  "narrative_role": "Present data on sustainability indicators.",
+  "title": "Commitment to sustainability",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [
+    "Share of CEO var. remuneration on sustainability",
+    "Prominence of sustainability in publications",
+    "Clear overall sustainability responsibility",
+    "Level of position responsible for climate-related issues",
+    "Breadth of responsibility distribution",
+    "Type of Monitoring of sustainability activities"
+  ],
+  "cta": null,
+  "layout": "table",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top-center",
+    "table": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "25%",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Indicator Metrics",
+      "description": "Metrics evaluating sustainability commitment across players.",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 11",
+        "Player 12",
+        "Player 13",
+        "Player 14",
+        "Player 15",
+        "Player 16",
+        "Player 17",
+        "Player 18",
+        "Player 19",
+        "Player 20",
+        "Player 21"
+      ],
+      "rows": [
+        {
+          "row_label": "Share of CEO var. remuneration on sustainability",
+          "cells": [
+            "5%",
+            "20",
+            "0",
+            "0",
+            "0",
+            "0",
+            "60",
+            "60",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Prominence of sustainability in publications",
+          "cells": [
+            "3%",
+            "0",
+            "60",
+            "80",
+            "60",
+            "40",
+            "40",
+            "100",
+            "40",
+            "40",
+            "0",
+            "60"
+          ]
+        },
+        {
+          "row_label": "Clear overall sustainability responsibility",
+          "cells": [
+            "3%",
+            "100",
+            "100",
+            "100",
+            "100",
+            "50",
+            "100",
+            "100",
+            "75",
+            "50",
+            "0",
+            "100"
+          ]
+        },
+        {
+          "row_label": "Level of position responsible for climate-related issues",
+          "cells": [
+            "3%",
+            "100",
+            "75",
+            "75",
+            "100",
+            "75",
+            "75",
+            "100",
+            "75",
+            "75",
+            "0",
+            "75"
+          ]
+        },
+        {
+          "row_label": "Breadth of responsibility distribution",
+          "cells": [
+            "3%",
+            "100",
+            "50",
+            "75",
+            "100",
+            "50",
+            "50",
+            "100",
+            "50",
+            "50",
+            "0",
+            "100"
+          ]
+        },
+        {
+          "row_label": "Breadth of responsibility distribution",
+          "cells": [
+            "3%",
+            "50",
+            "50",
+            "75",
+            "100",
+            "75",
+            "100",
+            "100",
+            "75",
+            "100",
+            "0",
+            "25"
+          ]
+        },
+        {
+          "row_label": "Type of Monitoring of sustainability activities",
+          "cells": [
+            "3%",
+            "0",
+            "0",
+            "0",
+            "50",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or pyramid infographics present. Purpose, narrative role, and design language inferred from slide context."
+  }
+}

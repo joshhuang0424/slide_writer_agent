@@ -1,0 +1,161 @@
+{
+  "slide_id": "04",
+  "section": "Validation and finalization of proposition",
+  "purpose": "To compare loyalty programs and validate proposition B for Bank X.",
+  "narrative_role": "Informative",
+  "title": "Validation and finalization of proposition",
+  "bullets": [],
+  "supporting_facts": [
+    "Highlight the best practice for each factor.",
+    "After loyalty implementation, Bank X has a competitive loyalty program."
+  ],
+  "reasoning_strategy": "Benchmarking",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column table comparison",
+  "layout_type": "table-based",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight best practices"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Benchmarking Bank X after implementing loyalty proposition B",
+      "description": "Comparison of key factors across banks",
+      "headers": [
+        "Bank A",
+        "Bank B",
+        "Bank C",
+        "Bank D",
+        "Bank X (Old)",
+        "Bank X (New)"
+      ],
+      "rows": [
+        {
+          "row_label": "Give back rate",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Annual fees",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Fee waiver",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Bonus points",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Redemption options",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Redemption channels",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Other features*",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid with highlighted cells"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image. The table has placeholders instead of actual data points."
+  }
+}

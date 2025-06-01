@@ -1,0 +1,85 @@
+{
+  "slide_id": "50",
+  "section": "BCG股东价值咨询",
+  "purpose": "展示BCG在股东价值咨询领域的领导地位",
+  "narrative_role": "说明",
+  "title": "BCG是股东价值咨询领域的先驱",
+  "bullets": [
+    {
+      "highlight": "BCG在帮助客户实现股东价值最大化方面业绩卓著",
+      "text": "实现10-30%的短期市值增长以及长期股东总回报（TSR）提升"
+    },
+    {
+      "highlight": "BCG能够模拟股东价值",
+      "text": "包括TSR、股价、市盈率、市值等指标"
+    },
+    {
+      "highlight": "BCG运用专有的实用数据库工具",
+      "text": "分析资本市场的客户特性，提出方案"
+    },
+    {
+      "highlight": "多位CEO、CFO可为BCG TSR方法论应用案例及业务影响提供以往项目经验参考",
+      "text": ""
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过展示BCG的工具和方法论，强调其在股东价值咨询中的领导地位",
+  "data_points": [],
+  "cta": null,
+  "layout": "标题和项目符号列表",
+  "layout_type": "文本主导",
+  "content_zones": {
+    "title_zone": "top",
+    "bullet_zone": "middle"
+  },
+  "visual_elements": [
+    {
+      "type": "checkmark",
+      "label": "确认项目",
+      "position": "left of each bullet"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "高亮部分使用黄色"
+  },
+  "design_language": "专业和现代",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#FFD700",
+    "background": "#2D2D2D"
+  },
+  "font": {
+    "title": {
+      "font_family": "Microsoft YaHei",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Microsoft YaHei",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "没有图表或表格，仅有文本和简单的视觉元素"
+}

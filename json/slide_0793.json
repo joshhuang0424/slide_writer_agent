@@ -1,0 +1,121 @@
+{
+  "slide_id": "7",
+  "section": "Incentives",
+  "purpose": "To showcase various country-specific incentives for xEV sales.",
+  "narrative_role": "Informative",
+  "title": "Countries have set various ways to incentivize xEV sales",
+  "bullets": [
+    {
+      "highlight": "$7.5K",
+      "text": "per purchase of full BEV, credits are less for PHEV (~5K), federal tax credit"
+    },
+    {
+      "highlight": "€4K",
+      "text": "rebate for BEV and €3K for PHEV"
+    },
+    {
+      "highlight": "€6.3K",
+      "text": "for CO2 20g emissions or less"
+    },
+    {
+      "highlight": "100%",
+      "text": "BEVs exempt from purchase tax (up to 100%) and VAT"
+    },
+    {
+      "highlight": "$17K",
+      "text": "(RMB ~55K) national rebate, RMB 30K for a PHEV"
+    },
+    {
+      "highlight": "$8.5K",
+      "text": "subsidy based on purchase price and benefit from ICE alternative"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top",
+    "bullets": "below title",
+    "flags": "above bullets"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "USA",
+      "position": "top-left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "top-center-left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "top-center"
+    },
+    {
+      "type": "flag",
+      "label": "Norway",
+      "position": "top-center-right"
+    },
+    {
+      "type": "flag",
+      "label": "China",
+      "position": "top-right"
+    },
+    {
+      "type": "flag",
+      "label": "Japan",
+      "position": "top-far-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight important numbers"
+  },
+  "design_language": "minimalist",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "none",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts detected; infographic structure not applicable."
+  }
+}

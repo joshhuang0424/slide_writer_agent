@@ -1,0 +1,67 @@
+{
+  "slide_id": "4",
+  "section": "Introduction",
+  "purpose": "To transition focus towards impact measurement.",
+  "narrative_role": "Transition",
+  "title": "Shift Focus to Impact",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Emphasis on the change of focus",
+  "data_points": [],
+  "cta": null,
+  "layout": "image-text",
+  "layout_type": "visual_emphasis",
+  "content_zones": {
+    "left": "Image of a tree held in hands",
+    "right": "Text emphasizing focus on Impact"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Tree in hands",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color for emphasis"
+  },
+  "design_language": "Clean and impactful",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "Font details are not specified in the image."
+}

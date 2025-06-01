@@ -1,0 +1,141 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Showcase the coverage of BCG Telco Sustainability Index across different regions.",
+  "narrative_role": "Informative",
+  "title": "BCG Telco Sustainability Index covers 20+ telcos across regions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization by region",
+  "data_points": [],
+  "cta": null,
+  "layout": "four-column",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top",
+    "columns": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "centered title"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "gray",
+    "background": "dark"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "List of telecom companies by region.",
+      "headers": [
+        "Europe",
+        "Europe & Other",
+        "North America",
+        "Asia & Middle East"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "orange",
+            "T-Mobile",
+            "Verizon",
+            "axiata"
+          ]
+        },
+        {
+          "cells": [
+            "swisscom",
+            "Deutsche Telekom",
+            "AT&T",
+            "China Telecom"
+          ]
+        },
+        {
+          "cells": [
+            "proximus",
+            "Telenor",
+            "Rogers",
+            "Telstra"
+          ]
+        },
+        {
+          "cells": [
+            "BT",
+            "Telefónica",
+            "",
+            "NTT"
+          ]
+        },
+        {
+          "cells": [
+            "kpn",
+            "Vodafone",
+            "",
+            "Singtel"
+          ]
+        },
+        {
+          "cells": [
+            "Telia",
+            "",
+            "",
+            "MTS"
+          ]
+        },
+        {
+          "cells": [
+            "TIM",
+            "",
+            "",
+            "stc"
+          ]
+        },
+        {
+          "cells": [
+            "A1",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "plain"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "Infographic pyramid is not present in the slide."
+}

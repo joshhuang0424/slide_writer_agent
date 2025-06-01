@@ -1,0 +1,199 @@
+{
+  "slide_id": "6",
+  "section": "线上营销策略",
+  "purpose": "分析线上商户在跨境消费、质量和高活跃客户中的作用",
+  "narrative_role": "分析与策略建议",
+  "title": "线上商户权益、营销活动选取策略",
+  "bullets": [
+    {
+      "highlight": "最大",
+      "text": "过去一年总消费额最大的线上商户"
+    },
+    {
+      "highlight": "高价值客户",
+      "text": "线上首刷商户中带来高价值客户商户"
+    },
+    {
+      "highlight": "最多人",
+      "text": "细探高活跃客户中最多人进行消费商户"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过分析过去消费数据和客户质量，识别出最佳的商户以优化线上营销活动。",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with tables and bullets",
+  "layout_type": "mixed",
+  "content_zones": {
+    "header": "线上商户权益、营销活动选取策略",
+    "left_column": "关键问题与分析方法",
+    "right_column": "重点商户分析"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "数字和关键词强调"
+  },
+  "design_language": "corporate with emphasis on key metrics",
+  "color_scheme": {
+    "primary": "#FF6600",
+    "accent": "#000000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "过去一年总消费额最大的商户",
+      "headers": [
+        "商户名称",
+        "过去一年总消费额"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "AMAZON",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "APPLE",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "GOOGLE",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "UBER",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "AIRBNB",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom left",
+      "render_style": ""
+    },
+    {
+      "title": "",
+      "description": "预测首刷一年后卡均消费的商户",
+      "headers": [
+        "商户名称",
+        "预测首刷一年后卡均消费"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "UBER EATS",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "OPTUS",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "VODAFONE",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "THETRAINLINE",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom center",
+      "render_style": ""
+    },
+    {
+      "title": "",
+      "description": "过去一年高活跃客户数的商户",
+      "headers": [
+        "商户名称",
+        "过去一年高活跃客户数"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "AMAZON",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "UBER",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "THETRAINLINE",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "UBER EATS",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "AMAZON MARKETPLACE",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "图表类型无法明确识别"
+  }
+}

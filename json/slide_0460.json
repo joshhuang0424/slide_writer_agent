@@ -1,0 +1,120 @@
+{
+  "slide_id": "9",
+  "section": "Design Engine",
+  "purpose": "Overview of the design thinking approach with key outputs.",
+  "narrative_role": "Informative",
+  "title": "Design Engine | Design Thinking Approach with Key Outputs",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Process explanation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic and outputs",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "3-Day process overview with steps",
+    "right": "Key outputs descriptions"
+  },
+  "visual_elements": [
+    {
+      "type": "triangle",
+      "label": "EMPATHIZE",
+      "position": "left"
+    },
+    {
+      "type": "triangle",
+      "label": "IDEATE",
+      "position": "center-left"
+    },
+    {
+      "type": "triangle",
+      "label": "TEST",
+      "position": "center"
+    },
+    {
+      "type": "triangle",
+      "label": "DEFINE",
+      "position": "center-right"
+    },
+    {
+      "type": "triangle",
+      "label": "DESIGN",
+      "position": "right"
+    },
+    {
+      "type": "triangle",
+      "label": "IMPLEMENT",
+      "position": "far-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for key terms"
+  },
+  "design_language": "Modern and professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "red",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "EMPATHIZE"
+      },
+      {
+        "id": "L1",
+        "label": "IDEATE"
+      },
+      {
+        "id": "L2",
+        "label": "TEST"
+      },
+      {
+        "id": "L3",
+        "label": "DEFINE"
+      },
+      {
+        "id": "L4",
+        "label": "DESIGN"
+      },
+      {
+        "id": "L5",
+        "label": "IMPLEMENT"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

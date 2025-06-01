@@ -1,0 +1,98 @@
+{
+  "slide_id": "99",
+  "section": "Implementation",
+  "purpose": "Explain the journey to strong TSR",
+  "narrative_role": "Informative",
+  "title": "Creating a strong TSR is typically a multi year journey",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Recognize TSR as a useful management tool"
+    },
+    {
+      "highlight": "",
+      "text": "Establish goals, metrics, aspirations & capabilities"
+    },
+    {
+      "highlight": "",
+      "text": "Key management practices tied to TSR"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column with icons",
+  "layout_type": "Narrative",
+  "content_zones": {
+    "left": "Recognize TSR as a useful management tool",
+    "center": "Establish goals, metrics, aspirations & capabilities",
+    "right": "Key management practices tied to TSR"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "eye",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "target",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "chess knight",
+      "position": "right"
+    },
+    {
+      "type": "arrow",
+      "label": "iTSR implementation",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of colors for section titles"
+  },
+  "design_language": "Corporate, minimalistic",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "pink",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or table detected. Text structured in narrative columns with bullet points."
+  }
+}

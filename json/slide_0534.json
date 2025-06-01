@@ -1,0 +1,107 @@
+{
+  "slide_id": "25",
+  "section": "Data Management",
+  "purpose": "Explain the role of Data and MIS in fraud management.",
+  "narrative_role": "Informative",
+  "title": "Data and MIS is a critical component in understanding fraud performance – all based on data",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "Investigates new patterns of emerging threats using confirmed fraud transactions and authorization patterns."
+    },
+    {
+      "highlight": null,
+      "text": "Identifies new compromises through point of compromise (POC) analysis; feedback loop to operations and rules development analysts to inform of new trends and threats."
+    },
+    {
+      "highlight": null,
+      "text": "Develops and maintains authorization rules based on statistically valid analysis that adheres to organization’s risk appetite."
+    },
+    {
+      "highlight": null,
+      "text": "Rules should be managed daily to tweak based on current threats and changing performance of each rule."
+    },
+    {
+      "highlight": null,
+      "text": "Outbound and inbound center that reviews fraud alerts, contacts customers and responds to customer calls through a combination of manual and automated interaction."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic with text",
+  "layout_type": "visual-centric",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "text": "around infographic"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "bold for key points"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Analytics & Reporting"
+      },
+      {
+        "id": "L1",
+        "label": "Rule, Creation & Monitoring"
+      },
+      {
+        "id": "L2",
+        "label": "Fraud Operations & Alert Management"
+      },
+      {
+        "id": "L3",
+        "label": "Recoveries & Chargeback"
+      },
+      {
+        "id": "L4",
+        "label": "Investigation & POC"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts are present; infographic provides structure."
+  }
+}

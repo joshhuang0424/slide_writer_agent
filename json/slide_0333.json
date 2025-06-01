@@ -1,0 +1,121 @@
+{
+  "slide_id": "34",
+  "section": "Case Study",
+  "purpose": "To present a case study on fraud capabilities revamping for a European issuer.",
+  "narrative_role": "Informative",
+  "title": "Case Study: Fraud capabilities revamping for a European issuer",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Conduct expert analysis based on spend policy rules and real-time fraud scoring and detection"
+    },
+    {
+      "highlight": "2",
+      "text": "Using Decision Tree methodology identify the prevalent fraud patterns and select best performing rules"
+    },
+    {
+      "highlight": "3",
+      "text": "Leverage internal and external risk scores and combine with Decision Intelligence score for enhanced impact"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of decision tree methodology to improve fraud detection and rule optimization.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Text and Infographic",
+  "content_zones": {
+    "left": "Text content including background, problem statement, and executed solutions.",
+    "right": "Infographic showing decision tree and results with visual elements."
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Decision Tree",
+      "position": "right"
+    },
+    {
+      "type": "infographic",
+      "label": "Results",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold and color for emphasis"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Results",
+      "description": "Comparison of new and existing rules in fraud detection.",
+      "headers": [
+        "Transactions",
+        "Capture Rate",
+        "Declines",
+        "Alerts"
+      ],
+      "rows": [
+        {
+          "row_label": "Existing Rules",
+          "cells": [
+            "1,754",
+            "2%",
+            "2%",
+            "0%"
+          ]
+        },
+        {
+          "row_label": "New Rules",
+          "cells": [
+            "34,153",
+            "46%",
+            "22%",
+            "10%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic detected; data points not specified explicitly."
+  }
+}

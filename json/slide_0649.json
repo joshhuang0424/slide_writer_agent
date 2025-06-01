@@ -1,0 +1,200 @@
+{
+  "slide_id": "3",
+  "section": "Underrepresentation",
+  "purpose": "To analyze the underrepresentation of Black workers in certain industries.",
+  "narrative_role": "Informative",
+  "title": "Underrepresentation of Black workers in faster-growing, higher-wage industries",
+  "bullets": [
+    {
+      "highlight": "Nearly 50%",
+      "text": "of all Black workers work in 3 industries:"
+    },
+    {
+      "highlight": "",
+      "text": "Healthcare"
+    },
+    {
+      "highlight": "",
+      "text": "Retail"
+    },
+    {
+      "highlight": "",
+      "text": "Accommodations and Food Service"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and chart",
+  "content_zones": {
+    "left": "Chart with industries by Black representation",
+    "right": "Text description of top industries"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold indicates top 3 industries by Black worker concentration"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#005073",
+    "background": "#001F34"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Workers making >$30k/year, %",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "Source: Bureau of Labor Statistics Occupational Employment Statistics, 2019; US Census Bureau American Community Survey, 2019; Moody’s Analytics"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Industries by Black representation % of Black workers, 2019",
+      "description": "Shows overrepresented and underrepresented industries",
+      "headers": [
+        "Industry",
+        "% of Black workers",
+        "Workers making >$30k/year, %"
+      ],
+      "rows": [
+        {
+          "row_label": "Healthcare",
+          "cells": [
+            "15.4%",
+            "71%"
+          ]
+        },
+        {
+          "row_label": "Transportation",
+          "cells": [
+            "15.3%",
+            "81%"
+          ]
+        },
+        {
+          "row_label": "Administrative",
+          "cells": [
+            "14.7%",
+            "67%"
+          ]
+        },
+        {
+          "row_label": "Retail",
+          "cells": [
+            "12.7%",
+            "36%"
+          ]
+        },
+        {
+          "row_label": "Personal services",
+          "cells": [
+            "12.7%",
+            "40%"
+          ]
+        },
+        {
+          "row_label": "Accom. & food service",
+          "cells": [
+            "12.7%",
+            "21%"
+          ]
+        },
+        {
+          "row_label": "Arts, entertainment, & rec",
+          "cells": [
+            "12.2%",
+            "53%"
+          ]
+        },
+        {
+          "row_label": "Finance",
+          "cells": [
+            "9.9%",
+            "95%"
+          ]
+        },
+        {
+          "row_label": "Education",
+          "cells": [
+            "9.8%",
+            "93%"
+          ]
+        },
+        {
+          "row_label": "Management",
+          "cells": [
+            "9.6%",
+            "94%"
+          ]
+        },
+        {
+          "row_label": "Utilities",
+          "cells": [
+            "9.0%",
+            "95%"
+          ]
+        },
+        {
+          "row_label": "Professional services",
+          "cells": [
+            "8.9%",
+            "95%"
+          ]
+        },
+        {
+          "row_label": "Information",
+          "cells": [
+            "8.5%",
+            "92%"
+          ]
+        },
+        {
+          "row_label": "Construction",
+          "cells": [
+            "7.5%",
+            "97%"
+          ]
+        },
+        {
+          "row_label": "Mining",
+          "cells": [
+            "6.5%",
+            "96%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "horizontal bar chart"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slide_id": "15",
+  "section": "conclusion",
+  "purpose": "Provide a call to action",
+  "narrative_role": "Informative",
+  "title": "",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": "Get the latest on McKinsey perspectives on cloud at http://cloud.mckinsey.com",
+  "layout": "centered text",
+  "layout_type": "single message",
+  "content_zones": {
+    "main_text": {
+      "position": "center",
+      "content": "Get the latest on McKinsey perspectives on cloud at http://cloud.mckinsey.com"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": "URL emphasized with blue and underline"
+  },
+  "design_language": "minimalist",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font": "The font family and size are not discernible from the image."
+  }
+}

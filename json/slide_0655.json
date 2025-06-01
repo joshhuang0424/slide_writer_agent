@@ -1,0 +1,90 @@
+{
+  "slide_id": "9",
+  "section": "Trust and Diversity",
+  "purpose": "Highlight the trust deficit between Black employees and their companies.",
+  "narrative_role": "Informative",
+  "title": "A trust deficit between Black employees and their companies",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Uses employee quotes and survey data to illustrate trust issues.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "quote and chart",
+  "content_zones": {
+    "left": "Quotes",
+    "right": "Charts"
+  },
+  "visual_elements": [
+    {
+      "type": "quote",
+      "label": "It's a transactional trust; we focus on getting the work done, but we don't actually build genuine relationships.",
+      "position": "left"
+    },
+    {
+      "type": "quote",
+      "label": "I don't share my life, because I feel that others are going to use it against me.",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italic for emphasis"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "Race",
+    "y_axis": [
+      "% of employees"
+    ],
+    "values": [
+      {
+        "label": "Black",
+        "value": 56
+      },
+      {
+        "label": "White",
+        "value": 80
+      },
+      {
+        "label": "Black",
+        "value": 56
+      },
+      {
+        "label": "White",
+        "value": 77
+      }
+    ],
+    "annotations": [],
+    "source": "Race in the Workplace 2021 Participating Company survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family not specified in the image."
+  }
+}

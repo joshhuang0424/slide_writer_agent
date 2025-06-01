@@ -1,0 +1,120 @@
+{
+  "slide_id": "62",
+  "section": "BCG TSR Methodology",
+  "purpose": "To explain BCG's unique TSR methodology and its benefits.",
+  "narrative_role": "Informative",
+  "title": "BCG独有TSR方法论",
+  "bullets": [
+    {
+      "highlight": "BCG TSR方法论基于4,000多场投资者访谈而建立",
+      "text": "提供资本市场观点洞察"
+    },
+    {
+      "highlight": "BCG独有方法论和工具可有效识别股价倍数差异成因",
+      "text": "模拟未来规划、战略方案对TSR的影响"
+    },
+    {
+      "highlight": "BCG通过甄别契合客户业务特性及战略方向的投资者类型",
+      "text": "制定业务、财务和投资者战略"
+    },
+    {
+      "highlight": "BCG拥有独一无二的TSR战略成果",
+      "text": "助力客户创造超咨询费用百倍的市场成效"
+    },
+    {
+      "highlight": "BCG一贯秉承客观、中立的咨询理念",
+      "text": "与客户并肩协作，寻找最佳解决方案"
+    },
+    {
+      "highlight": "BCG TSR方法论旨在促使客户公司全体成员在整体业务运营、管理中以TSR为核心",
+      "text": "将TSR根植固化于企业文化"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of icons and structured sections to convey key points.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Icons with text",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "left": "Title and large arrow",
+    "right": "Icons with text"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Discussion",
+      "position": "top"
+    },
+    {
+      "type": "icon",
+      "label": "Magnifying glass",
+      "position": "upper_middle"
+    },
+    {
+      "type": "icon",
+      "label": "Person",
+      "position": "middle"
+    },
+    {
+      "type": "icon",
+      "label": "Chart",
+      "position": "lower_middle"
+    },
+    {
+      "type": "icon",
+      "label": "Handshake",
+      "position": "bottom"
+    },
+    {
+      "type": "icon",
+      "label": "Network",
+      "position": "bottom_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 6,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text indicates key points."
+  },
+  "design_language": "Modern and professional, using icons and gradients.",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "White",
+    "background": "Dark Green Gradient"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic levels detected; no chart data present."
+  }
+}

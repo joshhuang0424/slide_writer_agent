@@ -1,0 +1,103 @@
+{
+  "slide_id": "1",
+  "section": "目錄",
+  "purpose": "提供整體簡報的目錄概覽",
+  "narrative_role": "導覽",
+  "title": "目錄",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "銀行整體情況理解"
+    },
+    {
+      "highlight": false,
+      "text": "零售銀行整體情況理解"
+    },
+    {
+      "highlight": true,
+      "text": "信用卡業務狀況理解"
+    },
+    {
+      "highlight": false,
+      "text": "信用卡產品組合"
+    },
+    {
+      "highlight": false,
+      "text": "卡組織份額比較（暫無）"
+    },
+    {
+      "highlight": false,
+      "text": "MC卡轉卡與產品相關數據梳理"
+    },
+    {
+      "highlight": false,
+      "text": "近期新發產品與活動梳理"
+    },
+    {
+      "highlight": false,
+      "text": "卡中心組織架構圖（暫無）"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "分段列出各主題，並以縮排顯示次級主題",
+  "data_points": [],
+  "cta": null,
+  "layout": "兩欄",
+  "layout_type": "目錄",
+  "content_zones": {
+    "left": "目錄標題與條目",
+    "right": "品牌標識"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard logo",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "使用加粗和背景色強調主要條目"
+  },
+  "design_language": "簡潔，重點突出",
+  "color_scheme": {
+    "primary": "黑色",
+    "accent": "橙色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "字體資訊未提供，頁面中無明顯的圖表或表格結構。"
+  }
+}

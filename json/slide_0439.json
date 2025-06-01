@@ -1,0 +1,111 @@
+{
+  "slide_id": "30",
+  "section": "Product & Marketing",
+  "purpose": "To illustrate the ownership and impact of P&L in Product & Marketing.",
+  "narrative_role": "Illustrative",
+  "title": "The area of Product & Marketing typically owns the issuer’s P&L",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of cost and income distribution.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two columns with central infographic",
+  "layout_type": "infographic-focused",
+  "content_zones": {
+    "left_column": "Product Construct, Response Modelling / Targeting",
+    "right_column": "Portfolio Marketing, Creative Development",
+    "center_infographic": "Financial flow chart"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Tool and graph icons",
+      "position": "left_column"
+    },
+    {
+      "type": "icon",
+      "label": "Phone and paintbrush icons",
+      "position": "right_column"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key figures"
+  },
+  "design_language": "Corporate, clean lines, structured",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Finance Charges $115"
+      },
+      {
+        "id": "L1",
+        "label": "Transfer Pricing Interest Income $0"
+      },
+      {
+        "id": "L2",
+        "label": "Interest Expense ($47)"
+      },
+      {
+        "id": "L3",
+        "label": "Net Interest Income $68"
+      },
+      {
+        "id": "L4",
+        "label": "Net Credit Losses ($66.7)"
+      },
+      {
+        "id": "L5",
+        "label": "Net Lending Margin $1.3"
+      },
+      {
+        "id": "L6",
+        "label": "Total Other Income $760.8"
+      },
+      {
+        "id": "L7",
+        "label": "Total Costs ($1141)"
+      },
+      {
+        "id": "L8",
+        "label": "Pre-tax Net Income ($379)"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No bullet points or charts present, only infographic and layout details."
+}

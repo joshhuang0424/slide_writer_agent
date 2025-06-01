@@ -1,0 +1,107 @@
+{
+  "slide_id": "15",
+  "section": "Commitment to Racial Justice",
+  "purpose": "Outline actions for racial justice and equity",
+  "narrative_role": "Informative",
+  "title": "Our commitment to racial justice and equity",
+  "bullets": [
+    {
+      "highlight": "Double our Black leadership",
+      "text": "and hiring of Black colleagues in our firm over the next four years"
+    },
+    {
+      "highlight": "Engage our 32,000 colleagues",
+      "text": "in an anti-racism and inclusion program in addition to our existing training on unconscious bias. We will make these materials available publicly for others to use in their own organizations"
+    },
+    {
+      "highlight": "Create a firmwide day of service",
+      "text": "dedicated to understanding racial injustice and giving back to our communities. On that day, we will recognize those who exemplify anti-racism and inclusion"
+    },
+    {
+      "highlight": "Bring to bear the best available expertise",
+      "text": "to help us ensure our processes are free from bias and to support the attraction, development, advancement and retention of Black and diverse colleagues"
+    },
+    {
+      "highlight": "Create a dedicated McKinsey Academy virtual leadership program",
+      "text": "and make it available at no cost to our clients to support rising Black executives. We will also broaden and expand our student internship programs across our firm to help grow more Black leaders"
+    },
+    {
+      "highlight": "Building upon the McKinsey Global Institute",
+      "text": "and our related longstanding research on racial inequities, we will found a Black economic institute to translate insights into practical tools to enable our clients to advance Black economic empowerment and racial equity in the U.S. and beyond"
+    },
+    {
+      "highlight": "Double our spending with diverse suppliers",
+      "text": "within three years"
+    },
+    {
+      "highlight": "Contribute $2 million in cash to Generation",
+      "text": "to launch new programs in the U.S. to train and place Black learners in small and medium-sized Black-owned businesses. Globally, we will double our support for Generation to train and place 40,000 learners in 14 countries, predominantly from under-represented groups"
+    },
+    {
+      "highlight": "Commit $200 million over the next 10 years in pro bono work globally",
+      "text": "to advance racial equity and economic empowerment among Black communities"
+    },
+    {
+      "highlight": "Donate a total of $5 million in cash this year",
+      "text": "to nonprofits working to create educational opportunities and combat racism. The majority of this gift will be directed to organizations to be selected by our McKinsey Black Network colleagues"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Enumerative",
+  "data_points": [],
+  "cta": null,
+  "layout": "Split",
+  "layout_type": "Text and Bullets",
+  "content_zones": {
+    "left": "Title and introductory text",
+    "right": "Bulleted list of actions"
+  },
+  "visual_elements": [
+    {
+      "type": "text box",
+      "label": "Additional detail",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 10,
+    "max_words_per_bullet": 50,
+    "emphasis_rule": "Bold"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#000000",
+    "background": "#002B49"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional charts, tables, or infographics were present. All elements were textual."
+  }
+}

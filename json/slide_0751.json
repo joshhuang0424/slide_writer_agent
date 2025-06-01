@@ -1,0 +1,85 @@
+{
+  "slide_id": "1",
+  "section": "Supply Analysis",
+  "purpose": "To compare memory and non-memory capacity growth with sales from 2019 to 2021.",
+  "narrative_role": "Data Comparison",
+  "title": "On the supply side, non-memory capacity grew by 4% in 2020 (70% of pre-COVID plans) but was insufficient to absorb the demand surge",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of actual vs planned capacity growth and its impact on sales.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column comparison with charts",
+  "layout_type": "visual",
+  "content_zones": {
+    "title": "top",
+    "chart_memory": "left",
+    "chart_non_memory": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "50",
+      "60",
+      "70",
+      "80",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "values": [
+      {
+        "label": "Memory",
+        "data": "line chart with sales and capacity indicators"
+      },
+      {
+        "label": "Non-memory",
+        "data": "line chart with sales and capacity indicators"
+      }
+    ],
+    "annotations": [
+      "Sales growth 10% above capacity growth",
+      "Actual capacity increases in 2020 were ~70% of pre-COVID plans (~4% versus ~6%)"
+    ],
+    "source": "BCG analysis based on Semiconductor Industry Association data from the World Semiconductor Trade Statistics database and Gartner."
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or specific data points are highlighted in the slide."
+  }
+}

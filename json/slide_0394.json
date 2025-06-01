@@ -1,0 +1,101 @@
+{
+  "slide_id": "5",
+  "section": "Analysis Summary",
+  "purpose": "Identify potential customers to spend in selected 5 insurance companies",
+  "narrative_role": "Summary and key findings",
+  "title": "Analysis Summary: Cathay x Insurance",
+  "bullets": [
+    {
+      "highlight": "45% growth",
+      "text": "All test customers without previous spend on selected 5 insurance had a 45% growth after SMS"
+    },
+    {
+      "highlight": "cardholder attributes",
+      "text": "Hundreds of attributes were analyzed like cardholder attributes, spending pattern (RFM), spending by MCC to identify high potential cardholders"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [
+    "140K SMS sent",
+    "1% rebate",
+    "$800 NTD additional"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "summary",
+  "content_zones": {
+    "left": "Objective, image, experiment details",
+    "right": "Key take-aways, chart, key drivers"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Insurance campaign ad",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "growth chart",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "analysis icon",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for key terms"
+  },
+  "design_language": "corporate, clean",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Insurance Spend (NTD)",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "label": "No SMS",
+        "value": "$1.4M"
+      },
+      {
+        "label": "SMS",
+        "value": "$2.0M"
+      }
+    ],
+    "annotations": [
+      "+45%",
+      "+600K"
+    ],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional tables or pyramid structure detected on the slide"
+  }
+}

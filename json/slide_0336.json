@@ -1,0 +1,118 @@
+{
+  "slide_id": "37",
+  "section": "Solution Overview",
+  "purpose": "Introduce tools for market intelligence and advertising insights.",
+  "narrative_role": "Informative",
+  "title": "Local Market Intelligence Tool and Advertising Insights Postal Code Analysis",
+  "bullets": [
+    {
+      "highlight": "Local Market Intelligence Tool:",
+      "text": "Measure store-level performance through a performance dashboard"
+    },
+    {
+      "highlight": "Advertising Insights Postal Code Analysis:",
+      "text": "Reach specific prospect groups through modelled propensity to spend"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Text and Image",
+  "content_zones": {
+    "left": "Local Market Intelligence Tool details and dashboard image",
+    "right": "Advertising Insights and segment descriptions"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Dashboard",
+      "position": "left"
+    },
+    {
+      "type": "text_box",
+      "label": "Example of 170 Standard Segment Descriptions",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for tool names"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Example of 170 Standard Segment Descriptions",
+      "description": "Describes various consumer segments based on spend and transaction propensity.",
+      "headers": [
+        "Segment",
+        "Description"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Spend Propensity (66 Segments)",
+            "Details about spending habits in various categories"
+          ]
+        },
+        {
+          "cells": [
+            "Transaction Propensity (67 Segments)",
+            "Details about transaction habits in various categories"
+          ]
+        },
+        {
+          "cells": [
+            "High Likelihood of Purchase (7 Segments)",
+            "Details about purchase likelihood in specific scenarios"
+          ]
+        },
+        {
+          "cells": [
+            "Seasonal (31 Segments)",
+            "Details about seasonal purchasing trends"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

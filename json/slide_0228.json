@@ -1,0 +1,130 @@
+{
+  "slide_id": "59",
+  "section": "B",
+  "purpose": "展示2018-2022年价值变化及其现金流影响",
+  "narrative_role": "说明",
+  "title": "管理、评估业务组合（2/2）：筛选未来重点发展业务",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "展示历史数据以支持业务发展决策",
+  "data_points": [
+    "2018价值：6,000",
+    "2022价值：8,025",
+    "现金流：3",
+    "资本收益：5",
+    "总TSR：8"
+  ],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "chart_and_table",
+  "content_zones": {
+    "chart": "left",
+    "table": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "note",
+      "label": "HI 25.Jul.22: capital = 1366? cashflow = 659 两者相除capital should be 2.07 times, Not the same as 5/3(1.66)",
+      "position": "top_right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted percentages"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "waterfall",
+    "title": "2018-2022年价值变化，包括累计现金流",
+    "x_axis_label": "年份",
+    "y_axis": [
+      "预估价值/股 (¥)"
+    ],
+    "values": [
+      {
+        "year": "2018",
+        "value": 6000
+      },
+      {
+        "year": "2022",
+        "value": 8025
+      }
+    ],
+    "annotations": [
+      {
+        "value": "19%",
+        "position": "over bar"
+      },
+      {
+        "value": "8%",
+        "position": "over bar"
+      }
+    ],
+    "source": "分析师估计；BCG价值科学中心"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "年度百分比",
+      "description": "展示各项收益的年度百分比",
+      "headers": [
+        "类别",
+        "百分比"
+      ],
+      "rows": [
+        {
+          "row_label": "现金流",
+          "cells": [
+            "现金流",
+            "3"
+          ]
+        },
+        {
+          "row_label": "资本收益",
+          "cells": [
+            "资本收益",
+            "5"
+          ]
+        },
+        {
+          "row_label": "总TSR",
+          "cells": [
+            "总TSR",
+            "8"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "部分信息如图表详细数据可能无法辨别"
+  }
+}

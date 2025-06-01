@@ -1,0 +1,115 @@
+{
+  "slide_id": "1",
+  "section": "Impact of COVID-19",
+  "purpose": "To illustrate the additional pressures faced by senior women due to COVID-19",
+  "narrative_role": "Informative",
+  "title": "Due to COVID-19, senior women have been placed under additional pressure due to caregiving and at-home demands",
+  "bullets": [
+    {
+      "highlight": "54%",
+      "text": "Exhausted"
+    },
+    {
+      "highlight": "39%",
+      "text": "Burned out"
+    },
+    {
+      "highlight": "36%",
+      "text": "Pressured to work more"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two columns with charts and bullet points",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Pie charts illustrating the challenges faced by senior women",
+    "right": "Bullet points with statistics on feelings experienced by senior women"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 5,
+    "emphasis_rule": "Percentage highlights in bold"
+  },
+  "design_language": "Clean and professional",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Light blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16"
+    }
+  },
+  "chart": {
+    "type": "Pie chart",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of senior women's experiences",
+      "headers": [
+        "Category",
+        "Senior men",
+        "Senior women",
+        "All women"
+      ],
+      "rows": [
+        {
+          "row_label": "Onlys of their gender",
+          "cells": [
+            "6%",
+            "19%",
+            "36%"
+          ]
+        },
+        {
+          "row_label": "In dual-career couples",
+          "cells": [
+            "54%",
+            "58%",
+            "39%"
+          ]
+        },
+        {
+          "row_label": "Mothers",
+          "cells": [
+            "54%",
+            "41%"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic levels are empty because there is no pyramid structure in the slide."
+  }
+}

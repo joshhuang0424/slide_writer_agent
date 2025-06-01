@@ -1,0 +1,116 @@
+{
+  "slide_id": "16",
+  "section": "Long-term Strategy",
+  "purpose": "To outline actions for building an equitable and inclusive workplace.",
+  "narrative_role": "Informative",
+  "title": "Long term, take action now to build a more equitable and inclusive workplace to ensure a positive recovery for all",
+  "bullets": [
+    {
+      "highlight": "Develop measurable aspirations and leadership commitments",
+      "text": "Be intentional about which diverse populations you will solve for first"
+    },
+    {
+      "highlight": "",
+      "text": "Establish both internal and external aspirations"
+    },
+    {
+      "highlight": "",
+      "text": "Establish metrics from the start"
+    },
+    {
+      "highlight": "",
+      "text": "Set a DEI governance structure (e.g., task force)"
+    },
+    {
+      "highlight": "Dig into your data to develop a focused plan",
+      "text": "Identify your specific pain points – don’t solve for generic challenges"
+    },
+    {
+      "highlight": "",
+      "text": "Beware of the risk of doing too much without a focused plan"
+    },
+    {
+      "highlight": "Treat DEI success like all other business priorities",
+      "text": "Communicate programming widely"
+    },
+    {
+      "highlight": "",
+      "text": "Align incentives and rewards to aspirations"
+    },
+    {
+      "highlight": "",
+      "text": "Fund DEI programs like you would any other business imperative"
+    },
+    {
+      "highlight": "",
+      "text": "Build allies and champions"
+    },
+    {
+      "highlight": "",
+      "text": "Monitor and manage proactively"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight the importance of targeted actions and monitoring in DEI initiatives.",
+  "data_points": [
+    "Only 50% of companies have a measurable aspiration",
+    "9 out of 10 employees globally say their companies should act externally",
+    "<55% of companies have a quantitative + qualitative diagnostic",
+    "Yet, the majority of companies are doing 15+ things",
+    "DEI falls to the penultimate priority when forced to rank against other business priorities"
+  ],
+  "cta": null,
+  "layout": "Three-column with highlighted statistics",
+  "layout_type": "Text and bullet-heavy",
+  "content_zones": {
+    "left": "Develop measurable aspirations and leadership commitments",
+    "center": "Dig into your data to develop a focused plan",
+    "right": "Treat DEI success like all other business priorities"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for emphasis on key phrases"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "Light blue",
+    "background": "Dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "chart": "No chart present on the slide",
+    "infographic": "No infographic present on the slide"
+  }
+}

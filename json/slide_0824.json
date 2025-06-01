@@ -1,0 +1,98 @@
+{
+  "slide_id": "1",
+  "section": "Policy Recommendations",
+  "purpose": "To outline government strategies for virus containment.",
+  "narrative_role": "Informative",
+  "title": "When cases are stable and manageable, governments can contain the virus with these policies",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of policies",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "multi-column",
+  "content_zones": {
+    "zone_1": "Limit interactions",
+    "zone_2": "Ensure safer interactions",
+    "zone_3": "Protect borders",
+    "zone_4": "Monitor the virus",
+    "zone_5": "Amplify medical response",
+    "zone_6": "Protect the vulnerable"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "people",
+      "position": "top-right of zone_1"
+    },
+    {
+      "type": "icon",
+      "label": "mask",
+      "position": "top-right of zone_2"
+    },
+    {
+      "type": "icon",
+      "label": "globe",
+      "position": "top-right of zone_3"
+    },
+    {
+      "type": "icon",
+      "label": "chart",
+      "position": "top-right of zone_4"
+    },
+    {
+      "type": "icon",
+      "label": "medical",
+      "position": "top-right of zone_5"
+    },
+    {
+      "type": "icon",
+      "label": "umbrella",
+      "position": "top-right of zone_6"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Headings in bold and green"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No data points or tables present; content primarily descriptive."
+  }
+}

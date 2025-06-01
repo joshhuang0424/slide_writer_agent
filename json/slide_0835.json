@@ -1,0 +1,70 @@
+{
+  "slide_id": "1",
+  "section": "title_slide",
+  "purpose": "introduction",
+  "narrative_role": "title",
+  "title": "数据提取建议",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "n/a",
+  "data_points": [],
+  "cta": null,
+  "layout": "simple",
+  "layout_type": "title_only",
+  "content_zones": {
+    "title": "center",
+    "logo": "bottom_left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "n/a"
+  },
+  "design_language": "minimalist",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "body_font_family": "Not specified in the image",
+    "body_font_size": "Not specified in the image"
+  }
+}

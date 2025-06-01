@@ -1,0 +1,275 @@
+{
+  "slide_id": "5",
+  "section": "Global M&A",
+  "purpose": "To present the trend of announced M&A deals from 2008 to 2016.",
+  "narrative_role": "Informative",
+  "title": "Global M&A market, 2008-16",
+  "bullets": [
+    {
+      "highlight": "2016",
+      "text": "In 2016, global M&A activity decreased from 2015 level (-17%), to less than $4 trillion the level close to 2014"
+    },
+    {
+      "highlight": "5%",
+      "text": "Although number of deals only decreased slightly by 5% vs. 2015"
+    },
+    {
+      "highlight": "13%",
+      "text": "Average deal size decreased by 13% (almost the same value as in 2014)"
+    },
+    {
+      "highlight": "",
+      "text": "Relative lack of big deals led to the fall in deal value in 2016"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of yearly trends",
+  "data_points": [
+    "$3,044 bn",
+    "$2,068 bn",
+    "$2,494 bn",
+    "$2,637 bn",
+    "$2,505 bn",
+    "$2,674 bn",
+    "$3,513 bn",
+    "$4,561 bn",
+    "$3,778 bn"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Chart with bullets",
+  "content_zones": {
+    "chart_zone": "left",
+    "bullet_zone": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "line_chart",
+      "label": "Number of deals",
+      "position": "left"
+    },
+    {
+      "type": "bar_chart",
+      "label": "Value, $ bn",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight significant numbers and years"
+  },
+  "design_language": "Professional, data-focused",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "combo",
+    "title": "Announced deals",
+    "x_axis_label": "Year",
+    "y_axis": [
+      {
+        "label": "Value, $ bn",
+        "position": "left"
+      },
+      {
+        "label": "Number of deals",
+        "position": "right"
+      }
+    ],
+    "values": [
+      {
+        "year": "2008",
+        "value_bn": "3,044",
+        "number_of_deals": "8,156"
+      },
+      {
+        "year": "2009",
+        "value_bn": "2,068",
+        "number_of_deals": "5,668"
+      },
+      {
+        "year": "2010",
+        "value_bn": "2,494",
+        "number_of_deals": "7,194"
+      },
+      {
+        "year": "2011",
+        "value_bn": "2,637",
+        "number_of_deals": "7,616"
+      },
+      {
+        "year": "2012",
+        "value_bn": "2,505",
+        "number_of_deals": "7,333"
+      },
+      {
+        "year": "2013",
+        "value_bn": "2,674",
+        "number_of_deals": "6,961"
+      },
+      {
+        "year": "2014",
+        "value_bn": "3,513",
+        "number_of_deals": "7,617"
+      },
+      {
+        "year": "2015",
+        "value_bn": "4,561",
+        "number_of_deals": "8,445"
+      },
+      {
+        "year": "2016",
+        "value_bn": "3,778",
+        "number_of_deals": "8,057"
+      }
+    ],
+    "annotations": [
+      "Includes deals more than $25mn in deal value only"
+    ],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Deal value and number of deals",
+      "description": "Yearly deal value and number of deals with percentage change",
+      "headers": [
+        "Year",
+        "Deal value (bn)",
+        "% change",
+        "Number of deals",
+        "% change",
+        "Average deal value (mn)",
+        "% change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "2008",
+            "3,044",
+            "-32%",
+            "8,156",
+            "-18%",
+            "373",
+            "-18%"
+          ]
+        },
+        {
+          "cells": [
+            "2009",
+            "2,068",
+            "-32%",
+            "5,668",
+            "-31%",
+            "365",
+            "-2%"
+          ]
+        },
+        {
+          "cells": [
+            "2010",
+            "2,494",
+            "21%",
+            "7,194",
+            "27%",
+            "347",
+            "-5%"
+          ]
+        },
+        {
+          "cells": [
+            "2011",
+            "2,637",
+            "6%",
+            "7,616",
+            "6%",
+            "346",
+            "0%"
+          ]
+        },
+        {
+          "cells": [
+            "2012",
+            "2,505",
+            "-5%",
+            "7,333",
+            "-4%",
+            "342",
+            "-1%"
+          ]
+        },
+        {
+          "cells": [
+            "2013",
+            "2,674",
+            "7%",
+            "6,961",
+            "-5%",
+            "384",
+            "12%"
+          ]
+        },
+        {
+          "cells": [
+            "2014",
+            "3,513",
+            "31%",
+            "7,617",
+            "9%",
+            "461",
+            "20%"
+          ]
+        },
+        {
+          "cells": [
+            "2015",
+            "4,561",
+            "30%",
+            "8,445",
+            "11%",
+            "540",
+            "17%"
+          ]
+        },
+        {
+          "cells": [
+            "2016",
+            "3,778",
+            "-17%",
+            "8,057",
+            "-5%",
+            "469",
+            "-13%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No additional pyramid infographic or unique visual elements detected."
+  }
+}

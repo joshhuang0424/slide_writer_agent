@@ -1,0 +1,69 @@
+{
+  "slide_id": "11",
+  "section": "Introduction",
+  "purpose": "Highlight the groups impacted by a certain issue or topic.",
+  "narrative_role": "Title Slide",
+  "title": "Impacted groups",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual emphasis through imagery to establish a connection.",
+  "data_points": [],
+  "cta": null,
+  "layout": "left-image-right-text",
+  "layout_type": "title_with_image",
+  "content_zones": {
+    "title_zone": "left",
+    "image_zone": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Portrait of a person",
+      "position": "right"
+    },
+    {
+      "type": "logo",
+      "label": "McKinsey & Company",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title in bold"
+  },
+  "design_language": "professional, modern",
+  "color_scheme": {
+    "primary": "#ffffff",
+    "accent": "#000000",
+    "background": "#0d1b2a"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "40px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or detailed content are present on this slide; it's primarily a visual introduction with a title."
+  }
+}

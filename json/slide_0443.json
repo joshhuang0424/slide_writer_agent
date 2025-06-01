@@ -1,0 +1,200 @@
+{
+  "slide_id": "34",
+  "section": "Case Study",
+  "purpose": "Evaluate the probable profitability of a new product rollout.",
+  "narrative_role": "Analysis",
+  "title": "Case Study #1: Evaluate the probably profitability of a new product to be rolled out",
+  "bullets": [
+    {
+      "highlight": "Approach",
+      "text": "Utilize account level data to determine who should qualify for new product and leverage their historical performance from the legacy product to forecast anticipated performance & profitability from new product"
+    },
+    {
+      "highlight": "Result",
+      "text": "Client rolled out new WE product in 2018 which has reportedly been well received"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Use of historical data to predict future outcomes",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and table",
+  "content_zones": {
+    "left": "Text description of approach and results",
+    "right": "Financial forecast evaluation table"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italics for emphasis"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Financial Forecast Evaluations",
+      "description": "Comparative table of different financial metrics for product evaluation",
+      "headers": [
+        "Metric",
+        "World Elite 5-Yr Yield BASELINE",
+        "World Elite 5-Yr Yield Losses+20%",
+        "World Elite 5-Yr Yield Losses-20%",
+        "Platinum FIDO 5-Yr Yield BASELINE",
+        "Platinum FIDO 5-Yr Yield Losses+20%",
+        "Platinum FIDO 5-Yr Yield Losses-20%",
+        "Existing Portfolio Runoff BASELINE",
+        "Existing Portfolio Runoff Losses+20%",
+        "Existing Portfolio Runoff Losses-20%"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Net Interest Margin",
+            "9.26%",
+            "9.26%",
+            "9.26%",
+            "13.43%",
+            "13.43%",
+            "13.43%",
+            "$64,217",
+            "$64,217",
+            "$64,217"
+          ]
+        },
+        {
+          "cells": [
+            "Loss Provision",
+            "(2.34%)",
+            "(2.81%)",
+            "(1.87%)",
+            "(7.83%)",
+            "(9.40%)",
+            "(6.26%)",
+            "($23,013)",
+            "($27,615)",
+            "($18,410)"
+          ]
+        },
+        {
+          "cells": [
+            "Miscellaneous Income",
+            "1.46%",
+            "1.46%",
+            "1.46%",
+            "2.82%",
+            "2.82%",
+            "2.82%",
+            "$13,643",
+            "$13,643",
+            "$13,643"
+          ]
+        },
+        {
+          "cells": [
+            "Transaction Income",
+            "2.44%",
+            "2.45%",
+            "2.44%",
+            "(0.59%)",
+            "(0.58%)",
+            "(0.60%)",
+            "$1,135",
+            "$1,188",
+            "$1,082"
+          ]
+        },
+        {
+          "cells": [
+            "Account Acquisition Cost",
+            "(1.11%)",
+            "(1.11%)",
+            "(1.11%)",
+            "(4.74%)",
+            "(4.74%)",
+            "(4.74%)",
+            "$0",
+            "$0",
+            "$0"
+          ]
+        },
+        {
+          "cells": [
+            "Account Servicing & Other Costs",
+            "(7.16%)",
+            "(7.16%)",
+            "(7.16%)",
+            "(10.64%)",
+            "(10.64%)",
+            "(10.64%)",
+            "($48,214)",
+            "($48,214)",
+            "($48,214)"
+          ]
+        },
+        {
+          "cells": [
+            "Contribution Before Tax",
+            "2.54%",
+            "2.08%",
+            "3.00%",
+            "(7.54%)",
+            "(9.10%)",
+            "(5.99%)",
+            "$7,768",
+            "$3,218",
+            "$12,317"
+          ]
+        },
+        {
+          "cells": [
+            "Pre-Tax NPV/New Account",
+            "$99",
+            "$76",
+            "$122",
+            "($104)",
+            "($123)",
+            "($85)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

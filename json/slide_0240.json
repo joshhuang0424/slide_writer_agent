@@ -1,0 +1,69 @@
+{
+  "slide_id": "71",
+  "section": "Performance Analysis",
+  "purpose": "To compare the share price performance of a company and its competitors using a regression model.",
+  "narrative_role": "Analytical Comparison",
+  "title": "Regression model closely tracks performance of a company and its reference set",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual comparison using line and bar charts.",
+  "data_points": [],
+  "cta": null,
+  "layout": "four-chart grid",
+  "layout_type": "grid",
+  "content_zones": {
+    "top_left": "Client share price chart",
+    "top_right": "Competitor 1 share price chart",
+    "bottom_left": "Competitor 2 share price chart",
+    "bottom_right": "Competitor 3 share price chart"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Color and size emphasis on chart elements"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "line and bar",
+    "title": "Client and Competitors Share Price",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Share price ($)"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "Compustat; BCG ValueScience Center"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No specific bullet points or data points are highlighted in the slide.",
+    "chart_details": "Charts show share price with annual high-low range and FY-end closing price."
+  }
+}

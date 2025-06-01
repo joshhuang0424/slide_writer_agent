@@ -1,0 +1,158 @@
+{
+  "slide_id": "9",
+  "section": "Battery Costs",
+  "purpose": "To show the declining trend of battery costs for BEVs and PHEVs over time.",
+  "narrative_role": "informative",
+  "title": "Battery costs for BEVs and PHEVs, however, are declining fast",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Trend analysis and projections",
+  "data_points": [
+    {
+      "year": 2017,
+      "bcg_base": 150,
+      "bcg_low": 152,
+      "tar": 145,
+      "jp_morgan": 173,
+      "ubs": 159,
+      "lg_gm": 147
+    },
+    {
+      "year": 2020,
+      "bcg_base": 128,
+      "bcg_low": 120,
+      "tar": 128,
+      "jp_morgan": 135,
+      "ubs": 128,
+      "lg_gm": 120
+    },
+    {
+      "year": 2023,
+      "bcg_base": 106,
+      "bcg_low": 97,
+      "tar": 106,
+      "jp_morgan": 106,
+      "ubs": 97,
+      "lg_gm": 97
+    },
+    {
+      "year": 2030,
+      "bcg_base": 90,
+      "bcg_low": 70,
+      "tar": 90,
+      "jp_morgan": 90,
+      "ubs": 90,
+      "lg_gm": 70
+    }
+  ],
+  "cta": null,
+  "layout": "chart with legend",
+  "layout_type": "single chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "legend": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "clean and professional",
+  "color_scheme": {
+    "primary": "#4CAF50",
+    "accent": "#000000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Potential evolution of battery cell costs by 2030",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Cell level ($/kWh)"
+    ],
+    "values": [
+      {
+        "series": "BCG base case projections",
+        "data": [
+          150,
+          128,
+          106,
+          90
+        ]
+      },
+      {
+        "series": "BCG low case projections",
+        "data": [
+          152,
+          120,
+          97,
+          70
+        ]
+      },
+      {
+        "series": "TAR",
+        "data": [
+          145,
+          128,
+          106,
+          90
+        ]
+      },
+      {
+        "series": "JP Morgan",
+        "data": [
+          173,
+          135,
+          106,
+          90
+        ]
+      },
+      {
+        "series": "UBS",
+        "data": [
+          159,
+          128,
+          97,
+          90
+        ]
+      },
+      {
+        "series": "LG/GM",
+        "data": [
+          147,
+          120,
+          97,
+          70
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "BCG analysis and forecast; TAR report; JP Morgan Global xEV Components report; UBS Future of Powertrain report; expert interviews; GM annual global conference"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets present; infographic does not apply; table elements were not detected."
+  }
+}

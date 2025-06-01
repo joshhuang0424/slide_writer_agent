@@ -1,0 +1,122 @@
+{
+  "slide_id": "6",
+  "section": "Employment Disparities",
+  "purpose": "To highlight the employment gap among Black workers compared to others.",
+  "narrative_role": "Informative",
+  "title": "Higher unemployment among Black workers compared with other workers",
+  "bullets": [
+    {
+      "highlight": "Age",
+      "text": "Circumstances with the largest gap for Black employment rates"
+    },
+    {
+      "highlight": "Education attainment",
+      "text": ""
+    },
+    {
+      "highlight": "Previous incarceration",
+      "text": ""
+    }
+  ],
+  "supporting_facts": [
+    "Black labor force employment rate, 2019: 93.9%",
+    "Rest of labor force employment rate, 2019: 96.7%"
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    "19.4M: Total Black employment, 2019",
+    "0.5M: Black employment gap",
+    "20.0M: Black employment if at parity with rest of labor force",
+    "480,000: More Black workers in the private sector if gap closed"
+  ],
+  "cta": null,
+  "layout": "Two-column with infographic and text",
+  "layout_type": "Infographic with text",
+  "content_zones": {
+    "left": "Infographic depicting employment numbers and gap",
+    "right": "Text listing circumstances with employment gaps"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Public sector share",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#0070C0",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of Black employment numbers with parity",
+      "headers": [
+        "Description",
+        "Value"
+      ],
+      "rows": [
+        {
+          "row_label": "Total Black employment, 2019",
+          "cells": [
+            "19.4M"
+          ]
+        },
+        {
+          "row_label": "Black employment gap",
+          "cells": [
+            "0.5M"
+          ]
+        },
+        {
+          "row_label": "Black employment if at parity",
+          "cells": [
+            "20.0M"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No traditional chart elements detected; treated as tables and infographics instead."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "slide_id": "17",
+  "section": "Autonomous Mobility",
+  "purpose": "Show variation in autonomous vehicle adoption by region",
+  "narrative_role": "Informative",
+  "title": "Autonomous mobility varies by region and can have a range of outcomes",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis across regions",
+  "data_points": [
+    "China: High end of band peaks at 5%",
+    "Japan: Low end of band starts at 2%",
+    "EU: High end of band peaks at 14%",
+    "USA: High end of band peaks at 19%",
+    "Global: Low end of band starts at 1%"
+  ],
+  "cta": null,
+  "layout": "Five small multiple line charts",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top",
+    "charts": "center",
+    "legend": "bottom-center",
+    "notes": "bottom-left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color to distinguish bands"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Autonomous mobility veh. as a % of vehicles sold",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "0",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "values": [
+      {
+        "region": "China",
+        "high_end": [
+          1,
+          5
+        ],
+        "low_end": [
+          1,
+          "?"
+        ]
+      },
+      {
+        "region": "Japan",
+        "high_end": [
+          2,
+          9
+        ],
+        "low_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "region": "EU",
+        "high_end": [
+          6,
+          14
+        ],
+        "low_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "region": "USA",
+        "high_end": [
+          7,
+          19
+        ],
+        "low_end": [
+          4,
+          10
+        ]
+      },
+      {
+        "region": "Global",
+        "high_end": [
+          4,
+          8
+        ],
+        "low_end": [
+          1,
+          3
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "BCG analysis"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullets or infographic present on this slide"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "slide_id": "12",
+  "section": "Analysis and Strategy",
+  "purpose": "To show the process of customer segmentation and risk analysis for optimizing discount rates.",
+  "narrative_role": "Informative",
+  "title": "通过测试给予客群不同分期利率折扣，分析建立风险、收益模型，找出最佳化折扣利率落地",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Analysis of customer segmentation based on sensitivity to price changes and risk modeling.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "infographic and text",
+  "content_zones": {
+    "left": "Testing and customer segmentation",
+    "right": "Analysis and modeling"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "测试",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "分析",
+      "position": "top-center"
+    },
+    {
+      "type": "icon",
+      "label": "落地",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key actions"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "高分期概率顾客"
+      },
+      {
+        "id": "L1",
+        "label": "低分期概率顾客"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Testing Groups",
+      "description": "Groups of customers for different discount tests.",
+      "headers": [
+        "Type",
+        "Test Group",
+        "Size"
+      ],
+      "rows": [
+        {
+          "row_label": "High Probability",
+          "cells": [
+            "提价测试",
+            "1万人"
+          ]
+        },
+        {
+          "row_label": "High Probability",
+          "cells": [
+            "原折测试",
+            "1万人"
+          ]
+        },
+        {
+          "row_label": "High Probability",
+          "cells": [
+            "八折测试",
+            "1万人"
+          ]
+        },
+        {
+          "row_label": "Low Probability",
+          "cells": [
+            "提价测试",
+            "1万人"
+          ]
+        },
+        {
+          "row_label": "Low Probability",
+          "cells": [
+            "原折测试",
+            "1万人"
+          ]
+        },
+        {
+          "row_label": "Low Probability",
+          "cells": [
+            "八折测试",
+            "1万人"
+          ]
+        },
+        {
+          "row_label": "Low Probability",
+          "cells": [
+            "六折测试",
+            "1万人"
+          ]
+        }
+      ],
+      "position": "center-left",
+      "render_style": "highlighted rows"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Certain fields like data_points and chart are unknown due to lack of specific numerical data or chart elements in the slide."
+  }
+}

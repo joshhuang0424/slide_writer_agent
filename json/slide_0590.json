@@ -1,0 +1,71 @@
+{
+  "slide_id": "19",
+  "section": "REWARD ECONOMICS",
+  "purpose": "To introduce the concept of Financial Impact Evaluation through a case study.",
+  "narrative_role": "Introduction",
+  "title": "Financial Impact Evaluation",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Case study approach",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and visual",
+  "layout_type": "Simple",
+  "content_zones": {
+    "title": "center",
+    "infographic": "center",
+    "text": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Magnifying glass over document",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for key terms like Bank X, Bank A, B, C and D"
+  },
+  "design_language": "Clean and professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The font details are not discernible from the image alone."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slide_id": "2",
+  "section": "Autonomous Technology Deployment",
+  "purpose": "To identify the most suitable environments for autonomous technology deployment.",
+  "narrative_role": "Analysis",
+  "title": "Autonomous technology is most-suitable for deployment in controlled areas (like ports)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title, table, and annotations",
+  "layout_type": "informative",
+  "content_zones": {
+    "title": "top",
+    "table": "middle",
+    "source_note": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Focus of discussion",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of autonomous vehicle archetypes and their suitability for controlled environments.",
+      "headers": [
+        "Archetype",
+        "Description",
+        "AV tech. suitability ‘ingredients’",
+        "Industry examples"
+      ],
+      "rows": [
+        {
+          "row_label": "Autonomous vehicles in controlled areas",
+          "cells": [
+            "Container handling in yards and ports\nAirport transfers of PAX, cargo and baggage\nGarbage collection or mining sites",
+            "✓ Large, well-capitalized fleets\n✓ Constant speed, low vehicle traffic\n✓ Fixed route\n✓ Controlled environment\n✓ Low operating speed",
+            "Volvo\nMAN-port operator HHLA\nGroupe ADP, Heathrow airport"
+          ]
+        },
+        {
+          "row_label": "Autonomous long-haul trucks",
+          "cells": [
+            "Tractor-trucks on highway in a platoon or individually\nOperated by carriers and private fleets",
+            "✓ Large, well-capitalized fleets\n✓ Constant speed, low vehicle traffic\n✓ Fixed route\n✗ Controlled environment\n✗ Low operating speed",
+            "Torc - Daimler\nTuSimple, Einride, Embark\nMAN-DB Schenker"
+          ]
+        },
+        {
+          "row_label": "Autonomous delivery vehicles",
+          "cells": [
+            "Last-mile parcel delivery trucks and vans\nAutonomous vehicle locker / delivery droid",
+            "✓ Large, well-capitalized fleets\n✗ Constant speed, low vehicle traffic\n✗ Fixed route\n✗ Controlled environment\n✗ Low operating speed",
+            "Fedex-Volvo\nVW- Ford\nNuro, Einride"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No infographic elements like a pyramid were detected in the slide."
+  }
+}

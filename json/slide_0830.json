@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Title Slide",
+  "purpose": "Introduction",
+  "narrative_role": "Set the context",
+  "title": "分期业务访谈",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "N/A",
+  "data_points": [],
+  "cta": null,
+  "layout": "Centered title with logo",
+  "layout_type": "Title",
+  "content_zones": {
+    "title": "center",
+    "logo": "bottom_left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "N/A"
+  },
+  "design_language": "Minimalistic",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "Font details are not specified in the image."
+  }
+}

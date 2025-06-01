@@ -1,0 +1,95 @@
+{
+  "slide_id": "1",
+  "section": "Challenges faced by Black women",
+  "purpose": "Highlight the distinct challenges Black women face due to COVID-19",
+  "narrative_role": "Informative",
+  "title": "Black women face distinct challenges overall due to COVID-19",
+  "bullets": [
+    {
+      "highlight": "2.5x",
+      "text": "more likely than women overall to report the death of a loved one was a big challenge"
+    },
+    {
+      "highlight": "1.5x",
+      "text": "more likely than women overall to feel uncomfortable sharing their experience of grief or loss"
+    }
+  ],
+  "supporting_facts": [
+    "Black women make up less than 10% of the corporate workforce."
+  ],
+  "reasoning_strategy": "Comparative",
+  "data_points": [
+    "% of employees who considered taking a leave of absence or leaving the workforce altogether"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart and text",
+  "layout_type": "Mixed content",
+  "content_zones": {
+    "left": "Text and statistics",
+    "right": "Bar chart and text"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Overall",
+      "position": "right"
+    },
+    {
+      "type": "rectangle",
+      "label": "Black",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "% of employees"
+    ],
+    "values": [
+      {
+        "category": "Overall",
+        "value": "lower bar"
+      },
+      {
+        "category": "Black",
+        "value": "higher bar"
+      }
+    ],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid or similar infographic present"
+  }
+}

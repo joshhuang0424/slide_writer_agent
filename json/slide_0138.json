@@ -1,0 +1,67 @@
+{
+  "slide_id": "1",
+  "section": "Disclaimer",
+  "purpose": "Provide legal and usage disclaimers",
+  "narrative_role": "Informative",
+  "title": "Disclaimer",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide presents a direct disclaimer statement.",
+  "data_points": [],
+  "cta": null,
+  "layout": "full_text",
+  "layout_type": "text_only",
+  "content_zones": {
+    "title": {
+      "position": "top_left"
+    },
+    "body": {
+      "position": "center"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "none",
+    "background": "dark blue gradient"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains only text, no charts or tables."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "slide_id": "12",
+  "section": "Comparison of TCO across powertrains",
+  "purpose": "Illustrate the 10-year TCO for different powertrains in the US C-segment.",
+  "narrative_role": "Provide data-driven insights on cost trends.",
+  "title": "Comparison of TCO across powertrains: US 10-year TCO",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of cost over time for different powertrain types.",
+  "data_points": [
+    {
+      "year": 2020,
+      "type": "PHEV",
+      "cost": 41434
+    },
+    {
+      "year": 2025,
+      "type": "BEV",
+      "cost": 35705
+    }
+  ],
+  "cta": null,
+  "layout": "title and chart",
+  "layout_type": "chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom left"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "US",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "line chart",
+    "title": "10-year TCO, C segment ($)",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "30,000",
+      "35,000",
+      "40,000",
+      "45,000",
+      "50,000"
+    ],
+    "values": [
+      {
+        "name": "ICE",
+        "color": "green"
+      },
+      {
+        "name": "MHEV",
+        "color": "yellow"
+      },
+      {
+        "name": "HEV",
+        "color": "orange"
+      },
+      {
+        "name": "PHEV",
+        "color": "light blue"
+      },
+      {
+        "name": "BEV",
+        "color": "dark blue"
+      }
+    ],
+    "annotations": [
+      {
+        "text": "41,434",
+        "position": "2020"
+      },
+      {
+        "text": "35,705",
+        "position": "2025"
+      }
+    ],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables were present as the slide primarily features a chart."
+  }
+}

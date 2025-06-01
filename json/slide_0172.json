@@ -1,0 +1,108 @@
+{
+  "slide_id": "2",
+  "section": "BCG TSR 方案",
+  "purpose": "展示優異企業與優質股票的價值鏈關係",
+  "narrative_role": "說明",
+  "title": "優異的企業與優質的股票，是企業價值最大化的根基",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "使用圖示與箭頭顯示企業與股票之間的相互關係",
+  "data_points": [],
+  "cta": null,
+  "layout": "雙邊對稱",
+  "layout_type": "比較圖",
+  "content_zones": {
+    "left": {
+      "text": [
+        "優異企業",
+        "競爭優勢",
+        "高資本回報率",
+        "行業領導者",
+        "成長型企業",
+        "良好工作環境（最佳雇主）"
+      ],
+      "position": "left"
+    },
+    "right": {
+      "text": [
+        "優質股票",
+        "優異且可持續的 TSR",
+        "最優的估值倍數",
+        "穩定且忠誠的長期投資者",
+        "社會貢獻（ESG）"
+      ],
+      "position": "right"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "公司定位（具體時間點）",
+      "position": "bottom_left"
+    },
+    {
+      "type": "arrow",
+      "label": "軌跡（長期）",
+      "position": "bottom_right"
+    },
+    {
+      "type": "icon",
+      "label": "企業圖標",
+      "position": "left_center"
+    },
+    {
+      "type": "icon",
+      "label": "股票圖標",
+      "position": "right_center"
+    },
+    {
+      "type": "circle",
+      "label": "互動關係",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "無"
+  },
+  "design_language": "簡約",
+  "color_scheme": {
+    "primary": "綠色",
+    "accent": "深綠色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "未知",
+      "size": "未知",
+      "weight": "粗體"
+    },
+    "body": {
+      "font_family": "未知",
+      "size": "未知"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體資訊未在圖片中標明"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "slide_id": "12",
+  "section": "Challenges Faced by Different Groups",
+  "purpose": "To highlight the distinct challenges faced by mothers, senior-level women, and Black women in the workplace.",
+  "narrative_role": "Informative",
+  "title": "Three groups face distinct challenges",
+  "bullets": [],
+  "supporting_facts": [
+    "Mothers, senior-level women, and Black women have faced heightened challenges."
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    {
+      "category": "Uncomfortable sharing",
+      "all_employees": 40,
+      "men": 36,
+      "women": 45,
+      "mothers_of_young_children": 50,
+      "senior_women": 50,
+      "black_women": 58
+    },
+    {
+      "category": "Exhausted",
+      "all_employees": 34,
+      "men": 31,
+      "women": 37,
+      "mothers_of_young_children": 42,
+      "senior_women": 54,
+      "black_women": 40
+    },
+    {
+      "category": "Burned out",
+      "all_employees": 30,
+      "men": 28,
+      "women": 32,
+      "mothers_of_young_children": 34,
+      "senior_women": 39,
+      "black_women": 33
+    },
+    {
+      "category": "Excluded",
+      "all_employees": 11,
+      "men": 10,
+      "women": 11,
+      "mothers_of_young_children": 10,
+      "senior_women": 11,
+      "black_women": 17
+    }
+  ],
+  "cta": null,
+  "layout": "table-centered",
+  "layout_type": "grid",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Men",
+      "position": "top-right"
+    },
+    {
+      "type": "circle",
+      "label": "Women",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for categories"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "dark"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Employee Feelings by Group",
+      "description": "Percentage of employees agreeing they feel certain emotions.",
+      "headers": [
+        "% Employees agreeing they feel ...",
+        "All employees",
+        "Men",
+        "Women",
+        "Mothers of young children",
+        "Senior women",
+        "Black women"
+      ],
+      "rows": [
+        {
+          "row_label": "Uncomfortable sharing",
+          "cells": [
+            "40",
+            "36",
+            "45",
+            "50",
+            "50",
+            "58"
+          ]
+        },
+        {
+          "row_label": "Exhausted",
+          "cells": [
+            "34",
+            "31",
+            "37",
+            "42",
+            "54",
+            "40"
+          ]
+        },
+        {
+          "row_label": "Burned out",
+          "cells": [
+            "30",
+            "28",
+            "32",
+            "34",
+            "39",
+            "33"
+          ]
+        },
+        {
+          "row_label": "Excluded",
+          "cells": [
+            "11",
+            "10",
+            "11",
+            "10",
+            "11",
+            "17"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic pyramid is not present in this slide."
+  }
+}

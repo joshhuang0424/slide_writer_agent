@@ -1,0 +1,96 @@
+{
+  "slide_id": "4",
+  "section": "Agenda",
+  "purpose": "Outline the agenda topics for the presentation.",
+  "narrative_role": "Introduction",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Introduction to P&L"
+    },
+    {
+      "highlight": true,
+      "text": "P&L Breakdown"
+    },
+    {
+      "highlight": false,
+      "text": "A Day in the Life of a Cardholder"
+    },
+    {
+      "highlight": false,
+      "text": "Driver Mapping"
+    },
+    {
+      "highlight": false,
+      "text": "Leveraging P&L"
+    },
+    {
+      "highlight": false,
+      "text": "Project Case Studies"
+    },
+    {
+      "highlight": false,
+      "text": "Q&A"
+    },
+    {
+      "highlight": false,
+      "text": "Appendix"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential listing of topics",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullets",
+  "layout_type": "List",
+  "content_zones": {
+    "title": "top-left",
+    "bullets": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 8,
+    "max_words_per_bullet": 7,
+    "emphasis_rule": "Highlight current section in orange"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No charts or infographics present on the slide. The slide is purely textual."
+  }
+}

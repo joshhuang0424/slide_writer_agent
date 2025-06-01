@@ -1,0 +1,84 @@
+{
+  "slide_id": "7",
+  "section": "Reward Economics",
+  "purpose": "Introduce key concepts in loyalty programs",
+  "narrative_role": "Introduction",
+  "title": "",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "centered",
+  "layout_type": "title and icons",
+  "content_zones": {
+    "title": "center",
+    "icons": "bottom center"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Earn Rate",
+      "position": "bottom left"
+    },
+    {
+      "type": "icon",
+      "label": "Burn Rate",
+      "position": "bottom center left"
+    },
+    {
+      "type": "icon",
+      "label": "Give-back Rate",
+      "position": "bottom center right"
+    },
+    {
+      "type": "icon",
+      "label": "Cost Per Point",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "#FF5F00",
+    "accent": "#88C057",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain any tables or charts, and font family is unspecified."
+  }
+}

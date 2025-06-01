@@ -1,0 +1,129 @@
+{
+  "slide_id": "21",
+  "section": "Interest Trends",
+  "purpose": "To show the change in interest in online and contactless offerings in the UK, Germany, France, and Italy.",
+  "narrative_role": "Data presentation",
+  "title": "Interest in online and contactless offerings has strongly increased in the UK and Germany, while slightly decreased in France and Italy",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 5 (Sep 2-4), and wave 6 (Nov 6-10)",
+    "Source: McKinsey Global COVID-19 Automotive Consumer Survey (May 9-17, May 27-29, June 16-18, July 15-17)"
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    "UK: A: 52, B: 49, C: 59",
+    "Germany: A: 47, B: 44, C: 52",
+    "France: A: 36, B: 31, C: 41",
+    "Italy: A: 43, B: 34, C: 52"
+  ],
+  "cta": null,
+  "layout": "Three-column bar chart",
+  "layout_type": "Data visualization",
+  "content_zones": {
+    "header": "top",
+    "chart_area": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Interest in digital/contactless sales and service",
+    "x_axis_label": "Country",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "country": "UK",
+        "A": 52,
+        "B": 49,
+        "C": 59
+      },
+      {
+        "country": "Germany",
+        "A": 47,
+        "B": 44,
+        "C": 52
+      },
+      {
+        "country": "France",
+        "A": 36,
+        "B": 31,
+        "C": 41
+      },
+      {
+        "country": "Italy",
+        "A": 43,
+        "B": 34,
+        "C": 52
+      }
+    ],
+    "annotations": [
+      {
+        "country": "UK",
+        "change": {
+          "A": 3,
+          "B": 8,
+          "C": 5
+        }
+      },
+      {
+        "country": "Germany",
+        "change": {
+          "A": 6,
+          "B": 7,
+          "C": 1
+        }
+      },
+      {
+        "country": "France",
+        "change": {
+          "A": -2,
+          "B": -4,
+          "C": -4
+        }
+      },
+      {
+        "country": "Italy",
+        "change": {
+          "A": -3,
+          "B": -2,
+          "C": -1
+        }
+      }
+    ],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or specific infographic like pyramid detected."
+  }
+}

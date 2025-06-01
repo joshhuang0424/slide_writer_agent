@@ -1,0 +1,186 @@
+{
+  "slide_id": "7",
+  "section": "Impact Analysis",
+  "purpose": "To highlight the significant impact on women in different countries during COVID-19.",
+  "narrative_role": "Informative",
+  "title": "Women in India, Brazil, and China are most significantly impacted",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison across countries",
+  "data_points": [
+    "India: 55% impacted by healthy & safe onsite workplace",
+    "Brazil: 53% impacted by healthy & safe onsite workplace"
+  ],
+  "cta": null,
+  "layout": "table-centric",
+  "layout_type": "single-table",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight percentages"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "red",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Impact on Women During COVID-19",
+      "description": "Percentage of women considering each factor a significant challenge",
+      "headers": [
+        "Country",
+        "Healthy & safe onsite workplace",
+        "Mental health",
+        "Workload increases",
+        "Household responsibilities",
+        "Growth & progress opportunities",
+        "Homeschooling",
+        "Childcare and/or family care",
+        "Connectivity & belonging",
+        "Job insecurity"
+      ],
+      "rows": [
+        {
+          "row_label": "France",
+          "cells": [
+            "32%",
+            "20%",
+            "32%",
+            "22%",
+            "23%",
+            "22%",
+            "17%",
+            "26%",
+            "12%"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "27%",
+            "15%",
+            "19%",
+            "7%",
+            "8%",
+            "13%",
+            "12%",
+            "14%",
+            "13%"
+          ]
+        },
+        {
+          "row_label": "US",
+          "cells": [
+            "23%",
+            "15%",
+            "15%",
+            "13%",
+            "14%",
+            "10%",
+            "8%",
+            "17%",
+            "10%"
+          ]
+        },
+        {
+          "row_label": "UK & Ireland",
+          "cells": [
+            "34%",
+            "29%",
+            "21%",
+            "20%",
+            "24%",
+            "18%",
+            "18%",
+            "17%",
+            "20%"
+          ]
+        },
+        {
+          "row_label": "China",
+          "cells": [
+            "32%",
+            "34%",
+            "24%",
+            "27%",
+            "23%",
+            "23%",
+            "27%",
+            "17%",
+            "25%"
+          ]
+        },
+        {
+          "row_label": "India",
+          "cells": [
+            "55%",
+            "51%",
+            "55%",
+            "59%",
+            "46%",
+            "46%",
+            "51%",
+            "44%",
+            "47%"
+          ]
+        },
+        {
+          "row_label": "Brazil",
+          "cells": [
+            "53%",
+            "51%",
+            "37%",
+            "53%",
+            "48%",
+            "49%",
+            "47%",
+            "35%",
+            "44%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font families not specified in the image."
+  }
+}

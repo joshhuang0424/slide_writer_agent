@@ -1,0 +1,94 @@
+{
+  "slide_id": "10",
+  "section": "Optimization Strategy",
+  "purpose": "To illustrate how APT can help improve bank's installment revenue through customer acquisition and management strategies.",
+  "narrative_role": "Explanation",
+  "title": "APT可协助[某行]利用全球领先的实验学习能力，优化获客及卡户经营，提升[某行]分期总收益",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Using experimental learning to optimize customer acquisition and installment profit",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic with bullet points",
+  "layout_type": "vertical",
+  "content_zones": {
+    "top": "Title",
+    "center": "Infographic and bullets",
+    "bottom": "Logo"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "提升[某行]分期总收益",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "优化获客-获取倾向办分期顾客",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "提升现有卡户办理分期收益",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Red for emphasis"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "提升[某行]分期总收益"
+      },
+      {
+        "id": "L1",
+        "label": "优化获客-获取倾向办分期顾客"
+      },
+      {
+        "id": "L2",
+        "label": "提升现有卡户办理分期收益"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables present, infographic primarily uses icons and text."
+  }
+}

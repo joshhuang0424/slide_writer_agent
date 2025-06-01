@@ -1,0 +1,226 @@
+{
+  "slide_id": "16",
+  "section": "團隊介紹",
+  "purpose": "介紹專案團隊成員與組織架構",
+  "narrative_role": "組織介紹",
+  "title": "專案團隊成員與組織架構",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "列舉成員與職責",
+  "data_points": [],
+  "cta": null,
+  "layout": "complex",
+  "layout_type": "grid",
+  "content_zones": {
+    "top": [
+      "治理委員會"
+    ],
+    "middle": [
+      "專案管理"
+    ],
+    "bottom": [
+      "重要專案小組負責人",
+      "職責"
+    ]
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "職責區域內使用 bullet points 列出要點"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#005BAC",
+    "accent": "#000000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Noto Sans TC",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Noto Sans TC",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "治理委員會",
+      "description": "介紹治理委員會成員",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "總經理 Walter",
+            "行銷副總 Nora",
+            "營運副總 Genie, Leon",
+            "IT副總 Roger",
+            "會計副總 Herlina"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "總經理 Roman",
+            "行政長 Tim",
+            "總督導 Brian"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "總經理 Eva"
+          ]
+        }
+      ],
+      "position": "top",
+      "render_style": ""
+    },
+    {
+      "title": "專案管理",
+      "description": "介紹專案管理成員",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "紀棟柏 (Hans)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "蔡孟純",
+            "黃鈞洪",
+            "楊寬琪",
+            "林立銘",
+            "劉冠伶"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "劉昱亞",
+            "廖靜宜",
+            "黃智琳",
+            "楊慧詠"
+          ]
+        }
+      ],
+      "position": "middle",
+      "render_style": ""
+    },
+    {
+      "title": "重要專案小組負責人",
+      "description": "列出小組及負責人",
+      "headers": [
+        "產品行銷",
+        "系統開發",
+        "收單支付",
+        "客戶服務",
+        "財務績效",
+        "數據賦能"
+      ],
+      "rows": [
+        {
+          "row_label": "工作內容",
+          "cells": [
+            "會員經營\n客戶旅程(受理)\n產品權益\n媒體廣宣",
+            "發卡系統",
+            "ATM發卡\n椰子 Pay",
+            "線上服務\n線下服務",
+            "帳務報表\n績效管理",
+            "資料庫串接\n數據儀錶板"
+          ]
+        },
+        {
+          "row_label": "椰子",
+          "cells": [
+            "Christy Lin\nWendy Luo\nWilliam Feng",
+            "Roger Wu",
+            "Roger Wu",
+            "Frances Tsai",
+            "Herlina Huang",
+            "待定"
+          ]
+        },
+        {
+          "row_label": "桃子",
+          "cells": [
+            "蔡孟純\n楊寬琪\n楊雅雯",
+            "徐銘宏",
+            "徐宏昇",
+            "於知雯",
+            "黃鈞洪\n曾幸宇",
+            "邱愛倫"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    },
+    {
+      "title": "職責",
+      "description": "列出職責說明",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "給予策略方向指示",
+            "遇到阻礙時拍板解決方案",
+            "引領思維與專案監督",
+            "檢視關鍵產出"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "建立良好的專案管理流程",
+            "即時示警專案阻礙與挑戰",
+            "遇到阻礙時給予策略上的支持",
+            "追蹤進度"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "決定解決方案以及定期回報進度",
+            "日常執行策略與解決方案",
+            "共同解決挑戰",
+            "依照專案管理流程進行回報與合作",
+            "開發機槭達成成果"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "此頁面無典型圖表元素，僅包含表格與文字介紹"
+  }
+}

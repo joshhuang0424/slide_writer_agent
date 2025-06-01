@@ -1,0 +1,120 @@
+{
+  "slide_id": "37",
+  "section": "Value Creation",
+  "purpose": "To explore and iterate value creation arbitrages for four sets of levers.",
+  "narrative_role": "Informative",
+  "title": "Value creation arbitrages will be explored and iterated for 4 sets of levers",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Fiber rollout / planning / capex: Review existing fiber plan, within market and competitive context"
+    },
+    {
+      "highlight": false,
+      "text": "Understand impact of adjusting key levers: Scale of roll-out, Phasing of roll-out, Operational improvements (planning, controls), Commercial support"
+    },
+    {
+      "highlight": false,
+      "text": "Topline & EBITDA trajectory: 360 review of existing business plan and associated TSR"
+    },
+    {
+      "highlight": false,
+      "text": "Frame options to adjust EBITDA trajectory, and understand TSR impact: Productivity boost (e.g., digital, automation), Revenue interdependencies with Fiber roll out"
+    },
+    {
+      "highlight": false,
+      "text": "Infrastructure Plays: Identify operational feasibility of alternative network ownership options, and outline longer-term competitive implications"
+    },
+    {
+      "highlight": false,
+      "text": "Model high level impact on financials: Network sharing, Network JV, Network separation, TowerCo carve-out, Etc"
+    },
+    {
+      "highlight": false,
+      "text": "Debt vs Dividend Strategy: Review current dividend plan and forward looking statements, in context of capital requirements"
+    },
+    {
+      "highlight": false,
+      "text": "Calculate alternative options for funding: Reduce dividend, Increase debt, Reduce spending (network investment)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and evaluation of different strategies.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Four column layout with icons",
+  "layout_type": "Grid",
+  "content_zones": {
+    "Fiber rollout / planning / capex": "Top left",
+    "Topline & EBITDA trajectory": "Top right",
+    "Infrastructure Plays": "Bottom left",
+    "Debt vs Dividend Strategy": "Bottom right"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Fiber rollout",
+      "position": "top left"
+    },
+    {
+      "type": "icon",
+      "label": "Topline & EBITDA",
+      "position": "top right"
+    },
+    {
+      "type": "icon",
+      "label": "Infrastructure Plays",
+      "position": "bottom left"
+    },
+    {
+      "type": "icon",
+      "label": "Debt vs Dividend Strategy",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of icons for emphasis"
+  },
+  "design_language": "Professional and structured with use of icons",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "none",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables were detected; content is structured in bullet points with icons."
+  }
+}

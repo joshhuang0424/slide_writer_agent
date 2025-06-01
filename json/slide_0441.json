@@ -1,0 +1,282 @@
+{
+  "slide_id": "32",
+  "section": "Operations",
+  "purpose": "Illustrate cost minimization strategies associated with cardholder relationships",
+  "narrative_role": "Explanatory",
+  "title": "Operations minimize costs associated with cardholder relationships",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Breakdown component costs and illustrate operational impact",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with central table",
+  "layout_type": "Visual and text hybrid",
+  "content_zones": {
+    "left": "Operations Collections and Retention Groups",
+    "center": "Cost breakdown table",
+    "right": "Operations Customer Service"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Collections",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Retention Groups",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Customer Service",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key figures"
+  },
+  "design_language": "Professional with emphasis on cost figures",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Cost Breakdown",
+      "description": "Detailed financial figures indicating costs associated with operations",
+      "headers": [
+        "Description",
+        "Amount"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Finance Charges",
+            "$115"
+          ]
+        },
+        {
+          "cells": [
+            "Transfer Pricing Interest Income",
+            "$0"
+          ]
+        },
+        {
+          "cells": [
+            "Interest Expense",
+            "($47)"
+          ]
+        },
+        {
+          "cells": [
+            "Net Interest Income",
+            "$68"
+          ]
+        },
+        {
+          "cells": [
+            "Chargeoffs",
+            "($12)"
+          ]
+        },
+        {
+          "cells": [
+            "Loan Loss Provision Adjustment",
+            "($54)"
+          ]
+        },
+        {
+          "cells": [
+            "Recoveries",
+            "$0.7"
+          ]
+        },
+        {
+          "cells": [
+            "Net Credit Losses",
+            "($66.7)"
+          ]
+        },
+        {
+          "cells": [
+            "Net Lending Margin",
+            "$1.3"
+          ]
+        },
+        {
+          "cells": [
+            "Interchange Fees",
+            "$674"
+          ]
+        },
+        {
+          "cells": [
+            "Late Fees",
+            "$26"
+          ]
+        },
+        {
+          "cells": [
+            "Annual Fee Income",
+            "$30"
+          ]
+        },
+        {
+          "cells": [
+            "Cash Advance Fees",
+            "$6"
+          ]
+        },
+        {
+          "cells": [
+            "Balance Transfer Fees",
+            "$2"
+          ]
+        },
+        {
+          "cells": [
+            "Overlimit Fees",
+            "$0.3"
+          ]
+        },
+        {
+          "cells": [
+            "Foreign Exchange Fees",
+            "$21"
+          ]
+        },
+        {
+          "cells": [
+            "Credit Protection Fees",
+            "$1.4"
+          ]
+        },
+        {
+          "cells": [
+            "Miscellaneous Fee Income",
+            "$0.1"
+          ]
+        },
+        {
+          "cells": [
+            "Total Other Income",
+            "$760.8"
+          ]
+        },
+        {
+          "cells": [
+            "Acquisition Cost",
+            "($172)"
+          ]
+        },
+        {
+          "cells": [
+            "Acquisition Incentive",
+            "($200)"
+          ]
+        },
+        {
+          "cells": [
+            "Variable Servicing Costs",
+            "($29)"
+          ]
+        },
+        {
+          "cells": [
+            "Reward & Benefits Costs",
+            "($557)"
+          ]
+        },
+        {
+          "cells": [
+            "Collection Ops Costs",
+            "($5)"
+          ]
+        },
+        {
+          "cells": [
+            "Credit Protection Claims",
+            "($0.04)"
+          ]
+        },
+        {
+          "cells": [
+            "Portfolio Marketing Costs",
+            "($8)"
+          ]
+        },
+        {
+          "cells": [
+            "Plastic Reissue Cost",
+            "($1)"
+          ]
+        },
+        {
+          "cells": [
+            "Network Fees (MC)",
+            "($71)"
+          ]
+        },
+        {
+          "cells": [
+            "Processor Fees (FirstData/TSYS/FIS)",
+            "($62)"
+          ]
+        },
+        {
+          "cells": [
+            "Fraud Losses",
+            "($36)"
+          ]
+        },
+        {
+          "cells": [
+            "Total Costs",
+            "($1141)"
+          ]
+        },
+        {
+          "cells": [
+            "Pre-tax Net Income",
+            "($379)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "highlighted rows"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "slide_id": "43",
+  "section": "Illustrative",
+  "purpose": "To formalize understanding of investor expectations",
+  "narrative_role": "informative",
+  "title": "We will formalize our understanding of the expectations of the investor base",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "single table with labeled rows",
+  "layout_type": "table",
+  "content_zones": {
+    "header": "Investors criteria",
+    "columns": [
+      "\"Core value\" investors",
+      "\"Alpha Value\" investors",
+      "\"Core Growth at a Reasonable Price\" investors",
+      "\"Core Growth\" investors"
+    ]
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Fund manager goal",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Revenue growth expectations",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Time horizon",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Key metrics",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Expected P/E multiple",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Target payout yield",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Growth spending posture",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted labels"
+  },
+  "design_language": "formal, structured",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of different investor criteria",
+      "headers": [
+        "Investors criteria",
+        "\"Core value\" investors",
+        "\"Alpha Value\" investors",
+        "\"Core Growth at a Reasonable Price\" investors",
+        "\"Core Growth\" investors"
+      ],
+      "rows": [
+        {
+          "row_label": "Fund manager goal",
+          "cells": [
+            "TSR of portfolio above benchmark average",
+            "TSR of portfolio above benchmark average",
+            "TSR of portfolio above benchmark average",
+            "TSR of portfolio above benchmark average"
+          ]
+        },
+        {
+          "row_label": "Revenue growth expectations",
+          "cells": [
+            "0% - GDP level growth, Skeptical about M&A",
+            "3-5% organic, OK with tuck-ins",
+            "Above GDP (4-8%) organic + tuck-in M&A",
+            ">10% organic, plus M&A"
+          ]
+        },
+        {
+          "row_label": "Time horizon",
+          "cells": [
+            "In & out with P/E",
+            "5+ years",
+            "5 - 10 years",
+            "3 - 5 years"
+          ]
+        },
+        {
+          "row_label": "Key metrics",
+          "cells": [
+            "Growth in ROIC and P/E",
+            "Growth in FCF",
+            "EPS growth > 10% (margin expansion)",
+            "Forward 3-5 year organic revenue growth >10%"
+          ]
+        },
+        {
+          "row_label": "Expected P/E multiple",
+          "cells": [
+            "Below normal P/E that can rise, unlikely to pay above 15x",
+            "14x-18x",
+            "18x-24x, but willing to pay above 24x",
+            "Prepared to pay >30X"
+          ]
+        },
+        {
+          "row_label": "Target payout yield",
+          "cells": [
+            "4-6% dominated by dividends",
+            "2-5% dominated by dividends",
+            "2-3% dividend yield, 0-2% share repurchases",
+            "None (preferable), share repurchase (last resort)"
+          ]
+        },
+        {
+          "row_label": "Growth spending posture",
+          "cells": [
+            "Organic growth + minimal tuck-in M&A",
+            "Organic growth + tuck-in M&A",
+            "Organic growth + tuck-in M&A + adjacencies",
+            "Aggressive M&A focused on growth platforms + rollups"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_information": {
+    "_why_unknown": "No chart or infographic present; table provides the data structure."
+  }
+}

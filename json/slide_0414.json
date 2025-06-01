@@ -1,0 +1,102 @@
+{
+  "slide_id": "5",
+  "section": "",
+  "purpose": "Illustrate the main sources of pre-tax net income for issuers.",
+  "narrative_role": "Explanation",
+  "title": "Interest income and card fees are an issuers’ main sources of pre-tax net income",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "infographic",
+  "content_zones": {},
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Interest Income (Interest Expense)",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Credit Losses",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Interchange Fees",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Cardholder Fees",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Direct Cardholder Costs (Rewards & Benefits)",
+      "position": "right"
+    },
+    {
+      "type": "arrow",
+      "label": "Indirect Costs (Ops Costs, Third Parties, Fraud, etc.)",
+      "position": "right"
+    },
+    {
+      "type": "plus",
+      "label": "+",
+      "position": "center"
+    },
+    {
+      "type": "minus",
+      "label": "-",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family and size for body text are not specified in the image."
+  }
+}

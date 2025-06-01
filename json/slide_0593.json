@@ -1,0 +1,85 @@
+{
+  "slide_id": "03",
+  "section": "Reward Economics",
+  "purpose": "Outline key factors and options for creating a loyalty proposition",
+  "narrative_role": "Informative",
+  "title": "Creation of loyalty proposition and comparative analysis",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Alignment with client long term strategy"
+    },
+    {
+      "highlight": "",
+      "text": "Spend behavior to be driven through the program (online/ cross border/ premium product sale)"
+    },
+    {
+      "highlight": "",
+      "text": "Competition give back rate"
+    },
+    {
+      "highlight": "",
+      "text": "Hygiene benefits by competition"
+    },
+    {
+      "highlight": "",
+      "text": "Comparative analysis"
+    },
+    {
+      "highlight": "",
+      "text": "Target customers for the program"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of loyalty propositions",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Text and bullet points",
+  "content_zones": {
+    "left_column": "Key indicative factors considered for creating loyalty proposition",
+    "right_column": "Loyalty propositions created"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 6,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Key indicative factors and options are emphasized with bold text"
+  },
+  "design_language": "Professional and clean with emphasis on key points",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

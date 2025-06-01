@@ -1,0 +1,112 @@
+{
+  "slide_id": "9",
+  "section": "COVID-19 Challenges",
+  "purpose": "To highlight new challenges faced by employees due to COVID-19.",
+  "narrative_role": "inform",
+  "title": "COVID-19 surfaced new challenges for employees",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Statistical representation of employee challenges",
+  "data_points": [
+    {
+      "challenge": "Anxiety over layoffs or furloughs",
+      "percentage": 31
+    },
+    {
+      "challenge": "Burnout",
+      "percentage": 28
+    },
+    {
+      "challenge": "Mental health",
+      "percentage": 23
+    },
+    {
+      "challenge": "Childcare and/or home-schooling",
+      "percentage": 21
+    },
+    {
+      "challenge": "Physical/mental health of loved ones",
+      "percentage": 20
+    }
+  ],
+  "cta": null,
+  "layout": "Title and infographic with circular diagrams",
+  "layout_type": "visual",
+  "content_zones": {
+    "title": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 100
+    },
+    "infographic": {
+      "x": 0,
+      "y": 100,
+      "width": 1280,
+      "height": 620
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "31% Anxiety over layoffs or furloughs",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "28% Burnout",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "23% Mental health",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "21% Childcare and/or home-schooling",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "20% Physical/mental health of loved ones",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional and concise",
+  "color_scheme": {
+    "primary": "#ffffff",
+    "accent": "#005eb8",
+    "background": "#0d1b2a"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "24px"
+    }
+  },
+  "chart": {
+    "type": "infographic",
+    "title": "Employee Challenges",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

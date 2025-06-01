@@ -1,0 +1,105 @@
+{
+  "slide_id": "17",
+  "section": "unknown",
+  "purpose": "To suggest actions companies can take internally and externally.",
+  "narrative_role": "Informative",
+  "title": "Companies should take no-regrets actions internally and collaborate to effect systems-change externally",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "Define your company’s aspiration for advancing racial equity"
+    },
+    {
+      "highlight": "2",
+      "text": "Understand your company’s current state of DE&I"
+    },
+    {
+      "highlight": "3",
+      "text": "Strategically prioritize interventions"
+    },
+    {
+      "highlight": "4",
+      "text": "Reinforce what works—and reimagine what doesn’t"
+    },
+    {
+      "highlight": "5",
+      "text": "Track progress to increase accountability"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Split",
+  "content_zones": {
+    "left": "Internal actions",
+    "right": "External collaborations"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Presentation icon",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Map pin icon",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Lightbulb icon",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details and section are not specified in the image."
+  },
+  "bullet_grid": {
+    "columns": 2,
+    "rows": 3
+  }
+}

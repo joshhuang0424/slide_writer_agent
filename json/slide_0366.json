@@ -1,0 +1,85 @@
+{
+  "slide_id": "2",
+  "section": "Pricing Strategy",
+  "purpose": "To illustrate the five core modules for developing differentiated pricing strategies based on market observation.",
+  "narrative_role": "Explainer",
+  "title": "通过五大核心工作模块，基于真实市场观测，构建价与量、价与风险间的影响闭环，形成差异化定价策略",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Framework illustration",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic with text",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Infographic showing process flow",
+    "right": "Textual explanation of process modules"
+  },
+  "visual_elements": [
+    {
+      "type": "diagram",
+      "label": "客户分群与贴标",
+      "position": "center"
+    },
+    {
+      "type": "diagram",
+      "label": "下卡名单落地",
+      "position": "bottom-left"
+    },
+    {
+      "type": "diagram",
+      "label": "分析",
+      "position": "center"
+    },
+    {
+      "type": "diagram",
+      "label": "仪表板监控",
+      "position": "bottom-center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Key terms in bold"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FF6F61",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "diagram",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide primarily contains a process diagram without explicit data tables or charts."
+  }
+}

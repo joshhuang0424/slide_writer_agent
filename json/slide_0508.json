@@ -1,0 +1,129 @@
+{
+  "slide_id": "18",
+  "section": "Diversity, Equity, and Inclusion",
+  "purpose": "To outline the five stages in a proven journey companies are taking to transform Diversity, Equity, and Inclusion.",
+  "narrative_role": "Informative",
+  "title": "There are five stages in a proven journey companies are taking to transform Diversity, Equity, and Inclusion",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Define and commit to a tangible aspiration"
+    },
+    {
+      "highlight": "",
+      "text": "Communicate aspiration, starting with senior leader champions"
+    },
+    {
+      "highlight": "",
+      "text": "Assess the current state qualitatively and quantitively"
+    },
+    {
+      "highlight": "",
+      "text": "Build company-specific business case linked to strategic priorities"
+    },
+    {
+      "highlight": "",
+      "text": "Design portfolio of interventions linked to specific objectives; prioritize based on ease and impact"
+    },
+    {
+      "highlight": "",
+      "text": "Launch enterprise-wide initiatives and prioritized pilots with BUs/functions/geographies"
+    },
+    {
+      "highlight": "",
+      "text": "Scale efforts, tailoring to specific contexts as needed"
+    },
+    {
+      "highlight": "",
+      "text": "Build progress monitoring and leader accountability into regular management routines"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Process description",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "process",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "bullets": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Aspire",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "Assess",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "Architect",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "Act",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "Advance",
+      "position": "center-right"
+    },
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "between circles"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use bold for stage names"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "process",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts present."
+  }
+}

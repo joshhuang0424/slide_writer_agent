@@ -1,0 +1,102 @@
+{
+  "slide_id": "4",
+  "section": "Key insights on global M&A activity in 2016",
+  "purpose": "To provide an overview of the decline in global M&A activity compared to 2015.",
+  "narrative_role": "Informative",
+  "title": "Global M&A activity declined vs 2015",
+  "bullets": [
+    {
+      "highlight": "-17%",
+      "text": "In 2015, global M&A activity ended close to ~$3.8 trillion, falling from 2015 level both in absolute value (-17%) and in number of deal (-5%)"
+    },
+    {
+      "highlight": "90%",
+      "text": "Corporate M&A Activity still represented majority of the total activity at ~90% of overall M&A activity"
+    },
+    {
+      "highlight": "-40%",
+      "text": "Value of megadeals (greater than $10 bn) saw a significant decrease (-40%) from 2015 level and also its share of global M&A activity fell from 34% to 25%"
+    },
+    {
+      "highlight": "50%",
+      "text": "All regions fell in absolute terms in 2016, with Americas still the most active region (50% of total activity) followed by EMEA at 26%"
+    },
+    {
+      "highlight": "44%",
+      "text": "Majority deals were financed by cash alone (44%), with equity only as the least preferred (25%)"
+    },
+    {
+      "highlight": "32%",
+      "text": "Premiums paid in 2016 were higher than in 2014 and 2015; 1 week median premiums increased to 32% vs 29% in 2015"
+    },
+    {
+      "highlight": "+46%",
+      "text": "Global activity grew in Q4 2016 vs. previous quarter (+46% in terms of value) but fell vs Q4 2015 (-7% of volumes)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison with previous year and analysis of regional activity",
+  "data_points": [
+    "~$3.8 trillion",
+    "34% to 25%",
+    "50% of total activity",
+    "EMEA at 26%",
+    "44%",
+    "32% vs 29%"
+  ],
+  "cta": null,
+  "layout": "Two-column grid with bullet points",
+  "layout_type": "textual",
+  "content_zones": {
+    "top": "Title and section header",
+    "middle": "Key insights and data points",
+    "bottom": "Company branding"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentages and key figures highlighted"
+  },
+  "design_language": "Professional, corporate",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "unknown",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "unknown"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "unknown"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "chart": "No typical chart elements like axes or curves detected.",
+    "infographic": "No identifiable pyramid or infographic structure present."
+  }
+}

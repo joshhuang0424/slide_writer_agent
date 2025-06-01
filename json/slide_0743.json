@@ -1,0 +1,136 @@
+{
+  "slide_id": "27",
+  "section": "long-term value improvement strategies",
+  "purpose": "To highlight the gap between the ticket size of Bank and its benchmark and suggest actions.",
+  "narrative_role": "Informative and prescriptive",
+  "title": "Spend per card optimization—ticket size and transaction count",
+  "bullets": [
+    {
+      "highlight": "Bank: $3,208",
+      "text": "1st year average spend per card forecast"
+    },
+    {
+      "highlight": "Benchmark: $3,850",
+      "text": "1st year average spend per card forecast"
+    },
+    {
+      "highlight": "Bank: 38",
+      "text": "1st year average transaction count forecast"
+    },
+    {
+      "highlight": "Benchmark: 29",
+      "text": "1st year average transaction count forecast"
+    },
+    {
+      "highlight": "Bank: $86",
+      "text": "average ticket size forecast"
+    },
+    {
+      "highlight": "Benchmark: $135",
+      "text": "average ticket size forecast"
+    }
+  ],
+  "supporting_facts": [
+    "Average calculated using data from World Mastercard cardholders who made their first purchase in May 2018-Oct 2018"
+  ],
+  "reasoning_strategy": "Comparison and benchmarking",
+  "data_points": [],
+  "cta": "Bank should rollout initiatives that drive ticket size",
+  "layout": "Text and chart with callout boxes",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "header": "top",
+    "chart": "right",
+    "text": "left",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "callout box",
+      "label": "1st year average spend per card forecast",
+      "position": "top left"
+    },
+    {
+      "type": "callout box",
+      "label": "1st year average transaction count forecast",
+      "position": "bottom left"
+    },
+    {
+      "type": "callout box",
+      "label": "average ticket size forecast",
+      "position": "bottom left"
+    },
+    {
+      "type": "circle",
+      "label": "Next Step",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key data in callout boxes"
+  },
+  "design_language": "Corporate and data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "line chart",
+    "title": "1st year average ticket size forecast, by vintage",
+    "x_axis_label": "Month",
+    "y_axis": [
+      "0%",
+      "5%",
+      "10%",
+      "15%",
+      "20%",
+      "25%",
+      "30%",
+      "35%",
+      "40%",
+      "45%"
+    ],
+    "values": [
+      "May 2018",
+      "Jun 2018",
+      "Jul 2018",
+      "Aug 2018",
+      "Sep 2018",
+      "Oct 2018"
+    ],
+    "annotations": [
+      "Gap",
+      "Bank",
+      "Benchmark"
+    ],
+    "source": "World Mastercard data"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or pyramid infographic detected."
+  }
+}

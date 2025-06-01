@@ -1,0 +1,135 @@
+{
+  "slide_id": "20",
+  "section": "Methodology",
+  "purpose": "Explain dimension 3 of the methodology related to circular economy and waste",
+  "narrative_role": "Informative",
+  "title": "Methodology: Dimension 3: Circular economy and waste",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of different metrics under the circular economy and waste dimension",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and table",
+  "content_zones": {
+    "title": "top-center",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight important metrics using percentage and charts"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of indicators, types, metrics, weights, and grading criteria",
+      "headers": [
+        "Indicator",
+        "Type",
+        "Metric",
+        "Weight",
+        "Grading criteria"
+      ],
+      "rows": [
+        {
+          "row_label": "Waste intensity",
+          "cells": [
+            "Waste intensity",
+            "N",
+            "Waste total / IP data traffic",
+            "17%",
+            "100 = 0 kt / Exabyte\n0 >= 2 kt / Exabyte"
+          ],
+          "pyramid_level": "L0"
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "N",
+            "Waste total / revenue",
+            "17%",
+            "100 = 0 t / USD Mio.\n0 >= 1.2 t / USD Mio."
+          ],
+          "pyramid_level": "L0"
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "N",
+            "Waste total / # customers",
+            "17%",
+            "100 = 0 kg / customer\n0 >= 1 kg / customer"
+          ],
+          "pyramid_level": "L0"
+        },
+        {
+          "row_label": "Recycling",
+          "cells": [
+            "Recycling",
+            "N",
+            "Waste recycled / total",
+            "25%",
+            "100 = 100%\n0 = 0%"
+          ],
+          "pyramid_level": "L1"
+        },
+        {
+          "row_label": "Collection of end-user devices",
+          "cells": [
+            "Collection of end-user devices",
+            "N",
+            "Mobile phones collected / revenue",
+            "25%",
+            "100 = 70 phones collected / USD Mio.\n0 = 0 phones collected / USD Mio."
+          ],
+          "pyramid_level": "L1"
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid levels or other infographic details are present in the original image, so infographic levels were left empty."
+  }
+}

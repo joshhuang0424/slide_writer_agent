@@ -1,0 +1,145 @@
+{
+  "slide_id": "7",
+  "section": "OI",
+  "purpose": "Illustrate the significance of credit card fees in issuer revenue.",
+  "narrative_role": "Informative",
+  "title": "Credit card related services fees are a significant portion of issuer revenue",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "title, table, annotation",
+  "layout_type": "visual",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "annotation": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "note",
+      "label": "Fees incurred by cardholders will vary from issuer to issuer, and from card to card. However, it is largely dependent on the card's usage and payment behavior.",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Credit Card Statement",
+      "description": "Breakdown of various credit card fees.",
+      "headers": [
+        "Fee Type",
+        "Amount"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Interchange Fees",
+            "$674.00"
+          ]
+        },
+        {
+          "cells": [
+            "Late Fees",
+            "$26.00"
+          ]
+        },
+        {
+          "cells": [
+            "Annual Fee",
+            "$30.00"
+          ]
+        },
+        {
+          "cells": [
+            "Cash Advance Fees",
+            "$6.00"
+          ]
+        },
+        {
+          "cells": [
+            "Balance Transfer Fees",
+            "$2.00"
+          ]
+        },
+        {
+          "cells": [
+            "Overlimit Fees",
+            "$1.00"
+          ]
+        },
+        {
+          "cells": [
+            "Foreign Exchange Fees",
+            "$21.00"
+          ]
+        },
+        {
+          "cells": [
+            "Credit Protection Fees",
+            "$2.00"
+          ]
+        },
+        {
+          "cells": [
+            "Miscellaneous Fees",
+            "$1.00"
+          ]
+        },
+        {
+          "cells": [
+            "Total Fees",
+            "$763.00"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": [
+      "The font family for the title and body text is not specified in the image."
+    ]
+  }
+}

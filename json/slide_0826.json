@@ -1,0 +1,194 @@
+{
+  "slide_id": "1",
+  "section": "Policy Recommendations",
+  "purpose": "To present cost-efficient policies to protect the vulnerable.",
+  "narrative_role": "Informative",
+  "title": "Governments can protect the vulnerable by adopting six cost-efficient policies",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of policy impacts on hospitalization reduction.",
+  "data_points": [
+    {
+      "policy": "Combined impact of all six policies",
+      "ideal": -89,
+      "effective": -47
+    },
+    {
+      "policy": "Mandate wearing face coverings in public spaces",
+      "ideal": -40,
+      "effective": -15
+    },
+    {
+      "policy": "Provide high-quality masks to vulnerable people and ensure they are worn",
+      "ideal": -48,
+      "effective": -27
+    },
+    {
+      "policy": "Skew sentinel testing to the most health vulnerable people, those in close contact with them, and communities of color",
+      "ideal": -25,
+      "effective": -12
+    },
+    {
+      "policy": "Support sheltering in place by providing food, counseling, and social connections",
+      "ideal": -19,
+      "effective": -10
+    },
+    {
+      "policy": "Accommodate vulnerable people who cannot work from home by enabling employer innovation and supporting shelter-in-place for the most vulnerable",
+      "ideal": -10,
+      "effective": -3
+    },
+    {
+      "policy": "Enforce congregate living best practices and standards",
+      "ideal": -9,
+      "effective": -3
+    }
+  ],
+  "cta": null,
+  "layout": "Horizontal bar chart with text annotations",
+  "layout_type": "mixed",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "notes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Ideal",
+      "position": "bottom right"
+    },
+    {
+      "type": "circle",
+      "label": "Effective",
+      "position": "bottom right"
+    },
+    {
+      "type": "number",
+      "label": "1",
+      "position": "left"
+    },
+    {
+      "type": "number",
+      "label": "2",
+      "position": "left"
+    },
+    {
+      "type": "number",
+      "label": "3",
+      "position": "left"
+    },
+    {
+      "type": "number",
+      "label": "4",
+      "position": "left"
+    },
+    {
+      "type": "number",
+      "label": "5",
+      "position": "left"
+    },
+    {
+      "type": "number",
+      "label": "6",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key points"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#00B050",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "horizontal bar",
+    "title": "Reduction in hospitalizations (%)",
+    "x_axis_label": "Policies",
+    "y_axis": [
+      "Impact"
+    ],
+    "values": [
+      {
+        "policy": "Combined impact of all six policies",
+        "values": [
+          -89,
+          -47
+        ]
+      },
+      {
+        "policy": "Mandate wearing face coverings in public spaces",
+        "values": [
+          -40,
+          -15
+        ]
+      },
+      {
+        "policy": "Provide high-quality masks to vulnerable people and ensure they are worn",
+        "values": [
+          -48,
+          -27
+        ]
+      },
+      {
+        "policy": "Skew sentinel testing to the most health vulnerable people, those in close contact with them, and communities of color",
+        "values": [
+          -25,
+          -12
+        ]
+      },
+      {
+        "policy": "Support sheltering in place by providing food, counseling, and social connections",
+        "values": [
+          -19,
+          -10
+        ]
+      },
+      {
+        "policy": "Accommodate vulnerable people who cannot work from home by enabling employer innovation and supporting shelter-in-place for the most vulnerable",
+        "values": [
+          -10,
+          -3
+        ]
+      },
+      {
+        "policy": "Enforce congregate living best practices and standards",
+        "values": [
+          -9,
+          -3
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Ycharts Indicators; Gallup; PEW; NPR; BCG analysis."
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets present in the slide; focus is on chart data."
+  }
+}

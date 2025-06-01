@@ -1,0 +1,120 @@
+{
+  "slide_id": "60",
+  "section": "BCG TSR方案介绍",
+  "purpose": "说明通过策略甄余现金的使用方式实现TSR最大化。",
+  "narrative_role": "informative",
+  "title": "通过策略甄余现金的使用方式，实现TSR最大化：针对各类剩余现金投资方式对股东价值增长产生的影响开展精确分析（价值-成本分析），以支持TSR决策",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过比较各类投资方式的价值创造方式和效果，以支持决策。",
+  "data_points": [],
+  "cta": null,
+  "layout": "表格为主，包含描述与数据",
+  "layout_type": "table_with_text",
+  "content_zones": {
+    "header": "BCG TSR方案介绍",
+    "main": "通过策略甄余现金的使用方式，实现TSR最大化..."
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "标题和关键数据高亮"
+  },
+  "design_language": "正式且结构化",
+  "color_scheme": {
+    "primary": "绿色",
+    "accent": "灰色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "剩余现金投资方式及其定义",
+      "description": "说明不同投资方式及其对TSR的影响。",
+      "headers": [
+        "剩余现金投资方式及其定义",
+        "价值创造方式和效果",
+        "价值-成本比（倍数）",
+        "价值-成本比的计算依据"
+      ],
+      "rows": [
+        {
+          "row_label": "自主性再投资",
+          "cells": [
+            "为发展业务进行再投资",
+            "持续提升企业内在价值",
+            "0.3 – 3.0+",
+            "以年投资额作为投资基准"
+          ]
+        },
+        {
+          "row_label": "并购",
+          "cells": [
+            "项目价值大于投入资金时，TSR有望增长",
+            "支付溢价",
+            "0.5 – 1.5",
+            "内在价值，协同效益"
+          ]
+        },
+        {
+          "row_label": "支付股息",
+          "cells": [
+            "不经过企业，将收益直接支付给投资方",
+            "显示企业可持续创造收益",
+            "1.0 – 2.0+",
+            "股息是收益水平和未来现金流的显著指标"
+          ]
+        },
+        {
+          "row_label": "股份回购",
+          "cells": [
+            "有助于创造直接价值",
+            "利用价差套利",
+            "0.9 – 1.1",
+            "根据大型企业的过去经验"
+          ]
+        },
+        {
+          "row_label": "偿还负债",
+          "cells": [
+            "投资预期收益低迷时",
+            "保障现金流",
+            "约1.0",
+            "全球现金流出现"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "未包含图表或其他需要进一步分析的元素。"
+  }
+}

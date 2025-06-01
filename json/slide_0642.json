@@ -1,0 +1,99 @@
+{
+  "slide_id": "2",
+  "section": "Introductions",
+  "purpose": "Introduce key speakers and their roles.",
+  "narrative_role": "Introduction",
+  "title": "Introductions",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with circular images",
+  "layout_type": "profile-introduction",
+  "content_zones": {
+    "left": "Moderator introduction",
+    "center": "Key speakers introduction"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Rick Tetzeli",
+      "position": "top-left"
+    },
+    {
+      "type": "circle",
+      "label": "James Manyika",
+      "position": "top-center"
+    },
+    {
+      "type": "circle",
+      "label": "Lareina Yee",
+      "position": "top-right"
+    },
+    {
+      "type": "circle",
+      "label": "Gayatri Agnew",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "Amy Goldfinger",
+      "position": "bottom-center-left"
+    },
+    {
+      "type": "circle",
+      "label": "Carlos Rangel",
+      "position": "bottom-center-right"
+    },
+    {
+      "type": "circle",
+      "label": "Mahlet Getachew",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold names"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No reasoning or data points are evident in the slide."
+  }
+}

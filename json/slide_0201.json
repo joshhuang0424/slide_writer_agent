@@ -1,0 +1,128 @@
+{
+  "slide_id": "81",
+  "section": "Value Quantification",
+  "purpose": "To demonstrate how TSR helps quantify the impact of initiatives and prioritize actions.",
+  "narrative_role": "Informative",
+  "title": "TSR helps quantify impact of initiatives, helps prioritize",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presenting a visual comparison of estimated value changes across different initiatives.",
+  "data_points": [
+    {
+      "initiative": "Conglomerate strength",
+      "estimated_change": 600
+    },
+    {
+      "initiative": "Efficiency",
+      "estimated_change": 250
+    },
+    {
+      "initiative": "Pictures",
+      "estimated_change": 0
+    },
+    {
+      "initiative": "Semiconductors",
+      "estimated_change": 200
+    },
+    {
+      "initiative": "Mobile",
+      "estimated_change": 500
+    }
+  ],
+  "cta": null,
+  "layout": "Comparative analysis of initiatives",
+  "layout_type": "Two-column layout",
+  "content_zones": {
+    "left": "Initiative names and icons",
+    "right": "Bar chart with estimated changes"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Conglomerate strength",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Efficiency",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Pictures",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Semiconductors",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Mobile",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key numbers in green"
+  },
+  "design_language": "Modern and clean with a focus on clarity",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Estimated value (estimated change in ¥/share)",
+    "x_axis_label": "Estimated change (¥/share)",
+    "y_axis": [
+      "Conglomerate strength",
+      "Efficiency",
+      "Pictures",
+      "Semiconductors",
+      "Mobile"
+    ],
+    "values": [
+      600,
+      250,
+      0,
+      200,
+      500
+    ],
+    "annotations": [
+      "Up to 1,200 for Conglomerate strength",
+      "Up to 800 for Efficiency",
+      "Up to 600 for Pictures",
+      "Up to 400 for Semiconductors"
+    ],
+    "source": "BCG analysis; BCG ValueScience® Center"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional information for bullets or pyramid infographic."
+  }
+}

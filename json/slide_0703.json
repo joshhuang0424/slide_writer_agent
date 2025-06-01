@@ -1,0 +1,128 @@
+{
+  "slide_id": "24",
+  "section": "APAC M&A",
+  "purpose": "To present the trend of M&A deals in APAC by country/region from 2012-2016.",
+  "narrative_role": "Trend analysis",
+  "title": "APAC M&A deals by country/region, 2012-16",
+  "bullets": [
+    {
+      "highlight": "China/HK/Taiwan",
+      "text": "Most of the APAC activity was driven by China/HK/Taiwan region"
+    },
+    {
+      "highlight": "27%",
+      "text": "Developed APAC contributed 27% to total APAC M&A activity"
+    },
+    {
+      "highlight": "Australia/NZ",
+      "text": "Australia/NZ saw a slight uptick in activity when compared with 2015"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016"
+  ],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "chart_text",
+  "content_zones": {
+    "left": "chart",
+    "right": "bullets"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key regions and percentages."
+  },
+  "design_language": "clean, professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "teal",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "APAC deals by geography",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "$ bn"
+    ],
+    "values": [
+      {
+        "year": "2012",
+        "values": [
+          85,
+          83,
+          185
+        ]
+      },
+      {
+        "year": "2013",
+        "values": [
+          79,
+          85,
+          247
+        ]
+      },
+      {
+        "year": "2014",
+        "values": [
+          75,
+          84,
+          457
+        ]
+      },
+      {
+        "year": "2015",
+        "values": [
+          90,
+          103,
+          785
+        ]
+      },
+      {
+        "year": "2016",
+        "values": [
+          60,
+          80,
+          518
+        ]
+      }
+    ],
+    "annotations": [
+      "Percentage of total deals for each region"
+    ],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic or table was present in the slide."
+  }
+}

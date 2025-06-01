@@ -1,0 +1,145 @@
+{
+  "slide_id": "26",
+  "section": "",
+  "purpose": "Illustrate the automated callback process for a mobile banking app.",
+  "narrative_role": "Process explanation",
+  "title": "APP外自动化回捞流程",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "flowchart",
+  "layout_type": "process",
+  "content_zones": {
+    "header": "APP外自动化回捞流程",
+    "footer": "FOOTER"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "回捞客户名单生成",
+      "position": "top-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "客户回捞触达",
+      "position": "top-center"
+    },
+    {
+      "type": "rectangle",
+      "label": "营销方案效果追踪",
+      "position": "top-right"
+    },
+    {
+      "type": "arrow",
+      "label": "回捞规则确定名单筛选规则",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "回捞用户目标名单",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "推送自动发送平台并进行资源排期",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "短信密语触达（每周）",
+      "position": "center-right"
+    },
+    {
+      "type": "arrow",
+      "label": "AI外呼（每2周）",
+      "position": "right"
+    },
+    {
+      "type": "arrow",
+      "label": "人工外呼（每4周）",
+      "position": "right-bottom"
+    },
+    {
+      "type": "rectangle",
+      "label": "大数据团队：推送名单至远程中心/...",
+      "position": "bottom-center-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "大数据团队：提供不同触达渠道名单...",
+      "position": "bottom-center"
+    },
+    {
+      "type": "rectangle",
+      "label": "万事达卡：提供长期有效落地页和...",
+      "position": "bottom-center-right"
+    },
+    {
+      "type": "rectangle",
+      "label": "主要参与方",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points, bullets, or detailed reasoning strategies were explicitly provided in the slide image.",
+    "flowchart_labels": [
+      "回捞规则确定名单筛选规则",
+      "回捞用户目标名单",
+      "推送自动发送平台并进行资源排期",
+      "短信密语触达（每周）",
+      "AI外呼（每2周）",
+      "人工外呼（每4周）",
+      "信用卡申请页面 + 活动弹窗",
+      "回捞活动定期追踪与分析"
+    ],
+    "participants": [
+      "大数据团队",
+      "客发团队",
+      "远程中心/科技",
+      "万事达卡团队"
+    ]
+  }
+}

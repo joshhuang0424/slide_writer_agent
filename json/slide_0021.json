@@ -1,0 +1,107 @@
+{
+  "slide_id": "21",
+  "section": "Workplace Changes",
+  "purpose": "Illustrate the impact of COVID-19 on work dynamics and opportunities.",
+  "narrative_role": "Informative",
+  "title": "COVID-19 challenges us to reimagine work",
+  "bullets": [
+    {
+      "highlight": "93%",
+      "text": "Of companies think more jobs can be performed remotely"
+    },
+    {
+      "highlight": "91%",
+      "text": "Of companies say they will cut business travel"
+    },
+    {
+      "highlight": "77%",
+      "text": "Of employees say they would work from home more than before"
+    },
+    {
+      "highlight": null,
+      "text": "Lack of geographic constraints can help companies diversify their hiring pools"
+    },
+    {
+      "highlight": null,
+      "text": "Potential for greater flexibility in working hours can help women balance work/life demands"
+    },
+    {
+      "highlight": null,
+      "text": "Holistic support for employee well-being can provide a more inclusive workplace"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of pre and post-COVID work environments.",
+  "data_points": [
+    "93% of companies think more jobs can be performed remotely",
+    "91% of companies say they will cut business travel",
+    "77% of employees say they would work from home more than before"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Infographic and bullet points",
+  "content_zones": {
+    "left": "Infographic with percentages and icons",
+    "right": "Bullet points with opportunities"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "93%",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "91%",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "77%",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of percentage and bold text for emphasis"
+  },
+  "design_language": "Corporate, clean",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Dark Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Infographic",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "bullet_grid": {
+      "rows": 3,
+      "columns": 2
+    },
+    "_why_unknown": "Chart details are inferred from visual elements and text, no specific data source provided for the percentages."
+  }
+}

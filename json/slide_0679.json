@@ -1,0 +1,180 @@
+{
+  "slide_id": "19",
+  "section": "Appendix",
+  "purpose": "Provide information about the author team and related publications.",
+  "narrative_role": "Informative",
+  "title": "Author team and regional experts / Selected publications and research",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presentation of credentials and sources.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "side-by-side",
+  "content_zones": {
+    "left": "Author team information",
+    "right": "Publications and research"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "publication",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold names and publication titles"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Author team and regional experts",
+      "description": "List of authors and their roles within BCG.",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "Thomas Dauner",
+          "cells": [
+            "Senior partner",
+            "BCG Stuttgart"
+          ]
+        },
+        {
+          "row_label": "Carsten M. Schaetzberger",
+          "cells": [
+            "Partner",
+            "BCG Stuttgart"
+          ]
+        },
+        {
+          "row_label": "Nikolaus S. Lang",
+          "cells": [
+            "Senior partner",
+            "BCG Munich"
+          ]
+        },
+        {
+          "row_label": "Rolf Kilian",
+          "cells": [
+            "Senior partner",
+            "BCG Stuttgart"
+          ]
+        },
+        {
+          "row_label": "Andreas Jentzsch",
+          "cells": [
+            "Partner",
+            "BCG Munich"
+          ]
+        },
+        {
+          "row_label": "Thomas Palme",
+          "cells": [
+            "Principal",
+            "BCG Stuttgart"
+          ]
+        },
+        {
+          "row_label": "Michelle Andersen",
+          "cells": [
+            "Partner",
+            "BCG Detroit"
+          ]
+        },
+        {
+          "row_label": "Philipp Sadek",
+          "cells": [
+            "Associate",
+            "BCG Vienna"
+          ]
+        },
+        {
+          "row_label": "Davide Di Domenico",
+          "cells": [
+            "Partner",
+            "BCG Milan"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    },
+    {
+      "title": "Selected publications and research",
+      "description": "List of relevant publications and research articles.",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "The Reimagined Car: Shared, Autonomous, and Electric",
+          "cells": [
+            "A report by BCG",
+            "December 2017"
+          ]
+        },
+        {
+          "row_label": "Connected Vehicles and the Road to Revenue",
+          "cells": [
+            "An article by BCG",
+            "December 2017"
+          ]
+        },
+        {
+          "row_label": "Making Autonomous Vehicles a Reality: Lessons from Boston and Beyond",
+          "cells": [
+            "A report by BCG and the World Economic Forum",
+            "October 2017"
+          ]
+        },
+        {
+          "row_label": "Self-Driving Vehicles, Robo-Taxis, and the Urban Mobility Revolution",
+          "cells": [
+            "A report by BCG and the World Economic Forum",
+            "July 2016"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

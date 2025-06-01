@@ -1,0 +1,64 @@
+{
+  "slide_id": "1",
+  "section": "Cover",
+  "purpose": "Introduction",
+  "narrative_role": "Title",
+  "title": "The Great Mobility Tech Race",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Theme Introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "cover",
+  "content_zones": {
+    "title_zone": "center",
+    "subtitle_zone": "center",
+    "date_zone": "bottom left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title bold"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The specific font family used is not discernible from the image alone."
+  }
+}

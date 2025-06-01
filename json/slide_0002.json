@@ -1,0 +1,99 @@
+{
+  "slide_id": "2",
+  "section": "Introduction",
+  "purpose": "To provide an overview of the Women in the Workplace research effort and highlight key statistics.",
+  "narrative_role": "Informative",
+  "title": "Six years of Women in the Workplace",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Presentation of historical data and key participation metrics.",
+  "data_points": [
+    "+600 Participating companies",
+    "22 million Employees in participating companies",
+    "~300,000 Employees surveyed on their workplace experiences",
+    "~150 In-depth 1-on-1 interviews"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with images on the left and key statistics on the right.",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Historical images and text",
+    "right": "Key statistics with icons"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Historical reports",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "+600 companies",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "22 million employees",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "~300,000 surveys",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "~150 interviews",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key statistics"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "White",
+    "background": "Light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "unknown",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "unknown"
+  },
+  "infographic": {
+    "type": "unknown",
+    "levels": []
+  },
+  "table": {
+    "title": "unknown",
+    "headers": [],
+    "rows": [],
+    "position": "unknown"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font family is not specified in the image; no tables or infographics are present."
+  }
+}

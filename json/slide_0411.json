@@ -1,0 +1,90 @@
+{
+  "slide_id": "2",
+  "section": "Agenda",
+  "purpose": "Outline the topics for the presentation",
+  "narrative_role": "Overview",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "P&L Breakdown"
+    },
+    {
+      "highlight": false,
+      "text": "A Day in the Life of a Cardholder"
+    },
+    {
+      "highlight": false,
+      "text": "Driver Mapping"
+    },
+    {
+      "highlight": false,
+      "text": "Leveraging P&L"
+    },
+    {
+      "highlight": false,
+      "text": "Project Case Studies"
+    },
+    {
+      "highlight": false,
+      "text": "Q&A"
+    },
+    {
+      "highlight": false,
+      "text": "Appendix"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "single column with highlighted section title",
+  "layout_type": "text-heavy",
+  "content_zones": {
+    "header": "Agenda",
+    "main": "Introduction to P&L",
+    "footer": "mastercard logo"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "highlighted section title"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

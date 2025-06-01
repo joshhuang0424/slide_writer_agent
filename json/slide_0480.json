@@ -1,0 +1,160 @@
+{
+  "slide_id": "5",
+  "section": "Threat Analysis",
+  "purpose": "To illustrate the threat of disintermediation for traditional financial institutions due to the rise of digital wallets.",
+  "narrative_role": "Informative",
+  "title": "The threat of disintermediation for traditional financial institutions is now material",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "table-focused",
+  "layout_type": "full-page",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for headings"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Threat Analysis Table",
+      "description": "Comparison of threats posed by different types of digital wallets to traditional financial institutions.",
+      "headers": [
+        "",
+        "Network Wallets",
+        "Device Wallets",
+        "P2P Wallets"
+      ],
+      "rows": [
+        {
+          "row_label": "Channel",
+          "cells": [
+            "Proximity/POS",
+            "✓",
+            "✓",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Mobile/In-app",
+            "✓",
+            "✓",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Desktop/Online",
+            "✓",
+            "✓",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "Value/Product",
+          "cells": [
+            "Linked Card",
+            "✓",
+            "✓",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Linked bank account",
+            "✗",
+            "✗",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Proprietary physical card",
+            "✗",
+            "✗",
+            "✗"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Stored value in wallet",
+            "✗",
+            "Emerging threat",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "Use",
+          "cells": [
+            "Stand-alone app",
+            "✗",
+            "✗",
+            "✓"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Pay via messages",
+            "✗",
+            "✗",
+            "✓"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The specific font family is not discernible from the image."
+  }
+}

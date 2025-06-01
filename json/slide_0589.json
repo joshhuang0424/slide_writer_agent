@@ -1,0 +1,109 @@
+{
+  "slide_id": "18",
+  "section": "REWARD ECONOMICS",
+  "purpose": "Illustrate the framework for impact calculation",
+  "narrative_role": "Informative",
+  "title": "Framework of impact calculation",
+  "bullets": [
+    {
+      "highlight": "01",
+      "text": "Identify the key factors for benchmarking loyalty programs"
+    },
+    {
+      "highlight": "01",
+      "text": "Benchmark against best in class loyalty programs and highlight the best feature"
+    },
+    {
+      "highlight": "02",
+      "text": "Evaluate the current margin by breaking down cost and revenue components"
+    },
+    {
+      "highlight": "03",
+      "text": "Conduct breakeven analysis"
+    },
+    {
+      "highlight": "03",
+      "text": "Compare all loyalty propositions created"
+    },
+    {
+      "highlight": "04",
+      "text": "Validate of the proposition by benchmarking against industry leading loyalty programs"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Step-by-step analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "Horizontal steps with icons",
+  "layout_type": "Process flow",
+  "content_zones": {
+    "left": "Step visuals with icons",
+    "right": "Detailed bullet points"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Assessment of status quo",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Evaluation of current financial margin",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Creation of loyalty proposition and comparative analysis",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Validation and finalization of proposition",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 6,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numbers"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "red",
+    "accent": "orange",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No specific chart or tabular data present, only process steps with bullets."
+  }
+}

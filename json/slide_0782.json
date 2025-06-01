@@ -1,0 +1,145 @@
+{
+  "slide_id": "4",
+  "section": "Methodology",
+  "purpose": "Explain the customer enablement criteria and methodology.",
+  "narrative_role": "Informative",
+  "title": "Methodology: Dimension 4: Customer enablement",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive explanation of grading criteria for customer enablement indicators.",
+  "data_points": [],
+  "cta": null,
+  "layout": "header, table, footer",
+  "layout_type": "standard",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "pie_chart",
+      "label": "25%",
+      "position": "top_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted text for weights and criteria"
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "#00AF50",
+    "accent": "#6ECEB2",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Customer Enablement Indicators",
+      "description": "Details on indicators, types, metrics, weights, and grading criteria.",
+      "headers": [
+        "Indicator",
+        "Type",
+        "Metric",
+        "Weight",
+        "Grading criteria"
+      ],
+      "rows": [
+        {
+          "row_label": "Green initiatives",
+          "cells": [
+            "Green initiatives",
+            "J",
+            "Qualitative evaluation of current green initiatives",
+            "20%",
+            "6 grade levels, based on evaluation of factors such as green product offerings, eco-friendly product design, take-back & recycling initiatives, minimization of product impact, promotion of responsible use"
+          ]
+        },
+        {
+          "row_label": "Green R&D expenditures",
+          "cells": [
+            "Green R&D expenditures",
+            "N",
+            "Green R&D expenditures / revenue",
+            "20%",
+            "100 = 25%, 0 = 0%"
+          ]
+        },
+        {
+          "row_label": "Carbon abatement factor / Enablement factor",
+          "cells": [
+            "Carbon abatement factor / Enablement factor",
+            "B",
+            "Calculated and published",
+            "15%",
+            "50 = Yes, 0 = No"
+          ]
+        },
+        {
+          "row_label": "Comprehensive scope",
+          "cells": [
+            "Comprehensive scope",
+            "J",
+            "Comprehensive scope",
+            "15%",
+            "Max. 25 pts. for group-wide scope (based on revenue % of subsidiaries). Additional 25 pts. in case scope 3 emissions are included"
+          ]
+        },
+        {
+          "row_label": "Transparent methodology",
+          "cells": [
+            "Transparent methodology",
+            "J",
+            "Transparent methodology",
+            "15%",
+            "50 = complete breakdown, 25 = reference to external standards / guidelines, 0 = only total without breakdown"
+          ]
+        },
+        {
+          "row_label": "Ambition",
+          "cells": [
+            "Ambition",
+            "J",
+            "Ambition",
+            "15%",
+            "50 = EF of 10 by 2025, 45 = EF of 10 by 2030, 25 = EF of 3 by 2020, 20 = EF of 2 achieved in 2018, 15 = EF of 2 by 2020, incl. scope 3 emissions, 10 = EF of 2 by 2020, excl. scope 3 emissions, 0 = No EF ambition communicated"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No pyramid infographic or additional complex charting elements are present in the slide."
+}

@@ -1,0 +1,183 @@
+{
+  "slide_id": "13",
+  "section": "Decline Sensitivity Analysis",
+  "purpose": "To identify the TFPR threshold for declining transactions to optimize profitability.",
+  "narrative_role": "Analytical",
+  "title": "Identifying at what TFPR to decline a transaction at the point of sale is a profitability calculation",
+  "bullets": [
+    {
+      "highlight": "Analytics",
+      "text": "must be used to determine an organization’s TFPR decline targets."
+    },
+    {
+      "highlight": "Best practice",
+      "text": "is to establish targets based on transaction risk level, liability and member impact."
+    },
+    {
+      "highlight": "Domestic Card Present",
+      "text": "(generally a lower TFPR)"
+    },
+    {
+      "highlight": "Cross Border Card Not Present",
+      "text": "(generally a higher TFPR)"
+    },
+    {
+      "highlight": "Note",
+      "text": "that the blended FPR is a weighted average of the FPR of each rule within the rule set."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven analysis of TFPR thresholds.",
+  "data_points": [
+    "$2,270,352",
+    "712,751,840"
+  ],
+  "cta": null,
+  "layout": "Title, table, bullet points",
+  "layout_type": "Analytical",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center",
+    "bullets": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Emphasis",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted key terms"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Red",
+    "background": "Light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Decline Sensitivity by TFPR Thresholds",
+      "description": "Analysis of decline sensitivity based on different TFPR thresholds.",
+      "headers": [
+        "",
+        "Total Portfolio",
+        "2:1",
+        "4:1",
+        "6:1"
+      ],
+      "rows": [
+        {
+          "row_label": "Gross BPS",
+          "cells": [
+            "11.19",
+            "10.98",
+            "10.62",
+            "10.47"
+          ]
+        },
+        {
+          "row_label": "Gross Fraud $ Captured",
+          "cells": [
+            "$35,078,990",
+            "$661,596",
+            "$1,795,675",
+            "$2,270,352"
+          ]
+        },
+        {
+          "row_label": "Fraud Transactions",
+          "cells": [
+            "556,900",
+            "7,799",
+            "18,469",
+            "22,537"
+          ]
+        },
+        {
+          "row_label": "Good Transactions",
+          "cells": [
+            "712,751,840",
+            "7,120",
+            "35,460",
+            "56,100"
+          ]
+        },
+        {
+          "row_label": "Transaction Approval Rate",
+          "cells": [
+            "-",
+            "99.9989%",
+            "99.9974%",
+            "99.9968%"
+          ]
+        },
+        {
+          "row_label": "Good Dollars",
+          "cells": [
+            "$31.344 B",
+            "$1,496,642",
+            "$6,871,802",
+            "$9,478,489"
+          ]
+        },
+        {
+          "row_label": "Dollar Approval Rate",
+          "cells": [
+            "-",
+            "99.9952%",
+            "99.9781%",
+            "99.9698%"
+          ]
+        },
+        {
+          "row_label": "False Positive Rate",
+          "cells": [
+            "0.91:1",
+            "1.92:1",
+            "2:49:1"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No pyramid infographic detected.",
+    "_highlighted_values": "Highlighted values in red circle are significant for emphasis."
+  }
+}

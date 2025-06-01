@@ -1,0 +1,189 @@
+{
+  "slide_id": "36",
+  "section": "DVA Analysis",
+  "purpose": "To illustrate the trend of Acquirer and Target DVA over time.",
+  "narrative_role": "data_analysis",
+  "title": "Acquirer DVA turned negative - still above long term average; Target DVA close to long-term average",
+  "bullets": [],
+  "supporting_facts": [
+    "For M&A involving publicly traded companies; defined as combined (acquirer and target) change in market capitalization, adjusted for market movements, from two days prior to two days after announcement, as % of transaction value."
+  ],
+  "reasoning_strategy": "Comparative trend analysis",
+  "data_points": [
+    "Average Deal value added – Target and acquirer, Percent"
+  ],
+  "cta": null,
+  "layout": "standard",
+  "layout_type": "chart-focused",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "legend": "center",
+    "footnote": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Number of deals",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Average Deal value added – Target and acquirer, Percent",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "-20",
+      "-16",
+      "-12",
+      "-8",
+      "-4",
+      "0",
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "values": [
+      {
+        "year": "2000",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2001",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2002",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2003",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2004",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2005",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2006",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2007",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2008",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2009",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2010",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2011",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2012",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2013",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2014",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2015",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      },
+      {
+        "year": "2016",
+        "acquirer_dva": "unknown",
+        "target_dva": "unknown",
+        "total_dva": "unknown"
+      }
+    ],
+    "annotations": [],
+    "source": "SOURCE: Dealogic; Datastream; McKinsey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Detailed numerical values not clearly visible for each year in the chart."
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slide_id": "17",
+  "section": "Driver Shortage",
+  "purpose": "To highlight the impact of autonomous vehicles on addressing the driver shortage in commercial trucking.",
+  "narrative_role": "Informative",
+  "title": "In commercial trucking, while driver shortage persists, Autonomous is going to be one of the key levers counterbalancing the supply gap",
+  "bullets": [
+    {
+      "highlight": "Demographic factors",
+      "text": "Slow growth in overall labor pool"
+    },
+    {
+      "highlight": "Job attractiveness",
+      "text": "Historically flat wages, Regular longer term separation from families, Unpredictable schedules"
+    },
+    {
+      "highlight": "Regulatory factors",
+      "text": "Regulation on working hour restrictions and background checks"
+    },
+    {
+      "highlight": "Educational factors",
+      "text": "Yearlong pre-training required"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explanation of factors contributing to driver shortage and potential mitigation through autonomy.",
+  "data_points": [
+    "0.02",
+    "0.06",
+    "0.11",
+    "0.16",
+    "0.01",
+    "0.23",
+    "0.44",
+    "0.64"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with text and chart",
+  "layout_type": "Informative",
+  "content_zones": {
+    "left": "Text and bullet points describing factors",
+    "right": "Chart showing driver shortage projections"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "USA",
+      "position": "right"
+    },
+    {
+      "type": "flag",
+      "label": "EU",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main factors"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Truck driver shortage projections",
+    "x_axis_label": "Years",
+    "y_axis": [
+      "Millions"
+    ],
+    "values": [
+      {
+        "year": "2013",
+        "USA": 0.02,
+        "EU": 0.01
+      },
+      {
+        "year": "2018",
+        "USA": 0.06,
+        "EU": 0.23
+      },
+      {
+        "year": "2023E",
+        "USA": 0.11,
+        "EU": 0.44
+      },
+      {
+        "year": "2028E",
+        "USA": 0.16,
+        "EU": 0.64
+      }
+    ],
+    "annotations": [],
+    "source": "FDA, Business Monitor, ATA Driver Shortage Report (2019)"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is unknown as the image does not provide this information. No pyramid infographic is present."
+  }
+}

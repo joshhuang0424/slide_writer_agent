@@ -1,0 +1,102 @@
+{
+  "slide_id": "5",
+  "section": "客户经营策略",
+  "purpose": "建议客户在办卡后促进线上首刷，并在客户首刷后，进行双渠道引流，极大化长期价值。",
+  "narrative_role": "建议",
+  "title": "建议在客户办卡后促进线上首刷，并在客户首刷后，进行双渠道引流，极大化长期价值",
+  "bullets": [
+    {
+      "highlight": "线上首刷客户",
+      "text": "洞察：线上首刷客户的长期价值高于线下首刷客户30%"
+    },
+    {
+      "highlight": "线上首刷客户",
+      "text": "营销举措：以线上商户权益，吸引线上首刷高潜客户"
+    },
+    {
+      "highlight": "双渠道导流",
+      "text": "洞察：双渠道消费客群长期价值高于单渠道客户250%"
+    },
+    {
+      "highlight": "双渠道导流",
+      "text": "营销举措：首刷后立即主动提醒与首刷渠道相反的线上/线下商户权益，导引成双渠道客户"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过洞察和营销举措，明确线上首刷和双渠道导流的长期价值。",
+  "data_points": [
+    "线上首刷客户长期价值高于线下首刷客户30%",
+    "双渠道消费客群长期价值高于单渠道客户250%"
+  ],
+  "cta": null,
+  "layout": "两栏",
+  "layout_type": "columns",
+  "content_zones": {
+    "header": "建议",
+    "left_column": "线上首刷客户",
+    "right_column": "双渠道导流"
+  },
+  "visual_elements": [
+    {
+      "type": "timeline",
+      "label": "生命周期",
+      "position": "bottom"
+    },
+    {
+      "type": "text",
+      "label": "客户激活",
+      "position": "bottom"
+    },
+    {
+      "type": "text",
+      "label": "客户早期经营",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted terms"
+  },
+  "design_language": "专业且具有视觉吸引力，使用品牌颜色。",
+  "color_scheme": {
+    "primary": "#E95420",
+    "accent": "#F7BFA0",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Infographic pyramid levels are not present on this slide.",
+    "bullet_grid": "2x2"
+  }
+}

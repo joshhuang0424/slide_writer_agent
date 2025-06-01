@@ -1,0 +1,127 @@
+{
+  "slide_id": "1",
+  "section": "Financial Performance",
+  "purpose": "To illustrate the financial performance trends of 光大 and its peers from 2017 to 2021.",
+  "narrative_role": "Evidence support",
+  "title": "盈利能力與資產回報率分析",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "受对外关系冲突、疫情和房地产产业不良贷款等宏观环境影响，银行业对公业务发展受挫，光大等对公业务根基较深的银行坏账增多，资产减值损失上升，净利润遭受影响"
+    },
+    {
+      "highlight": "",
+      "text": "光大及其对标公司ROA和净利率增速和相对排名各相同，各银行内生资本本占比相似，平安银行内生资本本占比略高"
+    },
+    {
+      "highlight": "",
+      "text": "光大盈利能力位居行业中上游水平，据标普排名网统计，盈利能力在42家上市银行中排名第8位"
+    }
+  ],
+  "supporting_facts": [
+    "2017-2021年光大及其对标公司净利率（%）",
+    "2017-2021年光大及其对标公司ROA（%）"
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with charts",
+  "layout_type": "comparison",
+  "content_zones": {
+    "chart_left": "Net Profit Margin",
+    "chart_right": "ROA",
+    "bullet_points": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key financial terms"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Net Profit Margin and ROA Trends",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Net Profit Margin (%)",
+      "ROA (%)"
+    ],
+    "values": [
+      {
+        "chart": "left",
+        "lines": [
+          {
+            "label": "招商银行",
+            "color": "orange"
+          },
+          {
+            "label": "光大银行",
+            "color": "green"
+          },
+          {
+            "label": "平安银行",
+            "color": "yellow"
+          },
+          {
+            "label": "民生银行",
+            "color": "light green"
+          }
+        ]
+      },
+      {
+        "chart": "right",
+        "lines": [
+          {
+            "label": "招商银行",
+            "color": "orange"
+          },
+          {
+            "label": "光大银行",
+            "color": "green"
+          },
+          {
+            "label": "平安银行",
+            "color": "yellow"
+          },
+          {
+            "label": "民生银行",
+            "color": "light green"
+          }
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "光大银行财报"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "資料來源、字體資訊不明"
+  }
+}

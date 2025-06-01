@@ -1,0 +1,83 @@
+{
+  "slide_id": "1",
+  "section": "Impact Analysis",
+  "purpose": "Highlight the impact of COVID-19 on specific vulnerable groups.",
+  "narrative_role": "Informative",
+  "title": "COVID-19 hits two groups of people especially hard",
+  "bullets": [
+    {
+      "highlight": "30x",
+      "text": "Higher hospitalization rate for those older than 65 with preconditions versus healthy adults under 65"
+    },
+    {
+      "highlight": "~2-3x",
+      "text": "Higher infection rate for persons of color versus white Americans, which explains nearly all of the difference in fatality rates"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between different vulnerable groups",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with highlighted statistics",
+  "layout_type": "Informative",
+  "content_zones": {
+    "left": "Health Vulnerable",
+    "right": "Exposure Vulnerable"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "HEALTH VULNERABLE",
+      "position": "left"
+    },
+    {
+      "type": "text_box",
+      "label": "EXPOSURE VULNERABLE",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics"
+  },
+  "design_language": "Minimalistic, high contrast",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#00B050",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "none",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables were present in the slide. Infographic type was determined to be none since no pyramid or similar structure was identified."
+  }
+}

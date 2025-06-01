@@ -1,0 +1,156 @@
+{
+  "slide_id": "24",
+  "section": "初期規劃",
+  "purpose": "展示專案進展及計劃",
+  "narrative_role": "報告",
+  "title": "專案進展 | 轉卡行銷 - 桃子既有客群溝通、通路及接觸點時程規劃",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "時間分段規劃及客群細分",
+  "data_points": [],
+  "cta": "設計各客群各階段的溝通計畫",
+  "layout": "分段式時間軸",
+  "layout_type": "timeline",
+  "content_zones": {
+    "top": "標題",
+    "center": "時間軸和文字",
+    "bottom": "行動呼籲"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "第一階段",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "第二／三階段",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "加粗日期"
+  },
+  "design_language": "企業簡報風格",
+  "color_scheme": {
+    "primary": "藍色",
+    "accent": "紅色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "標楷體",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "新細明體",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "通路及接觸點",
+      "description": "展示各通路及接觸點的目標客群及數量",
+      "headers": [
+        "通路及接觸點",
+        "目標客群及數量 (潛在／重疊)"
+      ],
+      "rows": [
+        {
+          "row_label": "銀行通路",
+          "cells": [
+            "RM",
+            "有RM的客戶 13萬／7萬"
+          ]
+        },
+        {
+          "row_label": "銀行通路",
+          "cells": [
+            "分析隨機叫號數據",
+            "無RM，且與分析在本密切的客戶 4萬／3.5萬"
+          ]
+        },
+        {
+          "row_label": "銀行通路",
+          "cells": [
+            "LINE OA, EDM, 簡訊",
+            "無RM的客戶 44萬／64萬"
+          ]
+        },
+        {
+          "row_label": "銀行通路",
+          "cells": [
+            "APP, 帳單官網, FB",
+            "不可行銷戶 23萬"
+          ]
+        },
+        {
+          "row_label": "金控通路",
+          "cells": [
+            "金控集團員工",
+            "員工專屬新會員優惠 (待議)"
+          ]
+        },
+        {
+          "row_label": "子公司",
+          "cells": [
+            "業務",
+            "人壽客群／其他客群"
+          ]
+        },
+        {
+          "row_label": "子公司",
+          "cells": [
+            "官網",
+            "產險客群"
+          ]
+        },
+        {
+          "row_label": "社群",
+          "cells": [
+            "KOL, 短影片, Youtube, Podcast, 關鍵字, Banner",
+            "全客群"
+          ]
+        },
+        {
+          "row_label": "企業團辦",
+          "cells": [
+            "桃子往來密切企業",
+            "預計進行100場企業團辦 (與椰子會員拓展團隊合作)"
+          ]
+        },
+        {
+          "row_label": "椰子店內",
+          "cells": [
+            "尚未辦卡的椰子客戶",
+            "行員進駐賣場，與椰子會員與結帳櫃檯台同事協力推動轉卡"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "平面表格"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "此頁面中沒有典型的圖表元素，如坐標軸或曲線，且無使用 pyramid 圖形。",
+    "date_range": "第一階段: 2023/2月-4月, 第二／三階段: 2023/5月以後"
+  }
+}

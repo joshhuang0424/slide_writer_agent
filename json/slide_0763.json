@@ -1,0 +1,121 @@
+{
+  "slide_id": "1",
+  "section": "Sustainability Indicators",
+  "purpose": "To present a comprehensive set of sustainability indicators used by BCG SiT.",
+  "narrative_role": "Informative",
+  "title": "BCG SiT grades based on comprehensive set of indicators",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "4-column grid",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Column content with icons"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "hand with leaf",
+      "position": "first column"
+    },
+    {
+      "type": "icon",
+      "label": "footprint",
+      "position": "second column"
+    },
+    {
+      "type": "icon",
+      "label": "recycle",
+      "position": "third column"
+    },
+    {
+      "type": "icon",
+      "label": "hand with box",
+      "position": "fourth column"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold titles, normal bullet points"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "lime green",
+    "background": "dark gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "columns": [
+      {
+        "title": "Commitment to sustainability",
+        "bullets": [
+          "Targets",
+          "Culture",
+          "Transparency & Reporting",
+          "Sustainable sourcing"
+        ]
+      },
+      {
+        "title": "CO2e & energy intensity",
+        "bullets": [
+          "CO2e intensity - scope 1 & 2 emissions",
+          "Energy intensity",
+          "Energy sourcing",
+          "CO2e intensity - scope 3 emissions"
+        ]
+      },
+      {
+        "title": "Circular economy and waste",
+        "bullets": [
+          "Waste intensity",
+          "Recycling",
+          "Collection of end-user devices"
+        ]
+      },
+      {
+        "title": "Customer enablement",
+        "bullets": [
+          "Carbon abatement factor / Enablement factor",
+          "Green initiatives",
+          "Green R&D expenditures"
+        ]
+      }
+    ],
+    "_why_unknown": "No charts or tables are present on the slide."
+  }
+}

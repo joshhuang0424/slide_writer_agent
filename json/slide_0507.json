@@ -1,0 +1,84 @@
+{
+  "slide_id": "17",
+  "section": "DEI Pitfalls",
+  "purpose": "Identify common pitfalls in DEI initiatives",
+  "narrative_role": "highlight_issues",
+  "title": "Common pitfalls of DEI...",
+  "bullets": [
+    {
+      "highlight": "Aspiration or case for change are generic",
+      "text": "or “copy-cat” and lack leader conviction"
+    },
+    {
+      "highlight": "No clear goals or arbitrary goals set",
+      "text": "without analytical rigor or understanding underlying DEI challenges"
+    },
+    {
+      "highlight": "Letting “one thousand flowers bloom”",
+      "text": "with no plan to learn and prune"
+    },
+    {
+      "highlight": "Thinking training is a “cure-all”",
+      "text": "vs. part of a broader solution set"
+    },
+    {
+      "highlight": "DEI becomes a “flavor of the month,”",
+      "text": "not owned and consistently advanced by a broad set of leaders"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "bulleted_list",
+  "layout_type": "text_only",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#ffffff",
+    "accent": "#000000",
+    "background": "#1b2c40"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains only text without any charts or tables."
+  }
+}

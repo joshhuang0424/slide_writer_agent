@@ -1,0 +1,97 @@
+{
+  "slide_id": "1",
+  "section": "Market Trends",
+  "purpose": "Demonstrate growth in the mobility industry and shift in profit pools.",
+  "narrative_role": "Highlight trend",
+  "title": "The mobility industry will continue to grow, but profit pools will shift to new technology",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Trend analysis",
+  "data_points": [
+    "Revenues in 2017: $3.7 trillion",
+    "Revenues in 2025: $4.7 trillion",
+    "Revenues in 2035: $5.8 trillion",
+    "Profits in 2017: $226 billion",
+    "Profits in 2025: $303 billion",
+    "Profits in 2030: $336 billion",
+    "Profits in 2035: $380 billion"
+  ],
+  "cta": null,
+  "layout": "two-section with chart",
+  "layout_type": "visual",
+  "content_zones": {
+    "title": "top",
+    "chart": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "+2.9% p.a.",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Chart labels are emphasized"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "#00843D",
+    "accent": "#4F4F4F",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Profits, $billion",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Profits in $billion"
+    ],
+    "values": [
+      {
+        "year": "2017",
+        "classic_profits": "99%",
+        "emerging_profits": "1%"
+      },
+      {
+        "year": "2025",
+        "classic_profits": "83%",
+        "emerging_profits": "17%"
+      },
+      {
+        "year": "2030",
+        "classic_profits": "74%",
+        "emerging_profits": "26%"
+      },
+      {
+        "year": "2035",
+        "classic_profits": "60%",
+        "emerging_profits": "40%"
+      }
+    ],
+    "annotations": [],
+    "source": "BCG analysis"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or tables present; data primarily presented in chart form"
+  }
+}

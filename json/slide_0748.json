@@ -1,0 +1,86 @@
+{
+  "slide_id": "1",
+  "section": "Market Trends",
+  "purpose": "To illustrate the changes in global sales of application-specific semiconductors from 2018 to 2020",
+  "narrative_role": "Informative",
+  "title": "A surge in sales for smartphones and automotive joined continued strong demand for PCs and data center equipment in Q4 2020 to boost the semiconductor market",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Historical comparison of sales data to highlight trends",
+  "data_points": [],
+  "cta": null,
+  "layout": "Single chart with annotations",
+  "layout_type": "Chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "annotations": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is emphasized by larger font size"
+  },
+  "design_language": "Professional, data-focused",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "Stacked bar chart",
+    "title": "Change in monthly global sales of application-specific semiconductors versus 2018 ($ billion)",
+    "x_axis_label": "Time (Jan 2019 - Dec 2020)",
+    "y_axis": [
+      "$ billions",
+      "% variation"
+    ],
+    "values": [
+      {
+        "date": "Jan 2019",
+        "values": [
+          -0.5,
+          -1.0,
+          -1.5
+        ]
+      },
+      {
+        "date": "Dec 2020",
+        "values": [
+          0.5,
+          1.0,
+          1.5,
+          2.0
+        ]
+      }
+    ],
+    "annotations": [
+      "Data center demand was already strong due to cloud and AI investments",
+      "Continued strength in semiconductor demand from PCs and ICT infrastructure",
+      "Strong demand surge across all end markets—particularly smartphones"
+    ],
+    "source": "BCG analysis based on Semiconductor Industry Association data from the World Semiconductor Trade Statistics database."
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullets or tables detected, focus is on the chart."
+  }
+}

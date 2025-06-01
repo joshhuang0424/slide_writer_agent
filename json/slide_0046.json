@@ -1,0 +1,125 @@
+{
+  "slide_id": "3",
+  "section": "High-contact essential roles",
+  "purpose": "Highlight the representation of Asian Americans in high-contact essential roles.",
+  "narrative_role": "Informative",
+  "title": "A high proportion of Asian Americans have been working in high-contact essential roles",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual comparison of percentages",
+  "data_points": [
+    "Physicians and surgeons: 20.4%",
+    "Therapists: 9.8%",
+    "Registered nurses: 9.8%",
+    "Healthcare technologists and technicians: 7.7%",
+    "Physician assistants: 6.9%",
+    "Cooks: 6.4%",
+    "Food preparation servers and supervisors: 6.0%"
+  ],
+  "cta": null,
+  "layout": "Two-column with image and bar chart",
+  "layout_type": "Bar chart with image",
+  "content_zones": {
+    "left": "Bar chart with percentages",
+    "right": "Image of a healthcare professional"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Physicians and surgeons",
+      "position": "left of bar chart"
+    },
+    {
+      "type": "icon",
+      "label": "Therapists",
+      "position": "left of bar chart"
+    },
+    {
+      "type": "icon",
+      "label": "Registered nurses",
+      "position": "left of bar chart"
+    },
+    {
+      "type": "icon",
+      "label": "Healthcare technologists and technicians",
+      "position": "left of bar chart"
+    },
+    {
+      "type": "icon",
+      "label": "Physician assistants",
+      "position": "left of bar chart"
+    },
+    {
+      "type": "icon",
+      "label": "Cooks",
+      "position": "left of bar chart"
+    },
+    {
+      "type": "icon",
+      "label": "Food preparation servers and supervisors",
+      "position": "left of bar chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title"
+  },
+  "design_language": "Professional with emphasis on healthcare",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#005DAA",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "Bar",
+    "title": "Representation of Asian Americans in high-contact essential roles, %",
+    "x_axis_label": "Percentage of Asian Americans",
+    "y_axis": [
+      "Physicians and surgeons",
+      "Therapists",
+      "Registered nurses",
+      "Healthcare technologists and technicians",
+      "Physician assistants",
+      "Cooks",
+      "Food preparation servers and supervisors"
+    ],
+    "values": [
+      20.4,
+      9.8,
+      9.8,
+      7.7,
+      6.9,
+      6.4,
+      6.0
+    ],
+    "annotations": [
+      "5.9% Average percentage of Asian Americans in the United States"
+    ],
+    "source": "US Bureau of Labor Statistics; McKinsey Global Institute LaborCube"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional tables or pyramid levels present."
+  }
+}

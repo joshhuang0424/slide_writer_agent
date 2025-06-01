@@ -1,0 +1,95 @@
+{
+  "slide_id": "38",
+  "section": "Issues Impacting Performance",
+  "purpose": "Identify specific issues affecting product or portfolio performance.",
+  "narrative_role": "Problem Identification",
+  "title": "Are any specific issues adversely impacting your product or portfolio performance?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight common customer issues through visual speech bubbles.",
+  "data_points": [],
+  "cta": null,
+  "layout": "visual",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "logo": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "speech_bubble",
+      "label": "How can I segment my cardholders to provide them with unique, relevant and actionable treatments?",
+      "position": "left"
+    },
+    {
+      "type": "speech_bubble",
+      "label": "Am I communicating appropriately and effectively?",
+      "position": "center"
+    },
+    {
+      "type": "speech_bubble",
+      "label": "Why do my newer customers behave differently from my more established customers?",
+      "position": "right"
+    },
+    {
+      "type": "speech_bubble",
+      "label": "Too many of my customers use the card one-time only and that's it!",
+      "position": "bottom-left"
+    },
+    {
+      "type": "speech_bubble",
+      "label": "Is there negative noise surrounding my rewards earn and redemption user experience?",
+      "position": "bottom-right"
+    },
+    {
+      "type": "speech_bubble",
+      "label": "I'm not acquiring my goal level of new accounts and I can't determine why!",
+      "position": "bottom-center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold colors for key issues."
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No tables, charts, or specific data points detectable in the slide."
+  }
+}

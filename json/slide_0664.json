@@ -1,0 +1,150 @@
+{
+  "slide_id": "4",
+  "section": "Schematic",
+  "purpose": "Illustrate key change drivers and their implications for the industry.",
+  "narrative_role": "Explainer",
+  "title": "Key change drivers reinforce each other—with large implications for the industry",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual flowchart showing relationships between drivers and outputs.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Flowchart",
+  "layout_type": "diagram",
+  "content_zones": {
+    "title": "top-center",
+    "diagram": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Battery costs to TCO EV vs. ICE",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Energy prices to EV adoption curve",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "CO2 emissions to AV adoption curve",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Gov. incentives & bans to EV adoption curve",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "AV technology costs to Self-driving taxi TCO",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "SD taxi utilization to SD taxi adoption barrier",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Industry trends to Margin development",
+      "position": "center-left"
+    },
+    {
+      "type": "arrow",
+      "label": "TCO EV vs. ICE to Share of EVs",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "EV adoption curve to Share of EVs",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "AV adoption curve to Share of AVs",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Self-driving taxi TCO to Share of on-demand",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "SD taxi adoption barrier to Share of on-demand",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Margins of comparables to Margin development",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "Car sales volume",
+      "position": "center-right"
+    },
+    {
+      "type": "box",
+      "label": "Revenue pools",
+      "position": "center-right"
+    },
+    {
+      "type": "box",
+      "label": "Profit pools",
+      "position": "center-right"
+    },
+    {
+      "type": "box",
+      "label": "CAPEX requirements",
+      "position": "center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Corporate, Clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "White",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or detailed data points to record."
+  }
+}

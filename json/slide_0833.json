@@ -1,0 +1,112 @@
+{
+  "slide_id": "5",
+  "section": "Interview Preparation",
+  "purpose": "To guide interviewees on key business questions and strategies.",
+  "narrative_role": "Instructional",
+  "title": "业务访谈重点问题",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "从大方向开始：分期在行内是什么样的定位？"
+    },
+    {
+      "highlight": false,
+      "text": "分期最重要的KPI为何？收益、成本、风险、分期人数？"
+    },
+    {
+      "highlight": false,
+      "text": "案例一：先衝客户办理数量，再想办法留下优质客户"
+    },
+    {
+      "highlight": false,
+      "text": "各类产品在某行营收占比为何？"
+    },
+    {
+      "highlight": false,
+      "text": "目前推送邀请策略？以何种渠道进行分期邀请？"
+    },
+    {
+      "highlight": false,
+      "text": "目前推送内容包含哪些讯息？"
+    },
+    {
+      "highlight": false,
+      "text": "曾经做过何种促进分期活动？"
+    },
+    {
+      "highlight": false,
+      "text": "过去活动响应率、成效如何？"
+    },
+    {
+      "highlight": false,
+      "text": "目前如何执行分期邀请？有哪些执行限制？"
+    },
+    {
+      "highlight": false,
+      "text": "名单数量限制，风险限制，折扣限制，系统对每一顾客制化程度限制…"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Guidance through structured questions.",
+  "data_points": [],
+  "cta": null,
+  "layout": "text-heavy",
+  "layout_type": "questionnaire",
+  "content_zones": {
+    "header": "top-center",
+    "body": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#FF6F61",
+    "accent": "#FFFFFF",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No pyramid or data chart is present in this slide."
+  }
+}

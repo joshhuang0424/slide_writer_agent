@@ -1,0 +1,244 @@
+{
+  "slide_id": "23",
+  "section": "APAC M&A market",
+  "purpose": "Provide an overview of APAC M&A activity from 2008 to 2016.",
+  "narrative_role": "Informative",
+  "title": "APAC M&A market, 2008-16",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "APAC saw a decreased activity during 2016 in deal value by -23%; number of deals remained almost constant"
+    },
+    {
+      "highlight": "",
+      "text": "Average deal size decreased by (-23%) to ~$260 mn"
+    },
+    {
+      "highlight": "",
+      "text": "In 2016, APAC’s contribution to total activity was 24% in line with the past two years"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "visual_top_text_right",
+  "layout_type": "chart_with_bullets",
+  "content_zones": {
+    "chart_zone": "top_left",
+    "bullet_zone": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#008080",
+    "accent": "#000000",
+    "background": "#f2f2f2"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "bar_line",
+    "title": "Announced deals",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Value $bn",
+      "Number of deals"
+    ],
+    "values": [
+      {
+        "year": "2008",
+        "value_bn": 539,
+        "number_of_deals": 2714
+      },
+      {
+        "year": "2009",
+        "value_bn": 491,
+        "number_of_deals": 2250
+      },
+      {
+        "year": "2010",
+        "value_bn": 577,
+        "number_of_deals": 2626
+      },
+      {
+        "year": "2011",
+        "value_bn": 593,
+        "number_of_deals": 2753
+      },
+      {
+        "year": "2012",
+        "value_bn": 507,
+        "number_of_deals": 2525
+      },
+      {
+        "year": "2013",
+        "value_bn": 572,
+        "number_of_deals": 2575
+      },
+      {
+        "year": "2014",
+        "value_bn": 808,
+        "number_of_deals": 2838
+      },
+      {
+        "year": "2015",
+        "value_bn": 1182,
+        "number_of_deals": 3501
+      },
+      {
+        "year": "2016",
+        "value_bn": 906,
+        "number_of_deals": 3488
+      }
+    ],
+    "annotations": [
+      "APAC targets, deals more than $25mn only"
+    ],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Deal Value and Number of Deals",
+      "description": "Overview of deal values and number of deals from 2008 to 2016.",
+      "headers": [
+        "Year",
+        "Deal value (bn)",
+        "% change",
+        "Number of deals",
+        "% change",
+        "Average deal value (mn)",
+        "% change"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "2008",
+            "539",
+            "-9%",
+            "2,714",
+            "-17%",
+            "199",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "2009",
+            "491",
+            "-9%",
+            "2,250",
+            "-17%",
+            "218",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "2010",
+            "577",
+            "17%",
+            "2,626",
+            "17%",
+            "220",
+            "1%"
+          ]
+        },
+        {
+          "cells": [
+            "2011",
+            "593",
+            "3%",
+            "2,753",
+            "5%",
+            "216",
+            "-2%"
+          ]
+        },
+        {
+          "cells": [
+            "2012",
+            "507",
+            "-14%",
+            "2,525",
+            "-8%",
+            "201",
+            "-7%"
+          ]
+        },
+        {
+          "cells": [
+            "2013",
+            "572",
+            "13%",
+            "2,575",
+            "2%",
+            "222",
+            "11%"
+          ]
+        },
+        {
+          "cells": [
+            "2014",
+            "808",
+            "41%",
+            "2,838",
+            "10%",
+            "285",
+            "28%"
+          ]
+        },
+        {
+          "cells": [
+            "2015",
+            "1,182",
+            "46%",
+            "3,501",
+            "23%",
+            "338",
+            "19%"
+          ]
+        },
+        {
+          "cells": [
+            "2016",
+            "906",
+            "-23%",
+            "3,488",
+            "0%",
+            "260",
+            "-23%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No pyramid infographic was detected."
+  }
+}

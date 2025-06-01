@@ -1,0 +1,119 @@
+{
+  "slide_id": "1",
+  "section": "MC Product Performance",
+  "purpose": "Analyze consumer spending trends across different card types.",
+  "narrative_role": "Informative",
+  "title": "MC产品表现梳理：从卡等来看，2020年主要由世界卡等用户贡献了一轮消费额增长，后续年份消费金额骤降，光大-万事达仍需寻找针对高端客群的长期、有效信用卡经营策略",
+  "bullets": [
+    {
+      "highlight": "2020年的跨境消费金额增长的贡献主力军来自世界卡等",
+      "text": "当年消费金额突破2千万美元，约占比总体消费金额的1/2"
+    },
+    {
+      "highlight": "推测",
+      "text": "世界卡等的消费金额增长可能来自同年新产品的推出，通过关联热点时间、填补产品组合空白，设置专属权益等精准"
+    }
+  ],
+  "supporting_facts": [
+    "2020年5月27日，国星珠峰高程测量队登上珠峰朗玛峰，世界之极、尊享之旅的概念与热点事件不谋而合",
+    "首张“世界之极”类别高端卡，填补产品组合空白",
+    "专属奢华商旅权益"
+  ],
+  "reasoning_strategy": "Use of trend analysis and strategic product positioning.",
+  "data_points": [
+    "15.54",
+    "44.90",
+    "20.92",
+    "9.20"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "chart-text",
+  "content_zones": {
+    "left": "chart",
+    "right": "text and images"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key highlights"
+  },
+  "design_language": "Professional, data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "光大-万事达卡跨境消费金额（M$）",
+    "x_axis_label": "年份",
+    "y_axis": [
+      "消费金额（M$）"
+    ],
+    "values": [
+      {
+        "2019Q3Q4": [
+          "4.99",
+          "7.68",
+          "1.69",
+          "0.50"
+        ]
+      },
+      {
+        "2020": [
+          "5.49",
+          "14.82",
+          "22.82",
+          "1.26"
+        ]
+      },
+      {
+        "2021": [
+          "4.12",
+          "9.97",
+          "5.47",
+          "0.96"
+        ]
+      },
+      {
+        "2022Q1": [
+          "4.48",
+          "1.89",
+          "0.91",
+          "0.13"
+        ]
+      }
+    ],
+    "annotations": [
+      "22.82 circled in red"
+    ],
+    "source": "Source: Cube data"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or table data available on this slide."
+  }
+}

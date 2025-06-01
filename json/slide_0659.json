@@ -1,0 +1,70 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduction to the report",
+  "narrative_role": "Introduction",
+  "title": "Race in the workplace",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Present the topic and direct the audience to the full report",
+  "data_points": [],
+  "cta": "Read the full report: http://www.mckinsey.com/raceintheworkplace",
+  "layout": "Left-aligned text with image",
+  "layout_type": "Title page",
+  "content_zones": {
+    "left": "Title and report cover",
+    "right": "Background design"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Report cover with person",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for title and CTA"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "Light blue",
+    "background": "Navy blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "cover_label": "The Black experience in the US private sector",
+    "_why_unknown": "No specific infographic or table present"
+  }
+}

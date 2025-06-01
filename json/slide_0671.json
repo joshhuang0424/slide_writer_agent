@@ -1,0 +1,151 @@
+{
+  "slide_id": "11",
+  "section": "Profit Pools Analysis",
+  "purpose": "Illustrate future growth areas in the auto industry where traditional players lack competitive advantages.",
+  "narrative_role": "Highlight",
+  "title": "But future growth takes place in fields in which auto players do not possess competitive advantages",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of traditional vs emerging profit pools.",
+  "data_points": [
+    "2035 profit projections",
+    "Traditional vs Emerging profit pools",
+    "Average profitability rates"
+  ],
+  "cta": null,
+  "layout": "infographic with bubble chart",
+  "layout_type": "graphic",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "bubble",
+      "label": "'Classic' components",
+      "position": "center-left"
+    },
+    {
+      "type": "bubble",
+      "label": "New car sales (ICE & hybrids)",
+      "position": "center-left"
+    },
+    {
+      "type": "bubble",
+      "label": "Financing",
+      "position": "center-left"
+    },
+    {
+      "type": "bubble",
+      "label": "Aftermarket",
+      "position": "center-left"
+    },
+    {
+      "type": "bubble",
+      "label": "AV and BEV components",
+      "position": "center-right"
+    },
+    {
+      "type": "bubble",
+      "label": "New car sales (BEV)",
+      "position": "center-right"
+    },
+    {
+      "type": "bubble",
+      "label": "Data & Connectivity",
+      "position": "center-right"
+    },
+    {
+      "type": "bubble",
+      "label": "On-demand mobility",
+      "position": "center-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight growth numbers in green"
+  },
+  "design_language": "analytic",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark blue",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "bubble",
+    "title": "Profit pools - future (2035, in $B)",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "2017": 70,
+        "2035": 73,
+        "label": "'Classic' components"
+      },
+      {
+        "2017": 60,
+        "2035": 41,
+        "label": "New car sales (ICE & hybrids)"
+      },
+      {
+        "2017": 33,
+        "2035": 42,
+        "label": "Financing"
+      },
+      {
+        "2017": 66,
+        "2035": 78,
+        "label": "Aftermarket"
+      },
+      {
+        "2017": 26,
+        "2035": 51,
+        "label": "AV and BEV components"
+      },
+      {
+        "2017": 21,
+        "2035": 42,
+        "label": "New car sales (BEV)"
+      },
+      {
+        "2017": 28,
+        "2035": 55,
+        "label": "Data & Connectivity"
+      },
+      {
+        "2017": 76,
+        "2035": 152,
+        "label": "On-demand mobility"
+      }
+    ],
+    "annotations": [],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid infographic or detailed table structure present on the slide."
+  }
+}

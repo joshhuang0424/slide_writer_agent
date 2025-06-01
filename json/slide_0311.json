@@ -1,0 +1,89 @@
+{
+  "slide_id": "12",
+  "section": "Off-the-shelf models",
+  "purpose": "Overview of models for solving client needs",
+  "narrative_role": "Informative",
+  "title": "Off-the-shelf models overview",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive",
+  "data_points": [
+    "over 50 propensity models",
+    "Turnaround Time for these solutions may range from 3 to 6 Weeks"
+  ],
+  "cta": null,
+  "layout": "Three-column with text and infographics",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "left": "Propensity Models",
+    "center": "Portfolio optimizer",
+    "right": "FARE"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Propensity Models",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Portfolio optimizer",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "FARE",
+      "position": "right"
+    },
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for emphasis"
+  },
+  "design_language": "Professional and clean with emphasis on key terms",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "green, teal, orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid structure present, infographic elements are circles and arrow."
+  }
+}

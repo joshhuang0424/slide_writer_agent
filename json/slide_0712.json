@@ -1,0 +1,144 @@
+{
+  "slide_id": "33",
+  "section": "Value Analysis",
+  "purpose": "To analyze the value creation at M&A deal announcements over the past 19 years.",
+  "narrative_role": "informative",
+  "title": "We analysed the value creation at M&A deal announcement for around 2,235 transactions in the past 19 years",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Assess whether M&A deals create value for target and acquirer companies at announcement"
+    },
+    {
+      "highlight": "",
+      "text": "Review key trends in value creation (e.g., current M&A boom vs. previous boom)"
+    },
+    {
+      "highlight": "",
+      "text": "Are acquirers demonstrating more discipline in overpaying?"
+    },
+    {
+      "highlight": "",
+      "text": "Both the acquirer and target must be listed companies"
+    },
+    {
+      "highlight": "",
+      "text": "Transaction value more than $500mn"
+    },
+    {
+      "highlight": "",
+      "text": "19-year time frame (1997-2016)"
+    },
+    {
+      "highlight": "",
+      "text": "Full (100%) acquisitions only"
+    },
+    {
+      "highlight": "",
+      "text": "Target size at least 5% of acquirer value"
+    },
+    {
+      "highlight": "",
+      "text": "2,235 transactions"
+    },
+    {
+      "highlight": "",
+      "text": "Deals announced from January 1, 1997 to December 31, 2016"
+    },
+    {
+      "highlight": "",
+      "text": "Total value $12.0 trillion"
+    },
+    {
+      "highlight": "",
+      "text": "Average deal size $5.3bn"
+    },
+    {
+      "highlight": "",
+      "text": "Split by acquirer region"
+    },
+    {
+      "highlight": "63%",
+      "text": "Americas"
+    },
+    {
+      "highlight": "23%",
+      "text": "EMEA"
+    },
+    {
+      "highlight": "14%",
+      "text": "APAC"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis over a historical timeframe.",
+  "data_points": [
+    "2,235 transactions",
+    "$12.0 trillion total value",
+    "$5.3bn average deal size",
+    "Americas 63%",
+    "EMEA 23%",
+    "APAC 14%"
+  ],
+  "cta": null,
+  "layout": "three_column",
+  "layout_type": "text-heavy",
+  "content_zones": {
+    "left": "Overall goal",
+    "center": "Criteria for inclusion",
+    "right": "Resulting sample"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Resulting sample",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 16,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight percentages"
+  },
+  "design_language": "formal",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "Dealogic; McKinsey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": [
+    "No chart with typical elements detected.",
+    "No pyramid infographic present."
+  ]
+}

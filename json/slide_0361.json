@@ -1,0 +1,146 @@
+{
+  "slide_id": "2",
+  "section": "Cloud Adoption",
+  "purpose": "Compare myths and realities of cloud adoption",
+  "narrative_role": "Informative",
+  "title": "The myths and realities of cloud adoption",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "table",
+  "content_zones": {
+    "top": "title",
+    "center": "table"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "money",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "cloud",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "lock",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "network",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "organization",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "datacenter",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Myths vs Realities",
+      "description": "Comparison between common myths and their realities regarding cloud adoption.",
+      "headers": [
+        "Myths",
+        "Realities"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Cloud computing costs more than in-house computing",
+            "Properly architected applications can be less expensive off-premises, but that requires managing ROI carefully"
+          ]
+        },
+        {
+          "cells": [
+            "To move to cloud, you must either lift and shift applications as they are today or refactor them entirely",
+            "A range of options exist between lift and shift and complete refactoring, with optimized IaaS and containerization potentially attractive"
+          ]
+        },
+        {
+          "cells": [
+            "The main value of cloud business cases is IT cost reduction",
+            "Business value of speed, agility, innovation, and scalability swamps potential IT cost reductions"
+          ]
+        },
+        {
+          "cells": [
+            "The security I can set up and control in my own data centers is superior to the security on cloud",
+            "Almost all off-premises vulnerabilities result from misconfiguration—security as code is required to enable protection and agility"
+          ]
+        },
+        {
+          "cells": [
+            "There is greater latency among applications running on cloud providers’ networks than there is on in-house networks",
+            "Current architectural choices (eg, backhauling) can increase latency off-premises, but different choices yield better results"
+          ]
+        },
+        {
+          "cells": [
+            "Moving to cloud eliminates the need for an infrastructure organization",
+            "An effective infrastructure organization is even more important off-premises but requires an agile, product-based model"
+          ]
+        },
+        {
+          "cells": [
+            "The most effective way to transition to cloud is to focus either on applications or on entire data centers",
+            "Transitioning high-impact business domains allows for “local critical mass” in achieving agility"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slide_id": "4",
+  "section": "Green Ventures Opportunities",
+  "purpose": "Highlight growth-driven opportunities in green businesses",
+  "narrative_role": "Informative",
+  "title": "Green Ventures explores growth-driven, transformational opportunities via new green businesses focused on customer enablement",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Discussing specific initiatives and their potential impacts",
+  "data_points": [],
+  "cta": null,
+  "layout": "side_by_side",
+  "layout_type": "two_column",
+  "content_zones": {
+    "left": {
+      "title": "Reduce Own Footprint",
+      "subtitle": "Make my operations CO2 neutral",
+      "description": "Cost & compliance",
+      "main_text": "Reducing own operational emissions from scope 1 and 2 via offset opportunities and efficiency plays with subset also addressing scope 3 in downstream supply chain via demand for greater transparency",
+      "labels": [
+        "Scope 1",
+        "Scope 2",
+        "Scope 3"
+      ]
+    },
+    "right": {
+      "title": "Customer Enablement",
+      "subtitle": "Drive new growth and climate action",
+      "description": "Value generation & investment",
+      "main_text": "Pursuing new green businesses opportunities that may either disrupt core business with low-carbon alternative or provide opportunities for others to avoid/reduce scope 1-2 emissions via new services (“scope 4” improvements)",
+      "labels": [
+        "Scope 1",
+        "Scope 2",
+        "Scope 3",
+        "\"Scope 4\" (customer enablement)"
+      ]
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Square icon with green center",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Square icon with green border",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#A0D468",
+    "background": "#2C3E50"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid structure or chart present; focus on text and layout."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slide_id": "2",
+  "section": "Introduction",
+  "purpose": "To present the scope and impact of the 'Women in the Workplace' study.",
+  "narrative_role": "Informative",
+  "title": "Our Seventh year",
+  "bullets": [
+    {
+      "highlight": "423",
+      "text": "Participating companies"
+    },
+    {
+      "highlight": "12 million+",
+      "text": "Employees in participating companies"
+    },
+    {
+      "highlight": "65,000+",
+      "text": "Employees surveyed on their workplace experiences"
+    },
+    {
+      "highlight": "1-on-1",
+      "text": "In-depth interviews"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Quantitative evidence",
+  "data_points": [
+    "423 companies",
+    "12 million employees",
+    "65,000 surveyed employees",
+    "1-on-1 interviews"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with text and images",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Statistics and icons",
+    "right": "Images of reports and description"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Company icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Employee icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Survey icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Interview icon",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for numerical highlights"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "Light blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "The slide does not contain traditional charts or tables."
+  }
+}

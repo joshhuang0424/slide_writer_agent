@@ -1,0 +1,142 @@
+{
+  "slide_id": "4",
+  "section": "GDV预测趋势",
+  "purpose": "展示境外消费GDV的预测趋势和优化建议",
+  "narrative_role": "分析与建议",
+  "title": "境外消费GDV预测趋势(全卡别)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "数据分析和同比变化",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "mixed",
+  "content_zones": {
+    "chart_zone": "left",
+    "table_zone": "center",
+    "text_zone": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "10% YOY 成长目标",
+      "position": "chart"
+    },
+    {
+      "type": "color_legend",
+      "label": "FY17 H2 获客, FY19 H1 获客, FY18 获客, FY17 获客, FY17 前获客",
+      "position": "chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked_bar",
+    "title": "GDV贡献 - 依据客年份区分",
+    "x_axis_label": "财务年度",
+    "y_axis": [
+      "2017 GDV",
+      "2018 GDV",
+      "2019 GDV(Predicted)"
+    ],
+    "values": [
+      {
+        "year": "2017",
+        "values": [
+          "FY19 H2 获客",
+          "FY19 H1 获客",
+          "FY18 获客",
+          "FY17 获客",
+          "FY17 前获客"
+        ]
+      },
+      {
+        "year": "2018",
+        "values": [
+          "FY19 H2 获客",
+          "FY19 H1 获客",
+          "FY18 获客",
+          "FY17 获客",
+          "FY17 前获客"
+        ]
+      },
+      {
+        "year": "2019",
+        "values": [
+          "FY19 H2 获客",
+          "FY19 H1 获客",
+          "FY18 获客",
+          "FY17 获客",
+          "FY17 前获客"
+        ]
+      }
+    ],
+    "annotations": [
+      "10% YOY 成长目标"
+    ],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "FY18 与 FY19 获客对比",
+      "description": "显示FY18与FY19不同年份的获客贡献及同比变化",
+      "headers": [
+        "FY17>18 GDV",
+        "FY18>19 GDV"
+      ],
+      "rows": [
+        {
+          "row_label": "FY17 获客",
+          "cells": [
+            "-30%(第二年)",
+            "-22%(第二年)"
+          ]
+        },
+        {
+          "row_label": "FY17 前获客",
+          "cells": [
+            "-25%",
+            "-40%(第三年)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "bullets": "未检测到明显的项目符号列表",
+    "supporting_facts": "未明确标识支持事实的区域",
+    "data_points": "数据点主要以图表形式呈现"
+  }
+}

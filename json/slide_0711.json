@@ -1,0 +1,102 @@
+{
+  "slide_id": "32",
+  "section": "Key Insights",
+  "purpose": "To provide insights on M&A value creation in 2016.",
+  "narrative_role": "Informative",
+  "title": "Key insights on M&A value creation in 2016",
+  "bullets": [
+    {
+      "highlight": "8.4%",
+      "text": "Deal value added (DVA) declined in 2016 to 8.4% vs. 9.8% in 2015; it is still above the long-term average of 6.7%"
+    },
+    {
+      "highlight": "10.1%",
+      "text": "Target DVA increased slightly to 10.1% vs. 9.5% in 2015 but still shy of the long term average of 10.2%"
+    },
+    {
+      "highlight": "-1.7%",
+      "text": "Acquirer DVA turned negative from 0.3% in 2015 to -1.7% in 2016"
+    },
+    {
+      "highlight": "18.3%",
+      "text": "The difference between DVA for cash-and stock-financed deals also increased during 2016, ending at 18.3% spread vs. 14.7% in 2015, higher than long-term average of 13.8%"
+    },
+    {
+      "highlight": "56%",
+      "text": "The POP index very slightly increased to 56%, vs. 55% in 2015, still lower than the long term average of 58%. The pop index is the proportion of acquirers with negative share price impact in a given time period, suggesting investors perceive them to have over-paid."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of percentage changes from previous years and averages.",
+  "data_points": [
+    "DVA 2016: 8.4%",
+    "DVA 2015: 9.8%",
+    "Long-term average DVA: 6.7%",
+    "Target DVA 2016: 10.1%",
+    "Target DVA 2015: 9.5%",
+    "Long-term average Target DVA: 10.2%",
+    "Acquirer DVA 2015: 0.3%",
+    "Acquirer DVA 2016: -1.7%",
+    "DVA spread 2016: 18.3%",
+    "DVA spread 2015: 14.7%",
+    "Long-term average spread: 13.8%",
+    "POP index 2016: 56%",
+    "POP index 2015: 55%",
+    "Long-term average POP index: 58%"
+  ],
+  "cta": null,
+  "layout": "text-left",
+  "layout_type": "text and image",
+  "content_zones": {
+    "text": "left",
+    "image": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "illustration",
+      "label": "handshake",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight percentages"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "#008080",
+    "accent": "#000000",
+    "background": "#f0f0f0"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No chart or table present, content primarily textual with an illustration."
+  }
+}

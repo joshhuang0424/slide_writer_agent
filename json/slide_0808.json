@@ -1,0 +1,121 @@
+{
+  "slide_id": "22",
+  "section": "Key Implications",
+  "purpose": "Identify strategic actions for different stakeholders in the xEV market.",
+  "narrative_role": "Presenting strategic recommendations.",
+  "title": "Key implications",
+  "bullets": [
+    {
+      "highlight": "OEMs",
+      "text": "Devise a pricing strategy to incentivize customers to buy xEVs to meet regulations"
+    },
+    {
+      "highlight": "OEMs",
+      "text": "Make or buy new powertrain modules and components"
+    },
+    {
+      "highlight": "OEMs",
+      "text": "Manage differentiation in a BEV environment"
+    },
+    {
+      "highlight": "OEMs",
+      "text": "Invest in a charging network"
+    },
+    {
+      "highlight": "Suppliers",
+      "text": "Identify the highest areas of value and key OEMs to partner with"
+    },
+    {
+      "highlight": "Suppliers",
+      "text": "Manage the profitability of manufacturing ICE components"
+    },
+    {
+      "highlight": "Suppliers",
+      "text": "Adjust the level and timing of investment"
+    },
+    {
+      "highlight": "Government",
+      "text": "Support the development of a charging infrastructure in urban centers"
+    },
+    {
+      "highlight": "Government",
+      "text": "Determine the level of incentives to sustain momentum until a breakeven TCO"
+    },
+    {
+      "highlight": "Government",
+      "text": "Manage the shift in energy source and the associated shift in tax revenues"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization by stakeholder type.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column layout with icons",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "OEMs section with car icon",
+    "center": "Suppliers section with wheel icon",
+    "right": "Government section with government building icon"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "car",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "wheel",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "government building",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight stakeholder types"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slide_id": "9",
+  "section": "Costs Analysis",
+  "purpose": "To outline the major components of issuer costs and the areas with the greatest costs.",
+  "narrative_role": "Informative",
+  "title": "Acquisition, rewards, and transaction processing constitute the majority of issuer costs",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Acquisition Origination & Incentive Costs"
+    },
+    {
+      "highlight": "",
+      "text": "Variable Servicing Costs"
+    },
+    {
+      "highlight": "",
+      "text": "Reward & Benefits Costs"
+    },
+    {
+      "highlight": "",
+      "text": "Collection Ops Costs"
+    },
+    {
+      "highlight": "",
+      "text": "Credit Protection Claims"
+    },
+    {
+      "highlight": "",
+      "text": "Portfolio Marketing Costs"
+    },
+    {
+      "highlight": "",
+      "text": "Plastic Reissue Cost"
+    },
+    {
+      "highlight": "",
+      "text": "Network Fees (MC)"
+    },
+    {
+      "highlight": "",
+      "text": "Processor Fees (FirstData/TSYS/FIS)"
+    },
+    {
+      "highlight": "",
+      "text": "Fraud Losses"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of costs",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with text and icons",
+  "layout_type": "textual",
+  "content_zones": {
+    "left": "List of cost components",
+    "right": "Textual explanation of cost categories"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Total Costs",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Acquisition Costs",
+      "position": "bottom left"
+    },
+    {
+      "type": "arrow",
+      "label": "Reward Costs",
+      "position": "bottom middle"
+    },
+    {
+      "type": "arrow",
+      "label": "Transaction Processing Costs",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 10,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "red",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "18pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "No chart or table was detected; visual elements are primarily text and icons."
+  }
+}

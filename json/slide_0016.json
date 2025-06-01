@@ -1,0 +1,145 @@
+{
+  "slide_id": "16",
+  "section": "Workplace Impact",
+  "purpose": "Highlight the impact of senior women's departure on allyship and workplace dynamics.",
+  "narrative_role": "Informative",
+  "title": "The loss of senior women would be felt across the pipeline",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight disparities in allyship effort between senior men and women.",
+  "data_points": [
+    "41",
+    "42",
+    "63",
+    "39",
+    "44",
+    "60",
+    "28",
+    "42",
+    "61",
+    "29",
+    "40",
+    "53",
+    "10",
+    "23",
+    "38"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and chart",
+  "content_zones": {
+    "left": "Text and table",
+    "right": "Commentary and legend"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Men",
+      "position": "right"
+    },
+    {
+      "type": "circle",
+      "label": "Women",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for emphasis"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "Source: 2020 Women in the Workplace research"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "% of employees who agree",
+      "description": "Comparison of allyship actions by employee group",
+      "headers": [
+        "",
+        "All employees",
+        "Senior men",
+        "Senior women"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "I actively listen to the personal stories of women of color about bias and mistreatment",
+            "41",
+            "42",
+            "63"
+          ]
+        },
+        {
+          "cells": [
+            "I publicly acknowledge or give credit to women of color for their ideas and work",
+            "39",
+            "44",
+            "60"
+          ]
+        },
+        {
+          "cells": [
+            "I take a public stand to support gender equality",
+            "28",
+            "42",
+            "61"
+          ]
+        },
+        {
+          "cells": [
+            "I take a public stand to support racial equality",
+            "29",
+            "40",
+            "53"
+          ]
+        },
+        {
+          "cells": [
+            "I mentor or sponsor one or more women of color",
+            "10",
+            "23",
+            "38"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "circles for emphasis"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Specific font details and some textual emphasis rules are unclear from the image."
+  }
+}

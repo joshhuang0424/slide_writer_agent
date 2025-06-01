@@ -1,0 +1,136 @@
+{
+  "slide_id": "156",
+  "section": "Global Apparel Retailer",
+  "purpose": "To present the situation, approach, and results of a marketing strategy.",
+  "narrative_role": "Informative",
+  "title": "Global Apparel Retailer",
+  "bullets": [
+    {
+      "highlight": "Situation",
+      "text": "Issue: Global apparel retailer was looking to increase ecommerce revenue by driving a new customer base."
+    },
+    {
+      "highlight": "Approach",
+      "text": "Applied Mastercard Audiences to develop a 'look-alike' model based on spend behavior to create two distinct segments."
+    },
+    {
+      "highlight": "Results",
+      "text": "8K ORDERS, 81% FIRST TIME"
+    }
+  ],
+  "supporting_facts": [
+    "Grow online presence with an expanded customer base",
+    "Drive online spend from new customers",
+    "Frequent online and offline spenders with the retailer",
+    "Frequent spenders with the retailer’s competitors",
+    "Ran one month campaign within the social and display channel on both mobile and desktop"
+  ],
+  "reasoning_strategy": "Descriptive presentation of strategy and outcomes.",
+  "data_points": [
+    "ROI: $350K SPEND YIELDED $1M IN POST CLICK REVENUE",
+    "$2.97: $1 SPENT",
+    "$4.82 eCPM",
+    ".23% CTR"
+  ],
+  "cta": null,
+  "layout": "Three-column layout with colored blocks",
+  "layout_type": "informative",
+  "content_zones": {
+    "situation": "left",
+    "approach": "center",
+    "results": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Internal use only",
+      "position": "top-right"
+    },
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight with color blocks"
+  },
+  "design_language": "Clean and corporate with emphasis on key results.",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "black",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Unknown"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Results",
+      "description": "Highlights the quantitative outcomes of the campaign",
+      "headers": [
+        "Metric",
+        "Value"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "8K ORDERS",
+            "81% FIRST TIME"
+          ]
+        },
+        {
+          "cells": [
+            "ROI: $350K SPEND",
+            "$1M IN POST CLICK REVENUE"
+          ]
+        },
+        {
+          "cells": [
+            "$2.97: $1 SPENT",
+            "$4.82 eCPM"
+          ]
+        },
+        {
+          "cells": [
+            ".23% CTR",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom-right",
+      "render_style": "simple"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

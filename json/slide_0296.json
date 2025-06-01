@@ -1,0 +1,129 @@
+{
+  "slide_id": "12",
+  "section": "Infrastructure Teams",
+  "purpose": "Illustrate the various tribes and their responsibilities post-cloud migration",
+  "narrative_role": "Informative",
+  "title": "Infrastructure teams need to provide numerous product-based services even after migration to cloud",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of responsibilities by tribe",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "text and table",
+  "content_zones": {
+    "title": "top",
+    "tables": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Tribes and Responsibilities",
+      "description": "Categorization of infrastructure responsibilities",
+      "headers": [
+        "Tribe",
+        "Responsibilities"
+      ],
+      "rows": [
+        {
+          "row_label": "A. Business-aligned tribe",
+          "cells": [
+            "Business unit 1",
+            "Business unit 2",
+            "Business unit 3",
+            "Business unit 4"
+          ]
+        },
+        {
+          "row_label": "B. End-user tribe",
+          "cells": [
+            "Endpoint",
+            "Collaboration"
+          ]
+        },
+        {
+          "row_label": "C. Developer-platforms tribe",
+          "cells": [
+            "Databases",
+            "Integrations",
+            "CI/CD",
+            "AI/RPA",
+            "Configurable platforms"
+          ]
+        },
+        {
+          "row_label": "D. Cloud-platforms tribe",
+          "cells": [
+            "DevOps/CloudOps",
+            "System tooling",
+            "Cloud foundation"
+          ]
+        },
+        {
+          "row_label": "E. On-premises tribe",
+          "cells": [
+            "On-premises compute",
+            "On-premises data storage and replication",
+            "On-premises tooling"
+          ]
+        },
+        {
+          "row_label": "F. Network and security tribe",
+          "cells": [
+            "Security",
+            "Identity",
+            "Network/connectivity",
+            "Access control"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "The slide does not contain any explicit data points, charts, or infographics in a pyramid format."
+  }
+}

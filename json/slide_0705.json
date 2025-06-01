@@ -1,0 +1,136 @@
+{
+  "slide_id": "26",
+  "section": "M&A Activity",
+  "purpose": "To highlight the increase in M&A activity in China over the past 3 years, with a focus on outbound activity.",
+  "narrative_role": "Informative",
+  "title": "M&A activity in China heated up in the past 3 years – in particular, outbound activity",
+  "bullets": [
+    {
+      "highlight": "2015",
+      "text": "Chinese M&A volume increased during 2015, and reached its highest level in the last 6 years; 2016 saw lower activity"
+    },
+    {
+      "highlight": "7 times",
+      "text": "Outbound M&A continued to grow even stronger in 2016 to 7 times inbound activity"
+    },
+    {
+      "highlight": "~$43bn",
+      "text": "ChemChina’s announcement to acquire Syngenta for ~$43bn was the largest Chinese outbound deal of 2016"
+    }
+  ],
+  "supporting_facts": [
+    "Aggregate deal value, $ bn",
+    "Inflow and outflow, $ bn"
+  ],
+  "reasoning_strategy": "Comparison of M&A activity trends over the years.",
+  "data_points": [
+    "2013: 215",
+    "2014: 418",
+    "2015: 640",
+    "2016: 482",
+    "2015: -98",
+    "2016: -224"
+  ],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "chart and bullet",
+  "content_zones": {
+    "left": "Bar chart showing aggregate deal value from 2010 to 2016.",
+    "right": "Bar chart showing M&A inflow and outflow from 2010 to 2016.",
+    "far_right": "Bullet points highlighting key facts about M&A activity."
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "+95%",
+      "position": "above 2013 bar"
+    },
+    {
+      "type": "arrow",
+      "label": "+53%",
+      "position": "above 2014 bar"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlights are emphasized with numerical values and percentages."
+  },
+  "design_language": "Corporate, analytical",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "dark blue",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "M&A activity in China",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Aggregate deal value, $ bn",
+      "M&A inflow and outflow, $ bn"
+    ],
+    "values": [
+      {
+        "year": 2010,
+        "value": 158
+      },
+      {
+        "year": 2011,
+        "value": 167
+      },
+      {
+        "year": 2012,
+        "value": 158
+      },
+      {
+        "year": 2013,
+        "value": 215
+      },
+      {
+        "year": 2014,
+        "value": 418
+      },
+      {
+        "year": 2015,
+        "value": 640
+      },
+      {
+        "year": 2016,
+        "value": 482
+      }
+    ],
+    "annotations": [
+      {
+        "year": 2015,
+        "value": -98
+      },
+      {
+        "year": 2016,
+        "value": -224
+      }
+    ],
+    "source": "Dealogic"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid or table infographic detected."
+  }
+}

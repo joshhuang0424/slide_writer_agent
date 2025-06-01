@@ -1,0 +1,112 @@
+{
+  "slide_id": "40",
+  "section": "Campaign Strategy",
+  "purpose": "Outline the MTCP process for achieving higher ROI through targeted campaigns.",
+  "narrative_role": "Descriptive",
+  "title": "MTCP (Mastercard Targeted Campaign Program)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential process explanation",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal_flow",
+  "layout_type": "process_flow",
+  "content_zones": {
+    "header": "top",
+    "footer": "bottom",
+    "infographic": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Market Selection",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Customer Selection",
+      "position": "center-left"
+    },
+    {
+      "type": "icon",
+      "label": "Issuer Selection",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Campaign Design",
+      "position": "center-right"
+    },
+    {
+      "type": "icon",
+      "label": "Performance Measurement",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#ff5f00",
+    "accent": "#e8e8e8",
+    "background": "#ffffff"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "process_flow",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Market Selection"
+      },
+      {
+        "id": "L1",
+        "label": "Customer Selection"
+      },
+      {
+        "id": "L2",
+        "label": "Issuer Selection"
+      },
+      {
+        "id": "L3",
+        "label": "Campaign Design"
+      },
+      {
+        "id": "L4",
+        "label": "Performance Measurement"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or tables with specific data points were present in the slide."
+  }
+}

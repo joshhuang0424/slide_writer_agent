@@ -1,0 +1,91 @@
+{
+  "slide_id": "45",
+  "section": "Investor Interviews",
+  "purpose": "To outline the approach and questions for conducting investor interviews.",
+  "narrative_role": "Informative",
+  "title": "Investor interviews will aim at teasing out investment theses and recognizing important patterns",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Provide a structured plan for conducting interviews and sample questions to guide discussions.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": {
+      "header": "Approach",
+      "content": [
+        "Conduct fifteen to twenty anonymous interviews",
+        "15-20 buy-side investors",
+        "~5 sell-side analysts",
+        "Best efforts on 2-3 “past investors” and 2-3 “potential investors”",
+        "Interviews are 30 - 45 minutes in duration",
+        "Client identifies 20-25 investors and 6-7 analysts (typical acceptance rate is 70%)",
+        "Client invites each of the potential participants individually via email or phone- possibly using script provided by BCG",
+        "Client will let BCG know when investors/analysts respond “yes” or “no”. BCG will then reach out to “yes” participants to schedule interviews and begin executing interviews",
+        "BCG conducts interviews and synthesizes findings to be shared with Client executives",
+        "Only IR-experienced Partners conduct interviews",
+        "Tailored interview guide that reflects the learnings from each interview and goes deep into the “why”"
+      ]
+    },
+    "right": {
+      "header": "Illustrative questions",
+      "content": [
+        "Tell me about how you invest stylistically?",
+        "How did you get from the universe of stocks to this sector, this name",
+        "What role does Client play in your portfolio (e.g., alpha, beta)?",
+        "Tell me about your thesis: Profit growth, valuation, cashflow; What do they add up to",
+        "Tell me about how you think about valuation. How should Client’s valuation evolve in that context?",
+        "Tell me about how and where you see Client as strategically advantaged/disadvantaged?",
+        "What are the most important 3-5 business agenda items for Client?",
+        "How should Client use its cash over the next 1-3 years? M&A, debt retirement, dividends, share repurchase, other?",
+        "What 1-2 sentences would you use to describe Client to a colleague who does not follow them?"
+      ]
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Titles and headers are in a larger font size and green color for emphasis."
+  },
+  "design_language": "Professional and structured, using a two-column layout.",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comment": {
+    "_why_unknown": "No chart or infographic detected, and text content is structured in a two-column format without specific bullet points."
+  }
+}

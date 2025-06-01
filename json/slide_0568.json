@@ -1,0 +1,113 @@
+{
+  "slide_id": "14",
+  "section": "Housing",
+  "purpose": "To illustrate the types of housing needed to address different housing gaps.",
+  "narrative_role": "Analytical",
+  "title": "Different types of housing will be required to close the gap",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrates the number of homes required for different housing needs.",
+  "data_points": [
+    "1.6",
+    "1.6",
+    "4.9",
+    "22.9",
+    "4.6",
+    "1.0",
+    "6.2",
+    "6.2",
+    "0.3",
+    "~37",
+    "~16"
+  ],
+  "cta": null,
+  "layout": "chart with annotations",
+  "layout_type": "bar",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "annotations": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold title"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Types of homes required",
+    "x_axis_label": "Types of homes",
+    "y_axis": [
+      "000s of homes"
+    ],
+    "values": [
+      {
+        "type": "Diversion",
+        "value": "1.6"
+      },
+      {
+        "type": "Incremental vouchers",
+        "value": "1.6"
+      },
+      {
+        "type": "0-30 individual",
+        "value": "4.9"
+      },
+      {
+        "type": "0-30 family",
+        "value": "22.9"
+      },
+      {
+        "type": "PSH individual",
+        "value": "6.2"
+      },
+      {
+        "type": "PSH family",
+        "value": "6.2"
+      }
+    ],
+    "annotations": [
+      {
+        "text": "To address lack of affordable housing",
+        "position": "~37"
+      },
+      {
+        "text": "To address lack of permanent housing",
+        "position": "~16"
+      }
+    ],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_fields": {
+    "_why_unknown": "No bullets or tables are present; emphasis is on the chart and annotations."
+  }
+}

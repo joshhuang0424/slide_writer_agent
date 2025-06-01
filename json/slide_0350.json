@@ -1,0 +1,77 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduce the case study topic and company",
+  "narrative_role": "Title slide",
+  "title": "Case Study: Menulog",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "N/A",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "single_title",
+  "content_zones": {
+    "title": {
+      "position": "center",
+      "text": "Case Study: Menulog"
+    },
+    "subtitle": {
+      "position": "center",
+      "text": "(Loyalty Segmentation & Affinity analysis)"
+    },
+    "additional_text": {
+      "position": "center",
+      "text": "Linking insights to action through Loyalty Solutions"
+    },
+    "logo": {
+      "position": "bottom_left",
+      "text": "mastercard"
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is emphasized with large font"
+  },
+  "design_language": "Corporate, Professional",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "red",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family is not specified in the image."
+  }
+}

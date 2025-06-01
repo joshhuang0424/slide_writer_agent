@@ -1,0 +1,108 @@
+{
+  "slide_id": "11",
+  "section": "Cost Analysis",
+  "purpose": "To compare the total cost of ownership (TCO) of different powertrains over five years.",
+  "narrative_role": "Informative",
+  "title": "Comparison of TCO across powertrains: US 5-year TCO",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual comparison of cost trends over time.",
+  "data_points": [
+    {
+      "year": 2020,
+      "PHEV": 35541
+    },
+    {
+      "year": 2027,
+      "BEV": 30678
+    }
+  ],
+  "cta": null,
+  "layout": "single chart",
+  "layout_type": "full-page graph",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "5-year TCO, C segment ($)",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "25,000",
+      "30,000",
+      "35,000",
+      "40,000"
+    ],
+    "values": [
+      {
+        "label": "ICE",
+        "data": []
+      },
+      {
+        "label": "MHEV",
+        "data": []
+      },
+      {
+        "label": "HEV",
+        "data": []
+      },
+      {
+        "label": "PHEV",
+        "data": []
+      },
+      {
+        "label": "BEV",
+        "data": []
+      }
+    ],
+    "annotations": [
+      {
+        "text": "In 2020, purchasing a PHEV will cost consumer $35,541 over life of 5 years from 2020-2025",
+        "position": "right"
+      },
+      {
+        "text": "In 2027, purchasing a BEV will cost consumer $30,678 over life of 5 years from 2027-2032",
+        "position": "right"
+      }
+    ],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or specific listed supporting facts on the slide."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "slide_id": "7",
+  "section": "TSR指標",
+  "purpose": "介紹TSR指標及其組成要素",
+  "narrative_role": "說明",
+  "title": "TSR 指標是最高管理層的核心議程，涵蓋了企業價值最大化的所有主要槓桿",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "使用金字塔結構來展示各層級的指標及其應用",
+  "data_points": [],
+  "cta": null,
+  "layout": "左圖右文",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top-left",
+    "infographic": "left",
+    "text": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "CEO",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "職位經理",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "無"
+  },
+  "design_language": "專業與層次分明",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "TSR"
+      },
+      {
+        "id": "L1",
+        "label": "iTSR"
+      },
+      {
+        "id": "L2",
+        "label": "EPS, ROS, EBITDA, Operating Margin"
+      },
+      {
+        "id": "L3",
+        "label": "ROGI, Operating Cash, and Cash Flow"
+      },
+      {
+        "id": "L4",
+        "label": "Key value drivers"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "此頁面主要由金字塔圖形與文字組成，無法識別其他表格或數據點"
+  }
+}

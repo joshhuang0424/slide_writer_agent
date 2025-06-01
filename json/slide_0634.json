@@ -1,0 +1,148 @@
+{
+  "slide_id": "34",
+  "section": "Cross-Lifecycle -- Segmentation Treatments",
+  "purpose": "To illustrate how treatments (offers) for each segment will vary based on campaign objectives to maximize profitability and behavioral goals.",
+  "narrative_role": "Informative",
+  "title": "Treatments (offers) for each segment will vary based on the campaign objectives to maximize profitability and behavioral goals",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Provide illustrative examples for treating specific customer populations through targeted offers.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Table-focused",
+  "layout_type": "Full-width table",
+  "content_zones": {
+    "header": "Top",
+    "body": "Center",
+    "footer": "Bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title in bold"
+  },
+  "design_language": "Professional, clean, corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Grey",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Segment Strategy Table",
+      "description": "This table presents strategies and examples for different customer segments.",
+      "headers": [
+        "Segment",
+        "Strategy",
+        "Example"
+      ],
+      "rows": [
+        {
+          "row_label": "Short-Term Inactive",
+          "cells": [
+            "Short-Term Inactive",
+            "Prevent cardholder from becoming long-term inactive",
+            "Send a message via direct mail, email, or SMS reminding the cardholder that using the card for every purchase helps them manage budgets and earn rewards with every dollar spent"
+          ]
+        },
+        {
+          "row_label": "Low Spenders or High Potential Profit",
+          "cells": [
+            "Low Spenders or High Potential Profit",
+            "Optimize recurring payment penetration. Encourage a new spending habit on the card",
+            "Statement credit for enrolling in recurring payments, e.g., with utilities or memberships"
+          ]
+        },
+        {
+          "row_label": "High Spenders or Declining Usage",
+          "cells": [
+            "High Spenders or Declining Usage",
+            "Prevent account attrition by providing a spending incentive",
+            "Spend $3,000 in the next three months before account renewal to have the annual fee waived"
+          ]
+        },
+        {
+          "row_label": "High Spenders",
+          "cells": [
+            "High Spenders",
+            "Increase average spend or share of spend",
+            "A “spend and get” promotion with a high spending threshold: Spend $4,500 per month in the next two consecutive months and receive a free companion ticket when purchasing airfare"
+          ]
+        },
+        {
+          "row_label": "Category Non-Spenders",
+          "cells": [
+            "Category Non-Spenders",
+            "Increase share of spend through category expansion",
+            "Spend $100 in category X in the next three months and receive 500 bonus points"
+          ]
+        },
+        {
+          "row_label": "New Cardholders Who Only Transferred Balance",
+          "cells": [
+            "New Cardholders Who Only Transferred Balance",
+            "Stimulate regular purchasing on the card",
+            "Provide a retail incentive offering a special APR of 1.99% on all grocery store spending in the next three months"
+          ]
+        },
+        {
+          "row_label": "Cross-border",
+          "cells": [
+            "Cross-border",
+            "Promote cross-border spend",
+            "Offer no foreign currency transaction fee"
+          ]
+        },
+        {
+          "row_label": "Recurring Payments",
+          "cells": [
+            "Recurring Payments",
+            "Promote recurring payment transactions",
+            "Offer more points earned for recurring payment transactions"
+          ]
+        },
+        {
+          "row_label": "eCommerce",
+          "cells": [
+            "eCommerce",
+            "Promote online spending",
+            "Promote safety and security on purchases made online. Offer special deals for online merchants"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard table with headers and rows"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

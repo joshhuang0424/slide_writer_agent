@@ -1,0 +1,85 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Illustrate the process of customer segmentation and data security",
+  "narrative_role": "Informative",
+  "title": "奇異果可協助客戶分群貼標、建立儀錶板追蹤轉卡成效與即時調整機制，並確保資訊安全",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Process explanation",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic with text",
+  "layout_type": "flowchart",
+  "content_zones": {
+    "top": "title",
+    "center": "infographic"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "center-top"
+    },
+    {
+      "type": "circle",
+      "label": "2",
+      "position": "center-right"
+    },
+    {
+      "type": "circle",
+      "label": "3",
+      "position": "center-left"
+    },
+    {
+      "type": "circle",
+      "label": "4",
+      "position": "center-bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#007AC1",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "process",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or data points are present in the slide."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "slide_id": "65",
+  "section": "Tool Profile",
+  "purpose": "To describe the Smart multiple® analysis tool and its applications.",
+  "narrative_role": "Informative",
+  "title": "Tool profile: Smart multiple® analysis",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "SmartMultiple is BCG’s proprietary approach to pinpointing the drivers of valuation multiples"
+    },
+    {
+      "highlight": "",
+      "text": "Based on a set of peer companies"
+    },
+    {
+      "highlight": "",
+      "text": "Based on over 200 different financial (and non-financial) KPIs as potential drivers"
+    },
+    {
+      "highlight": "",
+      "text": "SmartMultiple analysis is an important input for:"
+    },
+    {
+      "highlight": "",
+      "text": "Portfolio and business plan reviews based on (i)TSR contributions"
+    },
+    {
+      "highlight": "",
+      "text": "Strategic"
+    },
+    {
+      "highlight": "",
+      "text": "Investor day preparation and communication"
+    },
+    {
+      "highlight": "",
+      "text": "Understanding drivers of multiples is key to:"
+    },
+    {
+      "highlight": "",
+      "text": "Make the right strategic decisions (e.g., M&A)"
+    },
+    {
+      "highlight": "",
+      "text": "Make the trade-offs (e.g., growth/margin, capex, ...)"
+    },
+    {
+      "highlight": "",
+      "text": "Emphasize the right things in investor relations"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explains the methodology and applications of the tool.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three vertically aligned sections with descriptions",
+  "layout_type": "vertical",
+  "content_zones": {
+    "description": "top",
+    "use_cases": "middle",
+    "value_add": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "box",
+      "label": "Description",
+      "position": "left"
+    },
+    {
+      "type": "box",
+      "label": "Use cases",
+      "position": "left"
+    },
+    {
+      "type": "box",
+      "label": "Value add",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for key terms"
+  },
+  "design_language": "Professional with emphasis on green highlights",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No data or chart elements that fit chart schema. Infographic pyramid is empty due to lack of specific level details."
+  }
+}

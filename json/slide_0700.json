@@ -1,0 +1,127 @@
+{
+  "slide_id": "21",
+  "section": "Americas M&A",
+  "purpose": "To present the M&A deals by geography in the Americas from 2010 to 2016.",
+  "narrative_role": "Informative",
+  "title": "Americas M&A deals by country/region, 2010-16",
+  "bullets": [
+    {
+      "highlight": "-20%",
+      "text": "United States saw a decline (-20%) in M&A activity during 2016; 91% of Americas activity was in US"
+    },
+    {
+      "highlight": "",
+      "text": "Rest of North America and Latin America both showed a slight increase in activity"
+    },
+    {
+      "highlight": "",
+      "text": "Latin America increased its incidence to 5% share (higher than last year)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and Trend Analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "Split with chart on left and bullets on right",
+  "layout_type": "Chart and Bullets",
+  "content_zones": {
+    "chart": "left",
+    "bullets": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "-20%",
+      "position": "top right of chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numerical decrease highlighted"
+  },
+  "design_language": "Professional and Informative",
+  "color_scheme": {
+    "primary": "#007C92",
+    "accent": "#002F6C",
+    "background": "#F0F0F0"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Americas deals by geography",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Announced deals ($ bn)"
+    ],
+    "values": [
+      {
+        "year": "2010",
+        "Rest of NorthAm": 94,
+        "Latam (incl. Caribbean)": 246,
+        "US": 778
+      },
+      {
+        "year": "2011",
+        "Rest of NorthAm": 96,
+        "Latam (incl. Caribbean)": 145,
+        "US": 975
+      },
+      {
+        "year": "2012",
+        "Rest of NorthAm": 149,
+        "Latam (incl. Caribbean)": 149,
+        "US": 940
+      },
+      {
+        "year": "2013",
+        "Rest of NorthAm": 87,
+        "Latam (incl. Caribbean)": 118,
+        "US": 1092
+      },
+      {
+        "year": "2014",
+        "Rest of NorthAm": 121,
+        "Latam (incl. Caribbean)": 127,
+        "US": 1488
+      },
+      {
+        "year": "2015",
+        "Rest of NorthAm": 83,
+        "Latam (incl. Caribbean)": 86,
+        "US": 2147
+      },
+      {
+        "year": "2016",
+        "Rest of NorthAm": 89,
+        "Latam (incl. Caribbean)": 89,
+        "US": 1713
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present."
+  }
+}

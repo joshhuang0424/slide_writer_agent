@@ -1,0 +1,98 @@
+{
+  "slide_id": "3",
+  "section": "Activation and Spend Operations",
+  "purpose": "To present strategies for improving long-term spend potential.",
+  "narrative_role": "Informative",
+  "title": "Make adjustments to activation and spend operations by looking at long-term spend forecast",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "What’s the long-term spend forecast for the customers we’ve acquired in recent months? Is the forecasted spend growing?"
+    },
+    {
+      "highlight": false,
+      "text": "Compared to our competitors, can our products attract better customers with higher spend potential?"
+    },
+    {
+      "highlight": false,
+      "text": "Which merchant categories and channels should we focus on for the sign-up bonus?"
+    },
+    {
+      "highlight": false,
+      "text": "After the customer makes their first purchase, which type of spend should we encourage in order to drive long-term spend potential effectively?"
+    },
+    {
+      "highlight": false,
+      "text": "Use AIM to accurately forecast a customer’s long-term spend potential within 3 months after their first purchase."
+    },
+    {
+      "highlight": false,
+      "text": "Use network data to benchmark the issuer’s performance to same-class competitive products."
+    },
+    {
+      "highlight": false,
+      "text": "Analyze the causal relationship between first purchase behavior and long-term spend potential to help the issuer design sign-up campaigns that will attract high potential customers."
+    },
+    {
+      "highlight": false,
+      "text": "Analyze the causal relationship between early spend behavior and long-term spend potential to help the issuer manage EMOB customers with precision."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and causal analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with text boxes",
+  "layout_type": "text",
+  "content_zones": {
+    "left_column": "Issuers' business issues",
+    "right_column": "Mastercard Cross-border Acquisition Investment Management Report"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold titles"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic.levels": "No pyramid infographic detected",
+    "chart": "No chart present on this slide"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "slide_id": "92",
+  "section": "iTSR targets",
+  "purpose": "To explain the derivation of iTSR targets and their application to business units.",
+  "narrative_role": "Informative",
+  "title": "iTSR targets derived from external capital markets benchmarks & cascaded to BU's incorporating portfolio roles",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Step-by-step explanation of target definition, evaluation, and scaling.",
+  "data_points": [],
+  "cta": null,
+  "layout": "multi-sectioned with infographic and table",
+  "layout_type": "informative with visual aids",
+  "content_zones": {
+    "top": "Title and infographic",
+    "middle": "Chart and table",
+    "bottom": "Bullets with key points"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "1. Innovate: define relative value creation targets",
+      "position": "top-left"
+    },
+    {
+      "type": "infographic",
+      "label": "2. Pilot: evaluate portfolio roles & potential of the business",
+      "position": "top-center"
+    },
+    {
+      "type": "infographic",
+      "label": "3. Scale: Determine BU targets",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key steps and targets"
+  },
+  "design_language": "Professional with green color accents",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "S&P 500 ranking vs Relative TSR",
+    "x_axis_label": "Relative TSR",
+    "y_axis": [
+      "S&P 500 ranking"
+    ],
+    "values": [],
+    "annotations": [
+      "Target position?"
+    ],
+    "source": "Source: BCG analysis, EPS: earning per share"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "iTSR target for group"
+      },
+      {
+        "id": "L1",
+        "label": "iTSR target for BU₁"
+      },
+      {
+        "id": "L2",
+        "label": "iTSR target for BU₂"
+      },
+      {
+        "id": "L3",
+        "label": "iTSR target for BU"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Portfolio roles and business units",
+      "description": "Mapping of portfolio roles to business units",
+      "headers": [
+        "Portfolio role",
+        "Business unit"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Growth engine",
+            "BU1, BU2, BU3"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Balanced",
+            "BU4, BU5"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Growth funder",
+            "BU6, BU7"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Fix/divest",
+            "BU6, BU7"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No explicit data points or CTA were detected."
+  }
+}

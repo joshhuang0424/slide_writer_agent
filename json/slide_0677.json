@@ -1,0 +1,137 @@
+{
+  "slide_id": "1",
+  "section": "Market Structure",
+  "purpose": "Illustrate expected shifts in market structure within the mobility industry.",
+  "narrative_role": "Explainer",
+  "title": "Shift in market structure expected",
+  "bullets": [
+    {
+      "highlight": "Cities",
+      "text": "Emerge as new relevant players, with a strong influence on future urban mobility"
+    },
+    {
+      "highlight": "Digital integrators",
+      "text": "Tech giants natively integrate services and capture the customer interface"
+    },
+    {
+      "highlight": "On-demand platforms",
+      "text": "Broker autonomous on-demand rides"
+    },
+    {
+      "highlight": "OEMs",
+      "text": "Face stronger suppliers and risk losing the customer interface"
+    },
+    {
+      "highlight": "Suppliers",
+      "text": "Electronics and software become crucial – newcomers find themselves in strong positions"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of players and their influence in the future market.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic with explanatory text",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Infographic",
+    "right": "Explanatory text"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Cities",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "End user",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "Digital integrators",
+      "position": "middle-left"
+    },
+    {
+      "type": "icon",
+      "label": "On-demand platforms",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "OEMs",
+      "position": "bottom"
+    },
+    {
+      "type": "icon",
+      "label": "Suppliers",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key players"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "36px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Cities"
+      },
+      {
+        "id": "L1",
+        "label": "Digital integrators"
+      },
+      {
+        "id": "L2",
+        "label": "On-demand platforms"
+      },
+      {
+        "id": "L3",
+        "label": "OEMs"
+      },
+      {
+        "id": "L4",
+        "label": "Suppliers"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No quantitative data or charts present in the slide."
+  }
+}

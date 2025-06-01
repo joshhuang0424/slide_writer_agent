@@ -1,0 +1,135 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Highlight the negative perceptions of data science among students.",
+  "narrative_role": "Introduction of a problem",
+  "title": "Data science has an image problem: Negative perceptions of data science are widespread among many students",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "Bad rap: Many STEM men and women have a negative perception of the field as abstract, theoretical, lacking impact and purpose"
+    },
+    {
+      "highlight": null,
+      "text": "Students are simply picking up on the reality, with many companies still struggling to drive impact with AI"
+    },
+    {
+      "highlight": null,
+      "text": "Companies are not doing enough to spotlight the purpose and value-add of data science in their businesses"
+    },
+    {
+      "highlight": null,
+      "text": "Students in Japan and China have the strongest view of data science as theoretical and low-impact (with ~60% each)"
+    }
+  ],
+  "supporting_facts": [
+    "See also the 2019 MIT Sloan/BCG joint report \"Winning with AI\" (https://sloanreview.mit.edu/projects/winning-with-ai/)",
+    "Source: BCG Women in Data survey 2020"
+  ],
+  "reasoning_strategy": "Present survey results and expert opinions to illustrate the issue.",
+  "data_points": [
+    {
+      "country": "United Kingdom",
+      "percentage": 40
+    },
+    {
+      "country": "United States",
+      "percentage": 40
+    },
+    {
+      "country": "France",
+      "percentage": 43
+    },
+    {
+      "country": "Canada",
+      "percentage": 46
+    },
+    {
+      "country": "Spain",
+      "percentage": 46
+    },
+    {
+      "country": "Australia",
+      "percentage": 48
+    },
+    {
+      "country": "Germany",
+      "percentage": 52
+    },
+    {
+      "country": "India",
+      "percentage": 59
+    },
+    {
+      "country": "China",
+      "percentage": 60
+    },
+    {
+      "country": "Japan",
+      "percentage": 63
+    }
+  ],
+  "cta": null,
+  "layout": "Two-column layout with text and infographic",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "left": "Title, survey description, infographic with gender representation and percentages",
+    "right": "Bulleted list of insights and survey results"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "48% (Female), 50% (Male)",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted terms in green"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Grey",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Share of students who view the field of data science as abstract and of low tangible impact (in %)",
+    "x_axis_label": "Countries",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      40,
+      40,
+      43,
+      46,
+      46,
+      48,
+      52,
+      59,
+      60,
+      63
+    ],
+    "annotations": [],
+    "source": "BCG Women in Data survey 2020"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

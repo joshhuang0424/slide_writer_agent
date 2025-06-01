@@ -1,0 +1,96 @@
+{
+  "slide_id": "1",
+  "section": "Control Measures",
+  "purpose": "To outline short-term lockdown measures to control the virus",
+  "narrative_role": "Informative",
+  "title": "When governments need to bring the virus under control, they can crush it with short-term lockdown measures",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Providing guidelines for different control measures",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "infographic",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Infographic with text",
+    "bottom": "Source note"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Limit interactions",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "Ensure safer interactions",
+      "position": "top-center"
+    },
+    {
+      "type": "icon",
+      "label": "Protect borders",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "Monitor the virus",
+      "position": "bottom-left"
+    },
+    {
+      "type": "icon",
+      "label": "Amplify medical response",
+      "position": "bottom-center"
+    },
+    {
+      "type": "icon",
+      "label": "Protect the vulnerable",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of icons and bold headings"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "grid",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide primarily uses icons and headings to represent different measures rather than detailed bullet points or tables."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "slide_id": "3",
+  "section": "Impact Analysis",
+  "purpose": "Explain the different effects of work over time",
+  "narrative_role": "Informative",
+  "title": "Our work and the corresponding inputs have three different effects over time",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential explanation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text with infographic",
+  "layout_type": "horizontal_steps",
+  "content_zones": {
+    "header": "top",
+    "infographic": "middle",
+    "text_block": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow_flow",
+      "label": "Input > Output > Outcome > Impact",
+      "position": "middle"
+    },
+    {
+      "type": "text_box",
+      "label": "For example, when living as independent adults, they can take care of themselves and their families",
+      "position": "right"
+    },
+    {
+      "type": "graphic",
+      "label": "Tree",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for impact and results"
+  },
+  "design_language": "professional, with emphasis on impact",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Input"
+      },
+      {
+        "id": "L1",
+        "label": "Output"
+      },
+      {
+        "id": "L2",
+        "label": "Outcome"
+      },
+      {
+        "id": "L3",
+        "label": "Impact"
+      }
+    ],
+    "position": "middle"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No data points or specific bullet points available in the slide."
+  }
+}

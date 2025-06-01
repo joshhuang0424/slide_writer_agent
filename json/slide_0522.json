@@ -1,0 +1,136 @@
+{
+  "slide_id": "13",
+  "section": "Fraud Strategy Management",
+  "purpose": "To outline fraud rules and their implementation strategies.",
+  "narrative_role": "Informative",
+  "title": "Fraud Strategy Management",
+  "bullets": [
+    {
+      "highlight": "Real-time decline",
+      "text": "Will decline or refer transaction at the point of sale"
+    },
+    {
+      "highlight": "",
+      "text": "Should be utilized on riskiest activity"
+    },
+    {
+      "highlight": "",
+      "text": "Recommended that activity qualifying for real-time also be eligible for automated alerts (cardholder outreach)"
+    },
+    {
+      "highlight": "Approve and Block",
+      "text": "First transaction will approve, then a block is automatically placed on the account to decline subsequent transactions"
+    },
+    {
+      "highlight": "",
+      "text": "Depending on system capability, tiered blocks can be created to only decline certain transaction types and potentially approve low risk activity"
+    },
+    {
+      "highlight": "",
+      "text": "Recommended that activity qualifying for approve and block also be eligible for automated alerts (cardholder outreach)"
+    },
+    {
+      "highlight": "Approve and Queue",
+      "text": "Activity triggers medium concern; fraud analyst to manually review and determine if block and cardholder outreach is warranted"
+    },
+    {
+      "highlight": "",
+      "text": "Activity qualifying for approve and queue rules may also be eligible for automated alerts (cardholder outreach), depending on issuer contact strategy"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Description of different fraud rule strategies and their applications.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title at top left, text and infographic below",
+  "layout_type": "Title and content",
+  "content_zones": {
+    "title": "top-left",
+    "infographic": "center",
+    "text": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Strategic",
+      "position": "top-center"
+    },
+    {
+      "type": "rectangle",
+      "label": "Tactical",
+      "position": "top-center"
+    },
+    {
+      "type": "rectangle",
+      "label": "Velocity",
+      "position": "top-center"
+    },
+    {
+      "type": "rectangle",
+      "label": "Non-Monetary",
+      "position": "top-center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 8,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Bold for action terms"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Strategic"
+      },
+      {
+        "id": "L1",
+        "label": "Tactical"
+      },
+      {
+        "id": "L2",
+        "label": "Velocity"
+      },
+      {
+        "id": "L3",
+        "label": "Non-Monetary"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains a combination of bullet points and infographic elements, but no specific data points or tables."
+  }
+}

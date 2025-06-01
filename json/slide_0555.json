@@ -1,0 +1,88 @@
+{
+  "slide_id": "15",
+  "section": "Impact Analysis",
+  "purpose": "To demonstrate the financial return on investment for SOS CV programmes in different locations.",
+  "narrative_role": "Evidence",
+  "title": "Every €1 invested returns at least €4 to €6, depending on location",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of SROI across locations.",
+  "data_points": [
+    "SROI of 4:1",
+    "SROI of 6:1"
+  ],
+  "cta": null,
+  "layout": "Two-column comparison with image and icons",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "SOS CV programmes image and logo",
+    "right": "Ethiopia and Swaziland SROI comparison"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "SOS Children's Villages logo",
+      "position": "bottom-left"
+    },
+    {
+      "type": "icon",
+      "label": "Ethiopia flag",
+      "position": "top-right"
+    },
+    {
+      "type": "icon",
+      "label": "Swaziland flag",
+      "position": "top-right"
+    },
+    {
+      "type": "image",
+      "label": "SOS CV programmes",
+      "position": "center-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key financial metrics"
+  },
+  "design_language": "Professional with emphasis on financial impact",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No traditional chart or table structure was detected, only visual elements and icons."
+  }
+}

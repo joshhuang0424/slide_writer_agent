@@ -1,0 +1,64 @@
+{
+  "slide_id": "2",
+  "section": "Introduction",
+  "purpose": "To describe the basis and limitations of the report.",
+  "narrative_role": "Informative",
+  "title": "Description of this report",
+  "bullets": [],
+  "supporting_facts": [
+    "The report covers the full year of 2016.",
+    "Based on publicly available information.",
+    "Databases used have not been verified by McKinsey & Company."
+  ],
+  "reasoning_strategy": "Statement of facts",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and text",
+  "layout_type": "Single column",
+  "content_zones": {
+    "title": "top-left",
+    "text": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "#00A0D7",
+    "accent": "#000000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18pt",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

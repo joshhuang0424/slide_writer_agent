@@ -1,0 +1,102 @@
+{
+  "slide_id": "36",
+  "section": "Solution Overview",
+  "purpose": "To provide an overview of daily market trends and spending reports.",
+  "narrative_role": "Informative",
+  "title": "Daily Market Trends Reporting and Spending Pulse",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Select 1-5 countries and 1-2 industries for the analysis"
+    },
+    {
+      "highlight": "",
+      "text": "Confirm additional Mastercard transaction data filters including channels, products, etc."
+    },
+    {
+      "highlight": "",
+      "text": "Mastercard transaction data is analyzed & aggregated"
+    },
+    {
+      "highlight": "",
+      "text": "Analysis drawn from multiple sources including Mastercard transaction data, 3rd party sources and proprietary models"
+    },
+    {
+      "highlight": "Client use cases",
+      "text": "include Forecasting sales, Benchmarking performance, measure eCommerce to optimize omni channel marketing plans"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with a chart and infographic",
+  "layout_type": "Informative",
+  "content_zones": {
+    "header": "top",
+    "chart": "left center",
+    "infographic": "right center",
+    "bullets": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Professional and clean, with emphasis on key terms",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "Line Chart",
+    "title": "Market A: Retail",
+    "x_axis_label": "Day",
+    "y_axis": [
+      "0.00",
+      "0.20",
+      "0.40",
+      "0.60",
+      "0.80",
+      "1.00",
+      "1.20",
+      "1.40",
+      "1.60"
+    ],
+    "values": [
+      "Total Spend Index",
+      "Transaction Count Index",
+      "Ticket Size Index"
+    ],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "image",
+    "levels": [],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "source_note": "Source: Data & Services Canada Merchant Solutions July 24 2020",
+    "_why_unknown": "No specific data points or values provided in bullets or charts."
+  }
+}

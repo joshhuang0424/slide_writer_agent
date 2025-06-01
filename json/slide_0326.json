@@ -1,0 +1,63 @@
+{
+  "slide_id": "1",
+  "section": "Appendix",
+  "purpose": "Introduce additional case studies",
+  "narrative_role": "Introduction",
+  "title": "Appendix",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction of additional content",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "simple",
+  "content_zones": {
+    "title": "top",
+    "subtitle": "middle"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "minimal",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "none",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "This slide is purely introductory with no additional content such as charts or tables."
+  }
+}

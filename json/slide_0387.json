@@ -1,0 +1,196 @@
+{
+  "slide_id": "23",
+  "section": "初期規劃",
+  "purpose": "展示溝通觸點時間規劃",
+  "narrative_role": "說明接下來的溝通策略",
+  "title": "專案進展｜椰子客戶溝通觸點時程規劃",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "timeline_with_table",
+  "layout_type": "single_page",
+  "content_zones": {
+    "header": "top",
+    "timeline": "center",
+    "table": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "店內開始廣宣",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "開放店內消費日",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "不同管道的目標客群與溝通內容",
+      "headers": [
+        "管道",
+        "目標客群",
+        "第一階段",
+        "第二階段",
+        "第三階段"
+      ],
+      "rows": [
+        {
+          "row_label": "MVM 跨頁廣告",
+          "cells": [
+            "ALL",
+            "春季專案\n(2/6-3/30)\n會員護照\n(3/27-5/18)",
+            "會員護照\n(5/17-7/6)",
+            "秋季專案\n(8/25-10/26)"
+          ]
+        },
+        {
+          "row_label": "eDM",
+          "cells": [
+            "ALL",
+            "eDM 轉卡廣告",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Connection 雜誌",
+          "cells": [
+            "高消費會員\n(20萬)",
+            "三月號：內頁廣告＋邀請函",
+            "六月號：內頁廣告＋聯名卡介紹",
+            "九月號：封面故事－桃子集團"
+          ]
+        },
+        {
+          "row_label": "綜合信函",
+          "cells": [
+            "到期會員\n(高消費優先)",
+            "定期發送給會期即將到期的客戶，由高消費會員優先發送",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "會員實場專卡",
+          "cells": [
+            "ALL",
+            "結帳會員與會員權益在實場引導會員進行轉卡",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "歡迎信",
+          "cells": [
+            "新會員",
+            "無",
+            "Welcome Letter Ad",
+            ""
+          ]
+        },
+        {
+          "row_label": "SMS",
+          "cells": [
+            "依序發放",
+            "無",
+            "為輔強作用，第二、三階段可視情況發放",
+            ""
+          ]
+        },
+        {
+          "row_label": "電話行銷",
+          "cells": [
+            "黑鑰會員",
+            "無",
+            "為輔強作用，第二、三階段可視情況撥打",
+            ""
+          ]
+        },
+        {
+          "row_label": "App",
+          "cells": [
+            "ALL",
+            "App 推播通知（為輔強作用，可視情況推播）\nApp Banner（小導至會員邦頁面）",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "記者會",
+          "cells": [
+            "ALL",
+            "電商記者會",
+            "",
+            "椰子店內記者會"
+          ]
+        },
+        {
+          "row_label": "網站",
+          "cells": [
+            "ALL",
+            "Website Banner、FAQ",
+            "EC Banner、結帳頁面後（待議）",
+            ""
+          ]
+        },
+        {
+          "row_label": "賣場文宣",
+          "cells": [
+            "ALL",
+            "無",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體資訊無法從圖片中直接判斷"
+  }
+}

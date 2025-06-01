@@ -1,0 +1,64 @@
+{
+  "slide_id": "1",
+  "section": "Cover",
+  "purpose": "Introduction",
+  "narrative_role": "Title Slide",
+  "title": "Insight Highlights",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "N/A",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title-centered",
+  "layout_type": "Cover",
+  "content_zones": {
+    "title": "center",
+    "date": "bottom-left",
+    "logo": "bottom-left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "N/A"
+  },
+  "design_language": "Minimalist",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red and orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Small"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font family is not specified in the image."
+  }
+}

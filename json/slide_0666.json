@@ -1,0 +1,152 @@
+{
+  "slide_id": "6",
+  "section": "Mobility Transformation",
+  "purpose": "To illustrate the projected changes in electrification, self-driving cars, and shared mobility offerings.",
+  "narrative_role": "Inform",
+  "title": "Electrification, self-driving cars, and on-demand shared mobility offerings will change the face of the industry",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Electrification will become more prevalent",
+    "center": "Self-driving cars will hit our streets in",
+    "right": "Shared mobility offerings will gain acceptance"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Electrification",
+      "description": "Share of new car sales",
+      "headers": [
+        "2017",
+        "2025",
+        "2030",
+        "2035"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1%",
+            "6%",
+            "14%",
+            "30%"
+          ]
+        },
+        {
+          "cells": [
+            "Gasoline & diesel",
+            "Hybrid & mild hybrid (HEV)",
+            "Plug-in hybrid (PHEV)",
+            "Electric vehicle (BEV)"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "stacked bar"
+    },
+    {
+      "title": "Self-driving Cars",
+      "description": "Share of new car sales",
+      "headers": [
+        "2017",
+        "2025",
+        "2030",
+        "2035"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "2%",
+            "1%",
+            "5%",
+            "12%"
+          ]
+        },
+        {
+          "cells": [
+            "Human-driven cars",
+            "Personal self-driving cars (L4/5)",
+            "Self-driving taxis (L4/5)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "stacked bar"
+    },
+    {
+      "title": "Shared Mobility",
+      "description": "Share of on-road passenger miles",
+      "headers": [
+        "2017",
+        "2025",
+        "2030",
+        "2035"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "3%",
+            "4%",
+            "9%",
+            "18%"
+          ]
+        },
+        {
+          "cells": [
+            "Personal car",
+            "On-demand (from 2025 on: mainly self-driving)"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "stacked bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic type is set to pyramid but no levels are defined because the slide does not contain pyramid elements."
+  }
+}

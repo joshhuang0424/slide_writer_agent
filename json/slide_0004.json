@@ -1,0 +1,263 @@
+{
+  "slide_id": "4",
+  "section": "Talent Pipeline Analysis",
+  "purpose": "To show the progress and remaining challenges in the talent pipeline pre-COVID-19.",
+  "narrative_role": "Insight",
+  "title": "The pre-COVID-19 talent pipeline shows continued progress at the top, but the broken rung remains",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Compare pre-COVID-19 talent distribution by level and gender.",
+  "data_points": [
+    {
+      "year": "2020",
+      "entry_level": 47,
+      "manager": 38,
+      "sr_manager": 33,
+      "vp": 29,
+      "svp": 28,
+      "c_suite": 21
+    },
+    {
+      "year": "2015",
+      "entry_level": 45,
+      "manager": 37,
+      "sr_manager": 32,
+      "vp": 27,
+      "svp": 23,
+      "c_suite": 17
+    },
+    {
+      "change": "'15 to '20",
+      "entry_level": "5%",
+      "manager": "3%",
+      "sr_manager": "5%",
+      "vp": "4%",
+      "svp": "18%",
+      "c_suite": "22%"
+    }
+  ],
+  "cta": null,
+  "layout": "dual-column",
+  "layout_type": "infographic with text commentary",
+  "content_zones": {
+    "left": "infographic",
+    "right": "text commentary"
+  },
+  "visual_elements": [
+    {
+      "type": "cylinder_chart",
+      "label": "Pre-COVID-19 percentage of employees by level",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis in headings"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#0070c0",
+    "background": "#f4f4f4"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "cylinder",
+    "title": "Pre-COVID-19 Talent Pipeline",
+    "x_axis_label": "Roles",
+    "y_axis": [
+      "White men",
+      "Men of color",
+      "White women",
+      "Women of color"
+    ],
+    "values": [
+      {
+        "role": "Entry level",
+        "white_men": 35,
+        "men_of_color": 18,
+        "white_women": 29,
+        "women_of_color": 18
+      },
+      {
+        "role": "Manager",
+        "white_men": 44,
+        "men_of_color": 18,
+        "white_women": 26,
+        "women_of_color": 12
+      },
+      {
+        "role": "Sr. Manager",
+        "white_men": 51,
+        "men_of_color": 15,
+        "white_women": 25,
+        "women_of_color": 9
+      },
+      {
+        "role": "VP",
+        "white_men": 57,
+        "men_of_color": 13,
+        "white_women": 24,
+        "women_of_color": 6
+      },
+      {
+        "role": "SVP",
+        "white_men": 59,
+        "men_of_color": 13,
+        "white_women": 23,
+        "women_of_color": 5
+      },
+      {
+        "role": "C-suite",
+        "white_men": 66,
+        "men_of_color": 12,
+        "white_women": 19,
+        "women_of_color": 3
+      }
+    ],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Board of Directors"
+      },
+      {
+        "id": "L1",
+        "label": "C-level executives & presidents"
+      },
+      {
+        "id": "L2",
+        "label": "SVP"
+      },
+      {
+        "id": "L3",
+        "label": "VP"
+      },
+      {
+        "id": "L4",
+        "label": "Sr. Manager"
+      },
+      {
+        "id": "L5",
+        "label": "Manager"
+      },
+      {
+        "id": "L6",
+        "label": "Entry level"
+      },
+      {
+        "id": "L7",
+        "label": "Field or frontline"
+      }
+    ],
+    "position": "left"
+  },
+  "table": {
+    "title": "Role mapping by media type",
+    "headers": [
+      "Digital",
+      "Broadcast",
+      "Radio",
+      "Print"
+    ],
+    "rows": [
+      {
+        "pyramid_level": "L0",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L1",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L2",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L3",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L4",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L5",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L6",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      },
+      {
+        "pyramid_level": "L7",
+        "cells": [
+          "…",
+          "…",
+          "…",
+          "…"
+        ]
+      }
+    ],
+    "position": "right"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Some table data unavailable in the image.",
+    "source_note": "1. Sum of % White women and % women of color may not sum to overall % women because overall figure includes employees with race not reported."
+  }
+}

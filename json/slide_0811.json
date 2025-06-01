@@ -1,0 +1,61 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To introduce the context and objectives of the survey on urban mobility usage during and after COVID-19 lockdowns.",
+  "narrative_role": "Introduction",
+  "title": "Introduction",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Paragraph",
+  "layout_type": "text-heavy",
+  "content_zones": {
+    "title": "top-left",
+    "paragraph": "middle"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Standard"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No charts, tables, or bullet points were present on this slide. The slide is primarily text-based with an introduction to the topic."
+}

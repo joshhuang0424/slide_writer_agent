@@ -1,0 +1,140 @@
+{
+  "slide_id": "15",
+  "section": "Cross-regional M&A in 2016",
+  "purpose": "To show global deal flows in M&A across different regions",
+  "narrative_role": "Informative",
+  "title": "Global deal flows",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis based on regional flows",
+  "data_points": [
+    {
+      "region": "Americas->Americas",
+      "value": "$1,485bn (-24%)",
+      "deals": "2,066 deals (-13%)"
+    },
+    {
+      "region": "EMEA->Americas",
+      "value": "$257 bn (-11%)",
+      "deals": "232 deals (-4%)"
+    },
+    {
+      "region": "Americas->EMEA",
+      "value": "$247 bn (15%)",
+      "deals": "261 deals (-28%)"
+    },
+    {
+      "region": "EMEA->EMEA",
+      "value": "$535bn (-29%)",
+      "deals": "1,507 deals (-4%)"
+    },
+    {
+      "region": "APAC->EMEA",
+      "value": "$199 bn (111%)",
+      "deals": "275 deals (38%)"
+    },
+    {
+      "region": "Americas->APAC",
+      "value": "$39 bn (-19%)",
+      "deals": "90 deals (-7%)"
+    },
+    {
+      "region": "EMEA->APAC",
+      "value": "$32 bn (-30%)",
+      "deals": "75 deals (-10%)"
+    },
+    {
+      "region": "APAC->APAC",
+      "value": "$834bn (-23%)",
+      "deals": "3,318 deals (-0.1%)"
+    },
+    {
+      "region": "APAC->Americas",
+      "value": "$149 bn (79%)",
+      "deals": "228 deals (14%)"
+    }
+  ],
+  "cta": null,
+  "layout": "Map visualization with regional data",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "map": "Center",
+    "data_labels": "Overlay on map"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Flow direction",
+      "position": "central"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentage changes"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Teal",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "map",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "Net inflows",
+      "description": "Net inflows in billion dollars by region",
+      "headers": [
+        "",
+        "Americas",
+        "EMEA",
+        "Asia-Pacific"
+      ],
+      "rows": [
+        {
+          "row_label": "Net inflows $bn",
+          "cells": [
+            "",
+            "120",
+            "157",
+            "-276"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific chart type or infographic levels are detected in the image."
+  }
+}

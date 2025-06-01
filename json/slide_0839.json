@@ -1,0 +1,82 @@
+{
+  "slide_id": "11",
+  "section": "分期利率差异化定价的潜在机会点",
+  "purpose": "分析并识别分期利率定价中的潜在优化机会。",
+  "narrative_role": "提供问题、现行做法以及优化建议的总结。",
+  "title": "分期利率差异化定价的潜在机会点",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过列举商业问题、现行做法和潜在优化点，引导读者思考如何提升分期收益。",
+  "data_points": [],
+  "cta": "如何找出价格敏感客户群画像？如何定位每一顾客分期最适利率？",
+  "layout": "三栏布局",
+  "layout_type": "column",
+  "content_zones": {
+    "left": "商业问题",
+    "center": "现行做法",
+    "right": "潜在优化机会"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "重要商业问题",
+      "position": "left"
+    },
+    {
+      "type": "text_box",
+      "label": "现行做法",
+      "position": "center"
+    },
+    {
+      "type": "text_box",
+      "label": "潜在优化机会点",
+      "position": "right"
+    },
+    {
+      "type": "button",
+      "label": "下一步",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "加粗用于强调关键问题和建议。"
+  },
+  "design_language": "简洁明了，使用橙色强调关键区域。",
+  "color_scheme": {
+    "primary": "橙色",
+    "accent": "白色",
+    "background": "浅橙色"
+  },
+  "font": {
+    "title": {
+      "font_family": "未知",
+      "size": "未知",
+      "weight": "未知"
+    },
+    "body": {
+      "font_family": "未知",
+      "size": "未知"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體和圖表信息因缺少視覺細節而無法判斷。"
+  }
+}

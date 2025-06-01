@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Cover",
+  "purpose": "Introduction",
+  "narrative_role": "Title Slide",
+  "title": "Strategy and Analytics",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "centered title",
+  "layout_type": "title slide",
+  "content_zones": {
+    "title_position": "center",
+    "logo_position": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "",
+      "position": "background"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "modern, minimalist",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "gray",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "normal"
+    },
+    "body": {
+      "font_family": "",
+      "size": ""
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional content or data points present on the cover slide."
+  }
+}

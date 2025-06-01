@@ -1,0 +1,112 @@
+{
+  "slide_id": "3",
+  "section": "Market Analysis",
+  "purpose": "Analyze the reflection of stock prices on real value or market conditions.",
+  "narrative_role": "Data Visualization",
+  "title": "股票價格真的反映了實際價值或市場情緒嗎?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of stock indices over time.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with Chart",
+  "layout_type": "data-driven",
+  "content_zones": {
+    "title": "top",
+    "chart": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title in green"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Index"
+    ],
+    "values": [
+      {
+        "year": 1995,
+        "S&P 500": 100,
+        "Euro Stoxx 50": 100
+      },
+      {
+        "year": 2000,
+        "S&P 500": 350,
+        "Euro Stoxx 50": 300
+      },
+      {
+        "year": 2009,
+        "S&P 500": 250,
+        "Euro Stoxx 50": 200
+      },
+      {
+        "year": 2013,
+        "S&P 500": 500,
+        "Euro Stoxx 50": 400
+      }
+    ],
+    "annotations": [
+      {
+        "x": 1999,
+        "y": 350,
+        "text": "+250%"
+      },
+      {
+        "x": 2001,
+        "y": 200,
+        "text": "-40 to -60%"
+      },
+      {
+        "x": 2007,
+        "y": 400,
+        "text": "+180%"
+      },
+      {
+        "x": 2009,
+        "y": 250,
+        "text": "-54 to -60%"
+      },
+      {
+        "x": 2013,
+        "y": 500,
+        "text": "+91 to +167%"
+      }
+    ],
+    "source": "Source: Thomson Financial Data stream; BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or infographic pyramid levels were depicted in the slide."
+  }
+}

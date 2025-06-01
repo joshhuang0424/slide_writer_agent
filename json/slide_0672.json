@@ -1,0 +1,91 @@
+{
+  "slide_id": "12",
+  "section": "Profit Pools",
+  "purpose": "Highlight structural shift in profit pools",
+  "narrative_role": "informative",
+  "title": "We expect a significant structural shift in profit pools",
+  "bullets": [
+    {
+      "highlight": "New-car sales",
+      "text": "stall after 2025 as on-demand models in cities pick up"
+    },
+    {
+      "highlight": "New-car sales margins",
+      "text": "structurally decline with electrification and higher share of fleet business"
+    },
+    {
+      "highlight": "AV and BEV components",
+      "text": "value creation shifts further away from OEMs to suppliers"
+    },
+    {
+      "highlight": "Aftermarket",
+      "text": "business negatively affected by switch to electrified vehicles (EVs), but effect comes slowly"
+    },
+    {
+      "highlight": "On-demand mobility explodes",
+      "text": "as self-driving cars make services affordable and convenient"
+    },
+    {
+      "highlight": "New profit pools in data & connectivity",
+      "text": "emerge, taking off with self-driving cars"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "trend analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text and chart",
+  "content_zones": {
+    "left": "title and bullets",
+    "right": "chart"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight key terms"
+  },
+  "design_language": "modern and clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "bubble",
+    "title": "Profit pools - future (2035, in $B)",
+    "x_axis_label": "Categories",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Chart details not fully visible in the image; specific data points and annotations are not discernible."
+  }
+}

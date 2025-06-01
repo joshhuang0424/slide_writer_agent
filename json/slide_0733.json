@@ -1,0 +1,168 @@
+{
+  "slide_id": "L7",
+  "section": "Forecast Methodology overview",
+  "purpose": "To illustrate Mastercard cardholders' monthly usage rate and long-term spend potential using forecasting capabilities.",
+  "narrative_role": "informative",
+  "title": "Forecast cardholders’ monthly usage rate and long-term spend potential using Mastercard data & AIM’s forecasting capabilities",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide uses historical data and identifies key attributes to forecast long-term spending.",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "comparative",
+  "content_zones": {
+    "left": "Mastercard historical data",
+    "center": "Identify important attributes",
+    "right": "Forecast average spend per card"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Mastercard historical data",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "Identify important attributes",
+      "position": "center"
+    },
+    {
+      "type": "rectangle",
+      "label": "Forecast average spend per card",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for key text"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar and line",
+    "title": "",
+    "x_axis_label": "Channel / Month",
+    "y_axis": [
+      "Total 1st year spend",
+      "Spend $"
+    ],
+    "values": [
+      {
+        "category": "Online",
+        "value": 4000
+      },
+      {
+        "category": "Offline",
+        "value": 2000
+      }
+    ],
+    "annotations": [
+      "Significance: 98.7%"
+    ],
+    "source": "Mastercard"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Monthly usage rate after their first purchase",
+      "description": "Usage rates for cardholders after their first purchase.",
+      "headers": [
+        "First purchase in",
+        "1st month",
+        "2nd month",
+        "3rd month"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "JAN 2018",
+            "39.8%",
+            "32.5%",
+            "24.6%"
+          ]
+        },
+        {
+          "cells": [
+            "FEB 2018",
+            "42.2%",
+            "34.1%",
+            "26.0%"
+          ]
+        },
+        {
+          "cells": [
+            "MAR 2018",
+            "43.3%",
+            "29.9%",
+            "20.2%"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    },
+    {
+      "title": "Monthly average spend per card after their first purchase",
+      "description": "Average spend for cardholders after their first purchase.",
+      "headers": [
+        "First purchase in",
+        "1st month",
+        "2nd month",
+        "3rd month"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "JAN 2018",
+            "$ 369",
+            "$ 303",
+            "$ 282"
+          ]
+        },
+        {
+          "cells": [
+            "FEB 2018",
+            "$ 352",
+            "$ 296",
+            "$ 298"
+          ]
+        },
+        {
+          "cells": [
+            "MAR 2018",
+            "$ 383",
+            "$ 264",
+            "$ 241"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Certain visual elements and infographic details were not clear enough to categorize beyond their basic descriptions."
+  }
+}

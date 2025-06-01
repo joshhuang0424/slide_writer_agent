@@ -1,0 +1,91 @@
+{
+  "slide_id": "1",
+  "section": "COVID-19 Response",
+  "purpose": "To illustrate the projected phases of handling the COVID-19 pandemic.",
+  "narrative_role": "Informative",
+  "title": "The fight against COVID-19 will be long—we are still in its early days",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The chart shows different phases and their impact on economic activity and critical care capacity.",
+  "data_points": [],
+  "cta": null,
+  "layout": "chart_with_title",
+  "layout_type": "graph",
+  "content_zones": {
+    "title": "top-left",
+    "chart": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Flatten",
+      "position": "top-center"
+    },
+    {
+      "type": "arrow",
+      "label": "Fight",
+      "position": "center"
+    },
+    {
+      "type": "arrow",
+      "label": "Future",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "COVID-19 Phases",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "Economic activity",
+      "Health care system capacity",
+      "Critical care patients"
+    ],
+    "values": [
+      "Re-start: Mid-May/late-June 2020",
+      "Vaccine: Late 2020/Early 2021",
+      "Disease risk minimized: Q1 2022 +/- 6 months"
+    ],
+    "annotations": [
+      "We are here"
+    ],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables present; chart provides the main information."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slide_id": "17",
+  "section": "Automotive Consumer Survey",
+  "purpose": "To compare changes in car purchase preferences between high-income and low-income respondents before and after the second lockdown.",
+  "narrative_role": "Informative",
+  "title": "High-income respondents are less influenced in their car purchase plans",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between high-income and low-income groups based on net scores.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title at the top, chart in the middle, source at the bottom",
+  "layout_type": "Comparison chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for key titles"
+  },
+  "design_language": "Professional, data-centric",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FFFFFF",
+    "background": "#F8F8F8"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Expected change in car characteristics (change of preferences before vs. after 2nd lockdown)",
+    "x_axis_label": "Income groups",
+    "y_axis": [
+      "Net score"
+    ],
+    "values": [
+      {
+        "category": "High income",
+        "Pull forward purchase": -11,
+        "Requiring higher discounts": -4,
+        "Spend more": 2,
+        "Buy": 3,
+        "Electric vehicle": 0,
+        "Bigger car": 0,
+        "Premium brand": 0,
+        "More ADAS features": 0
+      },
+      {
+        "category": "Low income",
+        "Delay purchase": -17,
+        "Requiring less discounts": 15,
+        "Spend less": -14,
+        "Finance/lease": 4,
+        "Vehicle with ICE": -7,
+        "Smaller car": -11,
+        "Budget/volume brand": -9,
+        "Less ADAS features": -7
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "Font details are not specified in the image."
+}

@@ -1,0 +1,93 @@
+{
+  "slide_id": "12",
+  "section": "DEI Strategy Barriers",
+  "purpose": "Identify the main barriers to progress in DEI strategy.",
+  "narrative_role": "Problem Identification",
+  "title": "What would you point to as the biggest barriers in achieving progress on your DEI strategy?",
+  "bullets": [
+    {
+      "highlight": "We don’t know what works",
+      "text": "We don’t know what works"
+    },
+    {
+      "highlight": "",
+      "text": "We do not have a measurable aspiration"
+    },
+    {
+      "highlight": "",
+      "text": "We do not have the resources necessary"
+    },
+    {
+      "highlight": "",
+      "text": "Our DEI initiatives are stretched too thin"
+    },
+    {
+      "highlight": "",
+      "text": "Leadership role modelling and support is insufficient"
+    },
+    {
+      "highlight": "",
+      "text": "Financial incentives do not align with DEI goals"
+    },
+    {
+      "highlight": "",
+      "text": "Employees are not aware of policies and resources"
+    },
+    {
+      "highlight": "",
+      "text": "Other / no challenges"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing barriers to inform potential strategic adjustments.",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Title and question",
+    "right": "List of barriers"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 8,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Bold for main barrier"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "詳細的字體與特定字型信息在圖片中未明示，故為 unknown。"
+  }
+}

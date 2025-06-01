@@ -1,0 +1,133 @@
+{
+  "slide_id": "1",
+  "section": "零售金融业务战略",
+  "purpose": "介绍零售金融业务的战略重点和发展方向。",
+  "narrative_role": "信息传达",
+  "title": "零售金融业务战略发展重点",
+  "bullets": [
+    {
+      "highlight": "全客户",
+      "text": "推进分层分群客户经营，夯实零售客户基础。"
+    },
+    {
+      "highlight": "全渠道",
+      "text": "融合线上、线下渠道，增强财富管理能力。"
+    },
+    {
+      "highlight": "全产品",
+      "text": "构建财富平台生态，提升客户资产能力。"
+    },
+    {
+      "highlight": "数字零售",
+      "text": "推进线上化、智能化，提升AI智能客户服务水平。"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过分层、渠道、产品和数字化四方面的具体措施，提升零售金融业务的整体竞争力。",
+  "data_points": [],
+  "cta": null,
+  "layout": "两列布局",
+  "layout_type": "text with list",
+  "content_zones": {
+    "left": "战略重点说明",
+    "right": "目标客户群体"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "加粗"
+  },
+  "design_language": "简约商务",
+  "color_scheme": {
+    "primary": "黑色",
+    "accent": "灰色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "微软雅黑",
+      "size": "18pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "微软雅黑",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "零售业务重点客群",
+      "description": "描述八大重点客群",
+      "headers": [
+        "客群"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "代发"
+          ]
+        },
+        {
+          "cells": [
+            "女性"
+          ]
+        },
+        {
+          "cells": [
+            "银发"
+          ]
+        },
+        {
+          "cells": [
+            "教育"
+          ]
+        },
+        {
+          "cells": [
+            "青年（推测）"
+          ]
+        },
+        {
+          "cells": [
+            "跨境（推测）"
+          ]
+        },
+        {
+          "cells": [
+            "亲子（推测）"
+          ]
+        },
+        {
+          "cells": [
+            "高端（推测）"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "简洁列表"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "没有图表和信息图形，策略说明以文字为主。"
+  }
+}

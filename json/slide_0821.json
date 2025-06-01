@@ -1,0 +1,87 @@
+{
+  "slide_id": "1",
+  "section": "COVID-19 Response Patterns",
+  "purpose": "To illustrate the effectiveness of different government responses to COVID-19.",
+  "narrative_role": "Informative",
+  "title": "Three patterns have emerged in governments’ COVID-19 response—crush and contain is the most effective",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of different countries' responses.",
+  "data_points": [
+    "South Korea",
+    "New Zealand",
+    "Taiwan",
+    "Spain",
+    "France",
+    "Germany",
+    "United States",
+    "Brazil",
+    "India"
+  ],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top-left",
+    "chart": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Data-driven",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "COVID-19 Case Patterns",
+    "x_axis_label": "Date",
+    "y_axis": [
+      "Seven-day rolling average"
+    ],
+    "values": [
+      "South Korea",
+      "New Zealand",
+      "Taiwan",
+      "Spain",
+      "France",
+      "Germany",
+      "United States",
+      "Brazil",
+      "India"
+    ],
+    "annotations": [],
+    "source": "Johns Hopkins CSSE, Our World in Data, BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_extra_details": {
+    "note": "China excluded from crushed and contained graphic due to a much earlier outbreak.",
+    "_why_unknown": "No bullet points or tables present on this slide."
+  }
+}

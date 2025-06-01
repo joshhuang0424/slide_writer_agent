@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Title Slide",
+  "purpose": "Introduction",
+  "narrative_role": "Set the context",
+  "title": "Diversity, Equity, and Inclusion in a post-COVID world",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "title and image",
+  "layout_type": "title_slide",
+  "content_zones": {
+    "title": "left",
+    "image": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Person looking thoughtful",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "unknown"
+  },
+  "design_language": "professional and corporate",
+  "color_scheme": {
+    "primary": "#002B5C",
+    "accent": "#FFFFFF",
+    "background": "#002B5C"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is a title slide with minimal text and no specific chart or table data. Font details are not specified in the image."
+  }
+}

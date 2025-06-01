@@ -1,0 +1,95 @@
+{
+  "slide_id": "8",
+  "section": "Executive Representation",
+  "purpose": "Highlight the low representation of Black individuals in executive roles.",
+  "narrative_role": "Informative",
+  "title": "Low Black representation at the executive levels",
+  "bullets": [
+    {
+      "highlight": "3",
+      "text": "current Black CEOs in Fortune 500 companies, but at parity, we would expect to see 60"
+    }
+  ],
+  "supporting_facts": [
+    "Black CEOs include Roz Brewer, Marvin Ellison, Rene Jones. This does not include Ken Frazier and Roger Ferguson, Jr., who announced they were stepping down in 2021."
+  ],
+  "reasoning_strategy": "Comparison between current state and expected parity.",
+  "data_points": [
+    "3 current Black CEOs",
+    "Expected 60 Black CEOs at parity"
+  ],
+  "cta": null,
+  "layout": "Two-column with infographic and text",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Infographic with dots",
+    "right": "Textual explanation"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "CEOs in the Fortune 500",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Potential additional Black CEOs at 12% Black representation",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numbers in blue"
+  },
+  "design_language": "Professional and formal",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Current Black CEOs"
+      },
+      {
+        "id": "L1",
+        "label": "Expected at Parity"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain a traditional chart or table with headers.",
+    "infographic_detail": "Dot matrix represents the number of CEOs visually."
+  }
+}

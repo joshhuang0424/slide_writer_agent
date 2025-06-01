@@ -1,0 +1,139 @@
+{
+  "slide_id": "19",
+  "section": "African Market Analysis",
+  "purpose": "To illustrate the increase in deal activity in Africa in 2016.",
+  "narrative_role": "Data presentation and analysis",
+  "title": "Deal activity in Africa increased significantly in 2016 after witnessing a drop in 2015; with South Africa bouncing back",
+  "bullets": [
+    {
+      "highlight": "+77%",
+      "text": "Deal activity in Africa increased by a significant 77% in 2016 when compared to 2015"
+    },
+    {
+      "highlight": "~55%",
+      "text": "South Africa’s share of M&A activity in Africa remains high at ~55%"
+    },
+    {
+      "highlight": "$10.8 bn",
+      "text": "Other major countries were Egypt, Morocco and Congo with a combined ~$10.8 bn of M&A activity in 2016"
+    }
+  ],
+  "supporting_facts": [
+    "Announced deals above $25 Mn (excluding withdrawn or cancelled deals) for target region Africa"
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    "2010: 51 bn (32 Other Africa, 19 South Africa)",
+    "2011: 33 bn (17 Other Africa, 15 South Africa)",
+    "2012: 33 bn (23 Other Africa, 11 South Africa)",
+    "2013: 46 bn (36 Other Africa, 10 South Africa)",
+    "2014: 43 bn (21 Other Africa, 21 South Africa)",
+    "2015: 26 bn (11 Other Africa, 15 South Africa)",
+    "2016: 46 bn (21 Other Africa, 25 South Africa)"
+  ],
+  "cta": null,
+  "layout": "Title, chart, and bullet points",
+  "layout_type": "Data-driven",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "bullets": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "annotation",
+      "label": "+77%",
+      "position": "above chart"
+    },
+    {
+      "type": "annotation",
+      "label": "+66%",
+      "position": "above chart"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numbers and percentages"
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "#007F86",
+    "accent": "#0B5F9E",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "African deal volume",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Aggregate deal value $ bn"
+    ],
+    "values": [
+      {
+        "year": "2010",
+        "Other Africa": 32,
+        "South Africa": 19
+      },
+      {
+        "year": "2011",
+        "Other Africa": 17,
+        "South Africa": 15
+      },
+      {
+        "year": "2012",
+        "Other Africa": 23,
+        "South Africa": 11
+      },
+      {
+        "year": "2013",
+        "Other Africa": 36,
+        "South Africa": 10
+      },
+      {
+        "year": "2014",
+        "Other Africa": 21,
+        "South Africa": 21
+      },
+      {
+        "year": "2015",
+        "Other Africa": 11,
+        "South Africa": 15
+      },
+      {
+        "year": "2016",
+        "Other Africa": 21,
+        "South Africa": 25
+      }
+    ],
+    "annotations": [
+      "+77% increase in 2016",
+      "+66% increase in South Africa"
+    ],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic or tables present in the slide."
+  }
+}

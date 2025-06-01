@@ -1,0 +1,108 @@
+{
+  "slide_id": "21",
+  "section": "Case Study",
+  "purpose": "To analyze opportunities for property growth and evolution based on spend patterns.",
+  "narrative_role": "Informative",
+  "title": "Geo Insights Analysis",
+  "bullets": [
+    {
+      "highlight": "Approach:",
+      "text": "Transaction data is analyzed for store location at postal code/s , trade area, shopping malls etc level & can be benchmarked to assess performance & identify gaps against local competitors."
+    },
+    {
+      "highlight": "",
+      "text": "Using resizip model, identification of feeder area where customers come from."
+    },
+    {
+      "highlight": "",
+      "text": "Time of day/day of the week analysis to understand shopping pattern of customers"
+    },
+    {
+      "highlight": "Case Study:",
+      "text": "Advisors helped luxury shopping mall in Singapore with over 400+ retail outlets answer questions related to Share of Wallet and Market Planning through this exercise"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data analysis and market benchmarking",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "text-image",
+  "content_zones": {
+    "left": "Approach and infographics",
+    "right": "Case study details and chart"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Share of Wallet",
+      "position": "bottom-left"
+    },
+    {
+      "type": "infographic",
+      "label": "Market Planning",
+      "position": "bottom-center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Section headers highlighted"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "Spend distribution by category and location",
+    "x_axis_label": "",
+    "y_axis": [
+      "Others",
+      "Sentosa",
+      "City Hall",
+      "Marina Bay",
+      "Changi Airport",
+      "Orchard"
+    ],
+    "values": [
+      {
+        "Others": "29%",
+        "Sentosa": "5.4%",
+        "City Hall": "25%",
+        "Marina Bay": "20%",
+        "Changi Airport": "12%",
+        "Orchard": "40%"
+      }
+    ],
+    "annotations": [
+      "Orchard is the leading tourist destination with 40% market share"
+    ],
+    "source": "Mastercard Data Warehouse, MCA Research"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No pyramid infographic was detected in the slide."
+}

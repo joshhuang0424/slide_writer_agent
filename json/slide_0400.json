@@ -1,0 +1,270 @@
+{
+  "slide_id": "36",
+  "section": "Credit Card Comparison",
+  "purpose": "Analyze the market position and potential improvements of credit cards.",
+  "narrative_role": "Analytical",
+  "title": "中行及国内、美国当地信用卡权益对比",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "中行头部卡在权益设置和卡均消费额表现良好"
+    },
+    {
+      "highlight": "2",
+      "text": "但中行全量卡表现仍具较大提升空间"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Table with card comparison",
+    "right": "Bullet points with analysis"
+  },
+  "visual_elements": [
+    {
+      "type": "highlight_box",
+      "label": "中行头部卡产品\n权益设置表现佳\n位于市场中上游，\n但弱于当地卡",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numbered highlights"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "信用卡对比表",
+      "description": "Comparison of average spending and coverage rates among credit cards.",
+      "headers": [
+        "卡片名称",
+        "卡均消费金额 ($)",
+        "卡均覆盖行业 (个)",
+        "活跃用户卡客户占比",
+        "租赁消费",
+        "电商",
+        "教育",
+        "食品",
+        "汽车",
+        "餐饮",
+        "旅行消费",
+        "网购",
+        "海关",
+        "健康",
+        "娱乐",
+        "服务"
+      ],
+      "rows": [
+        {
+          "row_label": "中行卓隽留学美元",
+          "cells": [
+            "5,223",
+            "5.1",
+            "32%",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "row_label": "中行全币种白金",
+          "cells": [
+            "4,700",
+            "3.9",
+            "25%",
+            "●",
+            "●",
+            "●",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "row_label": "中行精英白金",
+          "cells": [
+            "5,835",
+            "3.8",
+            "21%",
+            "●",
+            "●",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "row_label": "交行东航联名卡",
+          "cells": [
+            "8,294",
+            "4.4",
+            "27%",
+            "●",
+            "●",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "row_label": "建行留学卡2",
+          "cells": [
+            "6,548",
+            "5.0",
+            "31%",
+            "●",
+            "●",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "row_label": "建行全球/世界旅行",
+          "cells": [
+            "4,984",
+            "3.7",
+            "23%",
+            "●",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "row_label": "招行全币种3",
+          "cells": [
+            "3,807",
+            "3.6",
+            "17%",
+            "●",
+            "●"
+          ]
+        },
+        {
+          "row_label": "Deserve EDU",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "BoA Customized",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Discover it",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "AE Blue Cash",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Chase Freedom",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "heatmap"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or infographic levels detailed beyond heatmap and bullet points."
+  }
+}

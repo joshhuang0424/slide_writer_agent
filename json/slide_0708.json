@@ -1,0 +1,283 @@
+{
+  "slide_id": "29",
+  "section": "PE M&A Activity",
+  "purpose": "To analyze the global PE M&A activity trends from 2008 to 2016.",
+  "narrative_role": "Data Presentation",
+  "title": "PE M&A activity dropped in 2016 on a global basis, driven by the Americas; APAC the only region showing slight growth",
+  "bullets": [
+    {
+      "highlight": "-31%",
+      "text": "Overall PE activity decreased by -31% vs. 2015, falling slightly below 2014 levels"
+    },
+    {
+      "highlight": "",
+      "text": "Most of the PE Activity still dominated by the Americas region"
+    },
+    {
+      "highlight": "11-13%",
+      "text": "Overall PE contribution to the global M&A remained stable at 11-13%, greater than the lows of single digit 5-8% in the recession period"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis over time",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "chart and text",
+  "content_zones": {
+    "chart": "left",
+    "text": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold percentages and key figures"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "#005F73",
+    "accent": "#0A9396",
+    "background": "#E9D8A6"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "stacked column",
+    "title": "Global PE by region (deal value, $ bn and proportions)",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "$ bn",
+      "%"
+    ],
+    "values": [
+      {
+        "year": "2008",
+        "EMEA": "48%",
+        "APAC": "14%",
+        "Americas": "39%"
+      },
+      {
+        "year": "2009",
+        "EMEA": "17%",
+        "APAC": "40%",
+        "Americas": "43%"
+      },
+      {
+        "year": "2010",
+        "EMEA": "34%",
+        "APAC": "15%",
+        "Americas": "50%"
+      },
+      {
+        "year": "2011",
+        "EMEA": "33%",
+        "APAC": "13%",
+        "Americas": "54%"
+      },
+      {
+        "year": "2012",
+        "EMEA": "27%",
+        "APAC": "12%",
+        "Americas": "61%"
+      },
+      {
+        "year": "2013",
+        "EMEA": "31%",
+        "APAC": "12%",
+        "Americas": "58%"
+      },
+      {
+        "year": "2014",
+        "EMEA": "39%",
+        "APAC": "13%",
+        "Americas": "48%"
+      },
+      {
+        "year": "2015",
+        "EMEA": "24%",
+        "APAC": "9%",
+        "Americas": "66%"
+      },
+      {
+        "year": "2016",
+        "EMEA": "35%",
+        "APAC": "15%",
+        "Americas": "50%"
+      }
+    ],
+    "annotations": [],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "PE activity as share of total M&A activity (%)",
+      "description": "Shows the percentage share of PE activity in total M&A activity by region.",
+      "headers": [
+        "",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "rows": [
+        {
+          "row_label": "Global",
+          "cells": [
+            "8%",
+            "5%",
+            "10%",
+            "11%",
+            "11%",
+            "12%",
+            "12%",
+            "13%",
+            "11%"
+          ]
+        },
+        {
+          "row_label": "APAC",
+          "cells": [
+            "8%",
+            "6%",
+            "11%",
+            "12%",
+            "10%",
+            "12%",
+            "17%",
+            "14%",
+            "15%"
+          ]
+        },
+        {
+          "row_label": "EMEA",
+          "cells": [
+            "6%",
+            "4%",
+            "7%",
+            "7%",
+            "6%",
+            "6%",
+            "7%",
+            "5%",
+            "7%"
+          ]
+        },
+        {
+          "row_label": "Americas",
+          "cells": [
+            "7%",
+            "5%",
+            "11%",
+            "14%",
+            "13%",
+            "14%",
+            "12%",
+            "17%",
+            "11%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    },
+    {
+      "title": "% change",
+      "description": "Percentage change in PE activity by region.",
+      "headers": [
+        "",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "rows": [
+        {
+          "row_label": "Global",
+          "cells": [
+            "-52%",
+            "125%",
+            "22%",
+            "-11%",
+            "19%",
+            "31%",
+            "41%",
+            "-31%"
+          ]
+        },
+        {
+          "row_label": "APAC",
+          "cells": [
+            "-38%",
+            "101%",
+            "1%",
+            "-17%",
+            "15%",
+            "46%",
+            "1%",
+            "11%"
+          ]
+        },
+        {
+          "row_label": "EMEA",
+          "cells": [
+            "-60%",
+            "94%",
+            "17%",
+            "-26%",
+            "34%",
+            "67%",
+            "-12%",
+            "0%"
+          ]
+        },
+        {
+          "row_label": "Americas",
+          "cells": [
+            "-46%",
+            "165%",
+            "32%",
+            "-1%",
+            "13%",
+            "9%",
+            "96%",
+            "-49%"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic detected in the image."
+  }
+}

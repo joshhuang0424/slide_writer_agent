@@ -1,0 +1,119 @@
+{
+  "slide_id": "31",
+  "section": "Risk and Fraud",
+  "purpose": "To illustrate the balance between customer experience and potential losses",
+  "narrative_role": "illustrative",
+  "title": "Risk and Fraud balance the customer experience with potential losses",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of income and loss factors",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with center illustration",
+  "layout_type": "visual-comparison",
+  "content_zones": {
+    "left": "Approval Rate and Authorization",
+    "center": "Pyramid of financial elements",
+    "right": "Initial Credit Line and Credit Line Management"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Approval Rate",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Authorization",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Initial Credit Line",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Credit Line Management",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight important financial figures"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Finance Charges $115"
+      },
+      {
+        "id": "L1",
+        "label": "Net Interest Income $68"
+      },
+      {
+        "id": "L2",
+        "label": "Net Credit Losses ($66.7)"
+      },
+      {
+        "id": "L3",
+        "label": "Net Lending Margin $1.3"
+      },
+      {
+        "id": "L4",
+        "label": "Interchange Fees $674"
+      },
+      {
+        "id": "L5",
+        "label": "Total Other Income $760.8"
+      },
+      {
+        "id": "L6",
+        "label": "Total Costs ($1141)"
+      },
+      {
+        "id": "L7",
+        "label": "Pre-tax Net Income ($379)"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image, and no data points are explicitly listed."
+  }
+}

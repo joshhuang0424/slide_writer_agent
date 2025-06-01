@@ -1,0 +1,86 @@
+{
+  "slide_id": "5",
+  "section": "Cloud Challenges",
+  "purpose": "Highlight unique challenges related to cloud adoption faced by banks.",
+  "narrative_role": "Informative",
+  "title": "Unique challenges related to cloud faced by banks",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "List",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "icon-text",
+  "content_zones": {
+    "title": "top",
+    "icons": "center",
+    "text": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Customer-acquisition cost and timing of value generation from new customers",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Regulatory and cybersecurity constraints",
+      "position": "center-left"
+    },
+    {
+      "type": "icon",
+      "label": "Large technology debt",
+      "position": "center-right"
+    },
+    {
+      "type": "icon",
+      "label": "Archaic development and operational processes",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold_title"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No explicit tables, charts, or pyramid infographic present.",
+    "source_note": "McKinsey & Company"
+  }
+}

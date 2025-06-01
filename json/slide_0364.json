@@ -1,0 +1,159 @@
+{
+  "slide_id": "5",
+  "section": "Banking Use Cases",
+  "purpose": "Provide examples of banking use cases in different domains.",
+  "narrative_role": "Informative",
+  "title": "Select banking use cases",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Table",
+  "layout_type": "Single Page",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title in bold"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "None",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Shows different banking use cases categorized by function and domain, with levers for cost or revenue.",
+      "headers": [
+        "Function",
+        "Domain",
+        "Sanitized use-case description",
+        "Lever"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Marketing and sales",
+            "Customer-service management",
+            "Automating transaction calls using voice-recognition algorithms and cognitive agents",
+            "Cost"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Risk",
+            "Fraud and debt analytics",
+            "Enhancing predictive power of traditional early-warning systems in order to reduce cost of credit",
+            "Cost"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Marketing and sales",
+            "Churn reduction",
+            "Protecting customer loyalty through holistic retention programs and dedicated execution capabilities",
+            "Revenue"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Marketing and sales",
+            "Customer-service management",
+            "Routing call-center cases based on multimodal data to increase customer satisfaction and reduce handling costs",
+            "Cost"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Marketing and sales",
+            "Customer-service management",
+            "Real-time voice-recognition algorithms to redirect distressed customer calls to experienced handlers for retention offers",
+            "Cost"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Marketing and sales",
+            "Customer acquisition / lead generation",
+            "New-client acquisitions by applying targeted digital marketing",
+            "Revenue"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Corporate business functions",
+            "Analytics-driven hiring and retention",
+            "Identifying key drivers of employee performance and spotting employees with high likelihood of success",
+            "Cost"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Marketing and sales",
+            "Pricing and promotion",
+            "Boosting fee-based revenues to detect inconsistent practices and poor pricing control",
+            "Revenue"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Corporate business functions",
+            "Analytics-driven accounting and IT",
+            "Intelligent document recognition to automate document sorting and extraction process",
+            "Cost"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional graphics or charts were present aside from the table."
+  }
+}

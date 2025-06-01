@@ -1,0 +1,94 @@
+{
+  "slide_id": "3",
+  "section": "For Our Clients",
+  "purpose": "Explain the importance of Customer Experience Management (CEM) for clients.",
+  "narrative_role": "Informative",
+  "title": "Why Customer Experience Management (CEM)?",
+  "bullets": [
+    {
+      "highlight": "Expectations",
+      "text": "Experience excellence is essential in today's complex multichannel environment, where expectations are set by companies like Apple, Amazon, Netflix and Tesla – today's wow is tomorrow's so what"
+    },
+    {
+      "highlight": "Sustainability",
+      "text": "The most pressing need is where an organization's ability to sell its goods and services is predicated on the quality of the associated experience"
+    },
+    {
+      "highlight": "Focus",
+      "text": "Best-in-class experience brands leverage all that they know about customers to constantly invest in improving the ease and quality of experiences to enrich levels of engagement"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlighting key aspects of CEM and their importance in modern business.",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "infographic",
+  "content_zones": {
+    "top": "title",
+    "center": "infographic with text",
+    "bottom": "quote"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "globe",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "cycle arrows",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "magnifying glass",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "bold for key phrases"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "unknown"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The infographic type is not a pyramid; icons are used instead."
+  }
+}

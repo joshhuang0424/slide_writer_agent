@@ -1,0 +1,184 @@
+{
+  "slide_id": "20",
+  "section": "service_repair_outlook",
+  "purpose": "Show the changes in maintenance and repair plans among respondents across different countries.",
+  "narrative_role": "informative",
+  "title": "Service and repair outlook for next month is still showing a high share of customers that plan to do more work than usual...",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "comparison",
+  "data_points": [
+    "Changes in maintenance and repair since beginning of COVID-19"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "country flags and plans",
+    "right": "net impact values"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight net impact changes"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Changes in maintenance and repair",
+    "x_axis_label": "% of respondents",
+    "y_axis": [
+      "Up until now",
+      "Plan for next month"
+    ],
+    "values": [
+      {
+        "country": "UK",
+        "up_until_now": [
+          10,
+          79,
+          11
+        ],
+        "plan_next_month": [
+          26,
+          47,
+          27
+        ]
+      },
+      {
+        "country": "Germany",
+        "up_until_now": [
+          4,
+          85,
+          11
+        ],
+        "plan_next_month": [
+          7,
+          65,
+          28
+        ]
+      },
+      {
+        "country": "France",
+        "up_until_now": [
+          10,
+          79,
+          10
+        ],
+        "plan_next_month": [
+          19,
+          55,
+          25
+        ]
+      },
+      {
+        "country": "Italy",
+        "up_until_now": [
+          17,
+          67,
+          16
+        ],
+        "plan_next_month": [
+          14,
+          55,
+          32
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Net Impact",
+      "description": "Net impact of maintenance and repair plans",
+      "headers": [
+        "Country",
+        "Net impact",
+        "Net impact wave 5"
+      ],
+      "rows": [
+        {
+          "row_label": "UK",
+          "cells": [
+            "0",
+            "-3"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "+7",
+            "+5"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "0",
+            "+3"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "-1",
+            "0"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present, and bullets are not used in this slide."
+  }
+}

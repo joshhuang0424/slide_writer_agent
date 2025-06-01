@@ -1,0 +1,83 @@
+{
+  "slide_id": "6",
+  "section": "Agenda",
+  "purpose": "Outline the key chapters and topics of the presentation.",
+  "narrative_role": "Overview",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": "Chapter 1: Key terms of reward economics",
+      "text": "Earn rate, Burn rate, Give back rate, Cost per point, Active engagement rate & Customer satisfaction, Redeemed vs earned & Expired vs earned"
+    },
+    {
+      "highlight": "Chapter 2: Financial impact evaluation",
+      "text": "Framework for impact calculation, Assessment of status quo, Evaluation of current financial impact, Creation of loyalty proposition and comparative analysis, Validation and finalization of proposition"
+    },
+    {
+      "highlight": "Chapter 3: Integrated loyalty",
+      "text": "Customer lifecycle, Pan bank loyalty program"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text on left, image on right",
+  "layout_type": "Agenda",
+  "content_zones": {
+    "text": "left",
+    "image": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Sticky notes on a board",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main chapter titles"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts present in this slide. Pyramid infographic is not clearly depicted."
+  }
+}

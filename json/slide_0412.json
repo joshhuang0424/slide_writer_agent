@@ -1,0 +1,291 @@
+{
+  "slide_id": "3",
+  "section": "Credit Card Issuers P&L",
+  "purpose": "Illustrate the primary sections of a credit card issuer's P&L statement.",
+  "narrative_role": "explanatory",
+  "title": "There are 3 primary sections of a Credit Card Issuers P&L",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Breakdown of P&L components with numeric values.",
+  "data_points": [],
+  "cta": null,
+  "layout": "landscape",
+  "layout_type": "3-column",
+  "content_zones": {
+    "left": "Net Lending Margin",
+    "center": "Table of financial elements",
+    "right": "Other Income"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Net Lending Margin",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Total Costs",
+      "position": "bottom left"
+    },
+    {
+      "type": "arrow",
+      "label": "Other Income",
+      "position": "right"
+    },
+    {
+      "type": "arrow",
+      "label": "Income / Loss",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Breakdown of income and costs",
+      "headers": [
+        "Item",
+        "Amount"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Finance Charges",
+            "$115"
+          ]
+        },
+        {
+          "cells": [
+            "Transfer Pricing Interest Income",
+            "$0"
+          ]
+        },
+        {
+          "cells": [
+            "Interest Expense",
+            "($47)"
+          ]
+        },
+        {
+          "cells": [
+            "Net Interest Income",
+            "$68"
+          ]
+        },
+        {
+          "cells": [
+            "Chargeoffs",
+            "$12"
+          ]
+        },
+        {
+          "cells": [
+            "Loan Loss Provision Adjustment",
+            "$54"
+          ]
+        },
+        {
+          "cells": [
+            "Recoveries",
+            "($1)"
+          ]
+        },
+        {
+          "cells": [
+            "Net Credit Losses",
+            "$65"
+          ]
+        },
+        {
+          "cells": [
+            "Net Lending Margin",
+            "$3"
+          ]
+        },
+        {
+          "cells": [
+            "Interchange Fees",
+            "$674"
+          ]
+        },
+        {
+          "cells": [
+            "Late Fees",
+            "$26"
+          ]
+        },
+        {
+          "cells": [
+            "Annual Fee Income",
+            "$30"
+          ]
+        },
+        {
+          "cells": [
+            "Cash Advance Fees",
+            "$6"
+          ]
+        },
+        {
+          "cells": [
+            "Balance Transfer Fees",
+            "$2"
+          ]
+        },
+        {
+          "cells": [
+            "Overlimit Fees",
+            "$1"
+          ]
+        },
+        {
+          "cells": [
+            "Foreign Exchange Fees",
+            "$21"
+          ]
+        },
+        {
+          "cells": [
+            "Credit Protection Fees",
+            "$2"
+          ]
+        },
+        {
+          "cells": [
+            "Miscellaneous Fee Income",
+            "$1"
+          ]
+        },
+        {
+          "cells": [
+            "Total Other Income",
+            "$763"
+          ]
+        },
+        {
+          "cells": [
+            "Acquisition Cost",
+            "$172"
+          ]
+        },
+        {
+          "cells": [
+            "Acquisition Incentive",
+            "$200"
+          ]
+        },
+        {
+          "cells": [
+            "Variable Servicing Costs",
+            "$29"
+          ]
+        },
+        {
+          "cells": [
+            "Reward & Benefits Costs",
+            "$557"
+          ]
+        },
+        {
+          "cells": [
+            "Collection Ops Costs",
+            "$5"
+          ]
+        },
+        {
+          "cells": [
+            "Credit Protection Claims",
+            "$1"
+          ]
+        },
+        {
+          "cells": [
+            "Portfolio Marketing Costs",
+            "$8"
+          ]
+        },
+        {
+          "cells": [
+            "Plastic Reissue Cost",
+            "$1"
+          ]
+        },
+        {
+          "cells": [
+            "Network Fees (MC)",
+            "$71"
+          ]
+        },
+        {
+          "cells": [
+            "Processor Fees (FirstData/TSYS/FIS)",
+            "$2"
+          ]
+        },
+        {
+          "cells": [
+            "Fraud Losses",
+            "$36"
+          ]
+        },
+        {
+          "cells": [
+            "Total Costs",
+            "$1142"
+          ]
+        },
+        {
+          "cells": [
+            "Pre-tax Net Income",
+            "($376)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid structure identified."
+  }
+}

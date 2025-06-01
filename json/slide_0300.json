@@ -1,0 +1,67 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Introduce the event and its theme.",
+  "narrative_role": "Title Slide",
+  "title": "Analytics Roadshow",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual engagement through humor and brand recognition.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and image",
+  "layout_type": "Title Slide",
+  "content_zones": {
+    "title": "top-left",
+    "image": "right",
+    "text": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "meme",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is large and bold"
+  },
+  "design_language": "Professional with a humorous touch",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

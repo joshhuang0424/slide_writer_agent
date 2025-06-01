@@ -1,0 +1,172 @@
+{
+  "slide_id": "8",
+  "section": "Rents and Incomes",
+  "purpose": "To illustrate how rents have grown faster than incomes, affecting the poorest households.",
+  "narrative_role": "Presentation of data",
+  "title": "Rents have grown faster than incomes, exacerbating pressure on the poorest households",
+  "bullets": [],
+  "supporting_facts": [
+    "1% of King County households in each AMI Band using the 2017 HUD Income thresholds for a 4-person household: <30% (<$22,800), 30-50% (<$48,000), 50-80% (<$76,800), 80-100% (<$96,000), and >100% (>$96,000)",
+    "Example occupational incomes for King County, US Bureau of Labor Statistics"
+  ],
+  "reasoning_strategy": "Comparison of rent growth to income levels across different AMI bands.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left_column": "Table showing AMI band share of total households, income range, and example occupations.",
+    "right_column": "Line chart showing income spent on rent in King County."
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Informative and data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Income spent on rent in King County, %",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "0",
+      "30",
+      "35",
+      "40",
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "values": [
+      {
+        "label": "0-30% AMI households",
+        "data": [
+          53,
+          54,
+          55,
+          57
+        ]
+      },
+      {
+        "label": "30-50% AMI households",
+        "data": [
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      {
+        "label": "50-80% AMI households",
+        "data": [
+          28,
+          29,
+          30,
+          31
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "American Community Survey, HUD, Housing Choices Background Report, US Census Median Household Income"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": ">100%"
+      },
+      {
+        "id": "L1",
+        "label": "80-100%"
+      },
+      {
+        "id": "L2",
+        "label": "50-80%"
+      },
+      {
+        "id": "L3",
+        "label": "30-50%"
+      },
+      {
+        "id": "L4",
+        "label": "<30%"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "2017 AMI Band Data",
+      "description": "Displays the AMI band share of total households, income range, and example occupations.",
+      "headers": [
+        "2017 AMI band share of total households",
+        "2017 AMI band income range, $",
+        "Example occupations in household of four"
+      ],
+      "rows": [
+        {
+          "cells": [
+            ">100%",
+            ">96,000",
+            "1 software developer or 2 construction laborers"
+          ]
+        },
+        {
+          "cells": [
+            "80-100%",
+            ">76,800 - <96,600",
+            "1 registered nurse or 2 administrative assistants"
+          ]
+        },
+        {
+          "cells": [
+            "50-80%",
+            ">48,000 - <76,800",
+            "1 public school teacher or 2 retail workers"
+          ]
+        },
+        {
+          "cells": [
+            "30-50%",
+            ">22,800 - <48,000",
+            "1 retail salesperson or 2 minimum wage earners"
+          ]
+        },
+        {
+          "cells": [
+            "<30%",
+            "<22,800",
+            "1 minimum wage earner"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No bullet points present on this slide."
+}

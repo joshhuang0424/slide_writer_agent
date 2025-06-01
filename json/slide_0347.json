@@ -1,0 +1,104 @@
+{
+  "slide_id": "144",
+  "section": "US Custom Acquisition",
+  "purpose": "To outline the strategy and results of a customer acquisition campaign for a big box retailer.",
+  "narrative_role": "Informative",
+  "title": "Big Box Retailer",
+  "bullets": [
+    {
+      "highlight": "8M",
+      "text": "REACHED"
+    },
+    {
+      "highlight": "47M",
+      "text": "IMPRESSIONS"
+    },
+    {
+      "highlight": "$780K",
+      "text": "IN SALES"
+    },
+    {
+      "highlight": "$15.67",
+      "text": ": $1 SPENT"
+    },
+    {
+      "highlight": "4-7X LOWER",
+      "text": "AVERAGE COST VS. FACEBOOK ADS IN OFF-PEAK TIMESLOTS"
+    }
+  ],
+  "supporting_facts": [
+    "ROI: $50K SPEND YIELDED",
+    "$1.06 CPM REPRESENTED"
+  ],
+  "reasoning_strategy": "Data-driven approach using Mastercard Custom Audiences and targeted Facebook advertising.",
+  "data_points": [
+    "8M Reached",
+    "47M Impressions",
+    "$780K in Sales",
+    "$15.67: $1 Spent"
+  ],
+  "cta": null,
+  "layout": "three-column grid",
+  "layout_type": "text and numbers",
+  "content_zones": {
+    "left": "Situation and Approach",
+    "right": "Results"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Internal use only",
+      "position": "top-right"
+    },
+    {
+      "type": "logo",
+      "label": "Mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numbers and key metrics are emphasized in orange."
+  },
+  "design_language": "Professional and corporate with emphasis on key metrics.",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Regular"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The specific font family is not provided in the image."
+  }
+}

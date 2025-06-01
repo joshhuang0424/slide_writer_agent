@@ -1,0 +1,174 @@
+{
+  "slide_id": "17",
+  "section": "Cost Analysis",
+  "purpose": "To show the annual costs incurred by society for each homeless household.",
+  "narrative_role": "Informative",
+  "title": "Society already incurs $24,000 per year in direct, indirect and opportunity costs for each homeless household",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Cost breakdown",
+  "data_points": [
+    "$24,000 per year",
+    "$2,684 per household in direct supports",
+    "$14,602 per household in indirect cost to society",
+    "$7,035 per household opportunity costs"
+  ],
+  "cta": null,
+  "layout": "Three-column cost breakdown with sidebar highlights",
+  "layout_type": "text and table",
+  "content_zones": {
+    "left": "Direct costs",
+    "center": "Indirect costs",
+    "right": "Opportunity costs",
+    "sidebar": "Highlighted costs"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Shelter",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Emergency",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Transitional",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Healthcare",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Law enforcement & criminal justice",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Social services",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Tourism",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Local business",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Education",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key figures"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Cost Breakdown",
+      "description": "Breakdown of direct, indirect, and opportunity costs per household",
+      "headers": [
+        "Direct",
+        "$ per household",
+        "Indirect",
+        "$ per household",
+        "Opportunity cost",
+        "$ per household"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Shelter",
+            "1,720",
+            "Healthcare",
+            "8,191",
+            "Tourism",
+            "1,756"
+          ]
+        },
+        {
+          "cells": [
+            "Emergency",
+            "1,458",
+            "Law enforcement & criminal justice",
+            "5,146",
+            "Local business",
+            "2,539"
+          ]
+        },
+        {
+          "cells": [
+            "Transitional",
+            "262",
+            "Social services",
+            "1,123",
+            "Education",
+            "207"
+          ]
+        },
+        {
+          "cells": [
+            "Other services",
+            "964",
+            "Public services",
+            "142",
+            "Poverty trap",
+            "2,534"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid structure was present in the slide, and no chart elements were detected."
+  }
+}

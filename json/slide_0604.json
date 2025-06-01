@@ -1,0 +1,81 @@
+{
+  "slide_id": "4",
+  "section": "Background & Introduction",
+  "purpose": "Introduce the concept of Lifecycle Management (LCM) and its phases.",
+  "narrative_role": "Introduction",
+  "title": "What is Lifecycle Management (LCM?)",
+  "bullets": [
+    {
+      "highlight": "holistic strategy",
+      "text": "Cardholder lifecycle management (LCM) is the end-to-end, holistic strategy to drive top-of-wallet card status and maximize portfolio profitability over time"
+    },
+    {
+      "highlight": "covers the entire customer journey",
+      "text": "Lifecycle management covers the entire customer journey of activating newly acquired accounts to developing and retaining profitable customers in the portfolio"
+    },
+    {
+      "highlight": "four key phases",
+      "text": "The lifecycle generally includes four key phases - Acquisition, Onboarding/Early Month on Book (EMOB), Usage, and Retention - which are built on a foundation of a strong issuer brand and card value proposition, and must be supported by consistent messaging and data-driven segmentation throughout the phases"
+    },
+    {
+      "highlight": "Each phase of the lifecycle requires different focus",
+      "text": "Each phase of the lifecycle requires different focus, approach, and metrics to fulfill the cardholders needs, drive actions, and optimize the engagement to generate the desired business outcomes"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Overview of key concepts and structure.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with text emphasis on the right",
+  "layout_type": "textual",
+  "content_zones": {
+    "left": "Section title",
+    "right": "Main content with bullets"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "Bold text for emphasis"
+  },
+  "design_language": "Professional and clean with emphasis on key terms",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font information is not provided in the image."
+  }
+}

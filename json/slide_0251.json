@@ -1,0 +1,75 @@
+{
+  "slide_id": "82",
+  "section": "TSR Analysis",
+  "purpose": "Explain translation of external TSR to internal metric for planning.",
+  "narrative_role": "Explanatory",
+  "title": "TSR can be translated into an TSR(iTSR)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between external and internal TSR metrics.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "External TSR: Public companies",
+    "right": "Internal metric for planning: Internal TSR(iTSR): Plan analysis: public companies & divisions"
+  },
+  "visual_elements": [
+    {
+      "type": "flow_chart",
+      "label": "Change In share price, Dividend yield -> TSR",
+      "position": "left"
+    },
+    {
+      "type": "flow_chart",
+      "label": "Change in predicted equity value, Free cash flow yield -> Internal TSR",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for terms like TSR."
+  },
+  "design_language": "Professional, clear distinction between external and internal metrics",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "BCG analysis"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific tables or detailed data points are present; focus is on conceptual flow charts."
+  }
+}

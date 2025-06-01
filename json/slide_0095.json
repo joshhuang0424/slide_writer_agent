@@ -1,0 +1,100 @@
+{
+  "slide_id": "21",
+  "section": "unknown",
+  "purpose": "To show the decrease in net intent to do maintenance work across regions compared to September survey, especially in Italy.",
+  "narrative_role": "Informative",
+  "title": "...however, net intent to do maintenance work in the next month decreased across all regions vs. September Survey, especially in Italy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [
+    "-3",
+    "-3",
+    "-5",
+    "-11"
+  ],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "comparison",
+  "content_zones": {
+    "header": "top",
+    "chart": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "left"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "navy",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Customer outlook on maintenance and repair in light of 2nd lock-down",
+    "x_axis_label": "Net impact",
+    "y_axis": [
+      "UK",
+      "Germany",
+      "France",
+      "Italy"
+    ],
+    "values": [
+      -3,
+      -3,
+      -5,
+      -11
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

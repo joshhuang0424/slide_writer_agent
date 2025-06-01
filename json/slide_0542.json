@@ -1,0 +1,85 @@
+{
+  "slide_id": "2",
+  "section": "Impact Analysis",
+  "purpose": "Illustrate the progression from input to impact over time.",
+  "narrative_role": "Explanatory",
+  "title": "Our work and the corresponding inputs have three different effects over time",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrative examples are provided to demonstrate the impact at each stage.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Horizontal flowchart with examples beneath each stage",
+  "layout_type": "flowchart",
+  "content_zones": {
+    "title": "top-left",
+    "flowchart": "top",
+    "examples": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Input",
+      "position": "top-left"
+    },
+    {
+      "type": "arrow",
+      "label": "Output",
+      "position": "top-center"
+    },
+    {
+      "type": "arrow",
+      "label": "Outcome",
+      "position": "top-center-right"
+    },
+    {
+      "type": "arrow",
+      "label": "Impact",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean, with a focus on clarity",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No data points or structured tables are present, the slide primarily uses visual flow and examples to convey information."
+  }
+}

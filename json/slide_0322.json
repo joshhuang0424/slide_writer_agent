@@ -1,0 +1,90 @@
+{
+  "slide_id": "23",
+  "section": "Merchant Analytics",
+  "purpose": "Showcase off-the-shelf analytic products",
+  "narrative_role": "Informative",
+  "title": "Merchant Analytics off-the-shelf products",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "3-column",
+  "content_zones": {
+    "top": "Title and Internal use label",
+    "middle": "Three product descriptions",
+    "bottom": "Icons with product names"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Daily Market Trends Reporting",
+      "position": "top-left"
+    },
+    {
+      "type": "circle",
+      "label": "Local Market Intelligence Tool",
+      "position": "top-center"
+    },
+    {
+      "type": "circle",
+      "label": "Tourism Insights Platform",
+      "position": "top-right"
+    },
+    {
+      "type": "circle",
+      "label": "Spending Pulse Reports",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "Advertising Insights Postal Code Analysis",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Modern, Clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange, Green, Teal",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or charts were found to populate those fields."
+  }
+}

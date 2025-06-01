@@ -1,0 +1,127 @@
+{
+  "slide_id": "20",
+  "section": "Acquisition results analysis",
+  "purpose": "To highlight the gap in long-term value between the issuer and benchmark.",
+  "narrative_role": "Insight",
+  "title": "Gap in long-term value between issuer and benchmark",
+  "bullets": [],
+  "supporting_facts": [
+    "The long-term value of Bank’s newly activated customers continues to grow but is still lower than the benchmark."
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "May 2018: 3,295 cards",
+    "Jun 2018: 3,101 cards",
+    "Jul 2018: 3,851 cards",
+    "Aug 2018: 3,735 cards",
+    "Sep 2018: 4,344 cards",
+    "Oct 2018: 3,077 cards"
+  ],
+  "cta": "Further analyze opportunities to optimize acquisition and long-term value management strategies.",
+  "layout": "Standard",
+  "layout_type": "Title and chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Next Step",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title and section header"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "1st year spend per card forecast, by vintage",
+    "x_axis_label": "Months",
+    "y_axis": [
+      "0%",
+      "5%",
+      "10%",
+      "15%",
+      "20%",
+      "25%",
+      "30%",
+      "35%",
+      "40%",
+      "45%"
+    ],
+    "values": [
+      {
+        "month": "May 2018",
+        "gap": 0,
+        "bank": 2000,
+        "benchmark": 3000
+      },
+      {
+        "month": "Jun 2018",
+        "gap": 0,
+        "bank": 2500,
+        "benchmark": 3500
+      },
+      {
+        "month": "Jul 2018",
+        "gap": 0,
+        "bank": 3000,
+        "benchmark": 4000
+      },
+      {
+        "month": "Aug 2018",
+        "gap": 0,
+        "bank": 3500,
+        "benchmark": 4500
+      },
+      {
+        "month": "Sep 2018",
+        "gap": 0,
+        "bank": 4000,
+        "benchmark": 5000
+      },
+      {
+        "month": "Oct 2018",
+        "gap": 0,
+        "bank": 1500,
+        "benchmark": 2500
+      }
+    ],
+    "annotations": [],
+    "source": "* May 2018 = World Mastercard cardholders who made their first purchase in May 2018, etc."
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Infographic pyramid not present; chart is primary focus with data points represented as lines."
+  }
+}

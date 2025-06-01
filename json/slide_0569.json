@@ -1,0 +1,109 @@
+{
+  "slide_id": "15",
+  "section": "Financial Projection",
+  "purpose": "To highlight the increase in non-federal spending required for housing.",
+  "narrative_role": "Informative",
+  "title": "Closing this gap would require an increase of 3-5 times current non-federal spending",
+  "bullets": [
+    {
+      "highlight": "No increase in services spend",
+      "text": ""
+    },
+    {
+      "highlight": "No inflation in capex or opex per unit",
+      "text": ""
+    },
+    {
+      "highlight": "No increased need for affordable housing – that rents do not rise faster than median incomes",
+      "text": ""
+    }
+  ],
+  "supporting_facts": [
+    "Assumptions are outlined for conservative estimate."
+  ],
+  "reasoning_strategy": "Comparative analysis between current and required spending.",
+  "data_points": [
+    "Seattle: 128",
+    "King County: 134",
+    "Current total: 262",
+    "Addressing lack of permanent housing: ~450",
+    "Addressing lack of affordable housing: ~1,100",
+    "Total needed: ~700-1400"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart and text block",
+  "layout_type": "Chart and bullet points",
+  "content_zones": {
+    "chart_area": "left",
+    "text_area": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Assumptions",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Annual spending required over next 10 years",
+    "x_axis_label": "Regions and Needs",
+    "y_axis": [
+      "$ Millions"
+    ],
+    "values": [
+      {
+        "Seattle": 128
+      },
+      {
+        "King County": 134
+      },
+      {
+        "Current total": 262
+      },
+      {
+        "Addressing lack of permanent housing": 450
+      },
+      {
+        "Addressing lack of affordable housing": 1100
+      },
+      {
+        "Total needed": "700-1400"
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey & Company"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or additional table elements were detected in the slide."
+  }
+}

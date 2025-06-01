@@ -1,0 +1,139 @@
+{
+  "slide_id": "35",
+  "section": "Case Study #2",
+  "purpose": "Evaluate unprofitable new accounts and recommend product or strategy changes.",
+  "narrative_role": "Present analysis results and recommendations.",
+  "title": "Case Study #2: Evaluate how unprofitable new accounts are, determine root cause of financial underperformance, and recommend product and/or strategy changes",
+  "bullets": [
+    {
+      "highlight": "Approach",
+      "text": "Analyzed account level data; segmentation, forecasting with enhanced interchange rates for WE product"
+    },
+    {
+      "highlight": "Result",
+      "text": "Showed net transaction costs (rewards, MC/Processor costs) and interest expense of transactors were significantly unprofitable. Proposed modifying new account card type fulfillment approach for some customers which will earn higher interchange and make select customers profitable"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data analysis and segmentation to identify unprofitable patterns and propose a tailored strategy.",
+  "data_points": [
+    "Net transaction costs",
+    "Interest expense",
+    "Interchange rates"
+  ],
+  "cta": null,
+  "layout": "text with tables and infographics",
+  "layout_type": "mixed",
+  "content_zones": {
+    "top_left": "Title and main content",
+    "bottom_left": "Tangerine Money Back Rewards World Elite Card table",
+    "bottom_right": "Plastic Fulfillment Strategy section"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for section headers"
+  },
+  "design_language": "Professional and clean with emphasis on data",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Economics of Today’s Transactor"
+      },
+      {
+        "id": "L1",
+        "label": "Cost analysis recommendation"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [
+    {
+      "title": "Tangerine Money Back Rewards World Elite Card",
+      "description": "Breakdown of costs and benefits for World Elite Card",
+      "headers": [
+        "Key Drivers",
+        "Tangerine",
+        "Total $ Value"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Average MEC Receivables",
+            "2.29%",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Average Balances",
+            "2.28%",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Revolving Balances",
+            "3%",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Purchases",
+            "115bps",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom_left",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family not specified in the image."
+  }
+}

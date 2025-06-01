@@ -1,0 +1,130 @@
+{
+  "slide_id": "25",
+  "section": "市場概況",
+  "purpose": "介紹台灣市場中數位化信用卡的競爭者及其合作方式。",
+  "narrative_role": "提供市場概況的背景資訊。",
+  "title": "台灣市場中有數家競爭者已能做到舉戶即時核卡，並多數透過發行聯名信用卡的合作方式，促進特定通路即時綁卡，即時消費",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "分析市場競爭者的數位化模式及市場反饋模式。",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "table and text",
+  "content_zones": {
+    "left": "表格顯示市場代表信用卡及其數位化模式",
+    "right": "案例介紹富邦Momo卡，包含上市時間、回饋類型、產品定位及產品特徵"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "富邦Momo卡",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "red",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "20px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "台灣市場主要的數位化信用卡",
+      "description": "展示市場上數位化信用卡的代表及其數位化模式和市場回饋模式",
+      "headers": [
+        "市場代表信用卡",
+        "數位化模式",
+        "市場回饋模式"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "台新GoGo虛擬御璽卡",
+            "虛擬卡取代實體卡\n虛擬卡享實體卡同等權益",
+            "現金回饋"
+          ]
+        },
+        {
+          "cells": [
+            "永豐現金回饋虛擬卡",
+            "虛擬卡取代實體卡\n虛擬卡享實體卡同等權益",
+            "現金回饋"
+          ]
+        },
+        {
+          "cells": [
+            "聯邦賴點卡",
+            "縮短時程\n快速核卡，手動綁定LINE Pay",
+            "聯名點數（LINE Points）"
+          ]
+        },
+        {
+          "cells": [
+            "富邦Momo卡",
+            "縮短時程\n快速核卡，自動綁定MOMO帳戶",
+            "聯名點數（Mo幣）"
+          ]
+        },
+        {
+          "cells": [
+            "國泰蝦皮聯名卡",
+            "縮短時程\n快速核卡，自動綁定蝦皮帳戶",
+            "聯名點數（蝦幣）"
+          ]
+        },
+        {
+          "cells": [
+            "國泰台塑聯名卡",
+            "縮短時程\n快速核卡，自動綁定台塑會員",
+            "聯名點數（加油金）"
+          ]
+        },
+        {
+          "cells": [
+            "玉山UBear卡",
+            "建構數位生態系\n快速核卡/綁卡，並連接玉山Wallet",
+            "現金回饋"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "沒有特定的數據點和支持事實被強調。",
+    "right_section_details": "包括產品特徵的分項列表，描述富邦Momo卡的獨特賣點。"
+  }
+}

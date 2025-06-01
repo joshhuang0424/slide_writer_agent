@@ -1,0 +1,114 @@
+{
+  "slide_id": "3",
+  "section": "Research Perspective",
+  "purpose": "To provide a comprehensive overview of Black workers in the US private sector and participating companies.",
+  "narrative_role": "Informative",
+  "title": "The basis of our research perspective",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Data-driven analysis",
+  "data_points": [
+    "125M total workers in the US private sector",
+    "15M Black workers in the US private sector (12% representation)",
+    "~3k all counties across the United States",
+    "24 large companies in the US private sector participated in this research",
+    "3.7M+ people employed by participating companies",
+    "25k employees provided responses to the Employee Experience Survey",
+    "50+ Black employees participated in 90-minute focus groups"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "split",
+  "content_zones": {
+    "left": {
+      "title": "Part 1: US private sector",
+      "content": [
+        "Comprehensive benchmark analysis of Black workers in the US private sector that analyzes:",
+        {
+          "highlight": "125M",
+          "text": "Total workers in the US private sector"
+        },
+        {
+          "highlight": "15M",
+          "text": "Black workers in the US private sector (12% representation)"
+        },
+        {
+          "highlight": "~3k",
+          "text": "All counties across the United States"
+        },
+        "Data sources include:",
+        "Bureau of Labor Statistics – Occupational Employment Statistics (OES) and Current Population Survey (CPS), 2019",
+        "US Equal Employment Opportunity Commission EEO-1 data, 2018",
+        "The US Census Bureau American Community Survey (ACS), 2019"
+      ]
+    },
+    "right": {
+      "title": "Part 2: Participating companies",
+      "content": [
+        "Analysis of Black employee representation, advancement, and inclusion",
+        {
+          "highlight": "24",
+          "text": "Large companies in the US private sector participated in this research"
+        },
+        {
+          "highlight": "3.7M+",
+          "text": "People employed by participating companies"
+        },
+        {
+          "highlight": "25k",
+          "text": "Employees provided responses to the Employee Experience Survey which includes McKinsey’s Inclusion Assessment"
+        },
+        {
+          "highlight": "50+",
+          "text": "Black employees participated in 90-minute focus groups"
+        }
+      ]
+    }
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numbers in blue"
+  },
+  "design_language": "Professional and data-oriented",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white and dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "unknown"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

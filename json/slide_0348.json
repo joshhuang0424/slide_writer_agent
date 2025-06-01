@@ -1,0 +1,83 @@
+{
+  "slide_id": "145",
+  "section": "Loyalty Program Analysis",
+  "purpose": "To present the analysis of customer behavior changes following the launch of a new loyalty program.",
+  "narrative_role": "Informative",
+  "title": "Department Store Retailer: Measuring Launch of Loyalty Program",
+  "bullets": [],
+  "supporting_facts": [
+    "US retailer wanted to analyze changes in their customers’ behavior following the launch of new loyalty program.",
+    "Divided loyalty program membership into (i) early adopters, and, (ii) ‘late adopters’, and then by applying proprietary spending data and analytics."
+  ],
+  "reasoning_strategy": "Analytical",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column grid",
+  "layout_type": "Informative blocks",
+  "content_zones": {
+    "situation": {
+      "text": "US retailer wanted to analyze changes in their customers’ behavior following the launch of new loyalty program",
+      "position": "top"
+    },
+    "approach": {
+      "text": "Divided loyalty program membership into early and late adopters, assessing spending behavior differences and loyalty evolution.",
+      "position": "middle"
+    },
+    "results": {
+      "text": [
+        "Early enrollers tend to be established loyal customers, spending a higher-than-average SOW in both the pre- and post- enrollment periods.",
+        "Among early adopters, the SOW increases post-enrollment, suggesting that the loyalty program may help loyal customers to become even more loyal.",
+        "There is a >3x lift in SOW across loyalty program members, regardless of when they join, but it trails off 6-months post-membership."
+      ],
+      "position": "bottom"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Department Store",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key terms in bold or orange."
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "dark gray",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables detected; content primarily text-based."
+  }
+}

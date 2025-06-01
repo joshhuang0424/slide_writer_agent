@@ -1,0 +1,132 @@
+{
+  "slide_id": "24",
+  "section": "Customer Performance Drivers",
+  "purpose": "To illustrate how cardholder behavior impacts issuer's P&L and its correlation with credit risk.",
+  "narrative_role": "Informative",
+  "title": "The foundation of an issuer’s P&L is highly affected by cardholder behavior, often with strong correlation to the credit risk of cardholders",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between higher and lower risk cardholders.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column table with explanatory text",
+  "layout_type": "Table-centric",
+  "content_zones": {
+    "header": "Textual introduction",
+    "table": "Comparison table",
+    "footer": "Visual indicator of section"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Acquisition Drivers to Financial Drivers",
+      "position": "bottom"
+    },
+    {
+      "type": "icon",
+      "label": "cardholder",
+      "position": "top"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for headings"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of various rates and behaviors between higher and lower risk cardholders.",
+      "headers": [
+        "",
+        "Higher risk cardholders",
+        "Lower risk cardholders"
+      ],
+      "rows": [
+        {
+          "row_label": "Attrition Rate – Voluntary",
+          "cells": [
+            "Lower voluntary attrition rate",
+            "Higher voluntary attrition rate"
+          ]
+        },
+        {
+          "row_label": "Attrition Rate – Involuntary",
+          "cells": [
+            "Higher involuntary attrition rate",
+            "Lower involuntary attrition rate"
+          ]
+        },
+        {
+          "row_label": "Balance Active Rate",
+          "cells": [
+            "Higher balance active rate",
+            "Lower balance active rate"
+          ]
+        },
+        {
+          "row_label": "Purchase Active Rate",
+          "cells": [
+            "Higher initially, but subsequently lower as they don’t have available credit",
+            "Unless value prop is real strong likely to be lower initially because they don’t need credit, but are able to sustain spend longer due to ongoing ability to keep utilization lower"
+          ]
+        },
+        {
+          "row_label": "Spend per Purchase Active",
+          "cells": [
+            "Lower spend per purchase active",
+            "Higher spend per purchase active"
+          ]
+        },
+        {
+          "row_label": "Cash per Purchase Active",
+          "cells": [
+            "Higher amount of cash withdrawn per purchase active account",
+            "Lower amount of cash withdrawn per purchase active account"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No chart or pyramid infographic present in the slide."
+  }
+}

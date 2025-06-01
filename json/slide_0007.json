@@ -1,0 +1,70 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To introduce the impact of COVID-19 on employees",
+  "narrative_role": "Title Slide",
+  "title": "Impact of COVID-19 on employees",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Image",
+  "layout_type": "Title Slide",
+  "content_zones": {
+    "title_zone": {
+      "position": "left",
+      "content": "Impact of COVID-19 on employees"
+    },
+    "image_zone": {
+      "position": "right",
+      "content": "Image of a person"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Person",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family and body size not specified in image."
+  }
+}

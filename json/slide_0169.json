@@ -1,0 +1,70 @@
+{
+  "slide_id": "14",
+  "section": "Q&A",
+  "purpose": "Engage with the audience for questions and answers.",
+  "narrative_role": "Facilitation",
+  "title": "Q&A",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Invite interaction",
+  "data_points": [],
+  "cta": "Please put your questions in the chat!",
+  "layout": "Title Slide",
+  "layout_type": "Simple",
+  "content_zones": {
+    "title": "left",
+    "cta": "left",
+    "visual": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "abstract",
+      "label": "spiral",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title and CTA emphasized by size and color contrast"
+  },
+  "design_language": "Modern",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "light blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No data tables or charts present on this slide."
+  }
+}

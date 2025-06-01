@@ -1,0 +1,104 @@
+{
+  "slide_id": "13",
+  "section": "Impact Analysis",
+  "purpose": "To highlight the positive impact of SOS on vulnerable children and community levels.",
+  "narrative_role": "Evidence",
+  "title": "Targeting the most vulnerable children, who have limited prospects for future success, the results confirm our impact",
+  "bullets": [
+    {
+      "highlight": "70 and 95%",
+      "text": "of former participants reportedly perform well in at least six of eight dimensions"
+    },
+    {
+      "highlight": "education and food",
+      "text": "were exceptionally high"
+    },
+    {
+      "highlight": "",
+      "text": "Local stakeholders highly value the work of SOS CV staff in terms of"
+    },
+    {
+      "highlight": "",
+      "text": "being a key player in child protection"
+    },
+    {
+      "highlight": "",
+      "text": "strengthening networks"
+    },
+    {
+      "highlight": "",
+      "text": "building capacity and sharing knowledge"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Quantitative evidence and stakeholder testimonials",
+  "data_points": [
+    "70 and 95%",
+    "six of eight dimensions"
+  ],
+  "cta": null,
+  "layout": "Two-column image with text overlay",
+  "layout_type": "Image and Text",
+  "content_zones": {
+    "title": "top",
+    "images": "center",
+    "bullets": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "On an individual level",
+      "position": "left"
+    },
+    {
+      "type": "image",
+      "label": "On a community level",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics and achievements"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or table present. Infographic is labeled as an image."
+  }
+}

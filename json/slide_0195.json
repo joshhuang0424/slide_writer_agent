@@ -1,0 +1,119 @@
+{
+  "slide_id": "75",
+  "section": "Key Decisions and Trade Offs",
+  "purpose": "To present the informed value of key decisions related to the cloud business strategy.",
+  "narrative_role": "Evidence Presentation",
+  "title": "iTSR analysis informed value of key decisions - leading to decision to double down on cloud business (Azure)",
+  "bullets": [
+    {
+      "highlight": "$2B",
+      "text": "Reduce SGA expense by $2B p.a. by FY16"
+    },
+    {
+      "highlight": "$2B",
+      "text": "Reduce R&D expense by $2B p.a. by FY16"
+    },
+    {
+      "highlight": "FY16",
+      "text": "Divest BU in FY16"
+    },
+    {
+      "highlight": "2x M",
+      "text": "Low growth (2x M units vs. 3xM in base FY) @ y% op-inc margin"
+    },
+    {
+      "highlight": "Enterprise",
+      "text": "Double-down on enterprise cloud business"
+    },
+    {
+      "highlight": "$xxB",
+      "text": "Exit XXX business; stop $xxB p.a. losses and reinvest $xxB in R&D"
+    },
+    {
+      "highlight": "Above",
+      "text": "Grow at above peer margin"
+    },
+    {
+      "highlight": "Below",
+      "text": "Grow BU at or slightly below peer margin"
+    },
+    {
+      "highlight": "Sanitized",
+      "text": "Sanitized"
+    },
+    {
+      "highlight": "x%",
+      "text": "Grow BU to x% share by 2016 @ x% op-inc margin"
+    },
+    {
+      "highlight": "yy%",
+      "text": "Increase dividend payout to yy% p.a. (from xx%; maintain total payout at zz%)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and prediction of financial impacts based on decisions.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Left-aligned bullet points with right-aligned bar chart",
+  "layout_type": "Bullet with Chart",
+  "content_zones": {
+    "bullets": "left",
+    "chart": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight financial figures and strategic terms"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Impact on value per share (est. FY 201x)",
+    "x_axis_label": "Modeled value/share (FY1x)",
+    "y_axis": [
+      "OPEX",
+      "BU 1",
+      "BU 2",
+      "BU 3",
+      "BU 4",
+      "Fin. policy"
+    ],
+    "values": [
+      "x",
+      "x",
+      "x",
+      "x",
+      "xx",
+      "xx"
+    ],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

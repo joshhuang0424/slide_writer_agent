@@ -1,0 +1,151 @@
+{
+  "slide_id": "1",
+  "section": "活动概览",
+  "purpose": "展示近一年主要推广活动的时间和目标客群",
+  "narrative_role": "信息传达",
+  "title": "近1年全行主推活动梳理",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "列出活动以展示其时间表和目标群体",
+  "data_points": [],
+  "cta": null,
+  "layout": "表格为主",
+  "layout_type": "单页表格",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "无"
+  },
+  "design_language": "简洁明了",
+  "color_scheme": {
+    "primary": "黑色",
+    "accent": "灰色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "未知",
+      "size": "未知",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "未知",
+      "size": "未知"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "展示过去一年中的主要活动、时间、目标客群及内容",
+      "headers": [
+        "活动名称",
+        "活动期间",
+        "活动目标客群",
+        "活动内容"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "618嗨购京东",
+            "2022.6",
+            "京东平台用户；光大银行信用卡持卡人",
+            "1元购神卡；达标赠礼；新客优惠券等"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "年轻人系列信用卡光耀上市",
+            "2022.6",
+            "青年",
+            "新卡发布"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "还款解压秘籍",
+            "2022.4",
+            "光大银行信用卡分期用户",
+            "分期返现"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "38特别宠爱",
+            "2022.3",
+            "女性；JCB时尚信用卡持卡者",
+            "京东收银台使用JCB时尚信用卡随机立减；年费福利"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "爱老虎油，加油满200减100",
+            "2022.2",
+            "车主；阳光车主白金卡持卡人",
+            "阳光车主卡用户可在阳光惠生活APP领取消加油满减权益"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "年度账单",
+            "2022.1",
+            "光大银行信用卡持卡人",
+            "2021年度账单盘点"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "阳光惠生活焕新6.0",
+            "2021.12",
+            "",
+            "阳光惠生活系统更新"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "常规活动——约惠星期五",
+            "每周五",
+            "光大银行信用卡持卡人",
+            "饭、购、玩、车优惠"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "未提供具体字体信息",
+    "font_size": "未提供具体字体大小"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slide_id": "12",
+  "section": "Acquisition: Execution and Optimization",
+  "purpose": "Illustrate the activation and usage feedback loop for acquisition strategy refinement.",
+  "narrative_role": "Explanation",
+  "title": "An activation and usage feedback loop should be used to review results, measure impact and implement refinements to acquisition strategy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual flowchart",
+  "data_points": [],
+  "cta": null,
+  "layout": "Visual Flow with Text",
+  "layout_type": "infographic",
+  "content_zones": {
+    "header": "top",
+    "text": "header",
+    "visual": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Branch",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Online",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Existing customers",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Phone",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Activated",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Not Activated",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Activate",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "No Usage",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for key points"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "flowchart",
+    "levels": [],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No bullet points or tables are present; the slide is primarily visual."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slide_id": "10",
+  "section": "Survey Results",
+  "purpose": "Highlight changes in importance and demand related to private vehicles during lockdown.",
+  "narrative_role": "Data Presentation",
+  "title": "\"Lockdown-challenged\" respondents put higher importance on access to private vehicle and showed slightly lower demand reduction",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "38",
+    "26",
+    "33",
+    "27",
+    "-11",
+    "-13",
+    "-9",
+    "-7"
+  ],
+  "cta": null,
+  "layout": "Four-column grid with bar charts",
+  "layout_type": "grid",
+  "content_zones": {
+    "header": "top",
+    "charts": "middle",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "legend",
+      "label": "\"Lockdown-challenged\" respondents",
+      "position": "top-right"
+    },
+    {
+      "type": "legend",
+      "label": "EU overall",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": ""
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "#00BFFF",
+    "accent": "#1C1C1C",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "Percentage",
+      "Percentage",
+      "Percentage",
+      "Percentage"
+    ],
+    "values": [
+      {
+        "label": "Importance of constant access to private vehicle",
+        "data": [
+          38,
+          26
+        ]
+      },
+      {
+        "label": "Importance of private vehicle for intercity travel",
+        "data": [
+          33,
+          27
+        ]
+      },
+      {
+        "label": "Drop in new car demand since 2nd lockdown",
+        "data": [
+          -11,
+          -13
+        ]
+      },
+      {
+        "label": "Mobility pattern changes since 2nd lockdown",
+        "data": [
+          -9,
+          -7
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Source: McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_annotations": [
+    {
+      "note": "The slide heavily uses bar charts to depict comparative data across different categories related to vehicle importance and demand changes."
+    }
+  ]
+}

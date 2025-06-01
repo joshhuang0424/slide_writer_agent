@@ -1,0 +1,91 @@
+{
+  "slide_id": "14",
+  "section": "Overview",
+  "purpose": "To outline strategies for enhancing the long-term value of Mastercard cardholders.",
+  "narrative_role": "Informative",
+  "title": "Overview for this term: Bank World Mastercard’s long-term spend potential continues to grow",
+  "bullets": [
+    {
+      "highlight": "Long term value of Bank’s newly activated customers ($XXk) continues to grow but is still lower than the benchmark ($XXk)",
+      "text": ""
+    },
+    {
+      "highlight": "Bank rolled out below acquisition strategies to acquire World Mastercard customers with higher value:",
+      "text": ""
+    },
+    {
+      "highlight": "Bank should implement below long-term value enhancement strategies to drive the long-term value of new World Mastercard cardholders:",
+      "text": ""
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and strategy proposal",
+  "data_points": [
+    "$4.4k",
+    "$2.6k",
+    "-22%",
+    "-11%",
+    "$86",
+    "$135"
+  ],
+  "cta": null,
+  "layout": "text-heavy",
+  "layout_type": "two-column",
+  "content_zones": {
+    "header": "top",
+    "bullets": "middle",
+    "footer": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific chart or pyramid levels were found in the image."
+  }
+}

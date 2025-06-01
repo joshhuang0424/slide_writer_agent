@@ -1,0 +1,219 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Highlight the gender gap in work preferences in data science.",
+  "narrative_role": "Informative",
+  "title": "These perceptions fuel the gender gap: Differences in preferences cause women to be deterred disproportionately",
+  "bullets": [
+    {
+      "highlight": "preferences differ significantly",
+      "text": "Work preferences differ significantly between STEM men and women"
+    },
+    {
+      "highlight": "50% more likely",
+      "text": "The negative perception of data science as low-impact and theoretical is 50% more likely to be at odds with personal work preferences for women data science majors than for men"
+    },
+    {
+      "highlight": "critical end",
+      "text": "China and Germany are at the critical end of both lists, having both a high share of negative perception and strong personal preference for impactful work"
+    }
+  ],
+  "supporting_facts": [
+    "Data science majors: Women 73%, Men 50%",
+    "All STEM students: Women 67%, Men 61%"
+  ],
+  "reasoning_strategy": "Comparison between genders and countries",
+  "data_points": [
+    "Data science majors",
+    "All STEM students"
+  ],
+  "cta": null,
+  "layout": "Two-column with infographic and bullet points",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Infographic",
+    "right": "Bullet points"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Data science majors",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "All STEM students",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentages and critical points"
+  },
+  "design_language": "Professional with emphasis on data",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Share of students with a work preference for applied problems with high tangible impact (in %)",
+    "x_axis_label": "Countries",
+    "y_axis": [
+      "Percentages"
+    ],
+    "values": [
+      {
+        "country": "China",
+        "value": 69
+      },
+      {
+        "country": "Germany",
+        "value": 68
+      },
+      {
+        "country": "United Kingdom",
+        "value": 67
+      },
+      {
+        "country": "France",
+        "value": 67
+      },
+      {
+        "country": "Spain",
+        "value": 62
+      },
+      {
+        "country": "United States",
+        "value": 61
+      },
+      {
+        "country": "Canada",
+        "value": 61
+      },
+      {
+        "country": "Japan",
+        "value": 60
+      },
+      {
+        "country": "Australia",
+        "value": 58
+      },
+      {
+        "country": "India",
+        "value": 57
+      }
+    ],
+    "annotations": [],
+    "source": "BCG Women in Data survey 2020"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Average Work Preferences",
+      "description": "Comparison of work preferences between countries",
+      "headers": [
+        "Rank",
+        "Country",
+        "Percentage"
+      ],
+      "rows": [
+        {
+          "row_label": "1",
+          "cells": [
+            "China",
+            "69%"
+          ]
+        },
+        {
+          "row_label": "2",
+          "cells": [
+            "Germany",
+            "68%"
+          ]
+        },
+        {
+          "row_label": "3",
+          "cells": [
+            "United Kingdom",
+            "67%"
+          ]
+        },
+        {
+          "row_label": "4",
+          "cells": [
+            "France",
+            "67%"
+          ]
+        },
+        {
+          "row_label": "5",
+          "cells": [
+            "Spain",
+            "62%"
+          ]
+        },
+        {
+          "row_label": "6",
+          "cells": [
+            "United States",
+            "61%"
+          ]
+        },
+        {
+          "row_label": "7",
+          "cells": [
+            "Canada",
+            "61%"
+          ]
+        },
+        {
+          "row_label": "8",
+          "cells": [
+            "Japan",
+            "60%"
+          ]
+        },
+        {
+          "row_label": "9",
+          "cells": [
+            "Australia",
+            "58%"
+          ]
+        },
+        {
+          "row_label": "10",
+          "cells": [
+            "India",
+            "57%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "bar chart"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "The pyramid infographic is empty as the slide contains a bar chart instead."
+}

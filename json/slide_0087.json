@@ -1,0 +1,136 @@
+{
+  "slide_id": "13",
+  "section": "Automotive Consumer Survey",
+  "purpose": "Show the expected changes in car characteristics due to the second lockdown across EU countries.",
+  "narrative_role": "Informative",
+  "title": "Changes in car characteristics due to the second lockdown are directionally aligned across EU countries, but vary in magnitude",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of net scores among different EU countries.",
+  "data_points": [],
+  "cta": null,
+  "layout": "title and table",
+  "layout_type": "horizontal",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": "none"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Expected change in car characteristics",
+      "description": "Net score changes in preferences from before 2nd lockdown vs. after 2nd lockdown",
+      "headers": [
+        "Country",
+        "Pull forward purchase",
+        "Requiring higher discounts",
+        "Spend more",
+        "Buy",
+        "Electric vehicle",
+        "Bigger car",
+        "Premium brand",
+        "More ADAS features"
+      ],
+      "rows": [
+        {
+          "row_label": "UK",
+          "cells": [
+            "-20",
+            "17",
+            "-14",
+            "7",
+            "-5",
+            "-15",
+            "-3",
+            "-4"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "-14",
+            "14",
+            "-11",
+            "11",
+            "-5",
+            "-4",
+            "0",
+            "-8"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "-24",
+            "26",
+            "-17",
+            "6",
+            "-11",
+            "-14",
+            "-17",
+            "-3"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "-7",
+            "0",
+            "-7",
+            "-1",
+            "0",
+            "-5",
+            "-8",
+            "-8"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "Font details not specified in the image.",
+    "size": "Font size not specified in the image."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "slide_id": "56",
+  "section": "BCG TSR方案介绍",
+  "purpose": "展示TSR分析应用示例，强调数据与定量分析在决策中的重要性。",
+  "narrative_role": "说明",
+  "title": "BCG TSR分析应用示例：以数据与定量分析结果为依据制定决策，而非依靠经验和直觉",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过图示和文字说明TSR分析在不同决策中的应用。",
+  "data_points": [],
+  "cta": null,
+  "layout": "4-column",
+  "layout_type": "infographic",
+  "content_zones": {
+    "zone_A": {
+      "label": "A",
+      "title": "从TSR角度出发 “权衡”战略决策",
+      "bullets": [
+        {
+          "highlight": "",
+          "text": "如：增长vs.收益"
+        }
+      ]
+    },
+    "zone_B": {
+      "label": "B",
+      "title": "管理、评估业务组合",
+      "bullets": [
+        {
+          "highlight": "",
+          "text": "分析各业务对提高企业TSR的贡献"
+        }
+      ]
+    },
+    "zone_C": {
+      "label": "C",
+      "title": "以TSR最大化为目标明确现金使用决策",
+      "bullets": [
+        {
+          "highlight": "",
+          "text": "债务偿还、股息，以及股票回购"
+        }
+      ]
+    },
+    "zone_D": {
+      "label": "D",
+      "title": "从TSR角度分析并购交易结构和推进理由",
+      "bullets": [
+        {
+          "highlight": "",
+          "text": "融资方式"
+        },
+        {
+          "highlight": "",
+          "text": "每股收益(EPS)与倍数"
+        },
+        {
+          "highlight": "",
+          "text": "协同增效作用与收购溢价"
+        }
+      ]
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "A",
+      "position": "zone_A"
+    },
+    {
+      "type": "icon",
+      "label": "B",
+      "position": "zone_B"
+    },
+    {
+      "type": "icon",
+      "label": "C",
+      "position": "zone_C"
+    },
+    {
+      "type": "icon",
+      "label": "D",
+      "position": "zone_D"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "无"
+  },
+  "design_language": "现代",
+  "color_scheme": {
+    "primary": "#00A551",
+    "accent": "#004B87",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Microsoft YaHei",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Microsoft YaHei",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

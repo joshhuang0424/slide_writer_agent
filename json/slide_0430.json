@@ -1,0 +1,121 @@
+{
+  "slide_id": "21",
+  "section": "Financial Analysis",
+  "purpose": "To illustrate how different drivers impact credit card issuers' profit and loss over time.",
+  "narrative_role": "Informative",
+  "title": "Over time, different drivers impact credit card issuers’ P&L",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide uses a line chart to visually represent the relationship between time and cumulative profit per cardholder, alongside categorized drivers.",
+  "data_points": [],
+  "cta": null,
+  "layout": "chart_with_bullets",
+  "layout_type": "visual-focused",
+  "content_zones": {
+    "chart": "top",
+    "bullets": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 5,
+    "emphasis_rule": "Section headers are bold and colored."
+  },
+  "design_language": "Professional and minimalistic with emphasis on key drivers.",
+  "color_scheme": {
+    "primary": "#F47C7C",
+    "accent": "#F7F48B",
+    "background": "#F9F9F9"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "Cumulative Profit per Cardholder"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Drivers",
+      "description": "Different drivers categorized by their impact on profit and loss.",
+      "headers": [
+        "Acquisition Driver",
+        "Customer Performance Drivers",
+        "Financial Drivers"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Acquisition Response Rate",
+            "Attrition Rate – Voluntary",
+            "Revolving Balances"
+          ]
+        },
+        {
+          "cells": [
+            "Application Approval Rate",
+            "Attrition Rate – Involuntary",
+            "Annual Percentage Rate"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "Purchase Active Rate",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "Spend per Purchase Active",
+            "Delinquency Behavior"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "Cash per Purchase Active",
+            "Chargeoffs"
+          ]
+        },
+        {
+          "cells": [
+            "",
+            "Balance Active Rate",
+            ""
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "There are no numerical data points or specific values provided in the chart or bullets."
+  }
+}

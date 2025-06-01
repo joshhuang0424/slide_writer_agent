@@ -1,0 +1,60 @@
+{
+  "slide_id": "5",
+  "section": "Business Strength",
+  "purpose": "Provide strategies to preserve top line and reinforce supply chain during crisis.",
+  "narrative_role": "Informative",
+  "title": "2 BUSINESS STRENGTH (1 OF 2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Provide detailed action plans for maintaining business operations.",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "informational",
+  "content_zones": {
+    "left": "Strategies to preserve top line and build trust with customers.",
+    "right": "Strategies to reinforce supply chain and manage risks."
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for key actions"
+  },
+  "design_language": "Professional with emphasis on clarity",
+  "color_scheme": {
+    "primary": "#00843D",
+    "accent": "#EAEAEA",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide primarily consists of textual strategies, no charts or tables detected."
+  }
+}

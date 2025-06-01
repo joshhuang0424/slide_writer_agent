@@ -1,0 +1,75 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title Slide",
+  "narrative_role": "Introduction",
+  "title": "Credit Card Issuer Performance Drivers and Profit & Loss Training",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduce the topic and presenter",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and subtitle with branding",
+  "layout_type": "Title Slide",
+  "content_zones": {
+    "title": "center",
+    "subtitle": "bottom-left",
+    "branding": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "",
+      "position": "background"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is emphasized in large font"
+  },
+  "design_language": "Modern, professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No specific data or detailed graphics present on this title slide."
+  }
+}

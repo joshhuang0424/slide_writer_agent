@@ -1,0 +1,145 @@
+{
+  "slide_id": "18",
+  "section": "示意圖",
+  "purpose": "展示主動邀請提額測試的結果與學習。",
+  "narrative_role": "supporting",
+  "title": "测试范例-主動邀請提額測試",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "实验方法：随机选取40万符合调额顾客进行测试"
+    },
+    {
+      "highlight": "",
+      "text": "测试分组："
+    },
+    {
+      "highlight": "预计测试成果与学习",
+      "text": "透过与对照组比较，能准确衡量何种顾客在提额后会增加分期量。对每一顾客给予最适举措，最佳化利用风险敞口"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "text and table",
+  "layout_type": "informational",
+  "content_zones": {
+    "header": "top-left",
+    "tables": "center",
+    "note": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "use bold for emphasis"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "测试分组",
+      "description": "展示曾申请分期与未曾申请分期之顾客的测试组与对照组安排。",
+      "headers": [
+        "举措",
+        "测试顾客/从符合提额条件客户随机筛选",
+        "对照组/随机筛选"
+      ],
+      "rows": [
+        {
+          "row_label": "曾申请分期",
+          "cells": [
+            "发送提额邀请短信",
+            "至少申办一次分期才调额",
+            "无"
+          ]
+        },
+        {
+          "row_label": "未曾申请分期",
+          "cells": [
+            "发送提额邀请短信",
+            "至少申办一次分期才调额",
+            "无"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    },
+    {
+      "title": "预期测试成果与学习",
+      "description": "为每一顾客给予最适举措，最佳化利用风险敞口。",
+      "headers": [
+        "顾客",
+        "最适举措",
+        "提额条件"
+      ],
+      "rows": [
+        {
+          "row_label": "顾客A",
+          "cells": [
+            "邀请提额",
+            "至少申办一次分期才调额"
+          ]
+        },
+        {
+          "row_label": "顾客B",
+          "cells": [
+            "邀请提额",
+            "至少申办一次分期才调额"
+          ]
+        },
+        {
+          "row_label": "顾客C",
+          "cells": [
+            "不邀请",
+            "/"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

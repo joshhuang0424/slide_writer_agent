@@ -1,0 +1,156 @@
+{
+  "slide_id": "17",
+  "section": "EMEA Deals Analysis",
+  "purpose": "Highlight the activity in different regions within EMEA over time",
+  "narrative_role": "Analytical",
+  "title": "UK/Ireland is the most active region in EMEA; Ger/Swi/Aut were a close second",
+  "bullets": [
+    {
+      "highlight": "23%",
+      "text": "UK/Ireland is the most active region in EMEA, with 23% share of deal activity; although it saw a significant fall as compared to 2015 when it was about 42% of the total activity"
+    },
+    {
+      "highlight": "20%",
+      "text": "Ger/Swi/Aut saw an increased share to 20% from 10% in 2015"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of deal volume by region over time",
+  "data_points": [
+    "UK/Ireland 23% in 2016",
+    "Ger/Swi/Aut 20% in 2016"
+  ],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "chart with text",
+  "content_zones": {
+    "left": "chart",
+    "right": "bullets"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "percentages highlighted"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "dark blue",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "18",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "EMEA deals by geography",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Deal Volume ($ bn)"
+    ],
+    "values": [
+      {
+        "year": "2012",
+        "values": {
+          "UK/Ireland": "150",
+          "Ger/Swi/AT": "143",
+          "France": "40",
+          "BeNeLux": "46",
+          "Middle East & Africa": "39",
+          "Russia/EE": "146",
+          "Iberia": "70",
+          "Scandinavia": "53",
+          "Italy": "40",
+          "Rest of Europe": "40"
+        }
+      },
+      {
+        "year": "2013",
+        "values": {
+          "UK/Ireland": "168",
+          "Ger/Swi/AT": "121",
+          "France": "74",
+          "BeNeLux": "74",
+          "Middle East & Africa": "60",
+          "Russia/EE": "123",
+          "Iberia": "48",
+          "Scandinavia": "54",
+          "Italy": "38",
+          "Rest of Europe": "33"
+        }
+      },
+      {
+        "year": "2014",
+        "values": {
+          "UK/Ireland": "244",
+          "Ger/Swi/AT": "165",
+          "France": "165",
+          "BeNeLux": "72",
+          "Middle East & Africa": "76",
+          "Russia/EE": "170",
+          "Iberia": "73",
+          "Scandinavia": "46",
+          "Italy": "35",
+          "Rest of Europe": "80"
+        }
+      },
+      {
+        "year": "2015",
+        "values": {
+          "UK/Ireland": "445",
+          "Ger/Swi/AT": "104",
+          "France": "104",
+          "BeNeLux": "66",
+          "Middle East & Africa": "58",
+          "Russia/EE": "118",
+          "Iberia": "48",
+          "Scandinavia": "43",
+          "Italy": "80",
+          "Rest of Europe": "88"
+        }
+      },
+      {
+        "year": "2016",
+        "values": {
+          "UK/Ireland": "230",
+          "Ger/Swi/AT": "197",
+          "France": "99",
+          "BeNeLux": "81",
+          "Middle East & Africa": "65",
+          "Russia/EE": "99",
+          "Iberia": "64",
+          "Scandinavia": "54",
+          "Italy": "40",
+          "Rest of Europe": "40"
+        }
+      }
+    ],
+    "annotations": [
+      "Includes deals more than $25mn only",
+      "Numbers don't add up to total deal volume because of exclusion of a few countries"
+    ],
+    "source": "Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid infographic detected in this slide"
+  }
+}

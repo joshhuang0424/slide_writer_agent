@@ -1,0 +1,70 @@
+{
+  "slide_id": "4",
+  "section": "Talent Parity",
+  "purpose": "To highlight the time required for Black employees to reach talent parity in the private sector.",
+  "narrative_role": "Emphasize long-term projection",
+  "title": "Time to Talent Parity",
+  "bullets": [
+    {
+      "highlight": "95 years",
+      "text": "On the current trajectory, it will take about 95 years for Black employees to reach talent parity across all levels in the private sector."
+    }
+  ],
+  "supporting_facts": [
+    "Talent parity = 12% Black representation as calculated for the entire US private sector."
+  ],
+  "reasoning_strategy": "Projection based on current trends",
+  "data_points": [],
+  "cta": null,
+  "layout": "full-page text",
+  "layout_type": "emphasis",
+  "content_zones": {
+    "text": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics in bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts, tables, or infographics present in the slide."
+  }
+}

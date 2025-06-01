@@ -1,0 +1,81 @@
+{
+  "slide_id": "86",
+  "section": "Financial Metrics",
+  "purpose": "Explain the ROGI metric and its implications for business health and reinvestment strategies.",
+  "narrative_role": "Informative",
+  "title": "ROGI as a Business Diagnostic Tool",
+  "bullets": [
+    {
+      "highlight": "point in time diagnostic tool",
+      "text": "ROGI serves as a proxy for current health of business and informs likely reinvestment economics."
+    },
+    {
+      "highlight": "",
+      "text": "Metric & rationale: Return on gross investment (ROGI) serves as a diagnostic proxy for business fundamental health and prospect for investment."
+    },
+    {
+      "highlight": "",
+      "text": "Calculation: EBITDA-taxes-CAPEX ÷ (Net working capital + Gross PPE + Other assets)"
+    },
+    {
+      "highlight": "",
+      "text": "Example goals: Positive spread to WACC (8%-10%), Improvement in ROGI over time."
+    }
+  ],
+  "supporting_facts": [
+    "ROGI is improved if it is below WACC.",
+    "Invest if ROGI is above WACC and will generate target or higher iTSR.",
+    "Intentionally excludes intangibles."
+  ],
+  "reasoning_strategy": "Analytical",
+  "data_points": [],
+  "cta": "Consider using other return metrics if they reflect underlying business characteristics.",
+  "layout": "Text and graphic mix",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "ROGI description and purpose",
+    "right": "Metric rationale, calculation, and example goals"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use color to highlight key terms"
+  },
+  "design_language": "Professional and analytical with strategic use of color",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "green, blue, yellow, red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific chart or infographic present. The slide mainly contains text with strategic highlights."
+  }
+}

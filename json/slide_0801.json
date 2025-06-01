@@ -1,0 +1,102 @@
+{
+  "slide_id": "15",
+  "section": "Cost Analysis",
+  "purpose": "To illustrate the projected cost-per-mile reduction for urban shared vehicles by 2030.",
+  "narrative_role": "Supporting evidence",
+  "title": "Cost-per-mile difference will be ~40% for urban shared vehicles in 2030",
+  "bullets": [],
+  "supporting_facts": [
+    "Comparison: 2030 annual cost by category"
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "Conventional ICE (10K yearly miles): $1.22/passenger mile",
+    "2030 Shared Autonomous Vehicle (HEV): $0.77/passenger mile",
+    "2030 Shared Autonomous Electric Vehicle (BEV): $0.74/passenger mile"
+  ],
+  "cta": null,
+  "layout": "Horizontal bar chart with three groups",
+  "layout_type": "chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "legend": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight cost differences"
+  },
+  "design_language": "Modern and clean",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Various",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Stacked bar chart",
+    "title": "",
+    "x_axis_label": "$/passenger mile per category",
+    "y_axis": [],
+    "values": [
+      {
+        "category": "Conventional ICE",
+        "value": 1.22
+      },
+      {
+        "category": "2030 Shared Autonomous Vehicle (HEV)",
+        "value": 0.77
+      },
+      {
+        "category": "2030 Shared Autonomous Electric Vehicle (BEV)",
+        "value": 0.74
+      }
+    ],
+    "annotations": [
+      "37% reduction from ICE to HEV",
+      "40% reduction from ICE to BEV"
+    ],
+    "source": "Source: Upcoming BCG report, The Reimagined Car: Shared, Autonomous, and Electric"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No bullets or infographic present on this slide.",
+    "legend_items": [
+      "Fleet Tax",
+      "Data",
+      "Cleaning",
+      "Taxes/Fees",
+      "Fleet Markup",
+      "Battery Replacement",
+      "Tickets",
+      "Software Upgrades",
+      "Fleet Mgmt.",
+      "Tires",
+      "Replacement",
+      "Financing",
+      "Fuel/Electric",
+      "Depreciation",
+      "Maintenance",
+      "Parking",
+      "Insurance"
+    ]
+  }
+}

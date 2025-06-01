@@ -1,0 +1,125 @@
+{
+  "slide_id": "80",
+  "section": "TSR Management Model",
+  "purpose": "Illustrate the integration of value-based management with TSR management model",
+  "narrative_role": "Explainer",
+  "title": "Value based management supports an overarching TSR management model & approach",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of management model integration",
+  "data_points": [],
+  "cta": null,
+  "layout": "Full-page infographic with centered diagram",
+  "layout_type": "Infographic",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Optimal TSR",
+      "position": "center"
+    },
+    {
+      "type": "rectangle",
+      "label": "Metric design/selection usage",
+      "position": "below circle"
+    },
+    {
+      "type": "text_box",
+      "label": "Are the metrics we use to measure performance clearly aligned to generate value to the company?",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean with emphasis on integration",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Business strategy"
+      },
+      {
+        "id": "L1",
+        "label": "Investor strategy"
+      },
+      {
+        "id": "L2",
+        "label": "Financial strategy"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [
+    {
+      "title": "Metric Design",
+      "description": "List of management processes and enablers",
+      "headers": [
+        "Target setting",
+        "Planning/Budgeting",
+        "Resource allocation",
+        "Incentives",
+        "Systems reporting",
+        "Training & capability building"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Target setting",
+            "Planning/Budgeting",
+            "Resource allocation"
+          ]
+        },
+        {
+          "cells": [
+            "Incentives",
+            "Systems reporting",
+            "Training & capability building"
+          ]
+        }
+      ],
+      "position": "below infographic",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No explicit bullets or chart data provided; infographic is the main focus."
+  }
+}

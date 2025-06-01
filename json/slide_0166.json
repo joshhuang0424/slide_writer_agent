@@ -1,0 +1,121 @@
+{
+  "slide_id": "11",
+  "section": "Diversity Focus",
+  "purpose": "To explore integrating diversity focus into company operations",
+  "narrative_role": "Informative",
+  "title": "To achieve sustained progress, companies can explore building a focus on diversity into their everyday company operating model",
+  "bullets": [
+    {
+      "highlight": "focus on diversity",
+      "text": "into their everyday company operating model"
+    }
+  ],
+  "supporting_facts": [
+    "Track representation of intersection of gender and race for all employees",
+    "Senior leaders accountable for progress (or lack thereof) on diversity metrics or goals",
+    "Offering bias training for performance review or hiring evaluators"
+  ],
+  "reasoning_strategy": "Comparison of company practices",
+  "data_points": [
+    "Track diversity metrics by gender AND race / ethnicity",
+    "Hold senior leaders accountable for progress on diversity",
+    "Minimize gender bias in hiring AND performance reviews / promotions"
+  ],
+  "cta": null,
+  "layout": "three-column with charts",
+  "layout_type": "grid",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Three key strategies",
+    "bottom": "Charts with data points"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Track diversity metrics",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Hold senior leaders accountable",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Minimize gender bias",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key strategies"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "black",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "circular bar chart",
+    "title": "Diversity Metrics",
+    "x_axis_label": "",
+    "y_axis": [
+      "Top performing companies",
+      "Companies overall",
+      "News and Media companies"
+    ],
+    "values": [
+      {
+        "category": "Track representation",
+        "values": [
+          77,
+          40
+        ]
+      },
+      {
+        "category": "Accountability for progress",
+        "values": [
+          100,
+          80,
+          69
+        ]
+      },
+      {
+        "category": "Bias training",
+        "values": [
+          81,
+          80,
+          55
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "Source: 2021 Women in the Workplace research, McKinsey & Company and LeanIn.Org"
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No infographics or tables present that require additional metadata."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "slide_id": "6",
+  "section": "TSR Management Model",
+  "purpose": "To illustrate the integrated TSR management model and its components.",
+  "narrative_role": "Informative",
+  "title": "Integrated TSR management model requires a strong value based management foundation",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "TSR strategy: Aligns business, financial & investor strategies"
+    },
+    {
+      "highlight": false,
+      "text": "Value based management: Orients a company's culture specifically around TSR"
+    },
+    {
+      "highlight": false,
+      "text": "Alignment of business, financial and investor strategy with robust management practices will enable successful TSR journey as well as attractive and sustainable TSR"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of the TSR management model and its components.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic with text",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Text and infographic",
+    "right": "Text"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Optimal TSR",
+      "position": "center"
+    },
+    {
+      "type": "circle",
+      "label": "Business strategy",
+      "position": "top"
+    },
+    {
+      "type": "circle",
+      "label": "Investor strategy",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "Financial strategy",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Green text for emphasis"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Metric design/selection usage"
+      },
+      {
+        "id": "L1",
+        "label": "Target setting"
+      },
+      {
+        "id": "L2",
+        "label": "Planning/Budgeting"
+      },
+      {
+        "id": "L3",
+        "label": "Resource allocation"
+      },
+      {
+        "id": "L4",
+        "label": "Incentives"
+      },
+      {
+        "id": "L5",
+        "label": "Systems reporting"
+      },
+      {
+        "id": "L6",
+        "label": "Training & capability building"
+      }
+    ],
+    "position": "bottom"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The specific font family is not discernible from the image."
+  }
+}

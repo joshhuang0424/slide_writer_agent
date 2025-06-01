@@ -1,0 +1,222 @@
+{
+  "slide_id": "6",
+  "section": "Consumer Mobility",
+  "purpose": "To show expected changes in consumer spending per shared mobility trip post-COVID-19",
+  "narrative_role": "Data presentation",
+  "title": "Consumers expect to spend less per shared mobility trip in the future",
+  "bullets": [],
+  "supporting_facts": [
+    "2021 vs. pre-COVID-19"
+  ],
+  "reasoning_strategy": "Comparative analysis across regions",
+  "data_points": [
+    "+2%",
+    "+13%",
+    "-27%",
+    "-19%",
+    "-8%",
+    "-13%",
+    "-29%",
+    "-22%",
+    "+16%",
+    "+32%",
+    "+3%",
+    "+9%",
+    "-1%",
+    "-2%",
+    "-11%",
+    "-13%",
+    "-1%",
+    "+17%",
+    "+7%",
+    "+10%",
+    "+11%",
+    "+17%",
+    "~0%",
+    "+5%"
+  ],
+  "cta": null,
+  "layout": "single-page with table",
+  "layout_type": "table-centric",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center",
+    "source_note": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Private Bike/Scooter",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Shared mobility",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Private Car",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Public Transit",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color and arrows for emphasis"
+  },
+  "design_language": "Corporate, data-driven",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "red",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Expected Spending Changes",
+      "description": "Comparison of spending changes across regions and mobility types",
+      "headers": [
+        "",
+        "US",
+        "",
+        "EU",
+        "",
+        "China",
+        ""
+      ],
+      "rows": [
+        {
+          "row_label": "Private Bike/Scooter",
+          "cells": [
+            "Change in spending",
+            "+2%",
+            "Change in # of trips",
+            "+13%",
+            "Expected spend/trip",
+            "↓",
+            "Change in spending",
+            "+16%",
+            "Change in # of trips",
+            "+32%",
+            "Expected spend/trip",
+            "↓",
+            "Change in spending",
+            "-1%",
+            "Change in # of trips",
+            "+17%",
+            "Expected spend/trip",
+            "↓"
+          ]
+        },
+        {
+          "row_label": "Shared mobility",
+          "cells": [
+            "Change in spending",
+            "-27%",
+            "Change in # of trips",
+            "-19%",
+            "Expected spend/trip",
+            "↓",
+            "Change in spending",
+            "+3%",
+            "Change in # of trips",
+            "+9%",
+            "Expected spend/trip",
+            "↓",
+            "Change in spending",
+            "+7%",
+            "Change in # of trips",
+            "+10%",
+            "Expected spend/trip",
+            "↓"
+          ]
+        },
+        {
+          "row_label": "Private Car",
+          "cells": [
+            "Change in spending",
+            "-8%",
+            "Change in # of trips",
+            "-13%",
+            "Expected spend/trip",
+            "↑",
+            "Change in spending",
+            "-1%",
+            "Change in # of trips",
+            "-2%",
+            "Expected spend/trip",
+            "→",
+            "Change in spending",
+            "+11%",
+            "Change in # of trips",
+            "+17%",
+            "Expected spend/trip",
+            "↓"
+          ]
+        },
+        {
+          "row_label": "Public Transit",
+          "cells": [
+            "Change in spending",
+            "-29%",
+            "Change in # of trips",
+            "-22%",
+            "Expected spend/trip",
+            "↓",
+            "Change in spending",
+            "-11%",
+            "Change in # of trips",
+            "-13%",
+            "Expected spend/trip",
+            "→",
+            "Change in spending",
+            "~0%",
+            "Change in # of trips",
+            "+5%",
+            "Expected spend/trip",
+            "↓"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard grid with emphasis on changes"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Infographic type 'pyramid' is not applicable to this slide."
+  }
+}

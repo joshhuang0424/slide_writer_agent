@@ -1,0 +1,69 @@
+{
+  "slide_id": "4",
+  "section": "Introduction",
+  "purpose": "Explain the concept of TSR",
+  "narrative_role": "Definition",
+  "title": "What is TSR",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-section with graphics",
+  "layout_type": "Title and definition",
+  "content_zones": {
+    "left": "Explanation of TSR metric",
+    "right": "Title: What is TSR"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "What is TSR (Total Shareholder Return)",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts, tables, bullets or detailed data points present on the slide."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "slide_id": "17",
+  "section": "Consumer Preferences",
+  "purpose": "To show changes in consumer preferences for physical interactions at dealerships across different age groups and countries.",
+  "narrative_role": "Present data",
+  "title": "Preference to interact physically at dealership has particularly decreased for age group 35-54 years",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis across age groups and countries.",
+  "data_points": [
+    "UK: Age 18-34: -10, Age 35-54: -8, Age 55-70: -8",
+    "Germany: Age 18-34: 0, Age 35-54: -11, Age 55-70: -9",
+    "France: Age 18-34: +5, Age 35-54: -4, Age 55-70: 0",
+    "Italy: Age 18-34: -3, Age 35-54: -14, Age 55-70: -4"
+  ],
+  "cta": null,
+  "layout": "Four-column vertical bar chart with country flags",
+  "layout_type": "chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "above column 1"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "above column 2"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "above column 3"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "above column 4"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numbers in red or blue for emphasis"
+  },
+  "design_language": "Corporate, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red/blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Helvetica",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Helvetica",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Consumers preferring to interact in person at car dealership for purchasing next car",
+    "x_axis_label": "Age Groups",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "country": "UK",
+        "Age 18-34": 21,
+        "Age 35-54": 31,
+        "Age 55-70": 46
+      },
+      {
+        "country": "Germany",
+        "Age 18-34": 32,
+        "Age 35-54": 37,
+        "Age 55-70": 58
+      },
+      {
+        "country": "France",
+        "Age 18-34": 36,
+        "Age 35-54": 43,
+        "Age 55-70": 57
+      },
+      {
+        "country": "Italy",
+        "Age 18-34": 35,
+        "Age 35-54": 41,
+        "Age 55-70": 61
+      }
+    ],
+    "annotations": [],
+    "source": "Source: McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets present in the slide."
+  }
+}

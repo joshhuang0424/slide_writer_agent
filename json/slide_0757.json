@@ -1,0 +1,102 @@
+{
+  "slide_id": "1",
+  "section": "Semiconductor Strategy",
+  "purpose": "To outline strategies for OEMs to gain transparency and influence over the semiconductor supply chain.",
+  "narrative_role": "Informative",
+  "title": "OEMs and Semiconductor Strategy",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Logical sequence of actions over short, mid, and long-term periods.",
+  "data_points": [],
+  "cta": null,
+  "layout": "3-column strategy timeline",
+  "layout_type": "informational",
+  "content_zones": {
+    "header": "top",
+    "columns": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold headings for each strategy phase."
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "dark green",
+    "accent": "light green",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "A table outlining short-term, mid-term, and long-term strategies.",
+      "headers": [
+        "Short-term",
+        "Mid-term",
+        "Long-term"
+      ],
+      "rows": [
+        {
+          "row_label": "Short-term",
+          "cells": [
+            "Secure continuity of supply",
+            "A. Build visibility into the semiconductor demand-supply balance over the next eight quarters across key components",
+            "B. Plan and execute rapid interventions",
+            "C. Build early warning indicators at the semiconductor parts level to prevent additional bottlenecks"
+          ]
+        },
+        {
+          "row_label": "Mid-term",
+          "cells": [
+            "Get more control over the supply chain",
+            "D. Plan IC technologies, raw materials, and manufacturing processes over a three- to five-year horizon",
+            "E. Evaluate potential structural changes in semiconductor supply terms, e.g., a premium for security of supply, extension of consignment",
+            "F. Move to sourcing approaches that provide direct control and security over supply, e.g., direction relationships with semiconductor vendors, capacity contracts"
+          ]
+        },
+        {
+          "row_label": "Long-term",
+          "cells": [
+            "Achieve independence from IC vendors",
+            "G. Identify specific semiconductors with a high potential for differentiation, e.g., in performance, integration, or supply security",
+            "H. Define new semiconductor roadmap, including new in-house development",
+            "I. Build or acquire new competencies"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "Font family not specified in the image."
+  }
+}

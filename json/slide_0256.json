@@ -1,0 +1,83 @@
+{
+  "slide_id": "87",
+  "section": "股東價值管理",
+  "purpose": "強調長期股東價值管理的重要性",
+  "narrative_role": "說明",
+  "title": "股東價值管理的關鍵考量",
+  "bullets": [
+    {
+      "highlight": "只關注短期 EPS",
+      "text": "（每股盈利），季度盈利和 TSR（股東總回報）容易犧牲企業長期的競爭力"
+    },
+    {
+      "highlight": "同時也為其他利益相關者產生不理想的結果",
+      "text": "由於未來的利益越少，則代表利益相關者只能分到更少的利益"
+    },
+    {
+      "highlight": "將長期的 TSR 納入考量",
+      "text": "是對於股東價值管理至關重要的事情"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "比較短期與長期策略的影響",
+  "data_points": [],
+  "cta": null,
+  "layout": "左側文字，右側子彈點",
+  "layout_type": "text_and_bullets",
+  "content_zones": {
+    "left": "主標題與說明文字",
+    "right": "子彈點"
+  },
+  "visual_elements": [
+    {
+      "type": "line",
+      "label": "曲線",
+      "position": "background"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight"
+  },
+  "design_language": "企業簡報",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體資料與具體圖表細節在圖片中無法識別"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "slide_id": "1",
+  "section": "新發卡產品",
+  "purpose": "概述",
+  "narrative_role": "informative",
+  "title": "近1年新发卡产品梳理",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "table-focused",
+  "layout_type": "single-column",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "近1年新发卡产品",
+      "description": "展示近一年内新发卡产品的详细信息",
+      "headers": [
+        "产品名称",
+        "上市月份",
+        "主题",
+        "卡等级",
+        "卡组织",
+        "年费",
+        "欢迎礼",
+        "亮点权益"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "耀主题卡",
+            "2022.6",
+            "青年生活",
+            "金卡",
+            "银联",
+            "",
+            "新户首刷领立减金，天天享50元美食立减，月月达标领B站视频会员"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "阳光UP无界信用卡",
+            "2021",
+            "/",
+            "菁英白金",
+            "银联",
+            "",
+            "免费领互联网会员"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "光大阳光车主经典白金数字卡",
+            "2021",
+            "车主",
+            "白金",
+            "银联",
+            "500",
+            "汽车代驾4次/年，机场贵宾厅5点/年"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "光大指北生活信用卡",
+            "2021",
+            "生活",
+            "菁英白金",
+            "美国运通",
+            "",
+            "蓝盒子SELECT心赏等级"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "泡泡玛特主题菁英白金卡",
+            "2021",
+            "购物",
+            "菁英白金",
+            "银联",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "光大海航海免联名信用卡",
+            "2021",
+            "商旅",
+            "菁英白金",
+            "银联",
+            "",
+            "金鹏会员卡，专属积分可兑换海南航空金鹏积分或光大基础积分"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "圖片中未顯示字體信息"
+  }
+}

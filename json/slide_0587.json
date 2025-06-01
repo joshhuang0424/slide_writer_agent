@@ -1,0 +1,110 @@
+{
+  "slide_id": "16",
+  "section": "Reward Economics",
+  "purpose": "Define and explain key terms related to customer loyalty programs.",
+  "narrative_role": "Informative",
+  "title": "Other Key Terms",
+  "bullets": [
+    {
+      "highlight": "Active engagement rate",
+      "text": "Percentage of customers redeeming in the loyalty program in a specified time frame"
+    },
+    {
+      "highlight": "Redemption rate and Breakage",
+      "text": "Percentage of the points earned that are being redeemed in a specified time frame"
+    },
+    {
+      "highlight": "Point caps",
+      "text": "The amount of points a customer can earn in a given time can be limited, or “capped.” This can help limit fraudulent practices by participants"
+    },
+    {
+      "highlight": "Bonus points",
+      "text": "Extra points for spend on specific merchants/industries or occasions to encourage customer spending"
+    },
+    {
+      "highlight": "Expiry rate",
+      "text": "Percentage of points earned that have expired"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Define key metrics and mechanisms within loyalty programs.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with icons and definitions.",
+  "layout_type": "Definition list",
+  "content_zones": {
+    "left": "Icons and key terms",
+    "right": "Definitions and calculations"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Active engagement rate icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Redemption rate and Breakage icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Point caps icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Bonus points icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Expiry rate icon",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlights in orange"
+  },
+  "design_language": "Corporate, clean, and professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables present; text and icons dominate the content."
+  }
+}

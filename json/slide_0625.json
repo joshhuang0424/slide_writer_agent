@@ -1,0 +1,112 @@
+{
+  "slide_id": "25",
+  "section": "Retention - Reactive",
+  "purpose": "To explain the process and importance of reactive retention in handling customer requests to cancel accounts.",
+  "narrative_role": "Explainer",
+  "title": "Reactive retention addresses overt customer requests to cancel a card account and requires specialized treatment from the card issuer",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "The cornerstone of a successful reactive retention strategy is an in-house, dedicated, inbound retention unit"
+    },
+    {
+      "highlight": false,
+      "text": "Customers who indicate desire to attrite are routed to the retention call center for handling by retention specialists"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Logical progression of customer retention process",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullet points with infographic",
+  "layout_type": "Text with visual elements",
+  "content_zones": {
+    "title": "top",
+    "bullets": "middle",
+    "infographic": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon_group",
+      "label": "Retention Eligible",
+      "position": "left"
+    },
+    {
+      "type": "icon_circle",
+      "label": "Retention Call Center",
+      "position": "right"
+    },
+    {
+      "type": "icon_circle",
+      "label": "IVR",
+      "position": "right"
+    },
+    {
+      "type": "icon_circle",
+      "label": "Retention Specialist",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Professional with emphasis on process flow",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "process_flow",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Retention Eligible"
+      },
+      {
+        "id": "L1",
+        "label": "Retention Call Center"
+      },
+      {
+        "id": "L2",
+        "label": "IVR"
+      },
+      {
+        "id": "L3",
+        "label": "Retention Specialist"
+      }
+    ],
+    "position": "bottom"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or tables are presented in this slide."
+  }
+}

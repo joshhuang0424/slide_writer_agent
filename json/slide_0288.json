@@ -1,0 +1,150 @@
+{
+  "slide_id": "4",
+  "section": "Benefits of Cloud",
+  "purpose": "Highlight the business benefits of cloud technology",
+  "narrative_role": "Supportive",
+  "title": "The true driver of cloud is the multitude of business benefits",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with a table and impact highlights",
+  "layout_type": "Table and bullet grid",
+  "content_zones": {
+    "left": "Table of categories and value drivers",
+    "right": "Highlight of impact percentages"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Improved speed and agility",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Easier innovation",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Efficient scalability",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Reduced risk",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight impact percentages"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Value drivers by category",
+      "description": "Lists the value drivers for each category of cloud benefits",
+      "headers": [
+        "Category",
+        "Value drivers"
+      ],
+      "rows": [
+        {
+          "row_label": "A. Improved speed and agility",
+          "cells": [
+            "Shorter time to market",
+            "Ability to penetrate new channels quickly",
+            "Lower barriers to enter new markets or geographies"
+          ]
+        },
+        {
+          "row_label": "B. Easier innovation",
+          "cells": [
+            "Access to innovation from cloud providers",
+            "Lower barriers to experiment",
+            "Enhancement of existing products and features",
+            "Access to digital tools and ecosystems"
+          ]
+        },
+        {
+          "row_label": "C. Efficient scalability",
+          "cells": [
+            "Labor efficiency—infrastructure operations",
+            "Optimization of infrastructure unit costs",
+            "Data center optimization—utilization and consumption",
+            "Labor efficiency—application development and maintenance"
+          ]
+        },
+        {
+          "row_label": "D. Reduced risk",
+          "cells": [
+            "Improved business resilience",
+            "Improved customer retention",
+            "IT cost visibility"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "Standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "bullet_grid": [
+      {
+        "highlight": "~90%",
+        "text": "improvement in time to market"
+      },
+      {
+        "highlight": "~95%",
+        "text": "time reduction for adding digital features"
+      },
+      {
+        "highlight": "~5–10%",
+        "text": "labor improvements"
+      },
+      {
+        "highlight": "~10–15%",
+        "text": "savings from capacity utilization"
+      },
+      {
+        "highlight": "~80%",
+        "text": "outage reduction"
+      }
+    ],
+    "_why_unknown": "No chart or pyramid infographic present"
+  }
+}

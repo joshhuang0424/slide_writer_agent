@@ -1,0 +1,85 @@
+{
+  "slide_id": "40",
+  "section": "Framework",
+  "purpose": "To outline the framework for iterating on the value creation plan.",
+  "narrative_role": "Explanation",
+  "title": "Framework on how we will iterate on the value creation plan",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide divides tasks into 'Essential' and 'Out of scope' categories, further breaking down tasks within each category.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two main sections: Essential and Out of scope, with boxes listing tasks.",
+  "layout_type": "Segmented",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Essential tasks",
+    "bottom": "Out of scope tasks"
+  },
+  "visual_elements": [
+    {
+      "type": "box",
+      "label": "Drivers of relative valuation",
+      "position": "middle"
+    },
+    {
+      "type": "box",
+      "label": "Primary focus of the project",
+      "position": "middle"
+    },
+    {
+      "type": "box",
+      "label": "Investor insight deep-dive",
+      "position": "bottom"
+    },
+    {
+      "type": "box",
+      "label": "Investor relations health check",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Headings and section labels are emphasized."
+  },
+  "design_language": "Professional and structured with clear segmentation.",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The slide contains no data points, charts, or tables to categorize."
+  }
+}

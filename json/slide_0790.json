@@ -1,0 +1,117 @@
+{
+  "slide_id": "4",
+  "section": "Our approach",
+  "purpose": "Illustrate factors affecting consumers and OEMs in the context of powertrain evolution and market forecasting.",
+  "narrative_role": "Framework explanation",
+  "title": "Our approach",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Flowchart illustrating the relationships and decision-making process between different factors affecting consumers and OEMs.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Flowchart",
+  "layout_type": "diagram",
+  "content_zones": {
+    "left": "Factors affecting consumers and OEMs",
+    "center": "Decision-making flowchart",
+    "right": "Outcome and forecast"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Government incentives",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "OEM vehicle options",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Energy price (oil, electricity)",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Total miles driven (mobility, consumer)",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Battery & ICE tech. cost/benefit",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Regulatory standards",
+      "position": "left"
+    },
+    {
+      "type": "box",
+      "label": "TCO for consumer (breakeven expectations)",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "Consumer-driven output",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "OEM economics (lowest-cost solution)",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "Regulation-driven output",
+      "position": "center"
+    },
+    {
+      "type": "box",
+      "label": "BCG view of powertrain evolution and xEV market forecast to 2030",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color and icons for emphasis"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Yellow",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullet points or data points are explicitly listed; the slide is primarily a flowchart."
+  }
+}

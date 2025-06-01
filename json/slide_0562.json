@@ -1,0 +1,99 @@
+{
+  "slide_id": "7",
+  "section": "Analysis of Growth Trends",
+  "purpose": "To highlight the disparity between job/population growth and housing supply, and between rent growth and income.",
+  "narrative_role": "Data presentation and analysis",
+  "title": "Despite robust growth, the housing supply and average household incomes have not kept pace with job growth or rent increases",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of growth rates over time.",
+  "data_points": [
+    "Jobs increased by 21%",
+    "Population increased by 12%",
+    "Housing supply increased by 8%",
+    "Median market rent increased by 52%",
+    "Median household income increased by 12%"
+  ],
+  "cta": null,
+  "layout": "Two-column with charts",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left_chart": "Jobs and population growing faster than housing",
+    "right_chart": "Rents growing much faster than incomes"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Professional, data-focused",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Light blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Growth Trends in King County",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "95%",
+      "100%",
+      "105%",
+      "110%",
+      "115%",
+      "120%",
+      "125%",
+      "130%",
+      "135%",
+      "140%",
+      "145%",
+      "150%",
+      "155%"
+    ],
+    "values": [
+      [
+        "Jobs",
+        "Population",
+        "Housing supply"
+      ],
+      [
+        "Median market rent",
+        "Median Household Income"
+      ]
+    ],
+    "annotations": [
+      "+21%",
+      "+12%",
+      "+8%",
+      "+52%",
+      "+12%"
+    ],
+    "source": "Puget Sound Regional Council, WA State OFM, HUD PD&R, Zillow Rent Index"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

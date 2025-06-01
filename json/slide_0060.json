@@ -1,0 +1,123 @@
+{
+  "slide_id": "10",
+  "section": "Smart Road Technologies",
+  "purpose": "To demonstrate differing maturity states and payback periods for smart road tech packages.",
+  "narrative_role": "Informative",
+  "title": "Smart road tech packages demonstrate differing maturity states and payback periods",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Packages and descriptions",
+    "right": "Estimated pay-back time"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue, Orange, Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Smart Road Technologies",
+      "description": "Comparison of packages, proven technologies, and pay-back times",
+      "headers": [
+        "Packages",
+        "Proven today",
+        "<5 years",
+        "5+ years"
+      ],
+      "rows": [
+        {
+          "row_label": "Intelligent Transportation Systems (ITS)",
+          "cells": [
+            "Dynamic road signage, Fiber/broadband network, Intelligent traffic signals",
+            "A. Connected vehicle technology, Weigh-in-motion, Fraud detection, Road weather information system",
+            ""
+          ]
+        },
+        {
+          "row_label": "Technology-enabled design / asset management",
+          "cells": [
+            "B. Generated design, Recycled asphalt pavement",
+            "C. Advanced asset management, Precast concrete pavement, Permeable highway pavement, Light emitting pavement markings",
+            "Self-healing pavement, Solar roadways"
+          ]
+        },
+        {
+          "row_label": "Dynamic pricing and new business models",
+          "cells": [
+            "Electronic tolling, D. Dynamic tolling, E. Congestion pricing",
+            "Application-based payment platform, Smart parking",
+            ""
+          ]
+        },
+        {
+          "row_label": "Reinvention of mobility",
+          "cells": [
+            "Micro mobility options",
+            "Shared mobility hubs, Redevelopment of parking lots, Curbside monetization",
+            "Vertiports"
+          ]
+        },
+        {
+          "row_label": "Vehicle support infrastructure",
+          "cells": [
+            "F. Charging infrastructure",
+            "",
+            "Autonomous vehicle lanes"
+          ]
+        },
+        {
+          "row_label": "Ecosystems and customer centricity",
+          "cells": [
+            "G. Auto ecosystem",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific chart or infographic elements detected. Content is primarily tabular and text-based."
+  }
+}

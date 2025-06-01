@@ -1,0 +1,224 @@
+{
+  "slide_id": "20",
+  "section": "Case Study",
+  "purpose": "To analyze merchant affinity and identify partnership opportunities.",
+  "narrative_role": "Informative",
+  "title": "Merchant Affinity Analysis: Understand where to engage shoppers outside of your brand, and identify partnership opportunities",
+  "bullets": [
+    {
+      "highlight": "1.",
+      "text": "Create relevant offers for advertising and marketing campaigns"
+    },
+    {
+      "highlight": "2.",
+      "text": "Develop partnerships that drive acquisition and loyalty"
+    },
+    {
+      "highlight": "3.",
+      "text": "Plan potential real estate explanation"
+    },
+    {
+      "highlight": "4.",
+      "text": "Adapt and enhance current loyalty offerings"
+    }
+  ],
+  "supporting_facts": [
+    "Shopper groups must be sub-segments of the client’s existing customer base.",
+    "Mastercard analyzes where shoppers shop outside of the client’s brand to inform partnership decisions."
+  ],
+  "reasoning_strategy": "Affinities are identified by analyzing transaction patterns across various industries and merchants.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with text and visuals",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Textual content with use cases and approach",
+    "right": "Affinity analysis insights and visuals"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Adjusting & Legal Services",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Luggage & Leather Stores",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Men’s Apparel",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Taxi & Limousine",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Airlines",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Hotels",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold text for emphasis"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Spend More with These Industries",
+      "description": "Industries where BRAND XYZ customers spend more.",
+      "headers": [
+        "Industry",
+        "Affinity Index"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Adjusting & Legal Services",
+            "249"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Luggage & Leather Stores",
+            "186"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Men’s Apparel",
+            "181"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Taxi & Limousine",
+            "229"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Airlines",
+            "223"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Hotels",
+            "207"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    },
+    {
+      "title": "Spend Less with These Merchants",
+      "description": "Merchants where BRAND XYZ customers spend less.",
+      "headers": [
+        "Merchant",
+        "Affinity Index"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Meijer",
+            "20"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Sonic America’s Drive-In",
+            "18"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Hallmark",
+            "17"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Circle K",
+            "32"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Hallmark",
+            "29"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Sonic America’s Drive-In",
+            "27"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid infographic identified"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "slide_id": "61",
+  "section": "BCG TSR方案介绍",
+  "purpose": "介绍TSR考量下的交易结构与实施方式",
+  "narrative_role": "提供策略分析",
+  "title": "TSR视角看并购：基于TSR考量选择合理的交易结构与交易实施方式",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "通过比较不同融资方式和并购收益影响TSR的方式提供决策支持",
+  "data_points": [],
+  "cta": null,
+  "layout": "three_column",
+  "layout_type": "informational",
+  "content_zones": {
+    "column_1": "股权融资vs. 债权融资",
+    "column_2": "股权融资vs. 债权融资",
+    "column_3": "协同效益vs. 并购溢价"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "放大镜",
+      "position": "column_1"
+    },
+    {
+      "type": "icon",
+      "label": "手握钞票",
+      "position": "column_2"
+    },
+    {
+      "type": "icon",
+      "label": "银行账单",
+      "position": "column_3"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "#008542",
+    "accent": "#0076A8",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "該頁面主要由文本與圖標組成，無數據表格或圖表，故bullets, supporting_facts, chart等字段留空"
+  }
+}

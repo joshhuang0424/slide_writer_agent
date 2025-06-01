@@ -1,0 +1,121 @@
+{
+  "slide_id": "26",
+  "section": "數據儀表板",
+  "purpose": "展示不同賣場、會員等級、溝通方式的轉卡狀況",
+  "narrative_role": "informative",
+  "title": "數據儀表板 | 清楚追蹤不同賣場、會員等級、溝通方式的轉卡狀況",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "展示儀表板示意以提供數據分析",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "visual",
+  "content_zones": {
+    "left": "關鍵指標表格",
+    "right": "儀表板模擬示意"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "關鍵指標",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "儀表板模擬示意",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "關鍵指標",
+      "description": "展示關鍵指標的各類別",
+      "headers": [
+        "辦卡指標",
+        "新申辦會員指標",
+        "客戶行為",
+        "客群畫像",
+        "節選維度",
+        "額外溝通"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "總辦卡數",
+            "新申辦會員數",
+            "申辦自動續約率",
+            "所屬賣場",
+            "黑鑽會員",
+            "TM"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "既有聯名卡戶轉換數/轉換比率",
+            "新申辦聯名卡數",
+            "回流率",
+            "年齡",
+            "金星會員",
+            "SMS"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "",
+            "",
+            "...",
+            "性別",
+            "高消費會員",
+            ""
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "該頁面以圖形展示為主，無法直接辨識具體數據或圖表"
+  }
+}

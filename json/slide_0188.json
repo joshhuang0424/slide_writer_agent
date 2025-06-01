@@ -1,0 +1,136 @@
+{
+  "slide_id": "19",
+  "section": "BCG TSR 案例流程分享",
+  "purpose": "識別過去5年對企業價值貢獻較高的業務組合",
+  "narrative_role": "展示",
+  "title": "管理、評估業務組合（1/2）",
+  "bullets": [],
+  "supporting_facts": [
+    "2013-2018年價值變化，包括累計現金流"
+  ],
+  "reasoning_strategy": "比較",
+  "data_points": [
+    "預估價值/股（$）",
+    "年度百分比"
+  ],
+  "cta": null,
+  "layout": "chart and table",
+  "layout_type": "graphic",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "table": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight percentages"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "waterfall",
+    "title": "預估價值變化",
+    "x_axis_label": "2013價值到2018價值",
+    "y_axis": [
+      "0",
+      "2,000",
+      "4,000",
+      "6,000"
+    ],
+    "values": [
+      {
+        "label": "2013價值",
+        "value": 1800
+      },
+      {
+        "label": "遊戲和網路",
+        "value": 1820,
+        "percentage": "43%"
+      },
+      {
+        "label": "音樂",
+        "value": 600,
+        "percentage": "14%"
+      },
+      {
+        "label": "電影",
+        "value": 280,
+        "percentage": "7%"
+      },
+      {
+        "label": "HE&S",
+        "value": 550,
+        "percentage": "13%"
+      },
+      {
+        "label": "成像",
+        "value": 1000,
+        "percentage": "24%"
+      },
+      {
+        "label": "移動通訊",
+        "value": 300,
+        "percentage": "7%"
+      },
+      {
+        "label": "其他",
+        "value": 6000
+      }
+    ],
+    "annotations": [
+      "數據來源：公司報告，BCG預測"
+    ],
+    "source": "BCG價值科學中心"
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "年度百分比",
+      "description": "現金流與資本收益的比較",
+      "headers": [
+        "",
+        "現金流",
+        "資本收益",
+        "總TSR"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "年度百分比",
+            "0",
+            "28",
+            "28"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體與大小未明確標示於圖片中。"
+  }
+}

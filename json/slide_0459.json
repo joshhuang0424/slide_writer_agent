@@ -1,0 +1,120 @@
+{
+  "slide_id": "8",
+  "section": "CEM Assets & Tech Stack",
+  "purpose": "To present CEM assets and the technology stack used in customer experience management.",
+  "narrative_role": "Informative",
+  "title": "CEM Assets & Tech Stack",
+  "bullets": [
+    {
+      "highlight": "CEM Methodology",
+      "text": "The What and Why of CEM, ALERT – A Critical Component for Managing Your Customer Experience Puzzle may be Missing!, and An Agent for Culture Change: The Customer Experience Service Mantra"
+    },
+    {
+      "highlight": "Retail",
+      "text": "Consider, Shop, Enjoy: The Retail Customer Experience Illuminated by Three Key Phases and Seeing the Whole Elephant of the Retail Customer Experience"
+    },
+    {
+      "highlight": "Channels",
+      "text": "Addressing the B2B Salesforce “Iceberg Effect” with Customer Experience Management and Transforming the Customer Experience though Visual IVRs and Chatbots"
+    },
+    {
+      "highlight": "Measurement",
+      "text": "Resort Fees and Customer Experience Guiding Principles and Starting the Journey to a World beyond Net Promoter Score"
+    },
+    {
+      "highlight": "3 Mistakes of Journey Management",
+      "text": "presented at CO-OP’s THINK! 2018 conference"
+    },
+    {
+      "highlight": "CX Podcast",
+      "text": "co-presented with TribeCX"
+    },
+    {
+      "highlight": "Mastercard Data & Services Test & Learn™",
+      "text": "Decisions with Confidence"
+    },
+    {
+      "highlight": "CerebriAI",
+      "text": "The New Science of Customer Success"
+    },
+    {
+      "highlight": "ClickFox",
+      "text": "Big data journey analytics"
+    },
+    {
+      "highlight": "Stratifyd",
+      "text": "Turn customer interactions into actionable intelligence"
+    },
+    {
+      "highlight": "TribeCX",
+      "text": "By CX People, For CX People"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with highlighted text sections",
+  "layout_type": "Text-heavy",
+  "content_zones": {
+    "left_column": "Assets",
+    "right_column": "Tech Stack"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Assets",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "Tech Stack",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 12,
+    "max_words_per_bullet": 30,
+    "emphasis_rule": "Bold highlights for key terms"
+  },
+  "design_language": "Corporate and professional",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Black",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or table detected that fits the criteria for these fields."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slide_id": "4",
+  "section": "REWARD ECONOMICS",
+  "purpose": "To explain reward economics and its applications.",
+  "narrative_role": "Informative",
+  "title": "",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text",
+  "content_zones": {
+    "zone_1": {
+      "header": "What is reward economics?",
+      "text": "For a successful loyalty program, companies must balance the objectives of driving repeat purchases and generating cash from partners with the cost associated with it. Determining the cost and net gain from a loyalty program is a complicated process, dependent on the structure and incentives of a given program."
+    },
+    "zone_2": {
+      "header": "Where is reward economics used?",
+      "bullets": [
+        "Loyalty design project",
+        "Loyalty design and optimization",
+        "As part of Customer value proposition project"
+      ]
+    },
+    "zone_3": {
+      "header": "Potential learnings from the session",
+      "bullets": [
+        "Key terms used to define loyalty programs",
+        "Cost and revenue components for loyalty program",
+        "Important factors to compare loyalty programs",
+        "Framework for financial evaluation of loyalty program"
+      ]
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Dollar sign",
+      "position": "left of zone_1"
+    },
+    {
+      "type": "icon",
+      "label": "Pencil",
+      "position": "left of zone_2"
+    },
+    {
+      "type": "icon",
+      "label": "Pencil",
+      "position": "left of zone_3"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of orange color for headers"
+  },
+  "design_language": "Corporate and clean",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not discernible from the image."
+  }
+}

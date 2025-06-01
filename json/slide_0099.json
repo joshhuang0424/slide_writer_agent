@@ -1,0 +1,141 @@
+{
+  "slide_id": "25",
+  "section": "Transportation Modes",
+  "purpose": "To present changes in transportation modes before and after COVID-19.",
+  "narrative_role": "Informative",
+  "title": "Change of mode mix before and after COVID-19 shows largest regional variation for public transport",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 1 (may 9-18), wave 2 (may 27-29), wave 3 (june 16-18), wave 4 (july 15-17), wave 5 (sep 2-4), and wave 6 (nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "Delta of responses for return to 'next normal' vs. before COVID-19"
+  ],
+  "cta": null,
+  "layout": "Table and Text",
+  "layout_type": "data-driven",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key points"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Change of transportation modes",
+      "description": "Delta of responses for return to 'next normal' vs. before COVID-19, in percent points",
+      "headers": [
+        "Region",
+        "Private car",
+        "Public transport",
+        "Walking or biking with private bike",
+        "Micromobility",
+        "Car sharing",
+        "Ride hailing"
+      ],
+      "rows": [
+        {
+          "row_label": "EU",
+          "cells": [
+            "0,5",
+            "0,2",
+            "6,2",
+            "1,9",
+            "1,4",
+            "1,2"
+          ]
+        },
+        {
+          "row_label": "UK",
+          "cells": [
+            "0,7",
+            "-2,4",
+            "8,2",
+            "0,8",
+            "0,7",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "-0,1",
+            "1,2",
+            "5,1",
+            "1,4",
+            "1,0",
+            "1,1"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "0,8",
+            "0,8",
+            "5,7",
+            "4,1",
+            "2,9",
+            "3,0"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "0,7",
+            "1,1",
+            "6,0",
+            "1,2",
+            "1,1",
+            "0,8"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "bar chart look"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or additional infographics detected."
+  }
+}

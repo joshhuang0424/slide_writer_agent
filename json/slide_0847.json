@@ -1,0 +1,144 @@
+{
+  "slide_id": "1",
+  "section": "Business Performance",
+  "purpose": "To highlight the revenue growth and business structure of 光大银行 compared to its peers.",
+  "narrative_role": "Informative",
+  "title": "营业收入：近五年来，光大各项业务均衡发展，营收增速领先同业，从收入结构来看，光大正向综合化方向发展",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison and trend analysis",
+  "data_points": [
+    "光大银行CAGR: 13.56%",
+    "招商银行CAGR: 10.66%",
+    "平安银行CAGR: 12.49%",
+    "民生银行CAGR: 4.00%",
+    "2021年光大银行零售业务占比: 20%"
+  ],
+  "cta": null,
+  "layout": "Two-column with charts",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left_chart": "2017-2021年光大及其对标公司营业收入（亿元）",
+    "right_chart": "2021年光大及其对标公司营业收入结构（%）"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key figures"
+  },
+  "design_language": "Professional, data-driven",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Line and Bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "Unknown"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "营业收入增长率",
+      "description": "Comparison of CAGR from 2017 to 2021",
+      "headers": [
+        "银行",
+        "CAGR"
+      ],
+      "rows": [
+        {
+          "row_label": "光大银行",
+          "cells": [
+            "光大银行",
+            "13.56%"
+          ]
+        },
+        {
+          "row_label": "招商银行",
+          "cells": [
+            "招商银行",
+            "10.66%"
+          ]
+        },
+        {
+          "row_label": "平安银行",
+          "cells": [
+            "平安银行",
+            "12.49%"
+          ]
+        },
+        {
+          "row_label": "民生银行",
+          "cells": [
+            "民生银行",
+            "4.00%"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "standard"
+    },
+    {
+      "title": "2021年营业收入结构",
+      "description": "2021 revenue structure",
+      "headers": [
+        "业务类型",
+        "占比"
+      ],
+      "rows": [
+        {
+          "row_label": "零售业务",
+          "cells": [
+            "零售业务",
+            "54%"
+          ]
+        },
+        {
+          "row_label": "对公业务",
+          "cells": [
+            "对公业务",
+            "32%"
+          ]
+        },
+        {
+          "row_label": "其他业务",
+          "cells": [
+            "其他业务",
+            "15%"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "stacked bar"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The chart type contains both line and bar elements, making it difficult to classify under one category. Specific font sizes and weights are not provided in the image."
+  }
+}

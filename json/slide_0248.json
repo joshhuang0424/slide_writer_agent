@@ -1,0 +1,109 @@
+{
+  "slide_id": "79",
+  "section": "Management Models",
+  "purpose": "To illustrate the components of an integrated TSR management model.",
+  "narrative_role": "Explain",
+  "title": "Integrated TSR management model requires a strong value based management foundation",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustration of relationships between different strategies and processes.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic with text",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Description of TSR strategy and value based management",
+    "right": "Alignment of strategies with management practices"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Optimal TSR",
+      "position": "center"
+    },
+    {
+      "type": "rectangle",
+      "label": "Metric design/selection usage",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Color emphasis on key terms"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Metric design/selection usage",
+      "description": "Illustrates the components of TSR management processes",
+      "headers": [
+        "Metric design/selection usage"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Target setting",
+            "Planning/Budgeting",
+            "Resource allocation"
+          ]
+        },
+        {
+          "cells": [
+            "Incentives"
+          ]
+        },
+        {
+          "cells": [
+            "Systems reporting"
+          ]
+        },
+        {
+          "cells": [
+            "Training & capability building"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No traditional data charts or bullet points were present on this slide."
+  }
+}

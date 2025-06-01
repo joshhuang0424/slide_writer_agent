@@ -1,0 +1,107 @@
+{
+  "slide_id": "13",
+  "section": "Transformation approach",
+  "purpose": "To outline the transformation approach for each domain",
+  "narrative_role": "Descriptive",
+  "title": "Transformation approach for each domain",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential steps",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic",
+  "layout_type": "split",
+  "content_zones": {
+    "left": "Transformation domains",
+    "center": "Refine productivity domains",
+    "right": "Execute plan and De-risk"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Transformation domains",
+      "position": "left"
+    },
+    {
+      "type": "infographic",
+      "label": "Refine opportunity size and domain plan",
+      "position": "center"
+    },
+    {
+      "type": "infographic",
+      "label": "Execute plan in 2–3-week sprints",
+      "position": "right"
+    },
+    {
+      "type": "infographic",
+      "label": "De-risk value capture",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "People and processes"
+      },
+      {
+        "id": "L1",
+        "label": "Apps and platforms"
+      },
+      {
+        "id": "L2",
+        "label": "Technology foundation"
+      },
+      {
+        "id": "L3",
+        "label": "Tech-enabled business processes"
+      },
+      {
+        "id": "L4",
+        "label": "Program governance and value assurance"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

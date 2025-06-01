@@ -1,0 +1,100 @@
+{
+  "slide_id": "15",
+  "section": "Workplace Gender Dynamics",
+  "purpose": "Highlight the risk of losing senior women employees.",
+  "narrative_role": "Informative",
+  "title": "High risk of losing senior women",
+  "bullets": [
+    {
+      "highlight": "1 in 4",
+      "text": "senior women have considered leaving the workforce or downshifting their careers since the start of the COVID-19 crisis"
+    }
+  ],
+  "supporting_facts": [
+    "Feeling 'always on' is more common among senior women"
+  ],
+  "reasoning_strategy": "Comparison between genders",
+  "data_points": [
+    "Senior women: 47%",
+    "Senior men: 40%",
+    "All women: 32%",
+    "All men: 31%"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Infographic with text",
+  "content_zones": {
+    "left": "Donut chart showing 'always on' feeling percentages",
+    "right": "Text and iconography showing likelihood of considering leaving"
+  },
+  "visual_elements": [
+    {
+      "type": "donut_chart",
+      "label": "'Always on' feeling percentages",
+      "position": "left"
+    },
+    {
+      "type": "iconography",
+      "label": "Senior women and men comparison",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics in blue"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "Donut",
+    "title": "Feeling 'always on' is more common among senior women",
+    "x_axis_label": "",
+    "y_axis": [
+      "% employees"
+    ],
+    "values": [
+      {
+        "category": "Senior women",
+        "value": 47
+      },
+      {
+        "category": "Senior men",
+        "value": 40
+      },
+      {
+        "category": "All women",
+        "value": 32
+      },
+      {
+        "category": "All men",
+        "value": 31
+      }
+    ],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "所有欄位已有明確資訊"
+  }
+}

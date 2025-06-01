@@ -1,0 +1,227 @@
+{
+  "slide_id": "1",
+  "section": "Sustainability Metrics",
+  "purpose": "To present sustainability targets and scores for various players",
+  "narrative_role": "Informative",
+  "title": "Dimension 1: Commitment to sustainability Indicator 1: Targets (2/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of scores across different players",
+  "data_points": [
+    {
+      "Metric": "CO2e scope 1 & 2 emissions: Carbon neutrality ambition",
+      "Weight": "15%"
+    },
+    {
+      "Metric": "CO2e scope 3 emissions: Comprehensive measurement",
+      "Weight": "5%"
+    },
+    {
+      "Metric": "CO2e scope 3 emissions: Comprehensive targets",
+      "Weight": "5%"
+    },
+    {
+      "Metric": "Waste: Comprehensiveness and detail of measurement",
+      "Weight": "5%"
+    },
+    {
+      "Metric": "Waste: Target ambition",
+      "Weight": "5%"
+    },
+    {
+      "Metric": "Actionability of targets",
+      "Weight": "15%"
+    }
+  ],
+  "cta": null,
+  "layout": "Two-column with table",
+  "layout_type": "table-focused",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "infographic": "left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "N",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "J",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted in different colors"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Dimension score",
+      "description": "Scores for different players across sustainability metrics",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 11",
+        "Player 12",
+        "Player 13",
+        "Player 14",
+        "Player 15",
+        "Player 16",
+        "Player 17",
+        "Player 18",
+        "Player 19",
+        "Player 20",
+        "Player 21"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "CO2e scope 1 & 2 emissions: Carbon neutrality ambition",
+            "15%",
+            "70",
+            "0",
+            "80",
+            "100",
+            "40",
+            "40",
+            "70",
+            "0",
+            "0",
+            "40",
+            "40"
+          ]
+        },
+        {
+          "cells": [
+            "CO2e scope 3 emissions: Comprehensive measurement",
+            "5%",
+            "40",
+            "100",
+            "35",
+            "30",
+            "30",
+            "30",
+            "10",
+            "15",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "CO2e scope 3 emissions: Comprehensive targets",
+            "5%",
+            "0",
+            "25",
+            "0",
+            "0",
+            "0",
+            "0",
+            "78",
+            "43",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Waste: Comprehensiveness and detail of measurement",
+            "5%",
+            "85",
+            "100",
+            "100",
+            "100",
+            "70",
+            "70",
+            "20",
+            "70",
+            "100",
+            "30",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Waste: Target ambition",
+            "5%",
+            "65",
+            "63",
+            "25",
+            "0",
+            "13",
+            "60",
+            "75",
+            "25",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Actionability of targets",
+            "15%",
+            "60",
+            "80",
+            "30",
+            "70",
+            "50",
+            "80",
+            "60",
+            "50",
+            "0",
+            "0",
+            "60"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "infographic": "No pyramid or similar infographic present",
+    "chart": "No chart elements detected on the slide"
+  }
+}

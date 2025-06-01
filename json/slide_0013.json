@@ -1,0 +1,121 @@
+{
+  "slide_id": "13",
+  "section": "Impact of COVID-19 on Household Responsibilities",
+  "purpose": "To highlight the increased burden on mothers during the COVID-19 crisis",
+  "narrative_role": "Informative",
+  "title": "The double double shift for mothers is untenable",
+  "bullets": [
+    {
+      "highlight": "40%",
+      "text": "Spend 15+ additional hours per work week on household responsibilities vs. prior to COVID-19 crisis"
+    },
+    {
+      "highlight": "2x",
+      "text": "More likely than fathers to worry that their performance is being judged negatively because of their caregiving responsibilities"
+    },
+    {
+      "highlight": "1 in 3",
+      "text": "Have considered leaving the workforce or downshifting their careers since the start of the COVID-19 crisis"
+    }
+  ],
+  "supporting_facts": [
+    "Source: 2020 Women in the Workplace research"
+  ],
+  "reasoning_strategy": "Comparison of responsibilities between fathers and mothers",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "visual-text",
+  "content_zones": {
+    "left": "Chart showing time spent on household responsibilities",
+    "right": "Bullet points with statistics"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "clock",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "family",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "calendar",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key statistics in larger font"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "#003366",
+    "accent": "#0073e6",
+    "background": "#f8f8f8"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "Time Spent on Household Responsibilities",
+    "x_axis_label": "Group",
+    "y_axis": [
+      "Fathers",
+      "Mothers"
+    ],
+    "values": [
+      {
+        "Fathers": [
+          32,
+          41,
+          20,
+          7
+        ]
+      },
+      {
+        "Mothers": [
+          25,
+          35,
+          25,
+          15
+        ]
+      }
+    ],
+    "annotations": [
+      "Same amount or less",
+      "Additional 1 to 2 hours",
+      "Additional 3 to 4 hours",
+      "Additional 5+ hours"
+    ],
+    "source": "2020 Women in the Workplace research"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No table data present; infographic levels are not applicable.",
+    "bullet_grid": "3 rows, 2 columns"
+  }
+}

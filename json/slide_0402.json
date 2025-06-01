@@ -1,0 +1,107 @@
+{
+  "slide_id": "2",
+  "section": "COVID-19 Response",
+  "purpose": "Provide a checklist for rapid crisis response.",
+  "narrative_role": "Informative",
+  "title": "BCG’S COVID-19 RAPID CRISIS RESPONSE CHECKLIST",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Checklist with categorized actions",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with additional sidebar",
+  "layout_type": "Grid",
+  "content_zones": {
+    "left_column": "Execution Clarity, Team Health & Safety, Business Strength, Financial Resilience",
+    "right_sidebar": "Resources and links"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 4,
+    "emphasis_rule": "Headers bold"
+  },
+  "design_language": "Professional, structured",
+  "color_scheme": {
+    "primary": "#004B4B",
+    "accent": "#009688",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Crisis Response Checklist",
+      "description": "Actions categorized by focus areas",
+      "headers": [
+        "Execution Clarity",
+        "Team Health & Safety",
+        "Business Strength",
+        "Financial Resilience"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Coordinate and scale response and planning adaptively",
+            "Reduce risk of transmission",
+            "Preserve top line and build trust with customers",
+            "Manage cash and liquidity"
+          ]
+        },
+        {
+          "cells": [
+            "Engage the organization",
+            "Support those who are/ may be infected",
+            "Reinforce ability to supply",
+            "Ensure cost discipline"
+          ]
+        },
+        {
+          "cells": [
+            "Empower the team",
+            "Reduce stress and boost morale",
+            "Adapt resources to meet business needs",
+            "Revise financial plan and perform scenario-based stress tests"
+          ]
+        },
+        {
+          "cells": [
+            "Lead with purpose & integrity",
+            "Ensure compliance with regulatory requirements",
+            "Monitor & respond to market and competitive dynamics",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No chart or infographic present; visual elements are primarily text-based."
+  }
+}

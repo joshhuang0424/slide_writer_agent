@@ -1,0 +1,122 @@
+{
+  "slide_id": "77",
+  "section": "Sony Business Analysis",
+  "purpose": "To present the sales and operating income of Sony's business segments in 2013.",
+  "narrative_role": "Data Presentation",
+  "title": "Sony business portfolio snapshot in 2013",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Chart",
+  "layout_type": "Informative",
+  "content_zones": {
+    "title": "top",
+    "chart": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "various",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Sales and Operating Income (Loss) by Segment",
+    "x_axis_label": "Segments",
+    "y_axis": [
+      "Yen in billions"
+    ],
+    "values": [
+      {
+        "segment": "Imaging Products & Solutions",
+        "sales_2012": 761.3,
+        "sales_2013": 730.4,
+        "operating_income_2012": 18.6,
+        "operating_income_2013": 1.4
+      },
+      {
+        "segment": "Game",
+        "sales_2012": 805.0,
+        "sales_2013": 707.1,
+        "operating_income_2012": 29.3,
+        "operating_income_2013": 1.7
+      },
+      {
+        "segment": "Mobile Products & Communications",
+        "sales_2012": 622.7,
+        "sales_2013": 1257.6,
+        "operating_income_2012": 7.2,
+        "operating_income_2013": -97.2
+      },
+      {
+        "segment": "Home Entertainment & Sound",
+        "sales_2012": 1283.2,
+        "sales_2013": 994.8,
+        "operating_income_2012": -203.2,
+        "operating_income_2013": -84.3
+      },
+      {
+        "segment": "Devices",
+        "sales_2012": 1026.6,
+        "sales_2013": 848.6,
+        "operating_income_2012": null,
+        "operating_income_2013": -22.1
+      },
+      {
+        "segment": "Pictures",
+        "sales_2012": 657.7,
+        "sales_2013": 732.7,
+        "operating_income_2012": 34.1,
+        "operating_income_2013": 47.8
+      },
+      {
+        "segment": "Music",
+        "sales_2012": 442.8,
+        "sales_2013": 441.7,
+        "operating_income_2012": 36.9,
+        "operating_income_2013": 37.2
+      },
+      {
+        "segment": "Financial Services",
+        "sales_2012": 871.9,
+        "sales_2013": 1007.7,
+        "operating_income_2012": 131.4,
+        "operating_income_2013": 145.8
+      }
+    ],
+    "annotations": [],
+    "source": "Company reporting, BCG estimates; BCG ValueScience® Center"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family and some details about the chart's design were not specified."
+  }
+}

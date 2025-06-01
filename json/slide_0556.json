@@ -1,0 +1,85 @@
+{
+  "slide_id": "16",
+  "section": "Contact Information",
+  "purpose": "Provide contact details for further inquiries about the social impact assessment approach.",
+  "narrative_role": "Informative",
+  "title": "Contact Us",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Direct contact invitation",
+  "data_points": [],
+  "cta": "Contact us for more information",
+  "layout": "two-column",
+  "layout_type": "grid",
+  "content_zones": {
+    "header": "top",
+    "contacts": "center",
+    "logos": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "image",
+      "label": "Douglas Reed",
+      "position": "left-top"
+    },
+    {
+      "type": "image",
+      "label": "Peter Fechner",
+      "position": "right-top"
+    },
+    {
+      "type": "image",
+      "label": "Germain Houedenou",
+      "position": "left-bottom"
+    },
+    {
+      "type": "image",
+      "label": "Alexander Baic",
+      "position": "right-bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Blue for main message"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Blue",
+    "accent": "Black",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts, bullets, or tables present in the slide."
+  }
+}

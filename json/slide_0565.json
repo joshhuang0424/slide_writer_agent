@@ -1,0 +1,166 @@
+{
+  "slide_id": "10",
+  "section": "Housing Affordability",
+  "purpose": "Illustrate the loss of housing units affordable to households earning less than 80% of AMI in Seattle since 2010",
+  "narrative_role": "Informative",
+  "title": "Since 2010, Seattle has lost 112,000 housing units that households earning less than 80% of AMI could afford",
+  "bullets": [],
+  "supporting_facts": [
+    "Includes units affordable at the high end of the range and unaffordable at the low end",
+    "Projection based on 2013-17 CAGR",
+    "Assumed that >100% AMI rental stock will grow at the same rate as households in that income category",
+    "Maximum monthly affordable rent calculated using the 2017 HUD Income thresholds for a 4-person household"
+  ],
+  "reasoning_strategy": "Data presentation",
+  "data_points": [
+    "Since 2010, Seattle has lost 112k affordable housing units",
+    "24k units affordable to households with <30% AMI in 2017"
+  ],
+  "cta": null,
+  "layout": "Single chart with annotations",
+  "layout_type": "Chart-centric",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "text",
+      "label": "112k affordable units lost since 2010",
+      "position": "right"
+    },
+    {
+      "type": "text",
+      "label": "24k units affordable to households with <30% AMI in 2017",
+      "position": "bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key statistics"
+  },
+  "design_language": "Professional, data-focused",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "stacked bar chart",
+    "title": "Supply of rental units in King County by the AMI Tier",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Thousands of units"
+    ],
+    "values": [
+      {
+        "year": "2010",
+        "100%+": 18,
+        "80-100%": 52,
+        "50-80%": 151,
+        "30-50%": 92,
+        "<30%": 28
+      },
+      {
+        "year": "2011",
+        "100%+": 26,
+        "80-100%": 64,
+        "50-80%": 137,
+        "30-50%": 94,
+        "<30%": 28
+      },
+      {
+        "year": "2012",
+        "100%+": 28,
+        "80-100%": 65,
+        "50-80%": 154,
+        "30-50%": 81,
+        "<30%": 28
+      },
+      {
+        "year": "2013",
+        "100%+": 39,
+        "80-100%": 82,
+        "50-80%": 139,
+        "30-50%": 72,
+        "<30%": 27
+      },
+      {
+        "year": "2014",
+        "100%+": 48,
+        "80-100%": 100,
+        "50-80%": 122,
+        "30-50%": 64,
+        "<30%": 27
+      },
+      {
+        "year": "2015",
+        "100%+": 57,
+        "80-100%": 105,
+        "50-80%": 122,
+        "30-50%": 46,
+        "<30%": 27
+      },
+      {
+        "year": "2016",
+        "100%+": 80,
+        "80-100%": 98,
+        "50-80%": 134,
+        "30-50%": 44,
+        "<30%": 25
+      },
+      {
+        "year": "2017",
+        "100%+": 85,
+        "80-100%": 123,
+        "50-80%": 120,
+        "30-50%": 35,
+        "<30%": 24
+      },
+      {
+        "year": "2018",
+        "100%+": 90,
+        "80-100%": 136,
+        "50-80%": 116,
+        "30-50%": 29,
+        "<30%": 24
+      },
+      {
+        "year": "2019",
+        "100%+": 97,
+        "80-100%": 151,
+        "50-80%": 112,
+        "30-50%": 24,
+        "<30%": 23
+      }
+    ],
+    "annotations": [],
+    "source": "American Community Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No pyramid graphic or specific alignment grid on bullets."
+  }
+}

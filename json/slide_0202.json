@@ -1,0 +1,81 @@
+{
+  "slide_id": "33",
+  "section": "BCG TSR 方案介紹",
+  "purpose": "展示股東溝通策略與投資主體的關係",
+  "narrative_role": "說明業務與財務策略",
+  "title": "最佳的股東溝通策略，將能維繫與投資主體的關係",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "分別從業務策略與財務策略的角度，提供具體措施以維繫與投資主體的良好關係。",
+  "data_points": [],
+  "cta": null,
+  "layout": "三欄佈局",
+  "layout_type": "textual",
+  "content_zones": {
+    "left": "業務策略",
+    "center": "財務策略",
+    "right": "投資主體"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "業務策略",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "財務策略",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "投資主體",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "數字強調"
+  },
+  "design_language": "清新、專業",
+  "color_scheme": {
+    "primary": "綠色",
+    "accent": "白色",
+    "background": "白色"
+  },
+  "font": {
+    "title": {
+      "font_family": "未提供",
+      "size": "未提供",
+      "weight": "未提供"
+    },
+    "body": {
+      "font_family": "未提供",
+      "size": "未提供"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "字體、大小等細節未在圖片中標示"
+  }
+}

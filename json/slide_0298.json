@@ -1,0 +1,129 @@
+{
+  "slide_id": "14",
+  "section": "Transformation approach",
+  "purpose": "To present a structured approach for transformation across different domains.",
+  "narrative_role": "Informative",
+  "title": "Transformation approach for each domain",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Identify biggest sources of value per domain"
+    },
+    {
+      "highlight": false,
+      "text": "Prioritize opportunities"
+    },
+    {
+      "highlight": false,
+      "text": "Define objectives and key results (OKRs)"
+    },
+    {
+      "highlight": false,
+      "text": "Set up 2-week agile sprints"
+    },
+    {
+      "highlight": false,
+      "text": "Multiple domains run in parallel"
+    },
+    {
+      "highlight": false,
+      "text": "Focus is on capturing quick wins while working toward long-term value pools"
+    },
+    {
+      "highlight": false,
+      "text": "Support financial infrastructure to track value capture"
+    },
+    {
+      "highlight": false,
+      "text": "Operationalize OKRs and align to enterprise strategy"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Structured transformation domains and processes.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with visual elements",
+  "layout_type": "Hybrid",
+  "content_zones": {
+    "left": "Transformation domains",
+    "right": "Process flow"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "Transformation domains",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "Process flow",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for section headers."
+  },
+  "design_language": "Corporate and structured",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "People and processes"
+      },
+      {
+        "id": "L1",
+        "label": "Apps and platforms"
+      },
+      {
+        "id": "L2",
+        "label": "Technology foundation"
+      },
+      {
+        "id": "L3",
+        "label": "Tech-enabled business processes"
+      },
+      {
+        "id": "L4",
+        "label": "Program governance and value assurance"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or charts presented."
+  }
+}

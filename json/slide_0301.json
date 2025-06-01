@@ -1,0 +1,97 @@
+{
+  "slide_id": "1",
+  "section": "Agenda",
+  "purpose": "Outline the session topics and structure",
+  "narrative_role": "Introduction",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Session Overview"
+    },
+    {
+      "highlight": "",
+      "text": "Objectives"
+    },
+    {
+      "highlight": "",
+      "text": "Mastercard Data Analytics – Differentiation and Capabilities"
+    },
+    {
+      "highlight": "",
+      "text": "D&S Analytics engagement sub-types"
+    },
+    {
+      "highlight": "",
+      "text": "Analytics for FI clients"
+    },
+    {
+      "highlight": "",
+      "text": "Merchant Analytics for Retail & Commerce clients"
+    },
+    {
+      "highlight": "",
+      "text": "Analytics Strategy"
+    },
+    {
+      "highlight": "",
+      "text": "Contact Us"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "List",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Bullet Points",
+  "layout_type": "Agenda",
+  "content_zones": {
+    "title": "top-left",
+    "bullets": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for section headers"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "orange",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "Font details are not specified in the image.",
+    "bullet_grid": "Single column list with sub-bullets"
+  }
+}

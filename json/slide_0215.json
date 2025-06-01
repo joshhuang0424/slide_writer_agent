@@ -1,0 +1,81 @@
+{
+  "slide_id": "46",
+  "section": "unknown",
+  "purpose": "To highlight the company's experience in supporting capital market days.",
+  "narrative_role": "informative",
+  "title": "unknown",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual emphasis on strategic areas using a pyramid infographic.",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "visual-left-text-right",
+  "content_zones": {
+    "left": "text",
+    "right": "infographic"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text in yellow"
+  },
+  "design_language": "modern, clean",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Primary Touchpoints"
+      },
+      {
+        "id": "L1",
+        "label": "Business strategy"
+      },
+      {
+        "id": "L2",
+        "label": "Investor strategy"
+      },
+      {
+        "id": "L3",
+        "label": "Financial strategy"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details and section are not discernible from the image."
+  }
+}

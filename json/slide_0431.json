@@ -1,0 +1,98 @@
+{
+  "slide_id": "22",
+  "section": "Acquisition Drivers",
+  "purpose": "Explain the impact of cardholder behavior on issuer's P&L and its correlation to credit risk.",
+  "narrative_role": "Explanatory",
+  "title": "The foundation of an issuer’s P&L is highly affected by cardholder behavior, often with strong correlation to the credit risk of cardholders",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between higher and lower risk cardholders.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column layout with visual element",
+  "layout_type": "Text and table",
+  "content_zones": {
+    "header": "The foundation of an issuer’s P&L...",
+    "visual": "Scale with higher risk and lower risk cardholders",
+    "table": "Center"
+  },
+  "visual_elements": [
+    {
+      "type": "scale",
+      "label": "Higher risk cardholders to Lower risk cardholders",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Professional, clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Cardholder Risk and Response Rates",
+      "description": "Comparison of response and approval rates based on cardholder risk",
+      "headers": [
+        "",
+        "Higher risk cardholders",
+        "Lower risk cardholders"
+      ],
+      "rows": [
+        {
+          "row_label": "Acquisition Response Rate",
+          "cells": [
+            "Percentage of people that respond to the acquisition method",
+            "Higher response rates",
+            "Lower response rates"
+          ]
+        },
+        {
+          "row_label": "Application Approval Rate",
+          "cells": [
+            "Percentage of applicants that have been approved for a credit card",
+            "Lower approval rates due to greater risk of delinquency or chargeoffs for credit card issuers",
+            "Higher approval rates due to less risk for credit card issuers"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

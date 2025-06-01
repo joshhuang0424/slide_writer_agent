@@ -1,0 +1,155 @@
+{
+  "slide_id": "31",
+  "section": "Risk Assessment",
+  "purpose": "Highlight the change in transportation preferences due to COVID-19 risks.",
+  "narrative_role": "Informative",
+  "title": "Risk of infection: shared and public transport are not considered as safe for health, infections became a top priority for the mode choice",
+  "bullets": [],
+  "supporting_facts": [
+    "Results of wave 1 (May 9-18), wave 2 (May 27-29), wave 3 (Jun 16-18), wave 4 (Jul 15-17), wave 5 (Sep 2-4), and wave 6 (Nov 6-10)"
+  ],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "81% consider private car as safe",
+    "9% consider public transport as safe",
+    "64% consider walking/biking as safe",
+    "8% consider shared micromobility as safe",
+    "5% consider car sharing as safe",
+    "5% consider ride hailing as safe"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "left": "Bar chart and observations",
+    "right": "List of reasons and donut chart"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Dark blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "Bar",
+    "title": "Modes of transportation considered safe for health",
+    "x_axis_label": "Modes of transportation",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "label": "Private car",
+        "value": 81
+      },
+      {
+        "label": "Public transport",
+        "value": 9
+      },
+      {
+        "label": "Walking/biking",
+        "value": 64
+      },
+      {
+        "label": "Shared micromobility",
+        "value": 8
+      },
+      {
+        "label": "Car sharing",
+        "value": 5
+      },
+      {
+        "label": "Ride hailing",
+        "value": 5
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Transportation safety perception",
+      "description": "Modes of transportation considered safe for health, concerning a COVID-19 infection",
+      "headers": [
+        "Mode",
+        "Percent"
+      ],
+      "rows": [
+        {
+          "row_label": "Private car",
+          "cells": [
+            "Private car",
+            "81"
+          ]
+        },
+        {
+          "row_label": "Public transport",
+          "cells": [
+            "Public transport",
+            "9"
+          ]
+        },
+        {
+          "row_label": "Walking/biking",
+          "cells": [
+            "Walking/biking",
+            "64"
+          ]
+        },
+        {
+          "row_label": "Shared micromobility",
+          "cells": [
+            "Shared micromobility",
+            "8"
+          ]
+        },
+        {
+          "row_label": "Car sharing",
+          "cells": [
+            "Car sharing",
+            "5"
+          ]
+        },
+        {
+          "row_label": "Ride hailing",
+          "cells": [
+            "Ride hailing",
+            "5"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present, only bar chart and donut chart observed."
+  }
+}

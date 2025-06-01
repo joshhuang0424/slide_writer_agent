@@ -1,0 +1,111 @@
+{
+  "slide_id": "1",
+  "section": "Impact of COVID-19",
+  "purpose": "To highlight the regressive effects of COVID-19 on gender equality in health, jobs, and work hours.",
+  "narrative_role": "Informative",
+  "title": "COVID-19 may set us back",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of pre- and post-COVID-19 impacts on women in different sectors.",
+  "data_points": [
+    "70% of jobs in human health and social work are held by women.",
+    "54% of global job losses accounted by women.",
+    "25% increase in the gender gap in work hours."
+  ],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "text-focused",
+  "content_zones": {
+    "left": "Health",
+    "center": "Jobs",
+    "right": "Double shift"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted percentages in blue."
+  },
+  "design_language": "Professional and straightforward.",
+  "color_scheme": {
+    "primary": "#FFFFFF",
+    "accent": "#00ADEF",
+    "background": "#0A2239"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "COVID-19 Impact on Women",
+      "description": "Statistics highlighting women's impact in various sectors during COVID-19.",
+      "headers": [
+        "Category",
+        "Percentage",
+        "Description"
+      ],
+      "rows": [
+        {
+          "row_label": "Health",
+          "cells": [
+            "Health",
+            "70%",
+            "Jobs in health and social work held by women."
+          ],
+          "pyramid_level": "L0"
+        },
+        {
+          "row_label": "Jobs",
+          "cells": [
+            "Jobs",
+            "54%",
+            "Women account for 54% of job losses."
+          ],
+          "pyramid_level": "L1"
+        },
+        {
+          "row_label": "Double shift",
+          "cells": [
+            "Double shift",
+            "25%",
+            "Increase in the gender gap in work hours."
+          ],
+          "pyramid_level": "L2"
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart present, only table with percentages in text blocks.",
+    "source_info": "McKinsey and other sources listed at the bottom."
+  }
+}

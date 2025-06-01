@@ -1,0 +1,91 @@
+{
+  "slide_id": "17",
+  "section": "Implementation",
+  "purpose": "Outline next steps for implementing the model",
+  "narrative_role": "Explainer",
+  "title": "下一步模型落地",
+  "bullets": [
+    {
+      "highlight": "将模型落地应用于[某行]全体可分期顾客，对每一客户给予最适折扣优惠",
+      "text": "应用模型落地手册或由APT导出每一顾客最适合推荐折数反馈给[某行]，发送最适折扣邀约"
+    },
+    {
+      "highlight": "分期期数推荐测试",
+      "text": "商业问题：如何定位每一顾客最适推荐分期期数？何种类型顾客适合推荐较高期数且能大致维持响应率？"
+    },
+    {
+      "highlight": "分期沟通渠道测试",
+      "text": "商业问题：如何分配外呼、短信、微信等渠道进行分期邀请？何种类型顾客用外呼成效最佳？如何有效运用有限外呼资源？"
+    },
+    {
+      "highlight": "分期叠加诱因测试",
+      "text": "商业问题：以何种诱因(礼品、额度...)提供何种类型顾客(已有分期顾客、从未申办分期顾客、新卡户...)能提升客户分期粘性，养成分期习惯并最大化分期收益？"
+    },
+    {
+      "highlight": "提额促动分期测试",
+      "text": "商业问题：在控制风险的情况下优先对何种类型顾客提额，能最大化分期收益？"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Testing and targeting strategies for different customer segments",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullets",
+  "layout_type": "Text-focused",
+  "content_zones": {
+    "title": "top_left",
+    "bullets": "center"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific font details provided in the image."
+  }
+}

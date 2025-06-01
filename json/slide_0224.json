@@ -1,0 +1,79 @@
+{
+  "slide_id": "55",
+  "section": "BCG TSR方案介绍",
+  "purpose": "展示BCG专有数据库工具的分析结果示例",
+  "narrative_role": "summary",
+  "title": "...运用BCG专有数据库工具，快速生成标准化分析结果",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "展示多个分析结果的缩略图，提供概览",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "thumbnail_overview",
+  "content_zones": {
+    "header": "top",
+    "thumbnails": "center",
+    "footer": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted text in green"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "thumbnail_titles": [
+      "过去3, 5, 10年TSR趋势分析",
+      "同业TSR排名分析",
+      "TSR各主要驱动因素分析",
+      "EBITDA利润率和销售额增长",
+      "倍数和TSR",
+      "历史vs. 远期倍数",
+      "资产生产率和投资效率分析",
+      "分析师卖出、持有、买入统计",
+      "投资者组合分析",
+      "分析师评论分析",
+      "资金来源、资金运用分析",
+      "分类加总估值法分析"
+    ],
+    "_why_unknown": "The slide is an overview with thumbnails; details of charts and tables within thumbnails are not visible or readable."
+  }
+}

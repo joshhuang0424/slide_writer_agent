@@ -1,0 +1,183 @@
+{
+  "slide_id": "6",
+  "section": "Impact Analysis",
+  "purpose": "To illustrate the varying impact of the second lockdown on automotive retailers across different European countries.",
+  "narrative_role": "Informative",
+  "title": "2nd lockdown expected to have overall less severe impact on automotive retailers in Europe, but strong variation by country",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis across countries",
+  "data_points": [
+    {
+      "country": "Germany",
+      "sales_change": "-4%",
+      "consumer_confidence": "99.8",
+      "purchase_intent_change": "-6pp.",
+      "private_car_use_change": "+12%"
+    },
+    {
+      "country": "UK",
+      "sales_change": "-2%",
+      "consumer_confidence": "97.7",
+      "purchase_intent_change": "-15pp.",
+      "private_car_use_change": "+12%"
+    },
+    {
+      "country": "France",
+      "sales_change": "-10%",
+      "consumer_confidence": "98.8",
+      "purchase_intent_change": "-19pp.",
+      "private_car_use_change": "+14%"
+    },
+    {
+      "country": "Italy",
+      "sales_change": "0%",
+      "consumer_confidence": "99.6",
+      "purchase_intent_change": "-15pp.",
+      "private_car_use_change": "+29%"
+    },
+    {
+      "country": "Spain",
+      "sales_change": "-21%",
+      "consumer_confidence": "96.2",
+      "purchase_intent_change": "n/a",
+      "private_car_use_change": "n/a"
+    }
+  ],
+  "cta": null,
+  "layout": "Title and table with icons",
+  "layout_type": "Informative",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "legend": "top right"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "No restrictions",
+      "position": "top right"
+    },
+    {
+      "type": "icon",
+      "label": "Fully closed",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "None"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Expected impact of lockdown 2 on car sales",
+      "description": "Comparison of sales impact, regulatory circumstances, and consumer sentiment across countries.",
+      "headers": [
+        "",
+        "Germany",
+        "UK",
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "rows": [
+        {
+          "row_label": "Sales basis",
+          "cells": [
+            "Vehicle sales",
+            "-4%",
+            "-2%",
+            "-10%",
+            "0%",
+            "-21%"
+          ]
+        },
+        {
+          "row_label": "Regulatory circumstances",
+          "cells": [
+            "Restrictions for automotive retailers",
+            "Partial",
+            "Partial",
+            "Partial",
+            "Partial",
+            "Partial"
+          ]
+        },
+        {
+          "row_label": "Consumer confidence",
+          "cells": [
+            "Indexed Oct 20",
+            "99.8",
+            "97.7",
+            "98.8",
+            "99.6",
+            "96.2"
+          ]
+        },
+        {
+          "row_label": "Purchase intent",
+          "cells": [
+            "Change in new car purchase intent",
+            "-6pp.",
+            "-15pp.",
+            "-19pp.",
+            "-15pp.",
+            "n/a"
+          ]
+        },
+        {
+          "row_label": "Increased use of private car",
+          "cells": [
+            "% of respondents",
+            "+12%",
+            "+12%",
+            "+14%",
+            "+29%",
+            "n/a"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No additional infographic or chart data present on the slide."
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "slide_id": "31",
+  "section": "Propensity Model",
+  "purpose": "To explain the propensity model for Cathay Insurance and illustrate model drivers and predictions.",
+  "narrative_role": "Informative",
+  "title": "Propensity Model: Cathay Insurance",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive explanation of model components and data-driven prediction illustration.",
+  "data_points": [
+    "Top 200K were selected using model prediction with 2.5X model accuracy"
+  ],
+  "cta": null,
+  "layout": "Two-column layout with text and chart",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "Text and table",
+    "right": "Chart and annotation"
+  },
+  "visual_elements": [
+    {
+      "type": "text_box",
+      "label": "Propensity Model",
+      "position": "top-left"
+    },
+    {
+      "type": "text_box",
+      "label": "Test group",
+      "position": "top-center"
+    },
+    {
+      "type": "arrow",
+      "label": "1 Have spend in selected 5 insurance",
+      "position": "top-right"
+    },
+    {
+      "type": "arrow",
+      "label": "0 No spend in selected 5 insurance",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numerical impact with red color"
+  },
+  "design_language": "Professional and data-driven",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Model illustration",
+    "x_axis_label": "Accumulated % of Cardholders",
+    "y_axis": [
+      "% of Responders"
+    ],
+    "values": [],
+    "annotations": [
+      "20% of cardholders make 50% of responders"
+    ],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "List of model drivers",
+      "description": "Shows key drivers and their direction for the model",
+      "headers": [
+        "Key Drivers",
+        "Direction"
+      ],
+      "rows": [
+        {
+          "row_label": "Basic RFM",
+          "cells": [
+            "# Days Since Last Transaction",
+            "▼ Fewer days since last transaction"
+          ]
+        },
+        {
+          "row_label": "Basic RFM",
+          "cells": [
+            "# of Countries in last year",
+            "▼ Fewer countries"
+          ]
+        },
+        {
+          "row_label": "Basic RFM",
+          "cells": [
+            "BIN 6: World, MEB, Titanium",
+            "▲ Higher card tier"
+          ]
+        },
+        {
+          "row_label": "MCC group",
+          "cells": [
+            "Spent in insurance last year",
+            "▲ Had transaction"
+          ]
+        },
+        {
+          "row_label": "MCC group",
+          "cells": [
+            "Spent in Food & Warehouse last year",
+            "▲ Had transaction"
+          ]
+        },
+        {
+          "row_label": "MCC group",
+          "cells": [
+            "Spent in Other Retail last year",
+            "▲ Had transaction"
+          ]
+        },
+        {
+          "row_label": "MCC group",
+          "cells": [
+            "Spent in Utilities last year",
+            "▲ Had transaction"
+          ]
+        },
+        {
+          "row_label": "MCC group",
+          "cells": [
+            "Spent in Hotel last year",
+            "▲ Had transaction"
+          ]
+        },
+        {
+          "row_label": "MCC group",
+          "cells": [
+            "Spent in Internal Furnishing last year",
+            "▲ Had transaction"
+          ]
+        },
+        {
+          "row_label": "MCC group",
+          "cells": [
+            "Spent in Airlines last year",
+            "▲ Had transaction"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional pyramid levels or specific chart values are shown.",
+    "bullets_grid": {
+      "rows": 2,
+      "columns": 1
+    }
+  }
+}

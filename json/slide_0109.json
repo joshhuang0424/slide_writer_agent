@@ -1,0 +1,81 @@
+{
+  "slide_id": "4",
+  "section": "Executive Summary",
+  "purpose": "To summarize key findings from the COVID-19 Automotive Consumer Survey.",
+  "narrative_role": "summary",
+  "title": "Executive summary",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "The slide uses bullet points to concisely present findings across three main domains: perception of lockdown, car buying, and mobility.",
+  "data_points": [],
+  "cta": null,
+  "layout": "three-column",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Perception 2nd lockdown",
+    "center": "Car buying",
+    "right": "Mobility"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Perception 2nd lockdown",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Car buying",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Mobility",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "The slide primarily contains textual information without specific data points or numerical values, hence no tables or charts are present.",
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  }
+}

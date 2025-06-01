@@ -1,0 +1,76 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title slide for presentation",
+  "narrative_role": "Introduction",
+  "title": "Customer Experience Management 101",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "title with imagery",
+  "layout_type": "visual",
+  "content_zones": {
+    "title_zone": "left",
+    "imagery_zone": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Image of a man using a tablet",
+      "position": "top-right"
+    },
+    {
+      "type": "circle",
+      "label": "Image of a woman with a baby using a laptop",
+      "position": "bottom-right"
+    },
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "unknown"
+  },
+  "design_language": "modern, professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "white",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "normal"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

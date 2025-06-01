@@ -1,0 +1,80 @@
+{
+  "slide_id": "10",
+  "section": "Case Study",
+  "purpose": "To present engagement strategy for developing credit lifecycle management through consumer evaluation.",
+  "narrative_role": "Informative",
+  "title": "Engagement: Developing Credit Lifecycle management for a Challenger Bank through 360 degree consumer evaluation",
+  "bullets": [
+    {
+      "highlight": "1.",
+      "text": "Using client data for other products, have 360 degree understanding of customer"
+    },
+    {
+      "highlight": "2.",
+      "text": "Study of Cards’ statement data to understand lifecycle parameters, Identify spend inhibitors and recommend mitigation treatment to fuel spend behavior"
+    },
+    {
+      "highlight": "3.",
+      "text": "5 Step Recommendation to suggest spend expansion measures"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with charts",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Text blocks with background and problem statement",
+    "right": "Charts analyzing spend patterns and lifecycle parameters"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold text for headers"
+  },
+  "design_language": "Professional and corporate",
+  "color_scheme": {
+    "primary": "#F47B20",
+    "accent": "#FFFFFF",
+    "background": "#F2F2F2"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Normal"
+    }
+  },
+  "chart": {
+    "type": "Pie and Line",
+    "title": "",
+    "x_axis_label": "Statement Number/MOB",
+    "y_axis": [
+      "% Credit Card active vs MOB",
+      "% Cash Spend active vs MOB"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font family not specified in the slide."
+  }
+}

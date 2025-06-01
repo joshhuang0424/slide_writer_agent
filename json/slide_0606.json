@@ -1,0 +1,70 @@
+{
+  "slide_id": "2",
+  "section": "LCM Leading Practices",
+  "purpose": "Introduce lifecycle stages",
+  "narrative_role": "title_slide",
+  "title": "Lifecycle Stages",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "narrative",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "title and visual",
+  "content_zones": {
+    "left": "text",
+    "right": "visual"
+  },
+  "visual_elements": [
+    {
+      "type": "background_shape",
+      "label": "",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted number"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "dark gray and orange"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "This slide is primarily a title slide with minimal text and no data or tables."
+  }
+}

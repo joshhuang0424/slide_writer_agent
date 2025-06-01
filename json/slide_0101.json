@@ -1,0 +1,152 @@
+{
+  "slide_id": "27",
+  "section": "Shift in Transportation Preferences",
+  "purpose": "To illustrate the anticipated change in consumer transportation preferences post-COVID-19.",
+  "narrative_role": "Data presentation",
+  "title": "Around the world consumers expect to shift from airplanes and trains for intercity travelling to an increased use of private vehicles",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of transportation mode preferences",
+  "data_points": [],
+  "cta": null,
+  "layout": "infographic with data table",
+  "layout_type": "horizontal",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "footnotes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Airplane",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Train",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Private vehicle",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "corporate, data-driven",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "dark blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Change of mode for intercity travelling",
+      "description": "Comparison of transportation mode changes by country and vehicle ownership",
+      "headers": [
+        "Country",
+        "Airplane",
+        "Train",
+        "Private Vehicle"
+      ],
+      "rows": [
+        {
+          "row_label": "EU",
+          "cells": [
+            "15 / -37",
+            "18 / -27",
+            "28 / -11"
+          ]
+        },
+        {
+          "row_label": "UK",
+          "cells": [
+            "14 / -39",
+            "14 / -31",
+            "25 / -13"
+          ]
+        },
+        {
+          "row_label": "Germany",
+          "cells": [
+            "14 / -33",
+            "18 / -21",
+            "22 / -10"
+          ]
+        },
+        {
+          "row_label": "Italy",
+          "cells": [
+            "18 / -35",
+            "22 / -29",
+            "38 / -9"
+          ]
+        },
+        {
+          "row_label": "France",
+          "cells": [
+            "14 / -42",
+            "18 / -28",
+            "27 / -13"
+          ]
+        },
+        {
+          "row_label": "Owning a vehicle",
+          "cells": [
+            "15 / -38",
+            "18 / -28",
+            "28 / -11"
+          ]
+        },
+        {
+          "row_label": "Not owning a vehicle",
+          "cells": [
+            "15 / -32",
+            "19 / -19",
+            "22 / -15"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "highlighted with color blocks"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid structure detected; data presented in tables only."
+  }
+}

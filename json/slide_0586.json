@@ -1,0 +1,159 @@
+{
+  "slide_id": "15",
+  "section": "Reward Economics",
+  "purpose": "Illustrate the cost per point (CPP) calculation",
+  "narrative_role": "Informative",
+  "title": "Cost per point (CPP)\n.... Detailed illustrative calculations",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Banks negotiate the price with the partners for reward redemption, this price (cost of 100 points) is usually lower than the give back rate to the customers"
+    },
+    {
+      "highlight": true,
+      "text": "Weighted average cost per point to bank is 1.2 cents"
+    }
+  ],
+  "supporting_facts": [
+    "Cost to bank is either provided by the client or is based on reasonable assumptions"
+  ],
+  "reasoning_strategy": "Comparison and calculation of cost per point across different categories",
+  "data_points": [
+    "Cashback",
+    "Voucher",
+    "Airline",
+    "In-kind Rewards",
+    "Product Catalogue"
+  ],
+  "cta": null,
+  "layout": "Title, table, and bullet points",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "title": "top-left",
+    "table": "center",
+    "bullets": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Money icon",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italic and bold for emphasis"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "20px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Cost per point details",
+      "description": "Comparison of costs and redemption distribution across different categories",
+      "headers": [
+        "Categories",
+        "Average points required to redeem USD 1",
+        "Value of 1 point in USD for the customer",
+        "Cost to bank (% of $ value to the customers)",
+        "Cost per point to bank",
+        "% redemption distribution"
+      ],
+      "rows": [
+        {
+          "row_label": "Cashback",
+          "cells": [
+            "Cashback",
+            "100",
+            "1/100",
+            "100%",
+            "(1/100)* 100%",
+            "20%"
+          ]
+        },
+        {
+          "row_label": "Voucher",
+          "cells": [
+            "Voucher",
+            "100",
+            "1/100",
+            "90%",
+            "(1/100)* 90%",
+            "40%"
+          ]
+        },
+        {
+          "row_label": "Airline",
+          "cells": [
+            "Airline",
+            "50",
+            "1/50",
+            "80%",
+            "(1/50)* 80%",
+            "20%"
+          ]
+        },
+        {
+          "row_label": "In-kind Rewards",
+          "cells": [
+            "In-kind Rewards",
+            "50",
+            "1/50",
+            "80%",
+            "(1/50) *80%",
+            "5%"
+          ]
+        },
+        {
+          "row_label": "Product Catalogue",
+          "cells": [
+            "Product Catalogue",
+            "50",
+            "1/50",
+            "80%",
+            "(1/50)* 80%",
+            "15%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or infographic relevant data in the slide"
+  }
+}

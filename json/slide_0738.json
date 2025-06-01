@@ -1,0 +1,127 @@
+{
+  "slide_id": "22",
+  "section": "First purchase acquisition strategies",
+  "purpose": "To segment customers by the channel of their first purchase and provide recommendations.",
+  "narrative_role": "Informative and prescriptive",
+  "title": "First purchase acquisition strategy: segment customers by the channel of their first purchase",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Customers who make their first purchase online have higher long-term value for both Bank and its benchmark competitors"
+    },
+    {
+      "highlight": "",
+      "text": "Ratio of Bank customers who make their first purchase online (higher long-term value) is similar to benchmark"
+    },
+    {
+      "highlight": "",
+      "text": "The long-term value of Bank customers, whether they make their first purchase online or offline, is lower than the benchmark; Huge gap between value of Bank customers who make their first purchase offline and its benchmark's"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis between online and offline first purchase channels.",
+  "data_points": [
+    "$4,373",
+    "$4,907",
+    "35%",
+    "35%",
+    "$2,647",
+    "$3,406",
+    "65%",
+    "65%"
+  ],
+  "cta": "Bank should focus on promoting online first purchase acquisition campaigns to acquire higher value World Mastercard cardholders",
+  "layout": "Text and table layout with a call-to-action section",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center",
+    "table": "center",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Next Step",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text in bold red."
+  },
+  "design_language": "Professional with emphasis on key data points",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "1st year spend per card forecast",
+      "description": "Comparison of spend per card for online and offline channels.",
+      "headers": [
+        "Channel of first purchase",
+        "Bank average 1st year spend per card*",
+        "Benchmark average 1st year spend per card*",
+        "Bank average % of new accounts*",
+        "Benchmark average % of new accounts*"
+      ],
+      "rows": [
+        {
+          "row_label": "Online",
+          "cells": [
+            "Online",
+            "$4,373",
+            "$4,907",
+            "35%",
+            "35%"
+          ]
+        },
+        {
+          "row_label": "Offline",
+          "cells": [
+            "Offline",
+            "$2,647",
+            "$3,406",
+            "65%",
+            "65%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The font information is not discernible from the image.",
+    "size": "The font size information is not discernible from the image."
+  }
+}

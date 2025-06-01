@@ -1,0 +1,83 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title slide for a report on gender disparity in data science.",
+  "narrative_role": "Introduction",
+  "title": "What’s Keeping Women out of Data Science?",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Set the context and introduce the topic.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "cover",
+  "content_zones": {
+    "title": {
+      "position": "center",
+      "size": "large"
+    },
+    "subtitle": {
+      "position": "bottom",
+      "size": "medium"
+    },
+    "logo": {
+      "position": "top left",
+      "size": "small"
+    },
+    "date": {
+      "position": "bottom left",
+      "size": "small"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "BCG",
+      "position": "top left"
+    },
+    {
+      "type": "logo",
+      "label": "BCG GAMMA",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Title is emphasized using a large, bold font."
+  },
+  "design_language": "Professional and clean with a focus on green tones.",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "dark"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or data points are present on a title slide."
+  }
+}

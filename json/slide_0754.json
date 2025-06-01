@@ -1,0 +1,75 @@
+{
+  "slide_id": "1",
+  "section": "Impact Analysis",
+  "purpose": "To highlight the impact of semiconductor shortages on vehicle production volumes.",
+  "narrative_role": "Informative",
+  "title": "The shortage will have a major impact on volumes in the first quarter of 2021",
+  "bullets": [
+    {
+      "highlight": "1 million",
+      "text": "An approximately 1 million unit downturn in light vehicle production volumes is expected for Q1 2021"
+    }
+  ],
+  "supporting_facts": [
+    "Although semiconductor manufacturers have already responded to the unexpected demand with capacity expansions, the required additional volumes will only be available in six to nine months. - CONTINENTAL, DECEMBER 4, 2020",
+    "Shortages are being felt in the overall automotive supply chain. It will take time to bring more capacity on line. - REINHARD PLOSS, CEO, INFINEON, FEBRUARY 4, 2021",
+    "We are doing everything in our power to minimize lost production and to ensure that normal deliveries to customers can be resumed as rapidly as possible. - MURAT AKSEL, BOM PURCHASING, VOLKSWAGON, DECEMBER 18, 2020",
+    "Semiconductor supply issues will potentially have substantial impact on light vehicle production in the first half of 2021. - FREDRIK WESTIN, CEO, AUTOLIV, JANUARY 26, 2021",
+    "Our current estimates from suppliers support a scenario where we could lose 10% to 20% of our planned first quarter production. - JOHN LAWLER, CFO, FORD, FEBRUARY 4, 2021"
+  ],
+  "reasoning_strategy": "Quotations from key industry figures are used to support the claim.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with quotes and highlighted bullet",
+  "layout_type": "Textual and highlight",
+  "content_zones": {
+    "left": "Quotes from industry executives",
+    "right": "Highlighted impact statement"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key impact figure"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "gray",
+    "accent": "green",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family is not specified in the image. The pyramid infographic is not present."
+  }
+}

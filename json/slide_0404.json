@@ -1,0 +1,126 @@
+{
+  "slide_id": "1",
+  "section": "TEAM HEALTH & SAFETY",
+  "purpose": "Outline strategies for maintaining team health and safety during a crisis.",
+  "narrative_role": "Informative",
+  "title": "TEAM HEALTH & SAFETY",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorize actions into four main areas to comprehensively address health and safety.",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "4-column",
+  "content_zones": {
+    "A": "Reduce risk of transmission",
+    "B": "Support those who are/may be infected",
+    "C": "Manage stress and boost morale",
+    "D": "Ensure compliance with regulatory requirements"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color and bold text for emphasis"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "light green"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Strategies for Health & Safety",
+      "description": "Four main areas of focus to maintain team health and safety.",
+      "headers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rows": [
+        {
+          "row_label": "A",
+          "cells": [
+            "Reduce risk of transmission",
+            "Hygiene and cleaning",
+            "Adjust workplace cleaning protocol",
+            "Conduct health/temperature check",
+            "Communicate personal hygiene practices",
+            "Provide masks, wipes etc.",
+            "Separate teams",
+            "Implement A-team/B-team splits",
+            "Restrict office use",
+            "Establish work-from-home policies",
+            "Adjust travel policies"
+          ]
+        },
+        {
+          "row_label": "B",
+          "cells": [
+            "Support those who are/may be infected",
+            "Introduce self-quarantine policy",
+            "Create notification channel",
+            "Provide tele-docs contact",
+            "Establish forced time off policies",
+            "Identify critical personnel"
+          ]
+        },
+        {
+          "row_label": "C",
+          "cells": [
+            "Manage stress and boost morale",
+            "Communicate proactively",
+            "Organize information sessions",
+            "Prepare for environmental changes",
+            "Consider target-setting and compensation"
+          ]
+        },
+        {
+          "row_label": "D",
+          "cells": [
+            "Ensure compliance with regulatory requirements",
+            "Ensure compliance with regulations",
+            "Engage with work councils and unions"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or additional infographics present."
+  }
+}

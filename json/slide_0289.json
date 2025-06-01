@@ -1,0 +1,108 @@
+{
+  "slide_id": "5",
+  "section": "Cloud Migration Impact",
+  "purpose": "To illustrate improvements in deployment metrics after cloud migration.",
+  "narrative_role": "Evidence",
+  "title": "Developers report improved agility and resilience in cloud environments",
+  "bullets": [],
+  "supporting_facts": [
+    "Average release frequency improved from 'every quarter' to 'every month'.",
+    "Lead time to deploy reduced from 1–2 days to 7–12 hours.",
+    "Mean time to recover (MTTR) reduced from 12–18 hours to 4–6 hours."
+  ],
+  "reasoning_strategy": "Comparative analysis between pre and post cloud migration metrics.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column chart comparison",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "title": "top",
+    "charts": "center",
+    "notes": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "#00A8E1",
+    "accent": "#005073",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "stacked bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "Release frequency",
+      "Lead time to deploy",
+      "Mean time to recover (MTTR)"
+    ],
+    "values": [
+      {
+        "category": "Prior to cloud migration",
+        "release_frequency": [
+          40,
+          25,
+          35
+        ],
+        "lead_time": [
+          22,
+          11,
+          19,
+          26
+        ],
+        "mttr": [
+          7,
+          30,
+          26
+        ]
+      },
+      {
+        "category": "Post cloud migration",
+        "release_frequency": [
+          57,
+          26,
+          17
+        ],
+        "lead_time": [
+          48,
+          11,
+          7,
+          11
+        ],
+        "mttr": [
+          14,
+          50,
+          11,
+          21,
+          4
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey survey of 67 developers in T&D organization"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "The slide primarily contains charts and annotations, no bullet points or specific reasoning strategy beyond comparative analysis."
+}

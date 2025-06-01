@@ -1,0 +1,87 @@
+{
+  "slide_id": "41",
+  "section": "Example drivers",
+  "purpose": "To provide a comprehensive list of drivers for P&L analysis.",
+  "narrative_role": "Informative",
+  "title": "Example drivers underpinning a comprehensive P&L analysis",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization of drivers into different types",
+  "data_points": [],
+  "cta": null,
+  "layout": "multi-column",
+  "layout_type": "bullet_grid",
+  "content_zones": {
+    "zone_1": "top-left",
+    "zone_2": "mid-left",
+    "zone_3": "top-middle",
+    "zone_4": "mid-right",
+    "zone_5": "bottom-middle-right"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Acquisition Drivers",
+      "position": "bottom-right"
+    },
+    {
+      "type": "rectangle",
+      "label": "Performance Drivers",
+      "position": "bottom-right"
+    },
+    {
+      "type": "rectangle",
+      "label": "Financial Drivers",
+      "position": "bottom-right"
+    },
+    {
+      "type": "rectangle",
+      "label": "Risk Drivers",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key categories with colored boxes"
+  },
+  "design_language": "Professional and structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red, yellow, gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide primarily consists of categorized bullet points without specific data or charts."
+  }
+}

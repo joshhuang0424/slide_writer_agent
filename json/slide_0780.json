@@ -1,0 +1,174 @@
+{
+  "slide_id": "3",
+  "section": "Dimension 3",
+  "purpose": "Evaluate circular economy and waste metrics for different players.",
+  "narrative_role": "informative",
+  "title": "Dimension 3: Circular economy and waste (1/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of different players based on waste management metrics.",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "table",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "notes": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "pie_chart",
+      "label": "25%",
+      "position": "top_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight with colors"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Dimension score",
+      "description": "Scores for different players on waste metrics.",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4",
+        "Player 5",
+        "Player 6",
+        "Player 7",
+        "Player 8",
+        "Player 9",
+        "Player 10"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Waste total / IP data traffic",
+            "17%",
+            "80",
+            "94",
+            "73",
+            "30",
+            "63",
+            "23",
+            "56",
+            "74",
+            "74",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Waste total / revenue",
+            "17%",
+            "69",
+            "88",
+            "24",
+            "0",
+            "45",
+            "0",
+            "0",
+            "14",
+            "54",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Waste total / # customers",
+            "17%",
+            "72",
+            "98",
+            "85",
+            "48",
+            "74",
+            "19",
+            "13",
+            "81",
+            "89",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Waste recycled / total",
+            "25%",
+            "46",
+            "63",
+            "98",
+            "71",
+            "5",
+            "90",
+            "96",
+            "89",
+            "98",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Mobile phones collected / revenue",
+            "25%",
+            "11",
+            "0",
+            "6",
+            "0",
+            "75",
+            "17",
+            "0",
+            "35",
+            "0",
+            "16"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "highlighted cells with colors"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not explicitly provided in the image."
+  }
+}

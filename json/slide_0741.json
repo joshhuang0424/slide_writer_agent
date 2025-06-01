@@ -1,0 +1,85 @@
+{
+  "slide_id": "1",
+  "section": "Agenda",
+  "purpose": "Outline the topics to be covered in the presentation.",
+  "narrative_role": "Overview",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Acquisition strategy focuses for this term"
+    },
+    {
+      "highlight": false,
+      "text": "Long-term value forecasting methodology"
+    },
+    {
+      "highlight": false,
+      "text": "Recent World Mastercard acquisition wins"
+    },
+    {
+      "highlight": false,
+      "text": "High value cardholder acquisition strategies"
+    },
+    {
+      "highlight": true,
+      "text": "Cardholder long-term value enhancement strategies"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Enumeration",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullets",
+  "layout_type": "Standard",
+  "content_zones": {
+    "header": "top-left",
+    "bullets": "center-left",
+    "highlight": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Highlighted bullet is emphasized with a colored background."
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14pt"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables, charts, or infographics are present on this slide."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "slide_id": "29",
+  "section": "P&L Drivers",
+  "purpose": "Highlight different P&L drivers across business areas",
+  "narrative_role": "Informative",
+  "title": "Depending on the area, relevant P&L drivers to consider will differ",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "Three-column layout",
+  "layout_type": "Grid",
+  "content_zones": {
+    "left": "Product and Marketing",
+    "center": "Operations",
+    "right": "Risk and Fraud"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Product Construct",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Creative Development",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Response Modelling",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Portfolio Marketing",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Collections",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Retention Groups",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Customer Service",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Approval Rate",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Initial Credit Line",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Credit Line Management",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Authorization",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold header labels"
+  },
+  "design_language": "Corporate, clean",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Black",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The slide primarily consists of labeled icons and text categories without numeric data or charts."
+  }
+}

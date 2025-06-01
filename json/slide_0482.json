@@ -1,0 +1,130 @@
+{
+  "slide_id": "7",
+  "section": "Partnerships with Digital Giants",
+  "purpose": "Illustrate collaboration between financial institutions and digital giants.",
+  "narrative_role": "Informative",
+  "title": "Leveraging existing platforms with digital giants",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "Financial Institutions",
+    "right": "Digital Giants"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Chase",
+      "position": "left"
+    },
+    {
+      "type": "logo",
+      "label": "Amazon",
+      "position": "right"
+    },
+    {
+      "type": "logo",
+      "label": "Sutton Bank",
+      "position": "left"
+    },
+    {
+      "type": "logo",
+      "label": "Square",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Amazon Rewards Chase Card",
+      "description": "Details of the partnership between Chase and Amazon.",
+      "headers": [
+        "Financial Institutions",
+        "Digital Giants"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Issues cobrand credit cards - Amazon Rewards Visa Signature, Amazon Prime Rewards Visa Signature",
+            "Offers rewards for Chase members (including non-Amazon card holders)"
+          ]
+        },
+        {
+          "cells": [
+            "Promotes Prime membership, Amazon & Whole Foods purchases with generous cashbacks",
+            "Indirect promotion of Chase to its more than 100M Prime members"
+          ]
+        }
+      ],
+      "position": "top",
+      "render_style": "simple"
+    },
+    {
+      "title": "Square Cash Card",
+      "description": "Details of the partnership between Sutton Bank and Square.",
+      "headers": [
+        "Financial Institutions",
+        "Digital Giants"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Sutton Bank: issues Square Cash debit card, enabling omnichannel use",
+            "Provides banks access to more than 7M active customers (2018)"
+          ]
+        },
+        {
+          "cells": [
+            "LSB: provides users with an account and routing number for direct deposits",
+            "Doesn't require banks to provide consumer banking services"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "simple"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "There are no charts or explicit data points beyond qualitative descriptions."
+  }
+}

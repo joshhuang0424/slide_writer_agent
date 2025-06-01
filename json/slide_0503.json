@@ -1,0 +1,76 @@
+{
+  "slide_id": "13",
+  "section": "Diversity, Equity, and Inclusion",
+  "purpose": "Highlight the internal and external strategies organizations are considering in relation to diversity, equity, and inclusion.",
+  "narrative_role": "Informative",
+  "title": "Organizations are increasingly considering their role on issues of Diversity, Equity, and Inclusion, both internally and in society at large",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Examples of internal and external initiatives.",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Main title and introduction",
+    "right": "Internal and External examples with icons"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Internal: Aspiration-Back",
+      "position": "right-top"
+    },
+    {
+      "type": "icon",
+      "label": "External: Capability-Forward",
+      "position": "right-bottom"
+    },
+    {
+      "type": "arrow",
+      "label": "Internal to External transition",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Corporate and Informative",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or charts present, focus is on narrative and examples."
+  }
+}

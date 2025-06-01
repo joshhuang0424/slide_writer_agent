@@ -1,0 +1,101 @@
+{
+  "slide_id": "2",
+  "section": "Opportunities for Autonomous Vehicles",
+  "purpose": "Showcase various applications of autonomous vehicles in airports",
+  "narrative_role": "Informative",
+  "title": "Airports offer many opportunities for the deployment of autonomous vehicles",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual demonstration",
+  "data_points": [],
+  "cta": null,
+  "layout": "visual-heavy with labeled images",
+  "layout_type": "infographic",
+  "content_zones": {
+    "title": "top",
+    "visuals": "center",
+    "labels": "below visuals"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Passenger Bus",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "Perimeter Inspection",
+      "position": "top-center"
+    },
+    {
+      "type": "circle",
+      "label": "Land-side cargo",
+      "position": "top-right"
+    },
+    {
+      "type": "circle",
+      "label": "Road Maintenance",
+      "position": "middle-left"
+    },
+    {
+      "type": "circle",
+      "label": "De-icer",
+      "position": "middle-center"
+    },
+    {
+      "type": "circle",
+      "label": "Runway cargo",
+      "position": "middle-right"
+    },
+    {
+      "type": "circle",
+      "label": "Runway inspection",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold titles"
+  },
+  "design_language": "modern and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No textual bullets or data points, purely visual content."
+  }
+}

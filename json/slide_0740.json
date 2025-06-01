@@ -1,0 +1,149 @@
+{
+  "slide_id": "24",
+  "section": "First purchase acquisition strategies",
+  "purpose": "To segment customers by the channel of their first purchase and compare average spend against benchmarks.",
+  "narrative_role": "Informative",
+  "title": "First purchase acquisition strategy: segment customers by the channel of their first purchase",
+  "bullets": [
+    {
+      "highlight": "none",
+      "text": "First purchase offline regions with the highest long-term value: for Bank: Australia & New Zealand; for benchmark: the US & Canada"
+    },
+    {
+      "highlight": "none",
+      "text": "Compared to the benchmark, Bank has a higher ratio of cardholders who make their first purchase offline in Australia and New Zealand"
+    },
+    {
+      "highlight": "none",
+      "text": "Bank’s performance in long-term value is poorer than the benchmark across all first offline purchase regions"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [
+    "$4,597",
+    "$4,579",
+    "$3,579",
+    "$1,662",
+    "$4,652",
+    "$4,981",
+    "$5,296",
+    "$2,985"
+  ],
+  "cta": "Bank should evaluate the quality and management of cardholders who make their first purchase in US/CAN & HK/JP/KR to drive long-term value",
+  "layout": "Title, Bullets, Table, CTA",
+  "layout_type": "Informative",
+  "content_zones": {
+    "header": "top",
+    "bullets": "middle",
+    "table": "middle",
+    "cta": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Next Step",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Highlight key figures in red"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "unknown",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": "unknown"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Average spend per card (12 months after user makes their first purchase offline)",
+      "description": "Comparison of average spend and percentage of new cardholders by region.",
+      "headers": [
+        "First purchase offline in",
+        "Bank avg. 1st year spend/ card*",
+        "Benchmark avg. 1st year spend/ card*",
+        "Gap",
+        "Bank avg. % of new cardholders*",
+        "Benchmark avg. % of new cardholders**"
+      ],
+      "rows": [
+        {
+          "row_label": "AUS, NZ",
+          "cells": [
+            "$4,597",
+            "$4,652",
+            "1%",
+            "6%",
+            "4%"
+          ]
+        },
+        {
+          "row_label": "UK, FR, GER",
+          "cells": [
+            "$4,579",
+            "$4,981",
+            "8%",
+            "18%",
+            "10%"
+          ]
+        },
+        {
+          "row_label": "US, CAN",
+          "cells": [
+            "$3,579",
+            "$5,296",
+            "32%",
+            "10%",
+            "13%"
+          ]
+        },
+        {
+          "row_label": "HK & Macau, JP & KR",
+          "cells": [
+            "$1,662",
+            "$2,985",
+            "44%",
+            "28%",
+            "35%"
+          ]
+        }
+      ],
+      "position": "middle",
+      "render_style": "none"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No chart present on the slide, pyramid infographic structure not used."
+}

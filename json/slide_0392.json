@@ -1,0 +1,122 @@
+{
+  "slide_id": "28",
+  "section": "Analysis Summary",
+  "purpose": "Identify and target high-value segments for future communications",
+  "narrative_role": "Summary of campaign analysis",
+  "title": "E.Sun x JAL",
+  "bullets": [
+    {
+      "highlight": "4.7%",
+      "text": "For XB reminder, SMS led to increase in XB spend"
+    }
+  ],
+  "supporting_facts": [
+    "50K SMS was sent on Oct 01, 2019 to randomly selected world card customers",
+    "Spend > 20K on JAL with World card and receive NT$6,000 discount for your next trip"
+  ],
+  "reasoning_strategy": "Test & Learn Experiment",
+  "data_points": [
+    "8K cardholders had XB spend in previous 6 months",
+    "17K cardholders had no XB spend in previous 6 months"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Visual with text and data",
+  "content_zones": {
+    "left": "Objective and Experiment details",
+    "right": "Key takeaways and data"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "arrow",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "chart",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentages and key figures"
+  },
+  "design_language": "Corporate and professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "infographic",
+    "title": "XB spend impact",
+    "x_axis_label": "Time",
+    "y_axis": [
+      "Cardholders"
+    ],
+    "values": [
+      {
+        "Before SMS": "1.68M",
+        "After SMS": "+89K"
+      }
+    ],
+    "annotations": [
+      "No significant impact"
+    ],
+    "source": "unknown"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Cardholders Spend",
+      "description": "Comparative spend data before and after SMS",
+      "headers": [
+        "Before SMS",
+        "After SMS"
+      ],
+      "rows": [
+        {
+          "row_label": "Had XB spend in previous 6 months",
+          "cells": [
+            "25K",
+            "8K Cardholders"
+          ]
+        },
+        {
+          "row_label": "No XB spend in previous 6 months",
+          "cells": [
+            "17K Cardholders",
+            "306K"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "pyramid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

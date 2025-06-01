@@ -1,0 +1,117 @@
+{
+  "slide_id": "3",
+  "section": "Survey Scope",
+  "purpose": "To provide an overview of the global COVID-19 Auto & Mobility Consumer Survey.",
+  "narrative_role": "Informative",
+  "title": "Scope of global COVID-19 Auto & Mobility Consumer Survey",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Descriptive",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with map",
+  "layout_type": "informative",
+  "content_zones": {
+    "left": "Map showing EU markets",
+    "right": "Textual information about survey scope"
+  },
+  "visual_elements": [
+    {
+      "type": "map",
+      "label": "EU Markets",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted numbers in blue"
+  },
+  "design_language": "Professional and clear",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Survey Details",
+      "description": "Information on markets, respondents, survey waves, and questions.",
+      "headers": [
+        "Category",
+        "Details"
+      ],
+      "rows": [
+        {
+          "row_label": "Markets",
+          "cells": [
+            "4 EU markets: UK, DE, FR, IT"
+          ]
+        },
+        {
+          "row_label": "Respondents",
+          "cells": [
+            "1k+ respondents per market",
+            "1,000 mobility participants",
+            "400 car purchase intenders"
+          ]
+        },
+        {
+          "row_label": "Pulse Survey",
+          "cells": [
+            "6 Waves conducted",
+            "Wave 1: May 9-17",
+            "Wave 2: May 27-29",
+            "Wave 3: Jun 16-18",
+            "Wave 4: Jul 15-17",
+            "Wave 5: Sep 2-4",
+            "Wave 6: Nov 6-10"
+          ]
+        },
+        {
+          "row_label": "Questions",
+          "cells": [
+            "20+ questions on mobility behavior",
+            "20+ questions on car purchase intent",
+            "10 questions on aftersales behavior",
+            "10 questions on screening, demographics, COVID-19 impact"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "simple"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the slide. Infographic type does not fit the pyramid format."
+  }
+}

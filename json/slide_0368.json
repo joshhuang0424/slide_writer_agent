@@ -1,0 +1,114 @@
+{
+  "slide_id": "4",
+  "section": "ICBC Strategy",
+  "purpose": "Demonstrate the potential of multi-channel synergy in maximizing card issuance.",
+  "narrative_role": "Explainer",
+  "title": "未来工行总分联动可以做到总行定期生成名单并营销，未响应客户下发分行，利用分行多渠道联动实现下卡量最大化",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "卡中心生成名单"
+    },
+    {
+      "highlight": "2",
+      "text": "卡中心渠道路跨售"
+    },
+    {
+      "highlight": "3",
+      "text": "名单下发分行跨售"
+    },
+    {
+      "highlight": "4",
+      "text": "分行反馈并优化"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Step-by-step process illustration",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with process flow",
+  "layout_type": "infographic",
+  "content_zones": {
+    "left": "Process flow illustration",
+    "right": "Channel synergy details"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "卡中心",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "分行",
+      "position": "bottom-left"
+    },
+    {
+      "type": "arrow",
+      "label": "流程箭头",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for keywords"
+  },
+  "design_language": "corporate professional",
+  "color_scheme": {
+    "primary": "#E60012",
+    "accent": "#333333",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "卡中心生成名单"
+      },
+      {
+        "id": "L1",
+        "label": "卡中心渠道路跨售"
+      },
+      {
+        "id": "L2",
+        "label": "名单下发分行跨售"
+      },
+      {
+        "id": "L3",
+        "label": "分行反馈并优化"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points, charts, or tables are presented in this slide."
+  }
+}

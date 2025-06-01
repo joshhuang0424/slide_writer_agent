@@ -1,0 +1,126 @@
+{
+  "slide_id": "3",
+  "section": "Decarbonisation Strategies",
+  "purpose": "Highlight key areas for corporations in the decarbonisation economy relevant to telecoms.",
+  "narrative_role": "Informational",
+  "title": "Corporations can meaningfully participate and create value in the decarbonisation economy—5 key areas particularly relevant for telcos",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight specific actionable areas for telecoms in decarbonisation efforts.",
+  "data_points": [],
+  "cta": null,
+  "layout": "grid",
+  "layout_type": "two-row grid",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Grid of key areas",
+    "bottom": "BCG Digital Ventures logo and notes"
+  },
+  "visual_elements": [
+    {
+      "type": "box",
+      "label": "PLUG INTO CLEAN AND CHEAPER ENERGY",
+      "position": "top-left"
+    },
+    {
+      "type": "box",
+      "label": "INCREASE ELECTRIFICATION",
+      "position": "top-center-left"
+    },
+    {
+      "type": "box",
+      "label": "REDUCE CARBON-INTENSITY OF GROWING FOOD",
+      "position": "top-center"
+    },
+    {
+      "type": "box",
+      "label": "SHIFT TO LOW CARBON MATERIALS",
+      "position": "top-center-right"
+    },
+    {
+      "type": "box",
+      "label": "ACCELERATE SUPPLY CHAIN DECARBONIZATION",
+      "position": "top-right"
+    },
+    {
+      "type": "box",
+      "label": "SCALE UP & SUSTAIN CARBON SINKS",
+      "position": "top-far-right"
+    },
+    {
+      "type": "box",
+      "label": "UPGRADE INFRASTRUCTURE FOR RENEWABLES",
+      "position": "bottom-left"
+    },
+    {
+      "type": "box",
+      "label": "LEVERAGE THE POWER OF CIRCULARITY",
+      "position": "bottom-center-left"
+    },
+    {
+      "type": "box",
+      "label": "UNLOCK SUSTAINABLE CAPITAL",
+      "position": "bottom-center"
+    },
+    {
+      "type": "box",
+      "label": "ENABLE EFFICIENCY",
+      "position": "bottom-center-right"
+    },
+    {
+      "type": "box",
+      "label": "INCENTIVIZE CLIMATE-POSITIVE BEHAVIORS",
+      "position": "bottom-right"
+    },
+    {
+      "type": "box",
+      "label": "ENABLE PROTECTION & SUSTAINABLE USE OF NATURAL RESOURCES",
+      "position": "bottom-far-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key areas with bold titles"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "dark green",
+    "accent": "yellow",
+    "background": "leaf pattern"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No numerical data or typical chart elements present; slide focuses on qualitative strategies."
+  }
+}

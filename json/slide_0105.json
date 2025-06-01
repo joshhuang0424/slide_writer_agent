@@ -1,0 +1,99 @@
+{
+  "slide_id": "31",
+  "section": "Scope of Survey",
+  "purpose": "To provide an overview of the global COVID-19 Auto & Mobility Consumer Survey.",
+  "narrative_role": "informative",
+  "title": "Scope of global COVID-19 Auto & Mobility Consumer Survey",
+  "bullets": [],
+  "supporting_facts": [
+    "4 EU markets: UK, DE, FR, IT",
+    "1k+ respondents per market",
+    "6 Waves conducted"
+  ],
+  "reasoning_strategy": "Quantitative data presentation",
+  "data_points": [
+    {
+      "highlight": "4",
+      "text": "EU markets"
+    },
+    {
+      "highlight": "1k+",
+      "text": "respondents per market"
+    },
+    {
+      "highlight": "6",
+      "text": "Waves conducted"
+    },
+    {
+      "highlight": "20+",
+      "text": "questions on mobility behavior"
+    },
+    {
+      "highlight": "20+",
+      "text": "questions on car purchase intent"
+    },
+    {
+      "highlight": "10",
+      "text": "questions on aftersales behavior"
+    },
+    {
+      "highlight": "10",
+      "text": "questions on screening, demographics, COVID-19 impact"
+    }
+  ],
+  "cta": null,
+  "layout": "horizontal split with map and text",
+  "layout_type": "map and bullet points",
+  "content_zones": {
+    "map": "left",
+    "text": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "map",
+      "label": "EU map highlighting UK, DE, FR, IT",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numeric highlights in blue"
+  },
+  "design_language": "corporate minimalistic",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

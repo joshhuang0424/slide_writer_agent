@@ -1,0 +1,113 @@
+{
+  "slide_id": "18",
+  "section": "聯名卡權益",
+  "purpose": "比較鳳梨聯名卡與新桃子聯名卡的權益",
+  "narrative_role": "比較與分析",
+  "title": "聯名卡權益 | 基礎權益升級優於既有鳳梨回饋",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "使用表格比較兩張聯名卡的不同權益",
+  "data_points": [],
+  "cta": null,
+  "layout": "雙欄表格",
+  "layout_type": "comparison",
+  "content_zones": {
+    "left": "鳳梨聯名卡權益",
+    "right": "新桃子聯名卡權益"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "簡潔對比",
+  "color_scheme": {
+    "primary": "#005BAC",
+    "accent": "#00A79D",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "聯名卡權益比較",
+      "description": "比較鳳梨與新桃子的卡片權益",
+      "headers": [
+        "回饋方式",
+        "鳳梨聯名卡權益",
+        "新桃子聯名卡權益"
+      ],
+      "rows": [
+        {
+          "row_label": "卡片等級",
+          "cells": [
+            "無限卡\n御璽卡\n白金卡",
+            "世界卡\n鈦金商務卡\n鈦金卡"
+          ]
+        },
+        {
+          "row_label": "店內回饋",
+          "cells": [
+            "賣場1%\n加油3%(上限100元/月)",
+            "賣場2%(回饋無上限)\n線上3%(回饋無上限)\n加油3%(合原權益，加碼上限200元/月)"
+          ]
+        },
+        {
+          "row_label": "一般消費回饋",
+          "cells": [
+            "0.5%",
+            "1%"
+          ]
+        },
+        {
+          "row_label": "關鍵店外加碼",
+          "cells": [
+            "高鐵優惠(限御璽、無限卡)\n住宿優惠\n餐飲優惠",
+            "高鐵優惠最高享12%回饋(每月需登錄)\n君品酒店、美福大飯店、礁溪寒沐酒店等頂級住宿優惠、君悅酒店、寒舍艾麗酒店享、精緻美饌優惠65折起\n8大通路加碼最高5% (需登錄，每波段每戶最高回饋NT$3,000好多金回饋)"
+          ]
+        },
+        {
+          "row_label": "申辦好禮",
+          "cells": [
+            "首刷禮:「新戶」滿額贈500元多利金",
+            "首刷禮: 首次申辦桃子聯名卡正卡，核卡後30天內一般消費累積刷卡滿NT$1,000元(含)以上，享500元好多金\n續約禮: 申辦桃子聯名卡正卡，同時申辦自動繳款約會費於第一次繳約會費時享500元折抵"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "沒有典型的圖表元素，且無法判斷文字強調規則"
+  }
+}

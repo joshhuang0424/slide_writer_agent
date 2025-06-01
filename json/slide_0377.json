@@ -1,0 +1,127 @@
+{
+  "slide_id": "13",
+  "section": "Credit Cards – Current Emob Journey",
+  "purpose": "To outline the onboarding strategy for credit cards focusing on digital adoption and frequent spending behavior over a 3-month period.",
+  "narrative_role": "Informative",
+  "title": "Credit card’s onboarding strategy aims to promote digital adoption and encourage customers to adopt frequent spending behaviour during 3 month period",
+  "bullets": [
+    {
+      "highlight": "Focus",
+      "text": "Welcome new customers, promote card activation and motivate for digital adoption"
+    },
+    {
+      "highlight": "Stimulate",
+      "text": "Stimulate spend activation followed by payment education"
+    },
+    {
+      "highlight": "Introduce",
+      "text": "Introduce additional benefits for family and encourage frequent use"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Step-by-step phased approach with specific actions and communications to drive adoption and usage.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Horizontal flow with timeline and key objectives",
+  "layout_type": "Timeline",
+  "content_zones": {
+    "top": "Strategy title and focus arrows",
+    "middle": "Timeline with phases",
+    "bottom": "Key objectives and detailed actions"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Focus",
+      "position": "top"
+    },
+    {
+      "type": "arrow",
+      "label": "Stimulate",
+      "position": "top"
+    },
+    {
+      "type": "arrow",
+      "label": "Introduce",
+      "position": "top"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted arrows and phase titles"
+  },
+  "design_language": "Corporate and structured",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Red",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Phase",
+      "description": "Timeline of credit card onboarding strategy.",
+      "headers": [
+        "Phase",
+        "Day 6",
+        "Day 10",
+        "Day 12 or 6 days after activation",
+        "Day 18",
+        "Day 21 or 2 weeks post activation",
+        "Day 40",
+        "Month 2 or 2 weeks post first usage",
+        "Month 2 2 months post activation & strong utilization",
+        "Month 3 4 months post activation & <14 txns"
+      ],
+      "rows": [
+        {
+          "row_label": "Key Objective",
+          "cells": [
+            "Welcome eDM",
+            "Digital adoption eDM",
+            "First usage eDM",
+            "Properly manage your card eDM",
+            "Encourage frequent use eDM",
+            "Additional cardholder eDM",
+            "Final reminder activate card SMS"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "Horizontal timeline with phases"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

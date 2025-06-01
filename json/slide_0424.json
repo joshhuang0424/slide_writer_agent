@@ -1,0 +1,197 @@
+{
+  "slide_id": "15",
+  "section": "Foreign Exchange Fees",
+  "purpose": "Explain the additional layer of fees when using a credit card abroad.",
+  "narrative_role": "Illustrative scenario with supporting data.",
+  "title": "Foreign exchange fees are an additional layer of fees when abroad",
+  "bullets": [
+    {
+      "highlight": "Jamie pays for dinner using the brand new credit card",
+      "text": "but because he didn’t read his terms & conditions Jamie didn’t realize that a foreign exchange fee would be added onto the purchase price!"
+    }
+  ],
+  "supporting_facts": [
+    "Network Fees: the cost to use the networks that connects banks",
+    "Processor Fees: the cost for an issuer to use a processor",
+    "Foreign Exchange Fee: the cost to convert your currency to the currency of transaction",
+    "Interchange Fees: how much the bank earns on purchase transaction volume"
+  ],
+  "reasoning_strategy": "Highlight personal story and facts to explain fees.",
+  "data_points": [
+    "$115 Finance Charges",
+    "($47) Interest Expense",
+    "$68 Net Interest Income",
+    "($66.7) Net Credit Losses",
+    "$674 Interchange Fees",
+    "$21 Foreign Exchange Fees",
+    "$760.8 Total Other Income",
+    "($171) Network Fees (MC)",
+    "($62) Processor Fees",
+    "($36) Fraud Losses",
+    "($1141) Total Costs",
+    "($379) Pre-tax Net Income"
+  ],
+  "cta": null,
+  "layout": "Two column layout with text and table.",
+  "layout_type": "Two column",
+  "content_zones": {
+    "left": "Text narrative about Jamie's experience.",
+    "right": "Tables and fee explanation."
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Person",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "Bank",
+      "position": "top-center"
+    },
+    {
+      "type": "icon",
+      "label": "Plus",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlighted text in bold."
+  },
+  "design_language": "Informative and illustrative.",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "none",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Fee Breakdown",
+      "description": "Shows various fees and their amounts.",
+      "headers": [
+        "Description",
+        "Amount"
+      ],
+      "rows": [
+        {
+          "row_label": "Finance Charges",
+          "cells": [
+            "Finance Charges",
+            "$115"
+          ]
+        },
+        {
+          "row_label": "Transfer Pricing Interest Income",
+          "cells": [
+            "Transfer Pricing Interest Income",
+            "$0"
+          ]
+        },
+        {
+          "row_label": "Interest Expense",
+          "cells": [
+            "Interest Expense",
+            "($47)"
+          ]
+        },
+        {
+          "row_label": "Net Interest Income",
+          "cells": [
+            "Net Interest Income",
+            "$68"
+          ]
+        },
+        {
+          "row_label": "Interchange Fees",
+          "cells": [
+            "Interchange Fees",
+            "$674"
+          ]
+        },
+        {
+          "row_label": "Foreign Exchange Fees",
+          "cells": [
+            "Foreign Exchange Fees",
+            "$21"
+          ]
+        },
+        {
+          "row_label": "Total Other Income",
+          "cells": [
+            "Total Other Income",
+            "$760.8"
+          ]
+        },
+        {
+          "row_label": "Network Fees (MC)",
+          "cells": [
+            "Network Fees (MC)",
+            "($171)"
+          ]
+        },
+        {
+          "row_label": "Processor Fees",
+          "cells": [
+            "Processor Fees",
+            "($62)"
+          ]
+        },
+        {
+          "row_label": "Fraud Losses",
+          "cells": [
+            "Fraud Losses",
+            "($36)"
+          ]
+        },
+        {
+          "row_label": "Total Costs",
+          "cells": [
+            "Total Costs",
+            "($1141)"
+          ]
+        },
+        {
+          "row_label": "Pre-tax Net Income",
+          "cells": [
+            "Pre-tax Net Income",
+            "($379)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

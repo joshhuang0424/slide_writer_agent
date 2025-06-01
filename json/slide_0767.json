@@ -1,0 +1,117 @@
+{
+  "slide_id": "8",
+  "section": "Performance Analysis",
+  "purpose": "To show the improvement of telcos in different regions from 2018 to 2020.",
+  "narrative_role": "Informative",
+  "title": "Regional Performance Improvement",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "visual_text",
+  "content_zones": {
+    "left": "text",
+    "right": "charts"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight"
+  },
+  "design_language": "Modern",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Overall score and changes",
+    "x_axis_label": "",
+    "y_axis": [
+      "Europe",
+      "Europe & other",
+      "North America",
+      "Asia"
+    ],
+    "values": [
+      {
+        "year": "2018",
+        "scores": [
+          46,
+          44,
+          29,
+          27
+        ]
+      },
+      {
+        "year": "2019",
+        "scores": [
+          50,
+          51,
+          31,
+          28
+        ]
+      },
+      {
+        "year": "2020",
+        "scores": [
+          55,
+          55,
+          37,
+          31
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "year": "2019-18",
+        "changes": [
+          4,
+          5,
+          2,
+          1
+        ]
+      },
+      {
+        "year": "2020-19",
+        "changes": [
+          5,
+          7,
+          6,
+          4
+        ]
+      }
+    ],
+    "source": "BCG Sustainability in Telco Index 2020, N=22"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": [
+    {
+      "_why_unknown": "No bullets are present as the slide focuses on visual comparison without textual breakdown."
+    }
+  ]
+}

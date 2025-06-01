@@ -1,0 +1,88 @@
+{
+  "slide_id": "68",
+  "section": "Valuation Approach",
+  "purpose": "Explain the Smart Multiple approach for stock price calculation.",
+  "narrative_role": "Informational",
+  "title": "Smart Multiple® approach: Derive insightful, explainable stock price calculation equation based on peer group selection and regression analysis of 200+ drivers",
+  "bullets": [],
+  "supporting_facts": [
+    "Over 200 potential valuation drivers tested",
+    "Equation explains significant amount of valuation variability (R2 ~0.80)"
+  ],
+  "reasoning_strategy": "Step-by-step regression analysis",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "process",
+  "content_zones": {
+    "0": "Title at top",
+    "1": "Four-step process description below title"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "Step 1: Define peer group",
+      "position": "top-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "Step 2: Develop list of potential valuation drivers to test",
+      "position": "top-center-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "Step 3: Perform regression analysis to find equation best explaining the data",
+      "position": "top-center-right"
+    },
+    {
+      "type": "rectangle",
+      "label": "Step 4: Analyze sensitivities, identify most important drivers, back-test equation",
+      "position": "top-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional and analytical",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": {
+    "_why_unknown": "No tables or traditional data charts present."
+  }
+}

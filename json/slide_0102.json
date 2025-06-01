@@ -1,0 +1,173 @@
+{
+  "slide_id": "28",
+  "section": "Transportation Safety",
+  "purpose": "To analyze perceived safety of different transportation modes during COVID-19 and reasons for mode choice.",
+  "narrative_role": "Informative",
+  "title": "Risk of infection: shared and public transport are not considered as safe for health, infections became a top priority for the mode choice",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of transportation modes before and during COVID-19",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "text-and-chart",
+  "content_zones": {
+    "left": "Chart showing modes of transportation considered safe",
+    "right": "List of top 5 reasons to choose transport mode before and during COVID-19"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Arrow up",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Arrow down",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Arrow sideways",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "light gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Modes of transportation considered safe for health, concerning a COVID-19 infection",
+    "x_axis_label": "Transportation mode",
+    "y_axis": [
+      "Number of respondents, in percent"
+    ],
+    "values": [
+      {
+        "Private car": 81
+      },
+      {
+        "Public transport": 9
+      },
+      {
+        "Walking/biking": 64
+      },
+      {
+        "Shared micro mobility": 8
+      },
+      {
+        "Car sharing": 5
+      },
+      {
+        "Ride hailing": 5
+      }
+    ],
+    "annotations": [
+      "Car as safe space: People switch to transport modes with low risk of infection",
+      "Public transit ridership has fallen significantly",
+      "People increasingly use active transport modes such as walking & biking",
+      "Car sharing usage, as all shared mobility modes, dropped significantly"
+    ],
+    "source": "McKinsey Center for Future Mobility"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Top 5 reasons to choose transport mode",
+      "description": "Reasons ranked by number of respondents",
+      "headers": [
+        "Before the COVID-19 crisis",
+        "Today"
+      ],
+      "rows": [
+        {
+          "row_label": "1",
+          "cells": [
+            "Time to destination",
+            {
+              "highlight": true,
+              "text": "Risk of infection"
+            }
+          ]
+        },
+        {
+          "row_label": "2",
+          "cells": [
+            "Price of trip",
+            {
+              "highlight": true,
+              "text": "Time to destination"
+            }
+          ]
+        },
+        {
+          "row_label": "3",
+          "cells": [
+            "Space and privacy",
+            {
+              "highlight": true,
+              "text": "Space and privacy"
+            }
+          ]
+        },
+        {
+          "row_label": "4",
+          "cells": [
+            "Convenience",
+            {
+              "highlight": true,
+              "text": "Convenience"
+            }
+          ]
+        },
+        {
+          "row_label": "5",
+          "cells": [
+            "Congestion",
+            {
+              "highlight": true,
+              "text": "Price of trip"
+            }
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "pie_chart": {
+      "description": "50% of respondents would increase mode usage with regular disinfection",
+      "position": "bottom right"
+    },
+    "_why_unknown": "No pyramid levels or additional tables detected."
+  }
+}

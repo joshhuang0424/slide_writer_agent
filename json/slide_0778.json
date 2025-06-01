@@ -1,0 +1,223 @@
+{
+  "slide_id": "19",
+  "section": "Dimension 2",
+  "purpose": "Compare CO2e and energy intensity across players",
+  "narrative_role": "data_comparison",
+  "title": "Dimension 2: CO2e and energy intensity (2/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of scores across different metrics and players",
+  "data_points": [],
+  "cta": null,
+  "layout": "title-top, table-center",
+  "layout_type": "comparison",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "source": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "25% Pie chart",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "Data type legend",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlights with colors"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Dimension score",
+      "description": "Scores of different metrics for various players",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 11\nNorth America",
+        "Player 12\nAsia & Middle E",
+        "Player 13\nEurope",
+        "Player 14\nAsia & Middle E",
+        "Player 15\nEurope & other",
+        "Player 16\nAsia & Middle E",
+        "Player 17\nNorth America",
+        "Player 18\nNorth America",
+        "Player 19\nAsia & Middle E",
+        "Player 20\nAsia & Middle E",
+        "Player 21\nAsia & Middle E"
+      ],
+      "rows": [
+        {
+          "row_label": "CO2e emissions total / IP data traffic",
+          "cells": [
+            "N",
+            "20%",
+            "85",
+            "44",
+            "74",
+            "51",
+            "14",
+            "53",
+            "83",
+            "87",
+            "83",
+            "95",
+            "11"
+          ]
+        },
+        {
+          "row_label": "CO2e emissions total / revenue",
+          "cells": [
+            "N",
+            "20%",
+            "36",
+            "40",
+            "19",
+            "0",
+            "0",
+            "21",
+            "45",
+            "77",
+            "0",
+            "71",
+            "0"
+          ]
+        },
+        {
+          "row_label": "CO2e emissions total / # customers",
+          "cells": [
+            "N",
+            "20%",
+            "42",
+            "43",
+            "82",
+            "7",
+            "87",
+            "37",
+            "36",
+            "80",
+            "56",
+            "83",
+            "82"
+          ]
+        },
+        {
+          "row_label": "Energy use total / IP data traffic",
+          "cells": [
+            "N",
+            "7%",
+            "99",
+            "51",
+            "59",
+            "80",
+            "0",
+            "73",
+            "94",
+            "54",
+            "100",
+            "100",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Energy use total / revenue",
+          "cells": [
+            "N",
+            "7%",
+            "75",
+            "93",
+            "0",
+            "74",
+            "0",
+            "88",
+            "80",
+            "67",
+            "0",
+            "100",
+            "0"
+          ]
+        },
+        {
+          "row_label": "Energy use total / # customers",
+          "cells": [
+            "N",
+            "7%",
+            "0",
+            "43",
+            "75",
+            "31",
+            "95",
+            "47",
+            "0",
+            "65",
+            "100",
+            "100",
+            "98"
+          ]
+        },
+        {
+          "row_label": "Renewable energy use ratio",
+          "cells": [
+            "N",
+            "20%",
+            "2",
+            "9",
+            "0",
+            "1",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "highlighted cells with color coding"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid detected; all data is tabular.",
+    "source": "Source: BCG Sustainability in Telco Index 2020, N=21"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "slide_id": "5",
+  "section": "Impact Analysis",
+  "purpose": "To compare perceptions and mobility behavior disruptions during the second lockdown in the EU.",
+  "narrative_role": "Informative",
+  "title": "Overall second lockdown in EU is perceived as less challenging and disruptive, French respondents feel most affected",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column comparison with flags",
+  "layout_type": "two_column",
+  "content_zones": {
+    "header": "top",
+    "charts": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "flag",
+      "label": "EU",
+      "position": "bottom-left"
+    },
+    {
+      "type": "flag",
+      "label": "UK",
+      "position": "bottom-left"
+    },
+    {
+      "type": "flag",
+      "label": "Germany",
+      "position": "bottom-left"
+    },
+    {
+      "type": "flag",
+      "label": "France",
+      "position": "bottom-left"
+    },
+    {
+      "type": "flag",
+      "label": "Italy",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for section titles"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "stacked_bar",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "Percent of respondents"
+    ],
+    "values": [
+      {
+        "country": "EU",
+        "perception": [
+          9,
+          12,
+          -27,
+          -17
+        ],
+        "mobility": [
+          6,
+          10,
+          -19,
+          -8
+        ]
+      },
+      {
+        "country": "UK",
+        "perception": [
+          5,
+          12,
+          -34,
+          -17
+        ],
+        "mobility": [
+          3,
+          8,
+          -21,
+          -7
+        ]
+      },
+      {
+        "country": "Germany",
+        "perception": [
+          8,
+          12,
+          -27,
+          -15
+        ],
+        "mobility": [
+          3,
+          6,
+          -16,
+          -4
+        ]
+      },
+      {
+        "country": "France",
+        "perception": [
+          13,
+          15,
+          -15,
+          -8
+        ],
+        "mobility": [
+          9,
+          15,
+          -18,
+          -6
+        ]
+      },
+      {
+        "country": "Italy",
+        "perception": [
+          9,
+          10,
+          -30,
+          -27
+        ],
+        "mobility": [
+          8,
+          12,
+          -23,
+          -14
+        ]
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Global COVID-19 Automotive Consumer Survey"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "The font family is not provided in the image."
+  }
+}

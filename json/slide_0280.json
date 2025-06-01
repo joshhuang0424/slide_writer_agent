@@ -1,0 +1,150 @@
+{
+  "slide_id": "10",
+  "section": "Archetypes and Economics",
+  "purpose": "To compare different archetypes in terms of transition and run-rate economics.",
+  "narrative_role": "Informative",
+  "title": "Choices about archetypes drive transition and run-rate economics",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of different archetypes based on KPIs and transition costs.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Table",
+  "layout_type": "single_column",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for headers"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Comparison of Archetypes",
+      "description": "Compares consumption model, run-rate benefits, and one-time transition costs across different archetypes.",
+      "headers": [
+        "Consumption model",
+        "Archetype 1 (baseline)",
+        "Archetype 2",
+        "Archetype 3",
+        "Archetype 4",
+        "Archetype 5",
+        "Archetype 6"
+      ],
+      "rows": [
+        {
+          "row_label": "Consumption model",
+          "cells": [
+            "Traditional",
+            "Lift-and-shift virtual machines",
+            "Optimized infrastructure as a service (IaaS)",
+            "Platform as a service (PaaS)",
+            "Function as a service (FaaS)",
+            "Software as a service (SaaS)"
+          ]
+        },
+        {
+          "row_label": "Run-rate benefits and KPIs",
+          "cells": [
+            "% productivity increase vs IT spend",
+            "Baseline",
+            "Negative to zero",
+            "Low",
+            "Medium",
+            "High",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "Time to market",
+          "cells": [
+            "Quarterly",
+            "Quarterly",
+            "Monthly to every 2 weeks",
+            "Every 2 weeks / as needed",
+            "Daily / multiple times a day",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "Change vs run ratio",
+          "cells": [
+            "30 : 70",
+            "30 : 70",
+            "40 : 60",
+            "50 : 50",
+            "70 : 30",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "One-time transition costs",
+          "cells": [
+            "% transition cost vs IT spend",
+            "Baseline",
+            "Low",
+            "Low",
+            "Medium",
+            "High",
+            "N/A"
+          ]
+        },
+        {
+          "row_label": "IT payback period (varies by workload type)",
+          "cells": [
+            "N/A",
+            "May not pay back",
+            "1–2 years",
+            "2–3 years",
+            "2–3 years",
+            "N/A"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No additional infographic elements or charts are present in the slide."
+  }
+}

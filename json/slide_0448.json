@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Appendix",
+  "purpose": "Introduction to Appendix section",
+  "narrative_role": "Divider",
+  "title": "Appendix",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual separation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Full-screen title",
+  "layout_type": "Title Slide",
+  "content_zones": {
+    "title_zone": "left",
+    "logo_zone": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold"
+  },
+  "design_language": "Modern and minimalistic",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "black",
+    "background": "dark gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains only a title and logo, with no additional content like tables or infographics."
+  }
+}

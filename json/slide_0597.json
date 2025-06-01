@@ -1,0 +1,96 @@
+{
+  "slide_id": "26",
+  "section": "Agenda",
+  "purpose": "Outline the key chapters of the presentation.",
+  "narrative_role": "Overview",
+  "title": "Agenda",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential listing of topics.",
+  "data_points": [],
+  "cta": null,
+  "layout": "text with background image",
+  "layout_type": "agenda",
+  "content_zones": {
+    "left": "text",
+    "right": "image"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 15,
+    "max_words_per_bullet": 10,
+    "emphasis_rule": "Bold for chapter titles"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "peach",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Agenda",
+      "description": "Lists the chapters and their components",
+      "headers": [
+        "Chapter",
+        "Details"
+      ],
+      "rows": [
+        {
+          "row_label": "Chapter 1",
+          "cells": [
+            "Key terms of reward economics",
+            "Earn rate, Burn rate, Give back rate, Cost per point, Active engagement rate & Customer satisfaction, Redeemed vs earned & Expired vs earned"
+          ]
+        },
+        {
+          "row_label": "Chapter 2",
+          "cells": [
+            "Financial impact evaluation",
+            "Framework for impact calculation, Assessment of status quo, Evaluation of current financial impact, Creation of loyalty proposition and comparative analysis, Validation and finalization of proposition"
+          ]
+        },
+        {
+          "row_label": "Chapter 3",
+          "cells": [
+            "Integrated loyalty",
+            "Customer lifecycle, Pan bank loyalty program"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "text list"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "The infographic levels are not applicable as the agenda does not feature a pyramid structure."
+}

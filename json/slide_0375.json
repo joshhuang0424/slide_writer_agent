@@ -1,0 +1,98 @@
+{
+  "slide_id": "11",
+  "section": "其他待確認議題",
+  "purpose": "比較兩個備選執行方案以降低客訴",
+  "narrative_role": "說明不同方案的處理流程",
+  "title": "VIP/特殊客戶申辦方式",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "逐步說明每個方案的處理流程與待議事項",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "process_comparison",
+  "content_zones": {
+    "left": "方桉一與方桉二的標題區域",
+    "center": "流程時間軸",
+    "right": "待議事項"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "方桉一\n會員號標記對接",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "方桉二\n紙本申請書標記",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "紅色文字強調待議事項"
+  },
+  "design_language": "現代簡約",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#005BAC",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "頁面不包含表格或典型圖表結構",
+    "流程": [
+      {
+        "方案": "方案一",
+        "步驟": [
+          "椰子接到二月前的申辦相關客訴",
+          "椰子標記此類會員",
+          "在會員申請聯名卡確認身分時椰子提供標記",
+          "椰子專案審核"
+        ],
+        "待議": "是否有額外每日交換檔或API可加註記"
+      },
+      {
+        "方案": "方案二",
+        "步驟": [
+          "椰子接到二月前的申辦相關客訴",
+          "椰子提供有標註的紙本申請書",
+          "椰子將紙本申請書進件交付給椰子",
+          "椰子專案審核"
+        ],
+        "待議": "紙本審核費時"
+      }
+    ]
+  }
+}

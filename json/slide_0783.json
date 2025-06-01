@@ -1,0 +1,211 @@
+{
+  "slide_id": "24",
+  "section": "Customer Enablement",
+  "purpose": "Evaluate customer enablement metrics across different players.",
+  "narrative_role": "Analytical comparison",
+  "title": "Dimension 4: Customer enablement (1/2)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparative analysis of scores",
+  "data_points": [],
+  "cta": null,
+  "layout": "tabular",
+  "layout_type": "grid",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "infographic": "left"
+  },
+  "visual_elements": [
+    {
+      "type": "pie_chart",
+      "label": "25%",
+      "position": "top_left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "yellow",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Dimension score",
+      "description": "Scores for customer enablement metrics across different players.",
+      "headers": [
+        "Metric",
+        "Weight",
+        "Player 1",
+        "Player 2",
+        "Player 3",
+        "Player 4",
+        "Player 5",
+        "Player 6",
+        "Player 7",
+        "Player 8",
+        "Player 9",
+        "Player 10"
+      ],
+      "rows": [
+        {
+          "row_label": "Dimension score",
+          "cells": [
+            "",
+            "",
+            "49",
+            "51",
+            "36",
+            "45",
+            "37",
+            "32",
+            "40",
+            "21",
+            "25",
+            "37"
+          ]
+        },
+        {
+          "row_label": "Green initiatives",
+          "cells": [
+            "J",
+            "20%",
+            "100",
+            "100",
+            "83",
+            "83",
+            "67",
+            "67",
+            "83",
+            "100",
+            "100",
+            "67"
+          ]
+        },
+        {
+          "row_label": "Green R&D expenditures",
+          "cells": [
+            "N",
+            "20%",
+            "20",
+            "6",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "5",
+            "27",
+            "25"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Calculated and published",
+          "cells": [
+            "B",
+            "15%",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "0",
+            "0",
+            "50"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Comprehensive scope",
+          "cells": [
+            "J",
+            "15%",
+            "50",
+            "50",
+            "25",
+            "38",
+            "34",
+            "25",
+            "0",
+            "0",
+            "25"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Transparent methodology",
+          "cells": [
+            "J",
+            "15%",
+            "50",
+            "0",
+            "50",
+            "50",
+            "25",
+            "25",
+            "0",
+            "0",
+            "25"
+          ]
+        },
+        {
+          "row_label": "Enablement factor: Ambition",
+          "cells": [
+            "J",
+            "15%",
+            "15",
+            "50",
+            "50",
+            "50",
+            "25",
+            "40",
+            "0",
+            "0",
+            "25"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font details are not specified in the image.",
+    "source": "BCG Sustainability in Telco Index 2020, N=21"
+  }
+}

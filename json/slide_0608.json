@@ -1,0 +1,71 @@
+{
+  "slide_id": "8",
+  "section": "Acquisition",
+  "purpose": "Outline the key steps to acquisition following value proposition development",
+  "narrative_role": "Informative",
+  "title": "Four key steps to acquisition follow the prerequisite value proposition development",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Sequential steps",
+  "data_points": [],
+  "cta": null,
+  "layout": "Horizontal process flow",
+  "layout_type": "Flowchart",
+  "content_zones": {
+    "main_flow": "center",
+    "key_activities": "left",
+    "mastercard_logo": "bottom_left"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Prerequisites to Acquisition",
+      "position": "top_center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of bold for step numbers"
+  },
+  "design_language": "Corporate, structured",
+  "color_scheme": {
+    "primary": "grey",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid or chart present; flowchart with text boxes does not fit table structure."
+  }
+}

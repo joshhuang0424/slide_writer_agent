@@ -1,0 +1,168 @@
+{
+  "slide_id": "11",
+  "section": "Acquisition: Creative Development",
+  "purpose": "To emphasize the importance of developing communications for clear target segments to enhance credit card offer acceptance.",
+  "narrative_role": "Informative",
+  "title": "Communications should be developed for clear target segments to drive acceptance of credit card offer",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Concept Development:"
+    },
+    {
+      "highlight": false,
+      "text": "Build overarching marketing / campaign concept matching target segment customer needs with product features and benefits"
+    },
+    {
+      "highlight": false,
+      "text": "Prepare creative development"
+    },
+    {
+      "highlight": false,
+      "text": "Develop Creative leveraging Effective Communication Techniques:"
+    },
+    {
+      "highlight": false,
+      "text": "Develop relatable creative based on the target audience"
+    },
+    {
+      "highlight": false,
+      "text": "Implement various response techniques for effective communications"
+    },
+    {
+      "highlight": false,
+      "text": "Incorporate communication best practices:"
+    },
+    {
+      "highlight": false,
+      "text": "Make your communication compelling!"
+    },
+    {
+      "highlight": false,
+      "text": "Make it easy to read & understand"
+    },
+    {
+      "highlight": false,
+      "text": "Keep the prospects involved:"
+    },
+    {
+      "highlight": false,
+      "text": "Make communications interesting and relevant"
+    },
+    {
+      "highlight": false,
+      "text": "Personalize the marketing material"
+    },
+    {
+      "highlight": false,
+      "text": "Optimize for devices such as phones and tablets"
+    },
+    {
+      "highlight": false,
+      "text": "Avoid negatives as well as periods in headlines or sub-heads"
+    },
+    {
+      "highlight": false,
+      "text": "Use strong call-to-action messages in all available channels"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Best practices in communication and engagement techniques.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic and bullets",
+  "layout_type": "Text and Visual",
+  "content_zones": {
+    "left": "Target Segments/Personas and Customer Value Proposition infographic",
+    "right": "Concept Development and Creative Communication Techniques bullets"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "ESTABLISHED",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "JUST GETTING STARTED",
+      "position": "left"
+    },
+    {
+      "type": "circle",
+      "label": "CUSTOMER VALUE PROPOSITION",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use bold for key points"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Card Hierarchy"
+      },
+      {
+        "id": "L1",
+        "label": "Pricing & Payment Terms"
+      },
+      {
+        "id": "L2",
+        "label": "Customer Support"
+      },
+      {
+        "id": "L3",
+        "label": "Customer Communications"
+      },
+      {
+        "id": "L4",
+        "label": "Value-Added Services"
+      },
+      {
+        "id": "L5",
+        "label": "Card Design"
+      },
+      {
+        "id": "L6",
+        "label": "Branding"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "No specific numerical data or detailed tables are present on the slide."
+}

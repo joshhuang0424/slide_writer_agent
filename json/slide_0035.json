@@ -1,0 +1,119 @@
+{
+  "slide_id": "10",
+  "section": "Data Science Culture",
+  "purpose": "Suggest strategies to make data science more attractive to companies.",
+  "narrative_role": "Informative",
+  "title": "Companies must actively do more to make data science attractive",
+  "bullets": [
+    {
+      "highlight": "Make data science impact and purpose more visible",
+      "text": "First and foremost: Building an own company culture that celebrates concrete business impact from AI and data science"
+    },
+    {
+      "highlight": "",
+      "text": "Actively sharing business impact stories externally (e.g., recruiting website)"
+    },
+    {
+      "highlight": "",
+      "text": "Codifying purpose beyond \"we are clever with data\""
+    },
+    {
+      "highlight": "Foster a culture of non-competition",
+      "text": "Building a company analytics culture that shuns the \"my model is stronger than your model\" approach to development and that celebrates diverse collaboration"
+    },
+    {
+      "highlight": "",
+      "text": "Avoiding recruiting instruments that highlight competition (e.g., coding competitions, \"hackathons\")"
+    },
+    {
+      "highlight": "Focus on info-sharing with students (online, on campus) on tangible, real-life examples",
+      "text": "Bringing real use cases: Why? How? What was the impact? What did we achieve?"
+    },
+    {
+      "highlight": "",
+      "text": "Bringing real data scientists who can highlight ways of working, not just recruiters"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Encouraging a supportive and visible culture for data science within companies.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and Bullets with Visuals",
+  "layout_type": "Text with Icons",
+  "content_zones": {
+    "title": "top",
+    "bullets": "center",
+    "visuals": "left"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Data impact",
+      "position": "top-left"
+    },
+    {
+      "type": "icon",
+      "label": "Non-competition",
+      "position": "middle-left"
+    },
+    {
+      "type": "icon",
+      "label": "Info-sharing",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Green text for highlights"
+  },
+  "design_language": "Professional with an emphasis on collaboration",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Teal",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": ""
+      },
+      {
+        "id": "L1",
+        "label": ""
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide contains no charts, tables, or pyramid infographic."
+  }
+}

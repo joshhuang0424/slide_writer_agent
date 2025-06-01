@@ -1,0 +1,91 @@
+{
+  "slide_id": "29",
+  "section": "Value Proposition Development",
+  "purpose": "Explain the components of a compelling Customer Value Proposition (CVP) and its importance.",
+  "narrative_role": "Informative",
+  "title": "A compelling Customer Value Proposition (CVP) is broader than the plastic and pricing, and must motivate customers to acquire the card and make it top of wallet",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual representation of the different components contributing to CVP.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Infographic with text annotations",
+  "layout_type": "circle diagram",
+  "content_zones": {
+    "title": "top",
+    "infographic": "center",
+    "annotations": "around infographic"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Customer Value Proposition",
+      "position": "center"
+    },
+    {
+      "type": "sector",
+      "label": "BRAND",
+      "position": "top left"
+    },
+    {
+      "type": "sector",
+      "label": "PRODUCT FUNCTIONALITY",
+      "position": "top right"
+    },
+    {
+      "type": "sector",
+      "label": "CUSTOMER EXPERIENCE",
+      "position": "bottom right"
+    },
+    {
+      "type": "sector",
+      "label": "BUNDLE/PACKAGE",
+      "position": "bottom left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "Modern and clean",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "light grey"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No tables or bullet points were present in the slide image; only a visual diagram and annotations were available."
+  }
+}

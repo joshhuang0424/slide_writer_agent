@@ -1,0 +1,130 @@
+{
+  "slide_id": "42",
+  "section": "Interchange Rates",
+  "purpose": "To illustrate how interchange rates vary based on portfolio and card type.",
+  "narrative_role": "Informative",
+  "title": "Networks segment interchange rates vary based on portfolio and card type",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "table and text",
+  "layout_type": "split",
+  "content_zones": {
+    "top": "title",
+    "left": "table",
+    "right": "text block"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold"
+  },
+  "design_language": "Professional and Corporate",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "white",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "Consumer Credit Portfolio",
+      "description": "Shows interchange rates by card type.",
+      "headers": [
+        "Consumer Credit Portfolio",
+        "Vol %",
+        "Low Range",
+        "High Range"
+      ],
+      "rows": [
+        {
+          "row_label": "Core",
+          "cells": [
+            "Core",
+            "18%",
+            "1.65%",
+            "1.76%"
+          ]
+        },
+        {
+          "row_label": "Enhanced",
+          "cells": [
+            "Enhanced",
+            "16%",
+            "1.75%",
+            "1.83%"
+          ]
+        },
+        {
+          "row_label": "World",
+          "cells": [
+            "World",
+            "25%",
+            "1.79%",
+            "1.97%"
+          ]
+        },
+        {
+          "row_label": "World High Value",
+          "cells": [
+            "World High Value",
+            "4%",
+            "2.20%",
+            "2.32%"
+          ]
+        },
+        {
+          "row_label": "World Elite",
+          "cells": [
+            "World Elite",
+            "37%",
+            "2.16%",
+            "2.33%"
+          ]
+        },
+        {
+          "row_label": "Total",
+          "cells": [
+            "Total",
+            "100%",
+            "1.65%",
+            "2.33%"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No additional charts or infographics detected on this slide. Text block on the right provides context and explanation for the table data."
+  }
+}

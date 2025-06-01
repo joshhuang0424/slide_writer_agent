@@ -1,0 +1,92 @@
+{
+  "slide_id": "9",
+  "section": "Case Study",
+  "purpose": "To present a customer acquisition strategy for converting VISA cards to Mastercard through customer segmentation.",
+  "narrative_role": "Informative",
+  "title": "Customer Acquisition: Driving VISA to MC Conversion Support in North America for a Large US Issuer through customer segmentation",
+  "bullets": [
+    {
+      "highlight": "1.",
+      "text": "Ingestion of historical VISA data for cards subject to conversion"
+    },
+    {
+      "highlight": "2.",
+      "text": "Customer segmentation driven by customer value, revolve behavior and consistency & breadth of spend on a card"
+    },
+    {
+      "highlight": "3.",
+      "text": "Detailed post-conversion marketing calendar with offer recommendations"
+    },
+    {
+      "highlight": "4.",
+      "text": "Profitability model estimating impact of marketing treatments on retained and incremental spend"
+    }
+  ],
+  "supporting_facts": [
+    "A large US issuer reached a global agreement with MC to convert all consumer credit cards to Mastercard."
+  ],
+  "reasoning_strategy": "Strategic planning and customer segmentation",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Case Study",
+  "content_zones": {
+    "left": "Background and Problem Statement",
+    "right": "Detailed Customer Segmentation, Post-Conversion Marketing Calendar, Incremental Spend Forecast Model"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Professional, corporate",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "Light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "High Spenders"
+      },
+      {
+        "id": "L1",
+        "label": "Low Spenders"
+      }
+    ],
+    "position": "right"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific data points or charts detected. Infographic represented as a pyramid due to segmentation logic."
+  }
+}

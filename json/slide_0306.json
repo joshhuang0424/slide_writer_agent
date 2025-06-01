@@ -1,0 +1,97 @@
+{
+  "slide_id": "1",
+  "section": "Agenda",
+  "purpose": "Outline the session topics and sub-types of engagements.",
+  "narrative_role": "overview",
+  "title": "Agenda",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Session Overview"
+    },
+    {
+      "highlight": false,
+      "text": "D&S Analytics engagement sub-types"
+    },
+    {
+      "highlight": false,
+      "text": "Contact Us!"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "listing",
+  "data_points": [],
+  "cta": null,
+  "layout": "text-focused",
+  "layout_type": "bulleted list",
+  "content_zones": {
+    "header": "top-left",
+    "body": "center",
+    "footer": "bottom-left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard logo",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for section titles"
+  },
+  "design_language": "professional, clean",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "orange",
+    "background": "black"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "24px"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "unknown",
+    "x_axis_label": "unknown",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Analytics for Financial Institution (FI) clients"
+      },
+      {
+        "id": "L1",
+        "label": "Merchant Analytics for Retail and commerce clients"
+      },
+      {
+        "id": "L2",
+        "label": "Analytics Strategy"
+      }
+    ],
+    "position": "center"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart data present. Infographic derived from list structure."
+  }
+}

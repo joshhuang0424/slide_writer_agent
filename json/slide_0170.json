@@ -1,0 +1,76 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "Title slide for BCG TSR introduction",
+  "narrative_role": "Introduction",
+  "title": "BCG TSR 方案介紹",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduce the presentation topic and establish branding",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and background image",
+  "layout_type": "title_slide",
+  "content_zones": {
+    "title": "center-left",
+    "subtitle": "bottom-left",
+    "date": "bottom-left",
+    "logo": "top-left"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "BCG",
+      "position": "top-left"
+    },
+    {
+      "type": "background_image",
+      "label": "spiral staircase",
+      "position": "full"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for title"
+  },
+  "design_language": "Corporate, professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "This is a title slide with no additional numerical or chart data."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slide_id": "1",
+  "section": "Cover",
+  "purpose": "Introduction",
+  "narrative_role": "Set the context",
+  "title": "BCG Telco sustainability index 2020",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Introduction",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title Slide",
+  "layout_type": "full_image_background",
+  "content_zones": {
+    "title_zone": "center",
+    "logo_zone": "top_left",
+    "date_zone": "bottom_left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 0,
+    "max_words_per_bullet": 0,
+    "emphasis_rule": "Title is emphasized by large font"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "image"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide is a cover slide with no additional textual or graphical data to analyze."
+  }
+}

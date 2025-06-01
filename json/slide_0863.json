@@ -1,0 +1,89 @@
+{
+  "slide_id": "1",
+  "section": "Financial Analysis",
+  "purpose": "To present the trend of cross-border consumption amounts for Guangda/Mastercard and analyze the contributing factors to changes.",
+  "narrative_role": "Analysis",
+  "title": "MC产品表现梳理：从跨境消费金额来看",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of historical data to highlight trends and contributing factors.",
+  "data_points": [
+    "2019: 单标卡 21, 双标卡 5",
+    "2020: 单标卡 32, 双标卡 2",
+    "2021: 单标卡 17, 双标卡 2",
+    "2022H1: 单标卡 8, 双标卡 1"
+  ],
+  "cta": null,
+  "layout": "Two-column",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Bar chart showing cross-border consumption amounts",
+    "right": "Bar chart showing active card numbers and per card consumption"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "-15%",
+      "position": "left"
+    },
+    {
+      "type": "arrow",
+      "label": "-31%",
+      "position": "right top"
+    },
+    {
+      "type": "arrow",
+      "label": "-48%",
+      "position": "right middle"
+    },
+    {
+      "type": "arrow",
+      "label": "+5%",
+      "position": "right bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight percentage changes"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "光大·万事达跨境消费金额（M$）",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Amount in M$",
+      "Active Cards"
+    ],
+    "values": [],
+    "annotations": [],
+    "source": "Deidentify数据库"
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific bullet points provided in the slide."
+  }
+}

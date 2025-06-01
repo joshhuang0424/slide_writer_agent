@@ -1,0 +1,167 @@
+{
+  "slide_id": "11",
+  "section": "Case example, USA",
+  "purpose": "Showcase the benefits of technology to public and private sectors",
+  "narrative_role": "Informative",
+  "title": "Tech offers benefits to both the public and private sector",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison",
+  "data_points": [],
+  "cta": null,
+  "layout": "Header with a detailed table and icons",
+  "layout_type": "Table with icons",
+  "content_zones": {
+    "header": "top",
+    "table": "center",
+    "source": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Capacity and reliability",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Sustainability",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Safety",
+      "position": "left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for highlights"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of technology packages and their benefits",
+      "headers": [
+        "Package",
+        "Technology",
+        "Financial benefits (IRR to owner)",
+        "Public benefits"
+      ],
+      "rows": [
+        {
+          "row_label": "Capacity and reliability",
+          "cells": [
+            "Traffic management/ITS",
+            "",
+            "$1.3-1.5B in public economic savings including time, fuel, and environmental and safety incident reduction, including reduced fatalities and injuries"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Predictive maintenance",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Weigh-in-motion network",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Application-based payment platform",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Modular pavements",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Sustainability",
+          "cells": [
+            "EV charging stations",
+            "",
+            "$50-150M decrease in environmental impact"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Air/water quality monitoring",
+            "",
+            ""
+          ]
+        },
+        {
+          "row_label": "Safety",
+          "cells": [
+            "Digital speed enforcement",
+            "",
+            "$200-400M reduction in safety incidents, incl. reduced fatalities and injuries"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "LED lighting",
+            "",
+            ""
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family, chart details are not specified in the image."
+  }
+}

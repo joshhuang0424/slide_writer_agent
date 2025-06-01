@@ -1,0 +1,80 @@
+{
+  "slide_id": "78",
+  "section": "Recommendations",
+  "purpose": "Provide strategic recommendations for Sony in 2014",
+  "narrative_role": "Conclusion",
+  "title": "BCG's portfolio recommendations for Sony in 2014",
+  "bullets": [
+    {
+      "highlight": "Double-down",
+      "text": "on game and semiconductors"
+    },
+    {
+      "highlight": "Maintain / improve margin",
+      "text": "on imaging products (more focus on professional / B2B solution)"
+    },
+    {
+      "highlight": "Go premium and asset-light",
+      "text": "TV/Audio, and Mobile (short-term)"
+    },
+    {
+      "highlight": "Exit",
+      "text": "Mobile (mid-term)"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight strategic areas for focus or divestment",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and bullet points",
+  "layout_type": "Text-focused",
+  "content_zones": {
+    "title": "top",
+    "bullets": "middle"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key strategic actions"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_comments": {
+    "_why_unknown": "No charts or infographics present on this slide."
+  }
+}

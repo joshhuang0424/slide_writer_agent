@@ -1,0 +1,60 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To highlight areas of potential growth",
+  "narrative_role": "Statement",
+  "title": "",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "left-text-right-image",
+  "layout_type": "split",
+  "content_zones": {
+    "text": "left",
+    "image": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "",
+    "background": "green"
+  },
+  "font": {
+    "title": {
+      "font_family": "",
+      "size": "",
+      "weight": ""
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "large"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "slide_id": "54",
+  "section": "BCG TSR方案介绍",
+  "purpose": "介绍TSR的驱动因素和具体分析方法",
+  "narrative_role": "explanatory",
+  "title": "明确三大TSR驱动抓手并展开具体分析",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "收入增长"
+    },
+    {
+      "highlight": "",
+      "text": "净收益或EBITDA利润增长率%"
+    },
+    {
+      "highlight": "",
+      "text": "增长和盈利能力预期（收入、每股收益、创新、利润、ROIC）"
+    },
+    {
+      "highlight": "",
+      "text": "保持稳定业绩，达到既定期望"
+    },
+    {
+      "highlight": "",
+      "text": "对管理层有信心"
+    },
+    {
+      "highlight": "",
+      "text": "业务组合变更"
+    },
+    {
+      "highlight": "",
+      "text": "瞄准最佳投资主体"
+    },
+    {
+      "highlight": "",
+      "text": "股票和股份回购"
+    },
+    {
+      "highlight": "",
+      "text": "风险因素（债务、波动性、并购）"
+    },
+    {
+      "highlight": "",
+      "text": "资本性支出"
+    },
+    {
+      "highlight": "",
+      "text": "流动资本需求"
+    },
+    {
+      "highlight": "",
+      "text": "股息、股票回购、债务、现金"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column with infographic",
+  "layout_type": "infographic with bullet points",
+  "content_zones": {
+    "left": "TSR驱动因素图示",
+    "right": "管理抓手要点"
+  },
+  "visual_elements": [
+    {
+      "type": "infographic",
+      "label": "股东总回报 (TSR)",
+      "position": "center"
+    },
+    {
+      "type": "infographic",
+      "label": "资本收益",
+      "position": "top"
+    },
+    {
+      "type": "infographic",
+      "label": "利润增长",
+      "position": "middle"
+    },
+    {
+      "type": "infographic",
+      "label": "估值倍数变化",
+      "position": "middle"
+    },
+    {
+      "type": "infographic",
+      "label": "现金流贡献",
+      "position": "middle"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "重要概念用粗體字"
+  },
+  "design_language": "corporate, structured",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "gray",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "资本收益"
+      },
+      {
+        "id": "L1",
+        "label": "利润增长"
+      },
+      {
+        "id": "L2",
+        "label": "估值倍数变化"
+      },
+      {
+        "id": "L3",
+        "label": "现金流贡献"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "該頁面沒有明確的圖表或數據點，所以相應欄位為空。"
+  }
+}

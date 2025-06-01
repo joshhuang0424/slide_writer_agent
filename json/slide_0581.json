@@ -1,0 +1,119 @@
+{
+  "slide_id": "10",
+  "section": "Reward Economics",
+  "purpose": "To present the points earned in each spend category.",
+  "narrative_role": "Informative",
+  "title": "To find the Earn rate, we need points earned in each spend category",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [
+    "5x merchant categories: 10%, 5 points / $",
+    "Fuel: 5%, 4 points / $",
+    "Dining: 10%, 3 points / $",
+    "Cross-border: 20%, 2 points / $",
+    "Domestic regular: 55%, 1 point / $"
+  ],
+  "cta": null,
+  "layout": "Title with table",
+  "layout_type": "Table-focused",
+  "content_zones": {
+    "title": "top",
+    "table": "center"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and orange for main title"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Displays distribution and earnings per spend category.",
+      "headers": [
+        "Categories",
+        "Spend distribution",
+        "Earning"
+      ],
+      "rows": [
+        {
+          "row_label": "5x merchant categories",
+          "cells": [
+            "10%",
+            "5 points / $"
+          ]
+        },
+        {
+          "row_label": "Fuel",
+          "cells": [
+            "5%",
+            "4 points / $"
+          ]
+        },
+        {
+          "row_label": "Dining",
+          "cells": [
+            "10%",
+            "3 points / $"
+          ]
+        },
+        {
+          "row_label": "Cross-border (remaining after above categories are removed)",
+          "cells": [
+            "20%",
+            "2 points / $"
+          ]
+        },
+        {
+          "row_label": "Domestic regular",
+          "cells": [
+            "55%",
+            "1 point / $"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "Standard table"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "Font family is not specified in the image."
+  }
+}

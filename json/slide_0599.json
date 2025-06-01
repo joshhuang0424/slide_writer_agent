@@ -1,0 +1,112 @@
+{
+  "slide_id": "28",
+  "section": "REWARD ECONOMICS",
+  "purpose": "To describe the key components of Pan Bank loyalty programs.",
+  "narrative_role": "Informative",
+  "title": "Pan Bank loyalty program",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "Most banks are now launching Pan bank loyalty programs, which allows customer to earn points across all banking products including remittances, bill payments, standing instruction etc. Customers usually compare Pan bank points to choose their bank"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title, Quote, Table",
+  "layout_type": "Informative",
+  "content_zones": {
+    "title": "top-left",
+    "quote": "center",
+    "table": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional and clean with a focus on textual information",
+  "color_scheme": {
+    "primary": "#6DA544",
+    "accent": "#000000",
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Table listing factors and descriptions related to Pan Bank loyalty programs.",
+      "headers": [
+        "Factors",
+        "Description"
+      ],
+      "rows": [
+        {
+          "row_label": "Number of Rewarded Products",
+          "cells": [
+            "Pan bank loyalty programs typically reward a large # products & actions by account holder: \n- Spend on credit, debit, prepaid & travel currency cards\n- Reloading of travel currency card through Bank Savings account\n- Bill payments\n- Credit transactions coming from different bank\n- Payment types: Electronic clearance transactions, Standing instructions, Outward remittance through Internet banking/branch etc.\n- One time: Registration on IB/MB within 30 days of account opening, Opening Trading account etc."
+          ]
+        },
+        {
+          "row_label": "Number of Earn Rules",
+          "cells": [
+            "The # earn rules is also typically high, with multiple rules on each product (for ex. accelerated earn rate on Grocery spend on Credit card)"
+          ]
+        },
+        {
+          "row_label": "Redemption options",
+          "cells": [
+            "Banks typically offer various redemption options – Cashback, Vouchers, Points transfer, Points exchange, Travel bookings etc."
+          ]
+        },
+        {
+          "row_label": "Giveback rate by product",
+          "cells": [
+            "The giveback rate for each product can be individually compared between the banks"
+          ]
+        },
+        {
+          "row_label": "Overall loyalty spend per customer base",
+          "cells": [
+            "The total loyalty spend per customer can be compared between banks"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_新增欄位": {
+    "_why_unknown": "Font details are not specified in the image."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slide_id": "19",
+  "section": "Allyship",
+  "purpose": "To highlight the gap between self-identification as allies and concrete actions taken to support women of color.",
+  "narrative_role": "Informative",
+  "title": "Employees want to step up, but often don’t know how",
+  "bullets": [
+    {
+      "highlight": "63%",
+      "text": "of employees surveyed self-identify as allies to women of color"
+    },
+    {
+      "highlight": "10%",
+      "text": "Mentor or sponsor one or more women of color"
+    },
+    {
+      "highlight": "29%",
+      "text": "Take a public stand to support racial equality"
+    },
+    {
+      "highlight": "39%",
+      "text": "Actively listen to personal stories of women of color about bias"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison between perception and action",
+  "data_points": [
+    "63% self-identify as allies",
+    "10% mentor or sponsor",
+    "29% take a public stand",
+    "39% listen to personal stories"
+  ],
+  "cta": null,
+  "layout": "Split screen with text and infographic",
+  "layout_type": "Two-column",
+  "content_zones": {
+    "left": "Title and source",
+    "right": "Infographic and bullet points"
+  },
+  "visual_elements": [
+    {
+      "type": "icon array",
+      "label": "People icons",
+      "position": "top right"
+    },
+    {
+      "type": "bar chart",
+      "label": "Actions taken by gender",
+      "position": "bottom right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold and larger font size for highlights"
+  },
+  "design_language": "Professional and data-focused",
+  "color_scheme": {
+    "primary": "Dark blue",
+    "accent": "Light blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "32px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [
+      "All men",
+      "All women"
+    ],
+    "values": [
+      8,
+      12,
+      26,
+      32,
+      32,
+      52
+    ],
+    "annotations": [],
+    "source": "2020 Women in the Workplace research"
+  },
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "There are no specific call-to-action or additional facts provided beyond those listed."
+  }
+}

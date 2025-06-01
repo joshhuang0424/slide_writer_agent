@@ -1,0 +1,66 @@
+{
+  "slide_id": "14",
+  "section": "Unknown",
+  "purpose": "Provide a call to action for accessing McKinsey cloud perspectives.",
+  "narrative_role": "CTA",
+  "title": "",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Direct URL invitation",
+  "data_points": [],
+  "cta": "Get the latest on McKinsey perspectives on cloud at http://cloud.mckinsey.com",
+  "layout": "Centered text with hyperlink",
+  "layout_type": "Simple text slide",
+  "content_zones": {
+    "header": "Get the latest on McKinsey perspectives on cloud",
+    "link": "http://cloud.mckinsey.com"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "URL is underlined and in blue"
+  },
+  "design_language": "Minimalistic, corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Unknown",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": {
+      "font_family": "Font information is not discernible from the image",
+      "section": "Section context not provided in the image"
+    }
+  }
+}

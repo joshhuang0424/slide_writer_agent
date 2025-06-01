@@ -1,0 +1,113 @@
+{
+  "slide_id": "94",
+  "section": "Incentive Design",
+  "purpose": "To explain how proper incentive design aligns organization with TSR goals.",
+  "narrative_role": "Informative",
+  "title": "Proper incentive design aligns organization with TSR goals",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "As the old saying goes ...what gets measured and paid for gets done"
+    },
+    {
+      "highlight": false,
+      "text": "Planning will be theoretical and often gamed if plan targets and resulting performance are not"
+    },
+    {
+      "highlight": false,
+      "text": "Closely linked to near and long term incentives"
+    },
+    {
+      "highlight": false,
+      "text": "Long term incentives should be market based, not internal objectives for improvement that do not clearly back to TSR"
+    },
+    {
+      "highlight": false,
+      "text": "Set targets using external benchmarks"
+    },
+    {
+      "highlight": false,
+      "text": "Base performance & competition on iTSR and other TSR linked metrics"
+    },
+    {
+      "highlight": false,
+      "text": "Timing of incentive structure matters, with three year rolling a useful standard"
+    },
+    {
+      "highlight": false,
+      "text": "Longer time horizon prevents short term manipulation and gaming"
+    },
+    {
+      "highlight": false,
+      "text": "Multi year assessments work best with long tenured management teams"
+    },
+    {
+      "highlight": false,
+      "text": "In mobile organizations, compensation tranches can follow executives who move from one business to another"
+    },
+    {
+      "highlight": false,
+      "text": "Important to align incentives with levers managers, based on relevant level in organization"
+    },
+    {
+      "highlight": false,
+      "text": "Also need to minimize asymmetries of risk by exposing executives to the same upside and downside risks that investors face- they should have skin in the game"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Logical explanation with examples and guidelines.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Text-heavy with bullet points",
+  "layout_type": "bulleted_list",
+  "content_zones": {
+    "left": "Title",
+    "right": "Bullet points"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 12,
+    "max_words_per_bullet": 20,
+    "emphasis_rule": "Green text for emphasis"
+  },
+  "design_language": "Minimalistic with emphasis on green color",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Dark Blue",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "unknown",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "unknown"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or infographic levels detected; infographic position unclear."
+  }
+}

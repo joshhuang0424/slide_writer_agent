@@ -1,0 +1,145 @@
+{
+  "slide_id": "17",
+  "section": "Overlimit Activity",
+  "purpose": "To explain why issuers may allow overlimit activity and the associated fees.",
+  "narrative_role": "Informative",
+  "title": "Issuers may allow overlimit activity for the sake of customer experience",
+  "bullets": [
+    {
+      "highlight": "Jamie maxes out the credit card and even goes over the limit",
+      "text": "Jamie’s loving life in Cancun and so decides to throw a huge party to celebrate with a bunch of new friends."
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Explains the costs associated with overlimit activities and fees.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with infographic and text",
+  "layout_type": "Mixed",
+  "content_zones": {
+    "left": "Narrative about Jamie",
+    "right": "Table with fee breakdown"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Person icon",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Building icon",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Plus icon",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted phrases in orange"
+  },
+  "design_language": "Professional with emphasis on financial terms",
+  "color_scheme": {
+    "primary": "Black",
+    "accent": "Orange",
+    "background": "Light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "None",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Fee Breakdown",
+      "description": "Shows different types of fees and their costs.",
+      "headers": [
+        "Fee Type",
+        "Cost"
+      ],
+      "rows": [
+        {
+          "row_label": "Finance Charges",
+          "cells": [
+            "Finance Charges",
+            "$115"
+          ]
+        },
+        {
+          "row_label": "Interest Expense",
+          "cells": [
+            "Interest Expense",
+            "($47)"
+          ]
+        },
+        {
+          "row_label": "Net Interest Income",
+          "cells": [
+            "Net Interest Income",
+            "$68"
+          ]
+        },
+        {
+          "row_label": "Interchange Fees",
+          "cells": [
+            "Interchange Fees",
+            "$674"
+          ]
+        },
+        {
+          "row_label": "Overlimit Fees",
+          "cells": [
+            "Overlimit Fees",
+            "$0.3"
+          ]
+        },
+        {
+          "row_label": "Total Other Income",
+          "cells": [
+            "Total Other Income",
+            "$760.8"
+          ]
+        },
+        {
+          "row_label": "Total Costs",
+          "cells": [
+            "Total Costs",
+            "($1141)"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": "Font family not specified in the image."
+}

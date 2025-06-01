@@ -1,0 +1,77 @@
+{
+  "slide_id": "2",
+  "section": "Introduction",
+  "purpose": "Define key terms related to diversity, equity, and inclusion.",
+  "narrative_role": "Informative",
+  "title": "",
+  "bullets": [
+    {
+      "highlight": "Diversity",
+      "text": "is about who is represented"
+    },
+    {
+      "highlight": "Equity",
+      "text": "refers to equality of opportunity"
+    },
+    {
+      "highlight": "Inclusion",
+      "text": "addresses what people experience"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Definition",
+  "data_points": [],
+  "cta": null,
+  "layout": "Centered text",
+  "layout_type": "Text",
+  "content_zones": {
+    "header": "none",
+    "body": "center",
+    "footer": "bottom-right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 3,
+    "max_words_per_bullet": 6,
+    "emphasis_rule": "Highlighted terms in blue"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "#1F3A56",
+    "accent": "#1E6BB8",
+    "background": "#0A162A"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "Serif",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The font size and weight for both title and body text are not specified in the image."
+  }
+}

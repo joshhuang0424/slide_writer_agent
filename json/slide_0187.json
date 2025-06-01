@@ -1,0 +1,179 @@
+{
+  "slide_id": "18",
+  "section": "BCG TSR 案例流程分享",
+  "purpose": "說明從TSR角度出發的策略以決定業務運營方向",
+  "narrative_role": "提供策略分析與建議",
+  "title": "從TSR角度出發權衡策略(2/2)：根據增長與收益戰略佈局，進行TSR類比，決定業務最佳運營方向",
+  "bullets": [
+    {
+      "highlight": null,
+      "text": "積極投資並拓展，高級驅動輔助系統、雲端、物聯網、安保、人工智慧、加速器等朝陽行業業務"
+    },
+    {
+      "highlight": null,
+      "text": "推進策略併購，並大量招募研發人才"
+    },
+    {
+      "highlight": null,
+      "text": "優化生產設備"
+    },
+    {
+      "highlight": null,
+      "text": "淘汰低獲利率產品"
+    },
+    {
+      "highlight": null,
+      "text": "調整價格，保障利潤"
+    },
+    {
+      "highlight": null,
+      "text": "在保障可推進業務改車以及可持續發展的前提下，節約科研、運營、行銷成本"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "利用智慧倍數（IRR）分析增長和收益對企業價值的影響",
+  "data_points": [],
+  "cta": null,
+  "layout": "圖文並重",
+  "layout_type": "complex",
+  "content_zones": {
+    "header": "top-left",
+    "bullets": "left",
+    "table": "right"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "問號",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "使用顏色和粗體字突出重要信息"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "pink",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "pyramid",
+    "title": "智慧倍數分析結果示例",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "股價指數"
+      },
+      {
+        "id": "L1",
+        "label": "毛利率"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "根據戰略舉措和情景，類比未來財務績效以及TSR",
+      "description": "對不同情景下的TSR和收益進行對比分析",
+      "headers": [
+        "情景",
+        "TSR (FY18-FY23)",
+        "營收 (M$, 2023)",
+        "CAGR (FY18-FY23)",
+        "毛利率 (%, 2023)",
+        "營業獲利率 (%, 2023)",
+        "資本性支出 (M$)",
+        "市場風險",
+        "情景可行性",
+        "成功率"
+      ],
+      "rows": [
+        {
+          "row_label": "BCG參考情景",
+          "cells": [
+            "10-13",
+            "2,015",
+            "4%",
+            "37%",
+            "12%",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "row_label": "情景1 增長中，利潤高",
+          "cells": [
+            "9-21",
+            "2,880",
+            "12%",
+            "43%",
+            "14%",
+            "-$1,070",
+            "高",
+            "低"
+          ]
+        },
+        {
+          "row_label": "情景2 增長中，風險小",
+          "cells": [
+            "0-10",
+            "2,770",
+            "11%",
+            "39%",
+            "9%",
+            "-$1,130",
+            "低",
+            "低"
+          ]
+        },
+        {
+          "row_label": "情景3 增長快，利潤低",
+          "cells": [
+            "5-11",
+            "3,025",
+            "13%",
+            "37%",
+            "10%",
+            "-$1,500",
+            "低",
+            "低"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "無法判斷的欄位因為圖片中未提供足夠的上下文或標籤信息"
+  }
+}

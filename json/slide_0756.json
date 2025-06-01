@@ -1,0 +1,97 @@
+{
+  "slide_id": "1",
+  "section": "Supply Chain Analysis",
+  "purpose": "To highlight the complexity and visibility issues within the semiconductor supply chain.",
+  "narrative_role": "Informative",
+  "title": "The semiconductor supply chain is complex, and automotive companies have poor visibility into demand-supply dynamics",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Highlight key structural challenges and stages in the supply chain.",
+  "data_points": [],
+  "cta": null,
+  "layout": "title and visual elements",
+  "layout_type": "infographic and table",
+  "content_zones": {
+    "title_zone": "top",
+    "infographic_zone": "center",
+    "table_zone": "bottom"
+  },
+  "visual_elements": [
+    {
+      "type": "arrow_chain",
+      "label": "IC vendor to OEM",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for emphasis"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Structural challenges for supply-demand balance",
+      "description": "Outlines key issues in the supply chain.",
+      "headers": [],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "Auto makes up just 10% of semiconductor demand and less than 5% of the foundry business",
+            "Six end markets, with semiconductor companies far removed from end-user demand",
+            "10- to 20-week lead times"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "There are over 30 product types, with different design and manufacturing chains",
+            "Complex, distributed global supply chain; bottlenecks can occur anywhere",
+            "Fragmentation of manufacturing capacity across integrated device manufacturers and foundries"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No specific bullet points or pyramid structure identified."
+  }
+}

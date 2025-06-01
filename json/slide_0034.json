@@ -1,0 +1,220 @@
+{
+  "slide_id": "3",
+  "section": "Data Science Careers",
+  "purpose": "Highlight country performance in making data science careers transparent to women",
+  "narrative_role": "Informative",
+  "title": "Some countries are leading the way on making data science careers transparent to women",
+  "bullets": [
+    {
+      "highlight": "career transparency across three dimensions",
+      "text": "We examined career transparency across three dimensions: Understanding of the workplace role, qualifications, and career path options"
+    },
+    {
+      "highlight": "Australia, France, and Spain rank highest",
+      "text": "Australia, France, and Spain rank highest—STEM students there feel best-informed about data science careers—while Germany, Japan, and China lag behind"
+    },
+    {
+      "highlight": "A virtuous cycle?",
+      "text": "A virtuous cycle?: Countries with a higher share of women already in tech jobs (e.g., Australia at 28%) lead the list, while countries with a low current share (e.g., Japan at 13%) are also least successful at informing students"
+    }
+  ],
+  "supporting_facts": [
+    "Australia at 28%",
+    "Japan at 13%"
+  ],
+  "reasoning_strategy": "Comparative analysis",
+  "data_points": [
+    {
+      "country": "Australia",
+      "percentage": 63
+    },
+    {
+      "country": "France",
+      "percentage": 66
+    },
+    {
+      "country": "Spain",
+      "percentage": 65
+    },
+    {
+      "country": "Canada",
+      "percentage": 57
+    },
+    {
+      "country": "India",
+      "percentage": 57
+    },
+    {
+      "country": "UK",
+      "percentage": 57
+    },
+    {
+      "country": "US",
+      "percentage": 53
+    },
+    {
+      "country": "China",
+      "percentage": 46
+    },
+    {
+      "country": "Japan",
+      "percentage": 47
+    },
+    {
+      "country": "Germany",
+      "percentage": 39
+    }
+  ],
+  "cta": null,
+  "layout": "Two-column with infographics",
+  "layout_type": "Comparison",
+  "content_zones": {
+    "left": "Country performance visualization",
+    "right": "Bullet points with analysis"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "Australia, France, Spain",
+      "position": "left top"
+    },
+    {
+      "type": "circle",
+      "label": "Canada, India, UK, US",
+      "position": "left middle"
+    },
+    {
+      "type": "circle",
+      "label": "China, Japan, Germany",
+      "position": "left bottom"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key countries and statistics"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "grey",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Share of female students claiming a good understanding of data science (in %)",
+      "description": "Comparison of countries based on female students' understanding of data science",
+      "headers": [
+        "Country",
+        "Percentage"
+      ],
+      "rows": [
+        {
+          "row_label": "Leaders",
+          "cells": [
+            "Australia",
+            "63"
+          ]
+        },
+        {
+          "row_label": "Leaders",
+          "cells": [
+            "France",
+            "66"
+          ]
+        },
+        {
+          "row_label": "Leaders",
+          "cells": [
+            "Spain",
+            "65"
+          ]
+        },
+        {
+          "row_label": "Middle of the pack",
+          "cells": [
+            "Canada",
+            "57"
+          ]
+        },
+        {
+          "row_label": "Middle of the pack",
+          "cells": [
+            "India",
+            "57"
+          ]
+        },
+        {
+          "row_label": "Middle of the pack",
+          "cells": [
+            "UK",
+            "57"
+          ]
+        },
+        {
+          "row_label": "Middle of the pack",
+          "cells": [
+            "US",
+            "53"
+          ]
+        },
+        {
+          "row_label": "Laggards",
+          "cells": [
+            "China",
+            "46"
+          ]
+        },
+        {
+          "row_label": "Laggards",
+          "cells": [
+            "Japan",
+            "47"
+          ]
+        },
+        {
+          "row_label": "Laggards",
+          "cells": [
+            "Germany",
+            "39"
+          ]
+        }
+      ],
+      "position": "left",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No typical chart elements like axes or continuous scales are present; hence no 'chart' field is filled."
+  }
+}

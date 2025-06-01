@@ -1,0 +1,128 @@
+{
+  "slide_id": "14",
+  "section": "Data and Fraud Management",
+  "purpose": "To present the essential data elements required for effective fraud management.",
+  "narrative_role": "Informative",
+  "title": "Data is critical to defining fraud strategies and driving analytics for effective fraud management",
+  "bullets": [],
+  "supporting_facts": [
+    "Effective fraud management requires robust, relevant and accessible data.",
+    "Issuers should maintain a role in fraud strategies and policies even when outsourcing parts of the fraud management/operations."
+  ],
+  "reasoning_strategy": "Highlight the critical data elements necessary for fraud management.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title, bullet points, and table",
+  "layout_type": "Text and table",
+  "content_zones": {
+    "title": {
+      "position": "top",
+      "size": "large"
+    },
+    "table": {
+      "position": "center",
+      "size": "medium"
+    },
+    "supporting_facts": {
+      "position": "bottom",
+      "size": "medium"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "arrow",
+      "label": "Commonly Used Data Elements",
+      "position": "left-middle"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for main title"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "red",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Transaction Data",
+      "description": "Data types required for fraud management",
+      "headers": [
+        "Authorization",
+        "Confirmed Frauds",
+        "Demographics",
+        "Operator Actions",
+        "Predictive Models/Custom Variables"
+      ],
+      "rows": [
+        {
+          "row_label": "Commonly Used Data Elements",
+          "cells": [
+            "POS Entry",
+            "Merchant Category Code (MCC)",
+            "Merchant Country/State/Zip",
+            "Transaction Amount",
+            "Transaction Time"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Customer Zip",
+            "Product Type (Consumer, Commercial, Small Business, Credit/Debit/Prepaid)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Decisions per hour",
+            "Contact rate",
+            "Fraud capture rate"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "Fraud Score",
+            "Velocity Counters",
+            "Customer Segmentation"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

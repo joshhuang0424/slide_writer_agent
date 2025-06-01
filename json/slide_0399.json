@@ -1,0 +1,208 @@
+{
+  "slide_id": "35",
+  "section": "Credit Card Benefits Analysis",
+  "purpose": "To compare the benefits of Chinese domestic and Canadian local credit cards",
+  "narrative_role": "Comparison",
+  "title": "对标境内及境外竞品情况",
+  "bullets": [
+    {
+      "highlight": "1",
+      "text": "加币卡当前在高潜场景中部署了良好权益"
+    },
+    {
+      "highlight": "2",
+      "text": "建议后续根据市场潜力和竞争情况，持续进行权益补齐"
+    }
+  ],
+  "supporting_facts": [
+    "中行加币卡在电商数码、食品百货等领域部署了良好权益",
+    "关注当地信用卡中发展较好的权益，如汽车与保险"
+  ],
+  "reasoning_strategy": "Comparison of benefits and market positioning",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "comparison with table",
+  "content_zones": {
+    "left": "Table and comparisons",
+    "right": "Key observations and recommendations"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Numbers and benefits are highlighted"
+  },
+  "design_language": "Corporate and structured",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "Comparison of card benefits across different scenarios",
+      "headers": [
+        "卡片名称",
+        "卡均消费金额($)",
+        "卡均覆盖行业(个)",
+        "开卡礼",
+        "场景权益"
+      ],
+      "rows": [
+        {
+          "row_label": "中行卓隽留学加币",
+          "cells": [
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "中行卓隽留学美元",
+          "cells": [
+            "6,030",
+            "5.9",
+            "$100亚马逊购物券",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "中行全币种卡",
+          "cells": [
+            "8,115",
+            "6.1",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "招行全币种卡",
+          "cells": [
+            "13,112",
+            "7.5",
+            "“出国神包”，388积分，5%返现",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "工行环球旅行卡",
+          "cells": [
+            "11,555",
+            "6.7",
+            "6次机场高铁贵宾厅，2888权益包",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "建行留学卡",
+          "cells": [
+            "10,840",
+            "7.0",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "建行全球世界旅行卡",
+          "cells": [
+            "8,739",
+            "5.4",
+            "轻奢拉杆箱换购",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "TD Cash Back",
+          "cells": [
+            "差异化权益覆盖",
+            "每个月10%返现",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "BMO Cashback",
+          "cells": [
+            "差异化权益覆盖",
+            "每个月5%返现",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "CIBC Dividend",
+          "cells": [
+            "差异化权益覆盖",
+            "$60",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "RBC Cash Back",
+          "cells": [
+            "差异化权益覆盖",
+            "$50",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "row_label": "L’ean",
+          "cells": [
+            "差异化权益覆盖",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The page does not contain chart elements or pyramid structure."
+  }
+}

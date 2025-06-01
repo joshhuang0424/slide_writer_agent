@@ -1,0 +1,122 @@
+{
+  "slide_id": "1",
+  "section": "MC產品表現",
+  "purpose": "分析光大/万事达卡在册卡数和活跃卡数的变化趋势",
+  "narrative_role": "提供数据支持的说明",
+  "title": "MC产品表现梳理",
+  "bullets": [
+    {
+      "highlight": "2020年",
+      "text": "光大·万事达在册卡量出现了一轮激增，主要受钛金/白金卡等（占比总体增长卡量53%）和世界卡等（占比总体增长卡量38%）的数量增长影响"
+    },
+    {
+      "highlight": "2019年以来",
+      "text": "光大·万事达活跃卡占比呈逐年下降的趋势，截至2020H1，活跃卡数仅占比0.23%，约为3年前活跃卡数占比的1/4，光大/万事达亟需思考活客策略"
+    }
+  ],
+  "supporting_facts": [
+    "2020年光大/万事达在册卡数出现一轮增长",
+    "光大·万事达活跃卡数占比呈现快速下降趋势"
+  ],
+  "reasoning_strategy": "通过数据对比和趋势分析指出问题所在",
+  "data_points": [
+    "+12%",
+    "-0.25%",
+    "-0.5%",
+    "-73.87%",
+    "0.87%",
+    "0.71%",
+    "0.37%",
+    "0.23%"
+  ],
+  "cta": null,
+  "layout": "two_columns",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "在册卡数图表",
+    "right": "活跃卡数占比图表"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "数字和年份加粗"
+  },
+  "design_language": "数据驱动",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "bar and line",
+    "title": "光大·万事达卡在册卡数（万张）与活跃卡占比总在册卡量（%）",
+    "x_axis_label": "年份",
+    "y_axis": [
+      "在册卡数（万张）",
+      "活跃卡占比（%）"
+    ],
+    "values": [
+      {
+        "year": "2019",
+        "standard": "26.10",
+        "gold": "29.63",
+        "titanium": "138.81",
+        "world": "1.93"
+      },
+      {
+        "year": "2020",
+        "standard": "26.29",
+        "gold": "31.60",
+        "titanium": "150.99",
+        "world": "10.56"
+      },
+      {
+        "year": "2021",
+        "standard": "26.27",
+        "gold": "31.03",
+        "titanium": "151.77",
+        "world": "9.84"
+      },
+      {
+        "year": "2022Q1",
+        "standard": "26.29",
+        "gold": "31.06",
+        "titanium": "150.82",
+        "world": "9.63"
+      }
+    ],
+    "annotations": [
+      "+12%",
+      "-0.25%",
+      "-0.5%",
+      "-73.87%"
+    ],
+    "source": "MyMPA数据库; De-identify数据库"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "頁面中未出現 pyramid 圖形，故 infographics 留空"
+  }
+}

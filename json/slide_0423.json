@@ -1,0 +1,155 @@
+{
+  "slide_id": "14",
+  "section": "Credit Card Management",
+  "purpose": "To illustrate the consequences of irresponsible credit card behavior.",
+  "narrative_role": "Explanation",
+  "title": "Irresponsible cardholder behavior leads to repercussion for both parties",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Cause and effect",
+  "data_points": [],
+  "cta": null,
+  "layout": "complex",
+  "layout_type": "two_column",
+  "content_zones": {
+    "left": "story about Jamie forgetting to pay credit card",
+    "center": "breakdown of financial terms",
+    "right": "explanation of financial charges"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "person",
+      "position": "top left"
+    },
+    {
+      "type": "arrow",
+      "label": "",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "bank",
+      "position": "top center"
+    },
+    {
+      "type": "icon",
+      "label": "plus sign",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlighted text in bold"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "16",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Financial Breakdown",
+      "description": "Detailed breakdown of financial terms and their impacts",
+      "headers": [
+        "Category",
+        "Amount"
+      ],
+      "rows": [
+        {
+          "row_label": "Finance Charges",
+          "cells": [
+            "Transfer Pricing Interest Income",
+            "$115"
+          ]
+        },
+        {
+          "row_label": "Interest Expense",
+          "cells": [
+            "Net Interest Income",
+            "($47)"
+          ]
+        },
+        {
+          "row_label": "Chargeoffs",
+          "cells": [
+            "Loan Loss Provision Adjustment",
+            "($12)"
+          ]
+        },
+        {
+          "row_label": "Recoveries",
+          "cells": [
+            "Net Credit Losses",
+            "($54)"
+          ]
+        },
+        {
+          "row_label": "Late Fees",
+          "cells": [
+            "Net Lending Margin",
+            "$26"
+          ]
+        },
+        {
+          "row_label": "Total Other Income",
+          "cells": [
+            "Acquisition Cost",
+            "$760.8"
+          ]
+        },
+        {
+          "row_label": "Collection Ops Costs",
+          "cells": [
+            "Credit Protection Claims",
+            "($5)"
+          ]
+        },
+        {
+          "row_label": "Total Costs",
+          "cells": [
+            "Pre-tax Net Income",
+            "($1141)"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "pyramid not present in this slide"
+  }
+}

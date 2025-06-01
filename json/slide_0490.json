@@ -1,0 +1,111 @@
+{
+  "slide_id": "15",
+  "section": "Phase 3",
+  "purpose": "To outline the implementation approach and PMO setup for executing the digital strategy.",
+  "narrative_role": "Explanation",
+  "title": "Phase 3: Implementation approach and PMO set up to execute the digital strategy",
+  "bullets": [
+    {
+      "highlight": "",
+      "text": "What are the best practices to ensure successful implementation of a digital strategy?"
+    },
+    {
+      "highlight": "",
+      "text": "Who will track activities, ownership, metrics and timelines in the implementation process?"
+    },
+    {
+      "highlight": "",
+      "text": "What will happen in case of any issues or delays in the process?"
+    },
+    {
+      "highlight": "",
+      "text": "How to manage change resulting from a new digital strategy?"
+    },
+    {
+      "highlight": "",
+      "text": "How to increase awareness within the organization and maximize the benefits of a new digital strategy?"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "Two-column with icons",
+  "layout_type": "mixed",
+  "content_zones": {
+    "left": "Implementation support - Best practices to de-risk the implementation and reduce time to market",
+    "right": "Digital implementation approach and PMO answers the following questions"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Ribbon",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Checklist",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Radar",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Team",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Megaphone",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for key terms"
+  },
+  "design_language": "Corporate, Professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24pt",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12pt"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No data points or chart elements were identified on the slide."
+  }
+}

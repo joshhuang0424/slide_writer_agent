@@ -1,0 +1,138 @@
+{
+  "slide_id": "1",
+  "section": "Introduction",
+  "purpose": "To present key criteria for identifying target opportunities.",
+  "narrative_role": "Informative",
+  "title": "4 key lenses to identify target opportunities",
+  "bullets": [
+    {
+      "highlight": "DOES IT MATTER?",
+      "text": "Address big markets globally – choose large (global) markets to play in"
+    },
+    {
+      "highlight": "DOES IT MATTER?",
+      "text": "Value creation potential – measured by revenue, market share potential"
+    },
+    {
+      "highlight": "DOES IT MATTER?",
+      "text": "Solve clear challenges – focus on must-haves versus nice-to-haves"
+    },
+    {
+      "highlight": "WILL IT WORK?",
+      "text": "Product-market fit – attractive market with a product / clear vision that satisfies it"
+    },
+    {
+      "highlight": "WILL IT WORK?",
+      "text": "Scientifically possible – vetted technology with real potential to scale"
+    },
+    {
+      "highlight": "WILL IT WORK?",
+      "text": "Commercially viable – scalable business model with attractive unit economics"
+    },
+    {
+      "highlight": "CAN WE WIN?",
+      "text": "Unlock of corporate assets and unfair advantage"
+    },
+    {
+      "highlight": "CAN WE WIN?",
+      "text": "Disrupt markets or create entirely new ones"
+    },
+    {
+      "highlight": "CAN WE WIN?",
+      "text": "Strong execution and operations"
+    },
+    {
+      "highlight": "CAN WE WIN?",
+      "text": "Potential for ecosystem action – opportunities to collaborate with wider ecosystem to amplify impact"
+    },
+    {
+      "highlight": "IS THERE IMPACT?",
+      "text": "Superior to the current system – cleaner, cheaper, safer and less wasteful than incumbents"
+    },
+    {
+      "highlight": "IS THERE IMPACT?",
+      "text": "Tangible decarbonization potential - 50+ Mt pa CO2e reduction potential at scale"
+    },
+    {
+      "highlight": "IS THERE IMPACT?",
+      "text": "Changes the game – pioneers new industry standards for competitors to follow"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Evaluation of market opportunities through specific criteria.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Four-column",
+  "layout_type": "Text-focused",
+  "content_zones": {
+    "zone1": "Top - Title",
+    "zone2": "Columns below - Content"
+  },
+  "visual_elements": [
+    {
+      "type": "rectangle",
+      "label": "DOES IT MATTER?",
+      "position": "left"
+    },
+    {
+      "type": "rectangle",
+      "label": "WILL IT WORK?",
+      "position": "center-left"
+    },
+    {
+      "type": "rectangle",
+      "label": "CAN WE WIN?",
+      "position": "center-right"
+    },
+    {
+      "type": "rectangle",
+      "label": "IS THERE IMPACT?",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for emphasis"
+  },
+  "design_language": "Modern, clean",
+  "color_scheme": {
+    "primary": "Dark green",
+    "accent": "Lime green",
+    "background": "Gradient dark green"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No chart or pyramid structure present, thus related fields are unknown."
+  }
+}

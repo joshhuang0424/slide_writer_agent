@@ -1,0 +1,77 @@
+{
+  "slide_id": "11",
+  "section": "Contents",
+  "purpose": "Overview of sections",
+  "narrative_role": "Table of Contents",
+  "title": "Contents",
+  "bullets": [
+    {
+      "highlight": false,
+      "text": "Car buying"
+    },
+    {
+      "highlight": false,
+      "text": "Aftermarket"
+    },
+    {
+      "highlight": false,
+      "text": "Mobility"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "List structure",
+  "data_points": [],
+  "cta": null,
+  "layout": "text and image",
+  "layout_type": "left-right",
+  "content_zones": {
+    "text": "left",
+    "image": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 3,
+    "emphasis_rule": "Bold title"
+  },
+  "design_language": "Modern, automotive",
+  "color_scheme": {
+    "primary": "dark blue",
+    "accent": "white",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No charts or tables detected, image of a car used as visual element."
+  }
+}

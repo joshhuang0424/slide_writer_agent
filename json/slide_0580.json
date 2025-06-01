@@ -1,0 +1,112 @@
+{
+  "slide_id": "9",
+  "section": "REWARD ECONOMICS",
+  "purpose": "To illustrate spend distribution using Mastercard data.",
+  "narrative_role": "Supporting data visualization",
+  "title": "To find the Earn rate, we need insights into spend distribution",
+  "bullets": [],
+  "supporting_facts": [
+    "Spend distribution for a product portfolio/customer segment is obtained from Mastercard processed data or is provided by the client."
+  ],
+  "reasoning_strategy": "Data-driven insights",
+  "data_points": [
+    "5x merchant categories: 10%",
+    "Fuel: 5%",
+    "Dining: 10%",
+    "Cross-border: 20%",
+    "Domestic regular: 55%"
+  ],
+  "cta": null,
+  "layout": "Title with table",
+  "layout_type": "text and table",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "note": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italicize for emphasis"
+  },
+  "design_language": "Professional and data-centric",
+  "color_scheme": {
+    "primary": "Orange",
+    "accent": "Green",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "Large",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "Medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "Spend Distribution",
+      "description": "Illustrates the distribution of spending across different categories",
+      "headers": [
+        "Categories",
+        "Spend distribution"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "5x merchant categories",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "Fuel",
+            "5%"
+          ]
+        },
+        {
+          "cells": [
+            "Dining",
+            "10%"
+          ]
+        },
+        {
+          "cells": [
+            "Cross-border (remaining after above categories are removed)",
+            "20%"
+          ]
+        },
+        {
+          "cells": [
+            "Domestic regular",
+            "55%"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  }
+}

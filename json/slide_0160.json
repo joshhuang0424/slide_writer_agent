@@ -1,0 +1,98 @@
+{
+  "slide_id": "5",
+  "section": "burnout_analysis",
+  "purpose": "Highlight the increasing levels of burnout among employees, especially women.",
+  "narrative_role": "Highlight the disparity and consequences of burnout.",
+  "title": "While women ‘hung on’ in the last year, they are experiencing unsustainable levels of burn out",
+  "bullets": [
+    {
+      "highlight": "2.1x",
+      "text": "Employees who are “always on” are more likely to be burned out"
+    },
+    {
+      "highlight": "1.6x",
+      "text": "Employees who are burned out are more likely than employees overall to have considered downshifting / leaving"
+    },
+    {
+      "highlight": "1.6x",
+      "text": "more likely to have considered taking a job at a different company with a better work culture"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Quantitative comparison",
+  "data_points": [
+    "42%",
+    "35%",
+    "32%",
+    "28%"
+  ],
+  "cta": null,
+  "layout": "Two-column with chart and text",
+  "layout_type": "chart_and_text",
+  "content_zones": {
+    "left": "Chart showing burnout percentages",
+    "right": "Text with statistics and explanations"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight numerical values"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "blue",
+    "accent": "light blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "18"
+    }
+  },
+  "chart": {
+    "type": "donut",
+    "title": "Burnout Levels",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [
+      {
+        "label": "2020 Men",
+        "value": "42%"
+      },
+      {
+        "label": "2020 Women",
+        "value": "35%"
+      },
+      {
+        "label": "2021 Men",
+        "value": "32%"
+      },
+      {
+        "label": "2021 Women",
+        "value": "28%"
+      }
+    ],
+    "annotations": [],
+    "source": "2021 Women in the Workplace research, McKinsey & Company and LeanIn.Org"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No pyramid infographic present or additional tables detected."
+  }
+}

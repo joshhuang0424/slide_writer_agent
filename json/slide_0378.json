@@ -1,0 +1,141 @@
+{
+  "slide_id": "1",
+  "section": "Process Flow",
+  "purpose": "Illustrate the cross border remittance flow for a bank's wallet process.",
+  "narrative_role": "Explanation",
+  "title": "Bank’s wallet process flow design | Cross border remittance flow (outbound)",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Visual process mapping",
+  "data_points": [],
+  "cta": null,
+  "layout": "horizontal",
+  "layout_type": "process_flow",
+  "content_zones": {
+    "header": "Bank’s wallet process flow design | Cross border remittance flow (outbound)",
+    "footer": "© 2019 Mastercard. Proprietary and Confidential."
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Mobile App",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "USSD",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Wallet",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "ATMs",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Physical locations",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Credit card",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Debit card",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Bank account",
+      "position": "left"
+    },
+    {
+      "type": "icon",
+      "label": "Vendor’s remittance payment rails",
+      "position": "center"
+    },
+    {
+      "type": "icon",
+      "label": "Receiver PSP",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Wallet",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "ATMs",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Physical locations",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Credit card",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Debit card",
+      "position": "right"
+    },
+    {
+      "type": "icon",
+      "label": "Bank account",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "none"
+  },
+  "design_language": "corporate",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "dark green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "No bullets or tables detected. The slide is primarily a process flow diagram with icons and labels."
+  }
+}

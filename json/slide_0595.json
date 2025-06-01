@@ -1,0 +1,67 @@
+{
+  "slide_id": "24",
+  "section": "Validation and finalization of proposition",
+  "purpose": "To explain the validation process of a new loyalty program.",
+  "narrative_role": "Explanation",
+  "title": "Validation and finalization of proposition",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Assumption and benchmarking",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title and paragraph",
+  "layout_type": "Textual",
+  "content_zones": {
+    "header": "top-left",
+    "body": "center",
+    "footer": "bottom-left"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Use of color to highlight key terms"
+  },
+  "design_language": "Professional and clean",
+  "color_scheme": {
+    "primary": "#000000",
+    "accent": "#FF6600",
+    "background": "#F5F5F5"
+  },
+  "font": {
+    "title": {
+      "font_family": "Unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "The slide does not provide information on font family or any other specific design details.",
+    "company_logo": "Mastercard logo is present at the bottom right",
+    "date": "September 7th, 2021"
+  }
+}

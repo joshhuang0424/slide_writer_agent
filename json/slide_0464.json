@@ -1,0 +1,81 @@
+{
+  "slide_id": "13",
+  "section": "Problem Statement",
+  "purpose": "To present the challenges Maps is addressing to improve member experience",
+  "narrative_role": "Explanatory",
+  "title": "What Maps is truly trying to solve for by delivering an exceptional member experience",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Illustrative",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "two-column",
+  "content_zones": {
+    "left": "Infographic describing member experience cycle",
+    "right": "Text block with a quote about organizational goals"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italicized and bold text for emphasis"
+  },
+  "design_language": "Professional and informative",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Understanding of members’ behaviors, needs, wants, preferences, core attributes, and their economic value"
+      },
+      {
+        "id": "L1",
+        "label": "Maximize the value of member relationships, and of the business"
+      },
+      {
+        "id": "L2",
+        "label": "Strategies and actions reflecting member individuality"
+      },
+      {
+        "id": "L3",
+        "label": "Delivered consistently and effectively across all contact points"
+      }
+    ],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No numerical data or tables present to analyze"
+  }
+}

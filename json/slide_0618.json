@@ -1,0 +1,69 @@
+{
+  "slide_id": "1",
+  "section": "Lifecycle Management",
+  "purpose": "Introduce the usage stage",
+  "narrative_role": "heading",
+  "title": "Usage",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "emphasis",
+  "data_points": [],
+  "cta": null,
+  "layout": "two_column",
+  "layout_type": "text_visual_split",
+  "content_zones": {
+    "left": "text",
+    "right": "visual"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "Mastercard",
+      "position": "bottom-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold"
+  },
+  "design_language": "modern",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "orange",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "The slide primarily consists of a title and abstract visual elements without detailed content or data."
+  }
+}

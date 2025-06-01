@@ -1,0 +1,137 @@
+{
+  "slide_id": "8",
+  "section": "數據服務",
+  "purpose": "描述數據服務資料整合流程",
+  "narrative_role": "展示",
+  "title": "數據服務資料整合流程",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "流程圖結合表格",
+  "data_points": [],
+  "cta": null,
+  "layout": "圖文結合",
+  "layout_type": "流程圖和表格",
+  "content_zones": {
+    "top": "流程圖",
+    "bottom": "表格"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "1",
+      "position": "top-left"
+    },
+    {
+      "type": "circle",
+      "label": "2",
+      "position": "bottom-left"
+    },
+    {
+      "type": "circle",
+      "label": "3",
+      "position": "top-right"
+    },
+    {
+      "type": "circle",
+      "label": "4",
+      "position": "bottom-right"
+    },
+    {
+      "type": "arrow",
+      "label": "流程箭頭",
+      "position": "center"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "商務風格",
+  "color_scheme": {
+    "primary": "#007bff",
+    "accent": "#ff7f0e",
+    "background": "#ffffff"
+  },
+  "font": {
+    "title": {
+      "font_family": "Microsoft YaHei",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Microsoft YaHei",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {},
+  "tables": [
+    {
+      "title": "",
+      "description": "描述不同流程步驟及其負責人與內容",
+      "headers": [
+        "流程",
+        "負責人",
+        "目的",
+        "內容(TBD)"
+      ],
+      "rows": [
+        {
+          "row_label": "",
+          "cells": [
+            "1",
+            "桃子",
+            "追蹤關鍵辦卡指標",
+            "每日更新:進件日期/進件通路/核卡狀態/婉拒原因\n定期更新:動卡狀態"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "2",
+            "椰子/奇異果",
+            "透過會員往來數據優化溝通內容",
+            "會員APP啟動計; 新會員/椰子會員(黑鑰/金星)\n定期更新:行銷計記(有無客拓/TM接觸等)"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "3",
+            "椰子",
+            "整合資料以產出商業分析報表",
+            "每日更新:信用卡進件資料(桃子辦卡數據及椰子分整合)\n定期更新:客群輪廓/行銷溝通/消費資料"
+          ]
+        },
+        {
+          "row_label": "",
+          "cells": [
+            "4",
+            "椰子/奇異果",
+            "即時分析轉卡狀況並優化溝通策略",
+            "商業分析報告:奇異果分析進件及客群並提供椰子檢視報告\n數據儀表板:透過Python建置自動化分析平台產出數據報表\n>短期:透過excel檔查看最新資料及呈現圖表(可分享檔案, 分析彈性大)\n>中長期:提供視覺化圖表深入分析(需有權限,分析整理後之數據)"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "此頁面沒有典型的圖表或清晰的數據點可供填入"
+  }
+}

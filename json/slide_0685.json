@@ -1,0 +1,90 @@
+{
+  "slide_id": "6",
+  "section": "Market Analysis",
+  "purpose": "To illustrate the decline in M&A activity in 2016 relative to long-term averages.",
+  "narrative_role": "Illustrative",
+  "title": "Adjusting for increase in market capitalization, M&A activity declined in 2016 below long term average",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Historical comparison",
+  "data_points": [
+    1996,
+    2016
+  ],
+  "cta": null,
+  "layout": "title and chart",
+  "layout_type": "single chart",
+  "content_zones": {
+    "title": "top",
+    "chart": "center",
+    "annotations": "on chart"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Italic for sources"
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "teal",
+    "accent": "dark blue",
+    "background": "light gray"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "18px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "12px"
+    }
+  },
+  "chart": {
+    "type": "line",
+    "title": "Annualized global M&A volume as % of global market cap",
+    "x_axis_label": "Year",
+    "y_axis": [
+      "Percentage"
+    ],
+    "values": [
+      {
+        "year": 1996,
+        "corporate": 6,
+        "total": 7
+      },
+      {
+        "year": 2000,
+        "corporate": 11,
+        "total": 12
+      },
+      {
+        "year": 2016,
+        "corporate": 6.5,
+        "total": 7.2
+      }
+    ],
+    "annotations": [
+      "Previous M&A downturn much deeper, but short",
+      "PE boom main driver of increase in M&A in 2004-07",
+      "Corporate M&A as share of global market cap rose steeply in 2015"
+    ],
+    "source": "Datastream; Dealogic"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_notes": {
+    "_why_unknown": "No bullets or tables present; focus is on the chart and annotations."
+  }
+}

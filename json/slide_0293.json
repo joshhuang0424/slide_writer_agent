@@ -1,0 +1,126 @@
+{
+  "slide_id": "9",
+  "section": "Cloud Adoption Strategies",
+  "purpose": "To present various successful strategies for cloud adoption.",
+  "narrative_role": "informative",
+  "title": "There are multiple success modes for cloud adoption",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "categorization",
+  "data_points": [],
+  "cta": null,
+  "layout": "four-column",
+  "layout_type": "grid",
+  "content_zones": {
+    "top": "title",
+    "middle": "four columns with icons and text",
+    "bottom": "company logo and page number"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "chess knight",
+      "position": "column A"
+    },
+    {
+      "type": "icon",
+      "label": "bar chart",
+      "position": "column B"
+    },
+    {
+      "type": "icon",
+      "label": "light bulb",
+      "position": "column C"
+    },
+    {
+      "type": "icon",
+      "label": "cloud",
+      "position": "column D"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold titles"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Four strategies for cloud adoption",
+      "headers": [
+        "Strategy",
+        "Description"
+      ],
+      "rows": [
+        {
+          "row_label": "A",
+          "cells": [
+            "Use-case or customer-journey enablement",
+            "Use cases or journeys aimed at increasing revenue, reducing risks, and improving customer experience (eg, web and mobile-based experiences)"
+          ]
+        },
+        {
+          "row_label": "B",
+          "cells": [
+            "Domain-by-domain adoption",
+            "Modernizing a business unit or domain (eg, payments—person-to-person transfers)"
+          ]
+        },
+        {
+          "row_label": "C",
+          "cells": [
+            "Large-scale migration",
+            "Cauterizing the core and migrating large portfolios of applications to the cloud"
+          ]
+        },
+        {
+          "row_label": "D",
+          "cells": [
+            "Greenfield development",
+            "Building a challenger brand or standing up a parallel stack for specific products (eg, digital attacker)"
+          ]
+        }
+      ],
+      "position": "middle",
+      "render_style": "standard grid"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Font family not provided in the image."
+  }
+}

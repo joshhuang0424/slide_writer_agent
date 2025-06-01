@@ -1,0 +1,71 @@
+{
+  "slide_id": "03",
+  "section": "Reward Economics",
+  "purpose": "To present the creation of a loyalty proposition and perform a comparative analysis.",
+  "narrative_role": "Analytical",
+  "title": "Creation of loyalty proposition and comparative analysis",
+  "bullets": [],
+  "supporting_facts": [
+    "Decrease in margin would be offset by increase in spend per customer and number of customer"
+  ],
+  "reasoning_strategy": "Comparative analysis between three options",
+  "data_points": [
+    "10% expected decrease in profits for Option A",
+    "15% expected increase in profits for Option B",
+    "10% expected increase in profits for Option C"
+  ],
+  "cta": null,
+  "layout": "Three comparative bar charts with narrative explanations",
+  "layout_type": "Comparative Analysis",
+  "content_zones": {
+    "header": "top",
+    "charts": "center",
+    "conclusion": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Highlight key figures in orange"
+  },
+  "design_language": "Professional with emphasis on key data",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "Bar chart",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The exact font sizes and weights are not specified in the image. Pyramid levels are not present, only comparative analysis charts."
+  }
+}

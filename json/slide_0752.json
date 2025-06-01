@@ -1,0 +1,151 @@
+{
+  "slide_id": "1",
+  "section": "Semiconductor Demand Forecast",
+  "purpose": "To present the forecasted growth in semiconductor demand excluding memory products for 2021.",
+  "narrative_role": "Informative",
+  "title": "We expect semiconductor demand (excluding memory) to accelerate further in 2021 due to major increases in smartphone and auto demand",
+  "bullets": [
+    {
+      "highlight": "8%",
+      "text": "growth for 2021 year-on-year, excluding memory products"
+    },
+    {
+      "highlight": "unknown",
+      "text": "Midpoint of current forecasts by semiconductor market analysts"
+    },
+    {
+      "highlight": "unknown",
+      "text": "Up from 7% growth expected in May 2020"
+    },
+    {
+      "highlight": "unknown",
+      "text": "In line with prior historical growth rates"
+    }
+  ],
+  "supporting_facts": [],
+  "reasoning_strategy": "Forecast based on analysis and historical data.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title, Table, Bullets",
+  "layout_type": "Data-Driven",
+  "content_zones": {
+    "title": "top",
+    "table": "center",
+    "bullets": "right"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Percentage growth highlighted"
+  },
+  "design_language": "Modern, Professional",
+  "color_scheme": {
+    "primary": "Green",
+    "accent": "Gray",
+    "background": "White"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "24px",
+      "weight": "Bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "16px"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Semiconductor revenues, excluding memory-product category, by end market ($ billions)",
+      "description": "Forecasted semiconductor revenue growth by market segment from 2018 to 2021.",
+      "headers": [
+        "2018",
+        "2019",
+        "2020",
+        "2021 (preliminary)"
+      ],
+      "rows": [
+        {
+          "row_label": "Smartphones",
+          "cells": [
+            "63",
+            "65",
+            "71",
+            "82"
+          ]
+        },
+        {
+          "row_label": "PCs",
+          "cells": [
+            "58",
+            "57",
+            "64",
+            "63"
+          ]
+        },
+        {
+          "row_label": "ICT Infrastructure",
+          "cells": [
+            "73",
+            "71",
+            "77",
+            "83"
+          ]
+        },
+        {
+          "row_label": "Consumer electronics",
+          "cells": [
+            "35",
+            "33",
+            "36",
+            "39"
+          ]
+        },
+        {
+          "row_label": "Industrial goods",
+          "cells": [
+            "46",
+            "44",
+            "43",
+            "45"
+          ]
+        },
+        {
+          "row_label": "Automotive",
+          "cells": [
+            "40",
+            "38",
+            "35",
+            "41"
+          ]
+        }
+      ],
+      "position": "center",
+      "render_style": "3D bars"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "Some bullet highlights are not clearly specified in the image."
+  }
+}

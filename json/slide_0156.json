@@ -1,0 +1,75 @@
+{
+  "slide_id": "1",
+  "section": "Cover Page",
+  "purpose": "Title and introduction",
+  "narrative_role": "introduction",
+  "title": "Women in the Workplace",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "two-column",
+  "layout_type": "cover",
+  "content_zones": {
+    "left": "text",
+    "right": "image"
+  },
+  "visual_elements": [
+    {
+      "type": "logo",
+      "label": "McKinsey & Company",
+      "position": "top-left"
+    },
+    {
+      "type": "image",
+      "label": "Woman and child",
+      "position": "right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "bold for title"
+  },
+  "design_language": "professional",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The cover slide does not contain much detailed content or data points."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "slide_id": "13",
+  "section": "REWARD ECONOMICS",
+  "purpose": "Explain how the giveback rate is calculated for cardholders.",
+  "narrative_role": "Informative",
+  "title": "Giveback rate represents the average value delivered to the cardholder",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Equation explanation using earn and burn rates.",
+  "data_points": [],
+  "cta": null,
+  "layout": "header and content with equation and table",
+  "layout_type": "equation and table",
+  "content_zones": {
+    "header": "top",
+    "equation": "center",
+    "table": "bottom",
+    "infographic": "bottom-right"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "heart hand",
+      "position": "center-left"
+    },
+    {
+      "type": "icon",
+      "label": "heart hand",
+      "position": "bottom-right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "italics for secondary text"
+  },
+  "design_language": "professional and clean with emphasis on key terms",
+  "color_scheme": {
+    "primary": "orange",
+    "accent": "green",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "",
+      "description": "Earn rate and burn rate comparison",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        {
+          "row_label": "Earn rate",
+          "cells": [
+            "2 points per dollar"
+          ]
+        },
+        {
+          "row_label": "Burn rate",
+          "cells": [
+            "80 points per dollar"
+          ]
+        }
+      ],
+      "position": "bottom",
+      "render_style": "standard"
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_why_unknown": {
+    "font_family": "Font family and size are not specified within the image."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slide_id": "16",
+  "section": "Assumptions",
+  "purpose": "To outline assumptions for 2030 ride-sharing adoption based on population density",
+  "narrative_role": "Informative",
+  "title": "Assumptions for 2030 ride-sharing adoption by population density for in-scope geographies",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "",
+  "data_points": [],
+  "cta": null,
+  "layout": "split",
+  "layout_type": "text and table",
+  "content_zones": {
+    "left": "Title and source",
+    "right": "Table"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": ""
+  },
+  "design_language": "Professional",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "green"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [
+    {
+      "title": "Ride-sharing adoption rate by 2030 (%)",
+      "description": "Adoption rates by geographic classification",
+      "headers": [
+        "Description",
+        "Low end of band (%)",
+        "High end of band (%)"
+      ],
+      "rows": [
+        {
+          "row_label": "Major city",
+          "cells": [
+            "Within limits of a city with population of >1M (2M for China)",
+            "40",
+            "80"
+          ]
+        },
+        {
+          "row_label": "MSA",
+          "cells": [
+            "Part of a metropolitan statistical area, but outside the exact city limits",
+            "20",
+            "40"
+          ]
+        },
+        {
+          "row_label": "Remaining urban",
+          "cells": [
+            "In urban area not associated with a major city",
+            "5",
+            "10"
+          ]
+        },
+        {
+          "row_label": "Rural",
+          "cells": [
+            "A non-urban area",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "position": "right",
+      "render_style": ""
+    }
+  ],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_information": {
+    "_why_unknown": "Font family not specified in image."
+  }
+}

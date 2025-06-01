@@ -1,0 +1,78 @@
+{
+  "slide_id": "39",
+  "section": "BCG's Approach",
+  "purpose": "Introduce BCG's approach",
+  "narrative_role": "Title Slide",
+  "title": "BCG's approach",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "unknown",
+  "data_points": [],
+  "cta": null,
+  "layout": "title with decorative elements",
+  "layout_type": "title_slide",
+  "content_zones": {
+    "title": {
+      "position": "bottom-left",
+      "size": "large"
+    },
+    "decorative_square": {
+      "position": "top-left",
+      "size": "small"
+    }
+  },
+  "visual_elements": [
+    {
+      "type": "square",
+      "label": "",
+      "position": "top-left"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "unknown"
+  },
+  "design_language": "minimalist",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "white",
+    "background": "green"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": [
+      "reasoning_strategy: No detailed content to determine the strategy.",
+      "font_family: Font type not specified or discernible from image."
+    ]
+  }
+}

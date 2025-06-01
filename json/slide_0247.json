@@ -1,0 +1,73 @@
+{
+  "slide_id": "78",
+  "section": "Introduction",
+  "purpose": "Define TSR and explain its significance.",
+  "narrative_role": "Informative",
+  "title": "What is TSR (股東總回報)",
+  "bullets": [],
+  "supporting_facts": [
+    "TSR 是衡量不同公司股票和股票隨時間推移的表現的指標。",
+    "它結合了股價升值和支付的股息，以顯示股東的總回報率，並以年化百分比表示。"
+  ],
+  "reasoning_strategy": "Explanation through definition and components.",
+  "data_points": [],
+  "cta": null,
+  "layout": "Title with description",
+  "layout_type": "text",
+  "content_zones": {
+    "title_zone": "top right",
+    "description_zone": "bottom left"
+  },
+  "visual_elements": [
+    {
+      "type": "circle",
+      "label": "What is TSR (股東總回報)",
+      "position": "top right"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Emphasis on TSR definition"
+  },
+  "design_language": "Modern with geometric shapes",
+  "color_scheme": {
+    "primary": "green",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Sans-serif",
+      "size": "large",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Sans-serif",
+      "size": "medium"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [],
+    "position": "left"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullets or tables present; focus is on text explanation."
+  }
+}

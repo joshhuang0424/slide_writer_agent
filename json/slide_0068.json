@@ -1,0 +1,140 @@
+{
+  "slide_id": "18",
+  "section": "Automation Benefits",
+  "purpose": "To illustrate the cost savings and efficiency improvements from different stages of truck automation.",
+  "narrative_role": "Informative",
+  "title": "Driven by TCO savings, automation can unlock significant value",
+  "bullets": [],
+  "supporting_facts": [],
+  "reasoning_strategy": "Comparison of stages in truck automation to demonstrate potential cost savings.",
+  "data_points": [
+    "100%",
+    "1%",
+    "10%",
+    "9%",
+    ">25%",
+    "<55%"
+  ],
+  "cta": null,
+  "layout": "multi-column with infographic and bar",
+  "layout_type": "comparison",
+  "content_zones": {
+    "top": "Title",
+    "middle": "Comparative infographic",
+    "bottom": "Bar chart"
+  },
+  "visual_elements": [
+    {
+      "type": "icon",
+      "label": "Highway sign",
+      "position": "top left"
+    },
+    {
+      "type": "icon",
+      "label": "Truck illustration",
+      "position": "middle"
+    }
+  ],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "Bold for stages"
+  },
+  "design_language": "Corporate",
+  "color_scheme": {
+    "primary": "black",
+    "accent": "blue",
+    "background": "white"
+  },
+  "font": {
+    "title": {
+      "font_family": "Arial",
+      "size": "24px",
+      "weight": "bold"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size": "14px"
+    }
+  },
+  "chart": {
+    "type": "bar",
+    "title": "Total-cost-of-ownership (TCO)",
+    "x_axis_label": "Stages",
+    "y_axis": [
+      "Cost percentage"
+    ],
+    "values": [
+      {
+        "Today": "100%"
+      },
+      {
+        "Stage 1": "1%"
+      },
+      {
+        "Stage 2": "10%"
+      },
+      {
+        "Stage 3": "9%"
+      },
+      {
+        "Stage 4": ">25%"
+      },
+      {
+        "Total TCO": "<55%"
+      }
+    ],
+    "annotations": [],
+    "source": "McKinsey Quarterly - 'Route 2030 – the fast track to the future of the commercial vehicle industry,' September 2018"
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": [
+      {
+        "id": "L0",
+        "label": "Constrained platooning of trucks"
+      },
+      {
+        "id": "L1",
+        "label": "Constrained autonomy"
+      },
+      {
+        "id": "L2",
+        "label": "Full autonomy"
+      }
+    ],
+    "position": "middle"
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "_additional_info": {
+    "_why_unknown": "No bullets provided; the slide primarily uses visual comparison and data points.",
+    "bullet_grid": "3x2 grid for infographic comparison",
+    "infographic_elements": [
+      {
+        "type": "stage",
+        "label": "Stage 1: Driver in each truck",
+        "position": "top left"
+      },
+      {
+        "type": "stage",
+        "label": "Stage 2: Driver in leading truck",
+        "position": "top center"
+      },
+      {
+        "type": "stage",
+        "label": "Stage 3: Driver for pickup and drop-off",
+        "position": "top right"
+      },
+      {
+        "type": "stage",
+        "label": "Stage 4: Driverless",
+        "position": "bottom right"
+      }
+    ]
+  }
+}

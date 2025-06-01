@@ -1,0 +1,70 @@
+{
+  "slide_id": "18",
+  "section": "unknown",
+  "purpose": "Highlight the impact of addressing barriers on the advancement of Black employees",
+  "narrative_role": "emphasis",
+  "title": "unknown",
+  "bullets": [
+    {
+      "highlight": "25 years",
+      "text": "Addressing the major barriers that hold back the advancement of Black employees could cut that duration to about 25 years."
+    }
+  ],
+  "supporting_facts": [
+    "Talent parity = 12% Black representation as calculated for the entire US private sector; if promotion, attrition, and external hiring rates were best-in-class at each level across the participating companies, it would take about 25 years for managerial jobs to reach 12% Black representation overall."
+  ],
+  "reasoning_strategy": "projection",
+  "data_points": [],
+  "cta": null,
+  "layout": "text-focused",
+  "layout_type": "full",
+  "content_zones": {
+    "main_text": "center",
+    "footnote": "bottom"
+  },
+  "visual_elements": [],
+  "text_rules": {
+    "max_bullets": 5,
+    "max_words_per_bullet": 15,
+    "emphasis_rule": "highlight key numbers"
+  },
+  "design_language": "modern, professional",
+  "color_scheme": {
+    "primary": "white",
+    "accent": "light blue",
+    "background": "dark blue"
+  },
+  "font": {
+    "title": {
+      "font_family": "unknown",
+      "size": "unknown",
+      "weight": "unknown"
+    },
+    "body": {
+      "font_family": "unknown",
+      "size": "unknown"
+    }
+  },
+  "chart": {
+    "type": "",
+    "title": "",
+    "x_axis_label": "",
+    "y_axis": [],
+    "values": [],
+    "annotations": [],
+    "source": ""
+  },
+  "infographic": {
+    "type": "pyramid",
+    "levels": []
+  },
+  "tables": [],
+  "slide_dimensions": {
+    "width": 1280,
+    "height": 720,
+    "unit": "px"
+  },
+  "新增欄位": {
+    "_why_unknown": "The slide does not contain a title, specific section, or clear font details. The focus is on a single message with supporting details at the bottom."
+  }
+}
